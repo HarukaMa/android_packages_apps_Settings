@@ -48,9 +48,9 @@
     <string name="selective_stay_awake_title" msgid="7887645333447645168">"Aðeins leikir, vídeó og fleira"</string>
     <string name="selective_stay_awake_summary" msgid="9055967322921984543">"Forrit sem koma í veg fyrir skjáslokknun kveikja á framskjá"</string>
     <string name="stay_awake_on_lockscreen_title" msgid="8088456642083051068">"Strjúka upp til að halda áfram"</string>
-    <string name="stay_awake_on_lockscreen_summary" msgid="2299351813382522952">"Leggðu símann saman og strjúktu upp á framskjánum til að halda áfram að nota forritið eða bíddu í nokkrar sekúndur þar til skjárinn læsist"</string>
+    <string name="stay_awake_on_lockscreen_summary" msgid="8825321939913726566">"Leggðu símann saman og strjúktu upp á framskjánum til að halda áfram að nota forritið eða bíddu í nokkrar sekúndur þar til skjárinn læsist. Leikja- og vídeóforrit munu halda áfram sjálfkrafa."</string>
     <string name="sleep_on_fold_title" msgid="7626123024330501411">"Aldrei"</string>
-    <string name="sleep_on_fold_summary" msgid="7737992842459588846">"Framskjárinn læsist þegar þú brýtur tækið saman"</string>
+    <string name="sleep_on_fold_summary" msgid="4191753338303043456">"Framskjárinn læsist og slekkur á sér þegar þú brýtur tækið saman"</string>
     <string name="auto_rotate_settings_primary_switch_title" msgid="3440951924928594520">"Nota sjálfvirkan snúning"</string>
     <string name="smart_rotate_text_headline" msgid="5878008933992951904">"Andlitsgreining notar fremri myndavélina til að bæta nákvæmni sjálfvirks snúnings. Myndir eru aldrei vistaðar eða sendar til Google."</string>
     <string name="bluetooth" msgid="8898478620943459654">"Bluetooth"</string>
@@ -1179,8 +1179,8 @@
     <string name="display_white_balance_title" msgid="2624544323029364713">"Sýna hvítjöfnun"</string>
     <string name="display_white_balance_summary" msgid="7625456704950209050"></string>
     <string name="fold_lock_behavior_title" msgid="786228803694268449">"Halda áfram að nota forrit þegar tæki er brotið saman"</string>
-    <string name="disable_game_default_frame_rate_title" msgid="3712908601744143753">"Slökkva á hámarks rammatíðni fyrir leiki"</string>
-    <string name="disable_game_default_frame_rate_summary" msgid="4436762704707434225">"Slökkva á takmörkun á hámarks rammatíðni upp á <xliff:g id="FRAME_RATE">%1$d</xliff:g> Hz fyrir leiki."</string>
+    <string name="disable_game_default_frame_rate_title" msgid="3712908601744143753">"Slökkva á hámarki rammatíðni fyrir leiki"</string>
+    <string name="disable_game_default_frame_rate_summary" msgid="4436762704707434225">"Slökkva á takmörkun á hámarki rammatíðni upp á <xliff:g id="FRAME_RATE">%1$d</xliff:g> Hz fyrir leiki."</string>
     <string name="peak_refresh_rate_title" msgid="2056355754210341011">"Mýkri mynd"</string>
     <string name="peak_refresh_rate_summary" msgid="3212309985294885790">"Hækkar endurnýjunartíðni sjálfkrafa upp í <xliff:g id="ID_1">%1$d</xliff:g> Hz fyrir sumt efni. Eykur rafhlöðunotkun."</string>
     <string name="force_high_refresh_rate_toggle" msgid="3325789621928312050">"Þvinga fram mesta endurnýjunarhraða"</string>
@@ -1421,10 +1421,10 @@
     <string name="battery_level_title" msgid="1371765298786083448">"Staða rafhlöðu"</string>
     <string name="communal_settings_title" msgid="2845678473945902115">"Sameiginlegt"</string>
     <string name="communal_settings_summary" msgid="4923914136953940317">"Sameiginlegar stillingar"</string>
-    <string name="satellite_setting" msgid="706846910912477125">"Gervihnattarskilaboð"</string>
+    <string name="satellite_setting" msgid="4171265534842459910">"Gervihnattarskilaboð"</string>
     <string name="apn_settings" msgid="4295467389400441299">"Aðgangsstaðir"</string>
     <string name="apn_edit" msgid="2003683641840248741">"Breyta aðgangsstað"</string>
-    <string name="apn_add" msgid="9069613192201630934">"Bæta við aðgangsstað"</string>
+    <string name="apn_add" msgid="9069613192201630934">"Bæta aðgangsstað við"</string>
     <string name="apn_not_set" msgid="8246646433109750293">"Ekki stillt"</string>
     <string name="apn_not_set_for_mvno" msgid="1141490067313964640">"Ekki stillt"</string>
     <string name="apn_name" msgid="6677695784108157953">"Heiti"</string>
@@ -1996,9 +1996,9 @@
     <string name="general_category_title" msgid="6298579528716834157">"Almennt"</string>
     <string name="display_category_title" msgid="6638191682294461408">"Skjár"</string>
     <string name="accessibility_color_and_motion_title" msgid="2323301706545305874">"Litur og hreyfing"</string>
-    <string name="accessibility_color_contrast_title" msgid="5757724357142452378">"Birtuskil lita"</string>
+    <string name="accessibility_color_contrast_title" msgid="5757724357142452378">"Litaskil"</string>
     <string name="accessibility_color_contrast_intro" msgid="7795090401101214930">"Aukin birtuskil gera texta, hnappa og tákn enn greinilegri. Veldu þau birtuskil sem henta þér best."</string>
-    <string name="color_contrast_note" msgid="7592686603372566198">"Sum forrit styðja hugsanlega ekki allar stillingar fyrir birtustig lita og texta"</string>
+    <string name="color_contrast_note" msgid="7592686603372566198">"Sum forrit styðja hugsanlega ekki allar stillingar fyrir litaskil og birtustig texta"</string>
     <string name="accessibility_color_contrast_summary" msgid="7563237683500106632">"Stilltu hvernig litir og textar birtast á bakgrunnslit skjásins"</string>
     <string name="color_contrast_preview" msgid="6791430227535363883">"Forskoða"</string>
     <string name="color_contrast_preview_sender_name" msgid="8641943417589238147">"Helen, Adam"</string>
@@ -2336,9 +2336,9 @@
     <string name="capabilities_list_title" msgid="1225853611983394386">"<xliff:g id="SERVICE">%1$s</xliff:g> þarf að:"</string>
     <string name="touch_filtered_warning" msgid="4225815157460318241">"Stillingar geta ekki staðfest svarið þitt vegna þess að forrit er að fela heimildarbeiðni."</string>
     <string name="accessibility_service_warning" msgid="6779187188736432618">"<xliff:g id="SERVICE">%1$s</xliff:g> biður um fulla stjórn yfir þessu tæki. Þjónustan getur lesið af skjánum og gripið til aðgerða fyrir hönd notenda sem hafa ekki aðgang. Þess konar stjórnun er óviðeigandi fyrir flest forrit."</string>
-    <string name="accessibility_service_warning_description" msgid="6573203795976134751">"Full stjórnun er viðeigandi fyrir forrit sem hjálpa þér ef þú hefur ekki aðgang, en ekki fyrir flest forrit."</string>
+    <string name="accessibility_service_warning_description" msgid="6573203795976134751">"Full stjórn er viðeigandi fyrir forrit sem hjálpa þér ef þú hefur ekki aðgang, en ekki fyrir flest forrit."</string>
     <string name="accessibility_service_screen_control_title" msgid="324795030658109870">"Skoða og stjórna skjá"</string>
-    <string name="accessibility_service_screen_control_description" msgid="8431940515157990426">"Það getur lesið allt efni á skjánum og birt efni yfir öðrum forritum."</string>
+    <string name="accessibility_service_screen_control_description" msgid="8431940515157990426">"Getur lesið allt efni á skjánum og birt efni yfir öðrum forritum."</string>
     <string name="accessibility_service_action_perform_title" msgid="1449360056585337833">"Skoða og framkvæma aðgerðir"</string>
     <string name="accessibility_service_action_perform_description" msgid="7807832069800034738">"Það getur fylgst með samskiptum þínum við forrit eða skynjara vélbúnaðar og haft samskipti við forrit fyrir þína hönd."</string>
     <string name="accessibility_dialog_button_allow" msgid="8274918676473216697">"Leyfa"</string>
@@ -2582,7 +2582,7 @@
     <string name="process_stats_type_background" msgid="4094034441562453522">"Í bakgrunni"</string>
     <string name="process_stats_type_foreground" msgid="5043049335546793803">"Í forgrunni"</string>
     <string name="process_stats_type_cached" msgid="129788969589599563">"Í skyndiminni"</string>
-    <string name="process_stats_os_label" msgid="2096501347732184886">"Android stýrikerfið"</string>
+    <string name="process_stats_os_label" msgid="2096501347732184886">"Android-stýrikerfið"</string>
     <string name="process_stats_os_native" msgid="794547105037548539">"Sérforritað"</string>
     <string name="process_stats_os_kernel" msgid="5626269994512354996">"Kjarni"</string>
     <string name="process_stats_os_zram" msgid="3067278664868354143">"Z-vinnsluminni"</string>
@@ -3924,9 +3924,6 @@
     <string name="permit_manage_external_storage" msgid="6928847280689401761">"Leyfa aðgang til að stjórna öllum skrám"</string>
     <string name="allow_manage_external_storage_description" msgid="5707948153603253225">"Leyfa þessu forriti að lesa, breyta og eyða öllum skrám í þessu tæki eða tengdum geymsludrifum. Ef heimild er veitt fær forritið aðgang að skránum þínum án þess að þér sé tilkynnt sérstaklega um það."</string>
     <string name="filter_manage_external_storage" msgid="6751640571715343804">"Hefur aðgang að öllum skrám"</string>
-    <string name="voice_activation_apps_title" msgid="7130045161611529825">"Raddstýringarforrit"</string>
-    <string name="permit_voice_activation_apps" msgid="9152780172988949319">"Leyfa raddstýringu"</string>
-    <string name="allow_voice_activation_apps_description" msgid="6369745626995060656">"Raddvirkjun kveikir handfrjálst á samþykktum forritum með raddskipun. Innbyggð aðlögunarhæf skynjun tryggir að gögnin séu lokuð öðrum en þér.\n\n"<a href="">"Nánar um aðlögunarhæfa skynjun með vörn"</a></string>
     <string name="full_screen_intent_title" msgid="747270185715224130">"Tilkynningar á öllum skjánum"</string>
     <string name="permit_full_screen_intent" msgid="9035367640019960861">"Leyfa tilkynningar á öllum skjánum frá þessu forriti"</string>
     <string name="footer_description_full_screen_intent" msgid="7716518411349225528">"Leyfa forritinu að birta tilkynningar á öllum skjánum þegar tækið er læst. Forrit kunna að nota þennan eiginleika til að leggja áherslu á vekjara, móttekin símtöl og aðrar áríðandi tilkynningar."</string>
@@ -4201,7 +4198,7 @@
     <string name="right_edge" msgid="1505309103265829121">"Hægri brún"</string>
     <string name="back_sensitivity_dialog_message" msgid="6638367716784103306">"Meira næmi gæti stangast á við bendingar forrita við jaðar skjásins."</string>
     <string name="back_sensitivity_dialog_title" msgid="6153608904168908264">"Baknæmi"</string>
-    <string name="gesture_settings_activity_title" msgid="2025828425762595733">"Næmi bendingastjórnunar"</string>
+    <string name="gesture_settings_activity_title" msgid="1882463161833981820">"Bendingastjórnun"</string>
     <string name="button_navigation_settings_activity_title" msgid="7335636045504461813">"Hnappastjórnun"</string>
     <string name="keywords_gesture_navigation_settings" msgid="667561222717238931">"bendingastjórnun, næmi til baka, bending til baka"</string>
     <string name="keywords_button_navigation_settings" msgid="7888812253110553920">"leiðsögn, heimahnappur"</string>
@@ -4388,7 +4385,7 @@
     <string name="location_indicator_settings_title" msgid="6655916258720093451">"Staðsetningarvísir stöðustiku"</string>
     <string name="location_indicator_settings_description" msgid="2888022085372804021">"Birta fyrir allar staðsetningar, þ. á m. netkerfi og tengigetu"</string>
     <string name="enable_gnss_raw_meas_full_tracking" msgid="1206679951510243341">"Full GNSS-mæling"</string>
-    <string name="enable_gnss_raw_meas_full_tracking_summary" msgid="3841463141138247167">"Rekja öll GNSS söfn og tíðnir með engum vinnulotum"</string>
+    <string name="enable_gnss_raw_meas_full_tracking_summary" msgid="3841463141138247167">"Rekja öll GNSS-söfn og tíðnir með engum vinnulotum"</string>
     <string name="input_method_category" msgid="2252659253631639005">"Innfærsluaðferð"</string>
     <string name="stylus_handwriting" msgid="2154591374132794563">"Pennahandskrift"</string>
     <string name="stylus_handwriting_summary" msgid="6333425895172696950">"Þegar kveikt er á þessu móttekur núverandi innfærsluaðferð pennahreyfiviðburð ef ritill er í fókus."</string>
@@ -4534,7 +4531,7 @@
     <string name="mobile_data_active" msgid="8683694456401350210">"Kveikt á farsímagögnum"</string>
     <string name="mobile_data_off" msgid="2702029611959308269">"Slökkt á farsímagögnum"</string>
     <string name="subscription_available" msgid="2659722770210403365">"Í boði"</string>
-    <string name="mobile_network_list_add_more" msgid="5076722903436552813">"Bæta við SIM-korti"</string>
+    <string name="mobile_network_list_add_more" msgid="5076722903436552813">"Bæta SIM-korti við"</string>
     <string name="mobile_network_active_sim" msgid="6397581267971410039">"Virkt / SIM-kort"</string>
     <string name="mobile_network_inactive_sim" msgid="5829757490580409899">"Óvirkt / SIM-kort"</string>
     <string name="mobile_network_active_esim" msgid="3984452275968408382">"Virkt / eSIM"</string>
@@ -4580,8 +4577,10 @@
     <string name="summary_satellite_connection_guide" msgid="3496123195218418456">"Síminn mun tengjast gervihnetti sjálfkrafa. Vertu utandyra þar sem himininn sést vel til að ná sem bestri tengingu."</string>
     <string name="title_supported_service" msgid="4275535165812691571">"Eftir að síminn tengist gervihnetti"</string>
     <string name="summary_supported_service" msgid="4320535903444834786">"Þú getur sent hverjum sem er skilaboð, þ.m.t. neyðarþjónustu. Síminn mun tengjast farsímakerfi aftur þegar það er tiltækt."</string>
-    <string name="satellite_setting_summary_more_information" msgid="4008690241760925372">"Gervihnattarskilaboð gætu tekið lengri tíma og eru aðeins í boði á tilteknum svæðum. Veður og ákveðin mannvirki kunna að hafa áhrif á gervihnattartenginguna. Ekki er hægt að hringja um gervihnött.\n\nÞað gæti tekið smástund þar til breytingarnar á reikningnum þínum birtast í stillingunum. Hafðu samband við <xliff:g id="CARRIER_NAME">%1$s</xliff:g> fyrir frekari upplýsingar."</string>
+    <string name="satellite_setting_summary_more_information" msgid="7729454610548016356">"Gervihnattarskilaboð gætu tekið lengri tíma og eru aðeins í boði á tilteknum svæðum. Veður og ákveðin mannvirki kunna að hafa áhrif á gervihnattartenginguna. Gervihnattarsímtöl eru ekki í boði. Neyðarsímtöl gætu náð sambandi.\n\nÞað gæti tekið smátíma fyrir breytingar á reikningnum að sjást í Stillingum. Hafðu samband við símafyrirtækið til að fá frekari upplýsingar."</string>
     <string name="more_about_satellite_messaging" msgid="3385673133561348509">"Nánar um gervihnattarskilaboð"</string>
+    <string name="satellite_warning_dialog_title" msgid="1610117852475376931">"Get ekki kveikt á <xliff:g id="FUNCTION">%1$s</xliff:g>"</string>
+    <string name="satellite_warning_dialog_content" msgid="936419945275934955">"Til að kveikja á <xliff:g id="FUNCTION">%1$s</xliff:g> skaltu byrja á að slökkva á gervihnattartengingunni"</string>
     <string name="mobile_network_apn_title" msgid="5582995550142073054">"Heiti aðgangsstaða"</string>
     <string name="keywords_access_point_names" msgid="8174967126858505945">"Aðgangsstaður"</string>
     <string name="manual_mode_disallowed_summary" msgid="4243142645520152175">"Ekki í boði þegar tenging við <xliff:g id="CARRIER">%1$s</xliff:g> er til staðar"</string>

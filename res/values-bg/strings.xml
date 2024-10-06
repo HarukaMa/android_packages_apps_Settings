@@ -48,9 +48,9 @@
     <string name="selective_stay_awake_title" msgid="7887645333447645168">"Само игри, видеоклипове и др."</string>
     <string name="selective_stay_awake_summary" msgid="9055967322921984543">"Предният дисплей се включва за приложенията, които не позволяват на екрана да премине в неактивно състояние"</string>
     <string name="stay_awake_on_lockscreen_title" msgid="8088456642083051068">"Плъзнете пръст нагоре, за да продължите"</string>
-    <string name="stay_awake_on_lockscreen_summary" msgid="2299351813382522952">"Затворете телефона си и плъзнете пръст нагоре по предния дисплей, за да продължите да използвате приложението, или изчакайте няколко секунди, за да се заключи екранът"</string>
+    <string name="stay_awake_on_lockscreen_summary" msgid="8825321939913726566">"Затворете телефона си и плъзнете пръст нагоре по предния дисплей, за да продължите да използвате приложението, или изчакайте няколко секунди, за да се заключи екранът. Приложенията за игри и видеосъдържание ще продължат автоматично."</string>
     <string name="sleep_on_fold_title" msgid="7626123024330501411">"Никога"</string>
-    <string name="sleep_on_fold_summary" msgid="7737992842459588846">"Предният дисплей се заключва, когато сгънете устройството си"</string>
+    <string name="sleep_on_fold_summary" msgid="4191753338303043456">"Предният дисплей се изключва и заключва, когато сгънете устройството си"</string>
     <string name="auto_rotate_settings_primary_switch_title" msgid="3440951924928594520">"Използване на автоматичното завъртане"</string>
     <string name="smart_rotate_text_headline" msgid="5878008933992951904">"Функцията за лицево разпознаване използва предната камера, за да подобри точността на автоматичното завъртане. Изображенията никога не се съхраняват и не се изпращат до Google."</string>
     <string name="bluetooth" msgid="8898478620943459654">"Bluetooth"</string>
@@ -803,7 +803,7 @@
     <string name="bluetooth_paring_group_msg" msgid="2455293929036668131">"Потвърдете, за да сдвоите аудиоустройството си"</string>
     <string name="bluetooth_pairing_shares_phonebook" msgid="4329325125260724843">"Разрешаване на достъпа до контактите и историята на обажданията ви"</string>
     <string name="bluetooth_pairing_phonebook_toggle_text" msgid="2474015367387690034">"Разрешаване и на достъпа до контактите и историята на обажданията"</string>
-    <string name="bluetooth_pairing_phonebook_toggle_details" msgid="1367197978487212581">"Информацията ще се използва за съобщения чрез обаждания и др."</string>
+    <string name="bluetooth_pairing_phonebook_toggle_details" msgid="1367197978487212581">"Информацията ще се ползва за обявяване на обажданията и др."</string>
     <string name="bluetooth_error_title" msgid="2284738188253690278"></string>
     <string name="bluetooth_connecting_error_message" msgid="3941893154784152112">"Не можа да се установи връзка със: <xliff:g id="DEVICE_NAME">%1$s</xliff:g>."</string>
     <string name="bluetooth_preference_found_media_devices" msgid="830061195998352840">"Налични устройства"</string>
@@ -1421,7 +1421,7 @@
     <string name="battery_level_title" msgid="1371765298786083448">"Ниво на батерията"</string>
     <string name="communal_settings_title" msgid="2845678473945902115">"Общи"</string>
     <string name="communal_settings_summary" msgid="4923914136953940317">"Общи настройки"</string>
-    <string name="satellite_setting" msgid="706846910912477125">"Сателитни съобщения"</string>
+    <string name="satellite_setting" msgid="4171265534842459910">"Сателитни съобщения"</string>
     <string name="apn_settings" msgid="4295467389400441299">"APN"</string>
     <string name="apn_edit" msgid="2003683641840248741">"Редакт. на точка за достъп"</string>
     <string name="apn_add" msgid="9069613192201630934">"Добавяне на точка за достъп"</string>
@@ -1440,7 +1440,7 @@
     <string name="apn_mcc" msgid="4971414138516074809">"Mобилен код на държава"</string>
     <string name="apn_mnc" msgid="1926382406843447854">"Код на мобилна мрежа (MNC)"</string>
     <string name="apn_auth_type" msgid="4234397513494356932">"Тип удостоверяване"</string>
-    <string name="apn_type" msgid="1835573305077788773">"Тип на името на точката за достъп"</string>
+    <string name="apn_type" msgid="1835573305077788773">"APN тип"</string>
     <string name="apn_protocol" msgid="181529867160380010">"APN протокол"</string>
     <string name="apn_roaming_protocol" msgid="1645131094105362513">"APN протокол при роуминг"</string>
     <string name="carrier_enabled" msgid="664074151573150130">"Актив./деактив. на APN"</string>
@@ -1451,7 +1451,7 @@
     <string name="network_type_unspecified" msgid="7756349656194518725">"Непосочено"</string>
     <string name="mvno_type" msgid="4734654257494971247">"Тип MVNO"</string>
     <string name="mvno_match_data" msgid="5213193073684321156">"Стойност на MVNO"</string>
-    <string name="menu_delete" msgid="9199740901584348273">"Изтриване на името на точката за достъп (APN)"</string>
+    <string name="menu_delete" msgid="9199740901584348273">"Изтриване на APN"</string>
     <string name="menu_new" msgid="6571230342655509006">"Ново име на точка за достъп (APN)"</string>
     <string name="menu_save" msgid="6611465355127483100">"Запазване"</string>
     <string name="menu_cancel" msgid="1197826697950745335">"Отказ"</string>
@@ -2177,7 +2177,7 @@
     <string name="accessibility_display_inversion_preference_intro_text" msgid="1159663288481145318">"Функцията за инвертиране на цветовете превръща светлите цветове на екрана в тъмни, а тъмните – в светли."</string>
     <string name="accessibility_display_inversion_preference_subtitle" msgid="4494767676482389509">"&lt;b&gt;Имайте предвид следното&lt;/b&gt;:&lt;br/&gt; &lt;ol&gt; &lt;li&gt; Цветовете в мултимедийното съдържание и изображенията ще се променят.&lt;/li&gt; &lt;li&gt; Функцията за инвертиране на цветовете работи във всички приложения.&lt;/li&gt; &lt;li&gt; Тъмната тема може да се използва за показване на тъмен фон.&lt;/li&gt; &lt;/ol&gt;"</string>
     <string name="accessibility_action_label_panel_slice" msgid="1313725957071602932">"за вход в настройките"</string>
-    <string name="accessibility_autoclick_preference_title" msgid="2703143361605555752">"Автоматично кликване (време на задържане на курсора на мишката)"</string>
+    <string name="accessibility_autoclick_preference_title" msgid="2703143361605555752">"Авт. кликване (време на задържане на курсора)"</string>
     <string name="accessibility_autoclick_about_title" msgid="152923024405552594">"Авт. кликване (време на задържане)"</string>
     <string name="accessibility_autoclick_footer_learn_more_content_description" msgid="7056189627042350691">"Научете повече за автоматичното кликване (време на задържане на курсора на мишката)"</string>
     <string name="accessibility_autoclick_intro_text" msgid="8959680635470639347">"Имате възможност да зададете свързаната мишка да кликва автоматично върху елементите, когато курсорът спре да се движи за определен период от време"</string>
@@ -3244,7 +3244,7 @@
     <string name="spatial_audio_text" msgid="8201387855375146000">"Звукът от съвместимите източници става по-реалистичен"</string>
     <string name="spatial_summary_off" msgid="8272678804629774378">"Изкл."</string>
     <string name="spatial_summary_on_one" msgid="6239933399496282994">"Вкл./<xliff:g id="OUTPUT_DEVICE">%1$s</xliff:g>"</string>
-    <string name="spatial_summary_on_two" msgid="4526919818832483883">"Вкл./<xliff:g id="OUTPUT_DEVICE_0">%1$s</xliff:g> и <xliff:g id="OUTPUT_DEVICE_1">%2$s</xliff:g>"</string>
+    <string name="spatial_summary_on_two" msgid="4526919818832483883">"Вкл./<xliff:g id="OUTPUT_DEVICE_0">%1$s</xliff:g>, <xliff:g id="OUTPUT_DEVICE_1">%2$s</xliff:g>"</string>
     <string name="spatial_audio_footer_title" msgid="8775010547623606088">"Можете също да включите пространственото аудио за устройствата с Bluetooth."</string>
     <string name="spatial_audio_footer_learn_more_text" msgid="3826811708094366301">"Настройки за свързани устройства"</string>
     <string name="zen_mode_settings_schedules_summary" msgid="2047688589286811617">"{count,plural, =0{Нито един}=1{Зададен е 1 график}other{Зададени са # графика}}"</string>
@@ -3924,9 +3924,6 @@
     <string name="permit_manage_external_storage" msgid="6928847280689401761">"Разрешаване на достъп за управл. на всички файлове"</string>
     <string name="allow_manage_external_storage_description" msgid="5707948153603253225">"Разрешете на това приложение да чете, променя и изтрива всички файлове на устройството или обемите на свързаните хранилища. Ако то получи разрешението, може да осъществява достъп до файловете без изричното ви знание."</string>
     <string name="filter_manage_external_storage" msgid="6751640571715343804">"Може да осъществява достъп до всички файлове"</string>
-    <string name="voice_activation_apps_title" msgid="7130045161611529825">"Приложения с гласово активиране"</string>
-    <string name="permit_voice_activation_apps" msgid="9152780172988949319">"Разрешаване на гласовото активиране"</string>
-    <string name="allow_voice_activation_apps_description" msgid="6369745626995060656">"Функцията за гласово активиране дава възможност да включвате одобрените приложения чрез гласова команда, без да използвате ръцете си. Вградената функция за адаптивно установяване гарантира, че данните ви няма да бъдат споделени с никого.\n\n"<a href="">"Още информация относно функцията за защитено адаптивно установяване"</a></string>
     <string name="full_screen_intent_title" msgid="747270185715224130">"Известия на цял екран"</string>
     <string name="permit_full_screen_intent" msgid="9035367640019960861">"Разрешаване на известията на цял екран от това приложение"</string>
     <string name="footer_description_full_screen_intent" msgid="7716518411349225528">"Разрешаване на това приложение да показва известия, които заемат целия екран, когато устройството е заключено. Приложенията могат да ги използват, за да открояват будилници, входящи обаждания или други спешни известия."</string>
@@ -4201,7 +4198,7 @@
     <string name="right_edge" msgid="1505309103265829121">"Десен край"</string>
     <string name="back_sensitivity_dialog_message" msgid="6638367716784103306">"По-високата чувствителност може да предизвика конфликт с жестове за приложение, изпълнявани по продължението на краищата на екрана."</string>
     <string name="back_sensitivity_dialog_title" msgid="6153608904168908264">"Чувствителност за жеста за връщане назад"</string>
-    <string name="gesture_settings_activity_title" msgid="2025828425762595733">"Чувствителност на навигирането с жестове"</string>
+    <string name="gesture_settings_activity_title" msgid="1882463161833981820">"Навигиране с жестове"</string>
     <string name="button_navigation_settings_activity_title" msgid="7335636045504461813">"Навигиране с бутони"</string>
     <string name="keywords_gesture_navigation_settings" msgid="667561222717238931">"навигиране с жестове, чувствителност за жеста за връщане назад, жест за връщане назад"</string>
     <string name="keywords_button_navigation_settings" msgid="7888812253110553920">"навигиране, бутон „Начало“"</string>
@@ -4580,8 +4577,10 @@
     <string name="summary_satellite_connection_guide" msgid="3496123195218418456">"Телефонът ви ще се свърже автоматично със сателит. За оптимална връзка трябва да сте на място с ясен изглед към небето."</string>
     <string name="title_supported_service" msgid="4275535165812691571">"След като телефонът ви се свърже със сателит"</string>
     <string name="summary_supported_service" msgid="4320535903444834786">"Можете да изпращате текстови съобщения на когото пожелаете, включително на службите за спешни случаи. Телефонът ви ще се свърже отново с мобилна мрежа, когато е възможно."</string>
-    <string name="satellite_setting_summary_more_information" msgid="4008690241760925372">"Доставянето на сателитни съобщения може да отнеме по-дълго време. Услугата се предлага само в някои райони и сателитната връзка може да бъде повлияна от времето и определени структури. Не се поддържат обаждания чрез сателит.\n\nМоже да измине известно време, докато промените в профила ви се покажат в настройките. За подробности се обърнете към <xliff:g id="CARRIER_NAME">%1$s</xliff:g>."</string>
+    <string name="satellite_setting_summary_more_information" msgid="7729454610548016356">"Доставянето на сателитни съобщения може да отнеме по-дълго време. Услугата се предлага само в някои райони и сателитната връзка може да бъде повлияна от времето и определени структури. Не се поддържат обаждания чрез сателит, но е възможно спешните обаждания да бъдат извършени.\n\nМоже да измине известно време, докато промените в профила ви се покажат в настройките. За подробности се обърнете към оператора си."</string>
     <string name="more_about_satellite_messaging" msgid="3385673133561348509">"Още за сателитните съобщения"</string>
+    <string name="satellite_warning_dialog_title" msgid="1610117852475376931">"<xliff:g id="FUNCTION">%1$s</xliff:g> не може да се включи"</string>
+    <string name="satellite_warning_dialog_content" msgid="936419945275934955">"За да включите <xliff:g id="FUNCTION">%1$s</xliff:g>, първо прекратете сателитната връзка"</string>
     <string name="mobile_network_apn_title" msgid="5582995550142073054">"Имена на точки за достъп"</string>
     <string name="keywords_access_point_names" msgid="8174967126858505945">"име на точката за достъп"</string>
     <string name="manual_mode_disallowed_summary" msgid="4243142645520152175">"Не е налице, когато е установена връзка с(ъс) <xliff:g id="CARRIER">%1$s</xliff:g>"</string>
@@ -4838,7 +4837,7 @@
     <string name="downloaded_sims_category_title" msgid="487799905978489922">"Електронни SIM карти"</string>
     <string name="sim_category_active_sim" msgid="3077009911935592178">"Вкл."</string>
     <string name="sim_category_inactive_sim" msgid="7351553344148400450">"Изкл."</string>
-    <string name="sim_category_default_active_sim" msgid="1208194173387987231">" /основна за <xliff:g id="ID_1">%1$s</xliff:g>"</string>
+    <string name="sim_category_default_active_sim" msgid="1208194173387987231">" / основна за <xliff:g id="ID_1">%1$s</xliff:g>"</string>
     <string name="default_active_sim_calls" msgid="2390973682556353558">"обаждания"</string>
     <string name="default_active_sim_sms" msgid="8041498593025994921">"SMS"</string>
     <string name="default_active_sim_mobile_data" msgid="6798083892814045301">"мобилни данни"</string>
@@ -5028,7 +5027,7 @@
     <string name="find_broadcast_join_broadcast_error" msgid="5486980388774711346">"Присъединяването към предаването не е възможно"</string>
     <string name="bt_le_audio_scan_qr_code_scanner" msgid="7614569515419813053">"За да започнете да слушате, центрирайте QR кода по-долу"</string>
     <string name="bt_le_audio_qr_code_is_not_valid_format" msgid="7821837654128137901">"Невалиден формат на QR кода"</string>
-    <string name="convert_to_esim_title" msgid="71037864129009206">"Преминаване към електронна SIM карта"</string>
+    <string name="convert_to_esim_title" msgid="71037864129009206">"Конвертиране към електронна SIM карта"</string>
     <string name="transfer_esim_to_another_device_title" msgid="5286117866086383192">"Прехвърляне на електронната SIM карта към друго устройство"</string>
     <string name="background_install_preference_summary" msgid="3065219346519340364">"{count,plural, =1{# приложение}other{# приложения}}"</string>
     <string name="background_install_title" msgid="607913515188276168">"Приложения на заден план"</string>

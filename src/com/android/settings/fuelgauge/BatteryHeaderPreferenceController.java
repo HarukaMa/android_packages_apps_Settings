@@ -59,9 +59,8 @@ public class BatteryHeaderPreferenceController extends BasePreferenceController
     public void displayPreference(PreferenceScreen screen) {
         super.displayPreference(screen);
         mBatteryUsageProgressBarPref = screen.findPreference(getPreferenceKey());
-        // Set up loading text first to prevent layout flaky before info loaded.
-        mBatteryUsageProgressBarPref.setBottomSummary(
-                mContext.getString(R.string.settings_license_activity_loading));
+        // Set up empty space text first to prevent layout flaky before info loaded.
+        mBatteryUsageProgressBarPref.setBottomSummary(" ");
 
         if (com.android.settings.Utils.isBatteryPresent(mContext)) {
             quickUpdateHeaderPreference();
@@ -88,6 +87,14 @@ public class BatteryHeaderPreferenceController extends BasePreferenceController
             return info.statusLabel;
         } else if (info.statusLabel != null && !info.discharging) {
             // Charging state
+            if (com.android.settingslib.fuelgauge.BatteryUtils.isChargingStringV2Enabled()) {
+                return info.isFastCharging
+                        ? mContext.getString(
+                                R.string.battery_state_and_duration,
+                                info.statusLabel,
+                                info.remainingLabel)
+                        : info.remainingLabel;
+            }
             return mContext.getString(
                     R.string.battery_state_and_duration, info.statusLabel, info.remainingLabel);
         } else if (mPowerManager.isPowerSaveMode()) {

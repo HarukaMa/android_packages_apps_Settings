@@ -273,6 +273,9 @@ public class FingerprintSettings extends SubSettings {
         private FingerprintRemoveSidecar mRemovalSidecar;
         private HashMap<Integer, String> mFingerprintsRenaming;
 
+        @Nullable
+        private UdfpsEnrollCalibrator mCalibrator;
+
         FingerprintAuthenticateSidecar.Listener mAuthenticateListener =
                 new FingerprintAuthenticateSidecar.Listener() {
                     @Override
@@ -773,6 +776,9 @@ public class FingerprintSettings extends SubSettings {
             if (mRemovalSidecar != null) {
                 mRemovalSidecar.setListener(mRemovalListener);
             }
+
+            mCalibrator = FeatureFactory.getFeatureFactory().getFingerprintFeatureProvider()
+                    .getUdfpsEnrollCalibrator(getActivity().getApplicationContext(), null, null);
         }
 
         private void updatePreferences() {
@@ -839,6 +845,9 @@ public class FingerprintSettings extends SubSettings {
                 }
                 intent.putExtra(Intent.EXTRA_USER_ID, mUserId);
                 intent.putExtra(ChooseLockSettingsHelper.EXTRA_KEY_CHALLENGE_TOKEN, mToken);
+                if (mCalibrator != null) {
+                    intent.putExtras(mCalibrator.getExtrasForNextIntent());
+                }
                 startActivityForResult(intent, ADD_FINGERPRINT_REQUEST);
             } else if (pref instanceof FingerprintPreference) {
                 FingerprintPreference fpref = (FingerprintPreference) pref;

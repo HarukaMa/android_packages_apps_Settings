@@ -48,9 +48,9 @@
     <string name="selective_stay_awake_title" msgid="7887645333447645168">"ጨዋታዎች፣ ቪድዮዎች እና ሌሎችም ብቻ"</string>
     <string name="selective_stay_awake_summary" msgid="9055967322921984543">"የፊት ማሳያ የእርስዎ ማያ ገጽ ሥራ ፈት እንዳይሆን ለሚያስቆሙት መተግበሪያዎችን ይበራል።"</string>
     <string name="stay_awake_on_lockscreen_title" msgid="8088456642083051068">"ለመቀጠል ወደ ላይ ያንሸራትቱ"</string>
-    <string name="stay_awake_on_lockscreen_summary" msgid="2299351813382522952">"መተግበሪያውን በመጠቀም ለመቀጠል ስልክዎን ይጠፉ እና የፊት ማያ ገጽ ላይ ያንሸራትቱ፣ ወይም ማያ ገጹ እንዲቆለፍ ጥቂት ሰከንዶች ይጠብቁ"</string>
+    <string name="stay_awake_on_lockscreen_summary" msgid="8825321939913726566">"መተግበሪያውን መጠቀም ለመቀጠል ስልክዎን ይጠፉ እና የፊት ማሳያ ላይ ወደ ላይ ያንሸራትቱ ወይም ማያ ገፁ እንዲቆለፍ ጥቂት ሰከንዶችን ይጠብቁ። የጨዋታዎች እና የቪድዮ መተግበሪያዎች በራስ-ሰር ይቀጥላሉ።"</string>
     <string name="sleep_on_fold_title" msgid="7626123024330501411">"በጭራሽ"</string>
-    <string name="sleep_on_fold_summary" msgid="7737992842459588846">"የፊት ማሳያ መሣሪያዎን ሲያጠፉ ይቆለፋል"</string>
+    <string name="sleep_on_fold_summary" msgid="4191753338303043456">"መሣሪያዎን ሲያጥፉት የፊት ማሳያ ይጠፋል እና ይቆልፋል"</string>
     <string name="auto_rotate_settings_primary_switch_title" msgid="3440951924928594520">"ራስ-አዙርን ይጠቀሙ"</string>
     <string name="smart_rotate_text_headline" msgid="5878008933992951904">"የራስ-አዙርን ትክክለኝነትን ለማሻሻል መልክ ማወቅ የፊት ለፊቱን ካሜራ ይጠቀማል። ምስሎች በጭራሽ አይከማቹም ወይም ወደ Google አይላኩም።"</string>
     <string name="bluetooth" msgid="8898478620943459654">"ብሉቱዝ"</string>
@@ -378,7 +378,7 @@
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_title_2" msgid="2580899232734177771">"እንዴት እንደሚሠራ"</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2" msgid="5909924864816776516">"በጣት አሻራ መክፈቻ እርስዎ መሆንዎን ለማረጋገጥ የጣት አሻራዎ ልዩ ሞዴል ይፈጥራል። በሚቀናበርበት ጊዜ ይህን የጣት አሻራ ሞዴል ለመፍጠር የጣት አሻራዎ ምስሎችን ከተለያዩ ቦታዎች ያነሳሉ።"</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2" msgid="3493356605815124807">"በጣት አሻራ መክፈቻ እነሱ መሆናቸውን ለማረጋገጥ የልጅዎን ጣት አሻራ ልዩ ሞዴል ይፈጥራል። በሚቀናበቀርበት ጊዜ ይህን የጣት አሻራ ሞዴል ለመፍጠር የጣት አሻራቸው ምስሎችን ከተለያዩ ቦታዎች ያነሳሉ።"</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6" msgid="5314031490467481499">"ለምርጥ ውጤቶች ለGoogle የተሰራ የተረጋገጠ የማያ ገፅ መከላከያን ይጠቀሙ። በሌሎች የማያ ገፅ መከላከያዎች አማካኝነት የጣት አሻራዎ ላይሰራ ይችላል።"</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6" msgid="5314031490467481499">"ለምርጥ ውጤቶች ለGoogle የተሰራ የተረጋገጠ የማያ ገጽ መከላከያን ይጠቀሙ። በሌሎች የማያ ገጽ መከላከያዎች አማካኝነት የጣት አሻራዎ ላይሰራ ይችላል።"</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_6" msgid="3563942520716110478">"ለምርጥ ውጤቶች ለGoogle የተሰራ የተረጋገጠ የማያ ገፅ መከላከያን ይጠቀሙ። በሌሎች የማያ ገፅ መከላከያዎች አማካኝነት የልጅዎ የጣት አሻራ ላይሰራ ይችላል።"</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more" msgid="5856010507790137793"></string>
     <string name="security_settings_activeunlock_preference_title" msgid="4257580421087062228">"በእጅ ሰዓት መክፈቻ"</string>
@@ -1421,7 +1421,7 @@
     <string name="battery_level_title" msgid="1371765298786083448">"የባትሪደረጃ፡"</string>
     <string name="communal_settings_title" msgid="2845678473945902115">"የጋራ"</string>
     <string name="communal_settings_summary" msgid="4923914136953940317">"የጋራ ቅንብሮች"</string>
-    <string name="satellite_setting" msgid="706846910912477125">"በሳተላይት መልዕክት መላላክ"</string>
+    <string name="satellite_setting" msgid="4171265534842459910">"በሳተላይት መልዕክት መላላክ"</string>
     <string name="apn_settings" msgid="4295467389400441299">"APNs"</string>
     <string name="apn_edit" msgid="2003683641840248741">"የመዳረሻ ነጥብ አርትዕ"</string>
     <string name="apn_add" msgid="9069613192201630934">"የመዳረሻ ነጥብ ያክሉ"</string>
@@ -1451,7 +1451,7 @@
     <string name="network_type_unspecified" msgid="7756349656194518725">"ያልተገለጸ"</string>
     <string name="mvno_type" msgid="4734654257494971247">"MVNO ዓይነት"</string>
     <string name="mvno_match_data" msgid="5213193073684321156">"MVNO ዋጋ"</string>
-    <string name="menu_delete" msgid="9199740901584348273">"APN ሰርዝ"</string>
+    <string name="menu_delete" msgid="9199740901584348273">"ኤፒኤን ሰርዝ"</string>
     <string name="menu_new" msgid="6571230342655509006">"አዲስ APN"</string>
     <string name="menu_save" msgid="6611465355127483100">"አስቀምጥ"</string>
     <string name="menu_cancel" msgid="1197826697950745335">"ይቅር"</string>
@@ -1539,7 +1539,7 @@
     <string name="network_scorer_change_active_dialog_text" msgid="7006057749370850706">"የአውታረ መረብ ግንኙነቶችዎን ለማቀናበር ከ<xliff:g id="CURRENT_APP">%2$s</xliff:g> ይልቅ <xliff:g id="NEW_APP">%1$s</xliff:g>ን ይጠቀሙ?"</string>
     <string name="network_scorer_change_active_no_previous_dialog_text" msgid="680685773455072321">"የአውታረ መረብ ግንኙነቶችዎን ለማቀናበር <xliff:g id="NEW_APP">%s</xliff:g>ን ይጠቀሙ?"</string>
     <string name="location_category_recent_location_requests" msgid="2205900488782832082">"የቅርብ ጊዜ የአካባቢ ጥያቄዎች"</string>
-    <string name="managed_profile_location_switch_title" msgid="1265007506385460066">"የስራ መገለጫ አካባቢ"</string>
+    <string name="managed_profile_location_switch_title" msgid="1265007506385460066">"የሥራ መገለጫ አካባቢ"</string>
     <string name="location_app_level_permissions" msgid="907206607664629759">"የመተግበሪያ አካባቢ ፈቃዶች"</string>
     <string name="location_app_permission_summary_location_off" msgid="2711822936853500335">"መገኛ አካባቢ ጠፍቷል"</string>
     <string name="location_app_permission_summary_location_on" msgid="7552095451731948984">"{count,plural, =1{ከ{total} መተግበሪያዎች # የአካባቢ መዳረሻ አለው}one{ከ{total} መተግበሪያዎች # የአካባቢ መዳረሻ አለው}other{ከ{total} መተግበሪያዎች # የአካባቢ መዳረሻ አላቸው}}"</string>
@@ -2131,8 +2131,8 @@
     <string name="accessibility_button_gesture_footer_learn_more_content_description" msgid="4144803517680297869">"ስለተደራሽነት አዝራር እና ምልክት የበለጠ ይወቁ"</string>
     <string name="accessibility_button_intro" msgid="2601976470525277903">"የተደራሽነት አዝራርን መጠቀም። የእጅ ምልክቱ በባለ3-አዝራር ዳሰሳ አይገኝም።"</string>
     <string name="accessibility_button_summary" msgid="8510939012631455831">"የተደራሽነት ባህሪያትን በፍጥነት ይድረሱባቸው"</string>
-    <string name="accessibility_button_gesture_description" msgid="1141723096904904336">"&lt;b&gt;ለመጀመር&lt;/b&gt;&lt;br/&gt; {0፣ቁጥር፣ኢንቲጀር}። ወደ የተደራሽነት ቅንብሮች&lt;br/&gt; {1፣ቁጥር፣ኢንቲጀር} ይሂዱ። ባህሪን ይምረጡ እና አቋራጩን&lt;br/&gt; {2፣ቁጥር፣ኢንቲጀር} መታ ያድርጉ። ባህሪውን ለመድረስ አዝራርን ወይም ምልክትን ለመጠቀም ይፈልጉ እንደሆነ ይምረጡ&lt;br/&gt;"</string>
-    <string name="accessibility_button_description" msgid="7669538706120092399">"&lt;b&gt;ለመጀመር&lt;/b&gt;&lt;br/&gt; {0፣ቁጥር፣ኢንቲጀር}። ወደ የተደራሽነት ቅንብሮች&lt;br/&gt; {1፣ቁጥር፣ኢንቲጀር} ይሂዱ። ባህሪን ይምረጡ እና አቋራጩን&lt;br/&gt; {2፣ቁጥር፣ኢንቲጀር} መታ ያድርጉ። ባህሪውን ለመድረስ አዝራሩን ይምረጡ&lt;br/&gt;"</string>
+    <string name="accessibility_button_gesture_description" msgid="1141723096904904336">"&lt;b&gt;ለመጀመር&lt;/b&gt;&lt;br/&gt; {0,number,integer}። ወደ የተደራሽነት ቅንብሮች&lt;br/&gt; {1,number,integer} ይሂዱ። ባህሪን ይምረጡ እና አቋራጩን&lt;br/&gt; {2,number,integer} መታ ያድርጉ። ባህሪውን ለመድረስ አዝራርን ወይም ምልክትን ለመጠቀም ይፈልጉ እንደሆነ ይምረጡ&lt;br/&gt;"</string>
+    <string name="accessibility_button_description" msgid="7669538706120092399">"&lt;b&gt;ለመጀመር&lt;/b&gt;&lt;br/&gt; {0,number,integer}። ወደ የተደራሽነት ቅንብሮች&lt;br/&gt; {1,number,integer} ይሂዱ። ባህሪን ይምረጡ እና አቋራጩን&lt;br/&gt; {2,number,integer} መታ ያድርጉ። ባህሪውን ለመድረስ አዝራሩን ይምረጡ&lt;br/&gt;"</string>
     <string name="accessibility_button_or_gesture_title" msgid="3510075963401163529">"አዝራርን ወይም የእጅ ምልክትን ይጠቀሙ"</string>
     <string name="accessibility_button_location_title" msgid="7182107846092304942">"አካባቢ"</string>
     <string name="accessibility_button_size_title" msgid="5785110470538960881">"መጠን"</string>
@@ -3409,7 +3409,7 @@
     <string name="lockscreen_bypass_title" msgid="6519964196744088573">"የማያ ገፅ ቁልፍን ይዝለሉ"</string>
     <string name="lockscreen_bypass_summary" msgid="4578154430436224161">"ከከፈቱ በኋላ በቀጥታ መጨረሻ ላይ ሥራ ላይ ወደዋለው ማያ ገፅ ይሂዱ። ማሳወቂያዎች በማያ ገፅ ቁልፍ ላይ አይታዩም። እነርሱን ለማየት ከላይ ወደታች ያንሸራትቱ።"</string>
     <string name="keywords_lockscreen_bypass" msgid="41035425468915498">"የማያ ገፅ ቁልፍ፣ የማያ ገፅ ቁልፍ፣ ዝለል፣ እለፍ"</string>
-    <string name="locked_work_profile_notification_title" msgid="279367321791301499">"የስራ መገለጫ ሲቆለፍ"</string>
+    <string name="locked_work_profile_notification_title" msgid="279367321791301499">"የሥራ መገለጫ ሲቆለፍ"</string>
     <string name="unseen_notifs_lock_screen" msgid="6910701117021324612">"በማያ ገፅ ቁልፍ ላይ አዲስ ማሳወቂያዎችን ብቻ ያሳዩ"</string>
     <string name="unseen_notifs_lock_screen_summary" msgid="5996722793868021391">"ከዚህ ቀደም የታዩ ማሳወቂያዎችን ከማያ ገፅ ቁልፍ ያስወግዱ"</string>
     <string name="lock_screen_notifs_title" msgid="3412042692317304449">"በማያ ገፅ ቁልፍ ላይ ማሳወቂያዎች"</string>
@@ -3720,9 +3720,9 @@
     <string name="screen_pinning_title" msgid="6927227272780208966">"መተግበሪያን መሰካት"</string>
     <string name="app_pinning_intro" msgid="6409063008733004245">"መተግበሪያን መሰካት የአሁኑን መተግብሪያ እስኪነቅሉት ድረስ በዕይታ ውስጥ እንዲቆይ እንዲያደርጉት ያስችልዎታል። ይህ ባህሪ ለምሳሌ አንድ የታመነ ጓደኛ አንድ የተወሰነ ጨዋታን እንዲጫወት ያስችላል።"</string>
     <string name="screen_pinning_description" msgid="5822120806426139396">"አንድ መተግበሪያ ሲሰካ የተሰካው መተግበሪያ ሌሎች መተግበሪያዎችን ሊከፍት ይችላል እና በዚህም የግል ውሂብ ተደራሽ ሊሆን ይችላል። \n\nየመተግበሪያን መሰካት ለመጠቀም፦ 	\n{0፣ቁጥር፣ኢንቲጀር}። የመተግበሪያን መሰካት ያብሩ 	\n{1፣ቁጥር፣ኢንቲጀር}። አጠቃላይ እይታን ይክፈቱ 	\n{2፣ቁጥር፣ኢንቲጀር}። በማያ ገጹ አናት ላይ የመተግበሪያ አዶውን መታ ያድርጉ፣ ከዚያም ሰካን መታ ያድርጉ"</string>
-    <string name="screen_pinning_guest_user_description" msgid="2307270321127139579">"አንድ መተግበሪያ ሲሰካ የተሰካው መተግበሪያ ሌሎች መተግበሪያዎችን ሊከፍት ይችላል እና በዚህም የግል ውሂብ ተደራሽ ሊሆን ይችላል። \n\nመሣሪያዎን ደህንነቱ በተጠበቀ ሁኔታ ለሆነ ሰው ማጋራት ከፈለጉ በምትኩ የእንግዳ ተጠቃሚን ለመጠቀም ይሞክሩ። \n\nየመተግበሪያን መሰካት ለመጠቀም 	\n{0፣ቁጥር፣ኢንቲጀር}። የመተግበሪያን መሰካት ያብሩ 	\n{1፣ቁጥር፣ኢንቲጀር}። አጠቃላይ እይታን ይክፈቱ 	\n{2፣ቁጥር፣ኢንቲጀር}። በማያ ገጹ አናት ላይ የመተግበሪያ አዶውን መታ ያድርጉ፣ ከዚያም ሰካን መታ ያድርጉ"</string>
+    <string name="screen_pinning_guest_user_description" msgid="2307270321127139579">"አንድ መተግበሪያ ሲሰካ የተሰካው መተግበሪያ ሌሎች መተግበሪያዎችን ሊከፍት ይችላል እና በዚህም የግል ውሂብ ተደራሽ ሊሆን ይችላል። \n\nመሣሪያዎን ደህንነቱ በተጠበቀ ሁኔታ ለሆነ ሰው ማጋራት ከፈለጉ በምትኩ የእንግዳ ተጠቃሚን ለመጠቀም ይሞክሩ። \n\nየመተግበሪያን መሰካት ለመጠቀም 	\n{0,number,integer}። የመተግበሪያን መሰካት ያብሩ 	\n{1,number,integer}። አጠቃላይ እይታን ይክፈቱ 	\n{2,number,integer}። በማያ ገጹ አናት ላይ የመተግበሪያ አዶውን መታ ያድርጉ፣ ከዚያም ሰካን መታ ያድርጉ"</string>
     <string name="screen_pinning_dialog_message" msgid="8144925258679476654">"መተግበሪያ ሲሰካ፦ \n\n• የግል ውሂብ ተደራሽ ሊሆን ይችላል \n (እንደ እውቂያዎች እና የኢሜይል ይዘት ያለ) \n•	የተሰካ መተግበሪያ ሌሎች መተግበሪያዎችን ሊከፍት ይችላል \n\nመተግበሪያ መሰካትን ከሚያምኗቸው ሰዎች ጋር ብቻ ይጠቀሙ።"</string>
-    <string name="screen_pinning_unlock_pattern" msgid="1345877794180829153">"ከመንቀል በፊት የማስከፈቻ ስርዓተ-ጥለት ጠይቅ"</string>
+    <string name="screen_pinning_unlock_pattern" msgid="1345877794180829153">"ከመንቀል በፊት የማስከፈቻ ሥርዓተ-ጥለት ጠይቅ"</string>
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"ከመንቀል በፊት ፒን ጠይቅ"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"ከመንቀል በፊት የይለፍ ቃል ጠይቅ"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"ሲነቀል መሣሪያ ቆልፍ"</string>
@@ -3924,9 +3924,6 @@
     <string name="permit_manage_external_storage" msgid="6928847280689401761">"ሁሉንም ፋይሎች ለማስተዳደር መዳረሻ ፍቀድ"</string>
     <string name="allow_manage_external_storage_description" msgid="5707948153603253225">"ይህ መተግበሪያ በዚህ መሣሪያ ላይ ወይም በማናቸውም የተገናኙ የማከማቻ መጠኖች ላይ ሁሉንም ፋይሎች እንዲያነብ፣ እንዲያሻሽል እና እንዲሰርዝ ይፍቀዱ። ፈቃድ ከተሰጠ፣ መተግበሪያ ያለ የእርስዎ ግልፅ የሆነ ዕውቀት ፋይሎችን መድረስ ይችላል።"</string>
     <string name="filter_manage_external_storage" msgid="6751640571715343804">"ሁሉንም ፋይሎች መድረስ ይችላል"</string>
-    <string name="voice_activation_apps_title" msgid="7130045161611529825">"ድምፅ ገቢር ማድረጊያ መተግበሪያዎች"</string>
-    <string name="permit_voice_activation_apps" msgid="9152780172988949319">"ድምፅ ገቢር ማድረግን ፍቀድ"</string>
-    <string name="allow_voice_activation_apps_description" msgid="6369745626995060656">"የድምጽ ማግበር የጸደቁ መተግበሪያዎችን፣ ከእጅ ነጻ፣ የድምጽ ትዕዛዝን በመጠቀም ያበራል። አብሮገነብ የሚለምደዉ ዳሰሳ ውሂብ ለእርስዎ ብቻ ሚስጥራዊ ሆኖ እንደሚቆይ ያረጋግጣል።\n\n"<a href="">" ስለተጠበቀ የማስማማት ዳሳሽ ተጨማሪ"</a></string>
     <string name="full_screen_intent_title" msgid="747270185715224130">"የሙሉ ገጽ ዕይታ ማሳወቂያዎች"</string>
     <string name="permit_full_screen_intent" msgid="9035367640019960861">"ከዚህ መተግበሪያ የሙሉ ገጽ ዕይታ ማሳወቂያዎችን ይፍቀዱ"</string>
     <string name="footer_description_full_screen_intent" msgid="7716518411349225528">"ይህ መተግበሪያ መሣሪያው በሚቆለፍበት ጊዜ ሙሉ ገጽ ዕይታውን የሚይዙ ማሳወቂያዎችን እንዲያሳይ ይፍቀዱለት። መተግበሪያዎች ማንቂያዎችን፣ ገቢ ጥሪዎችን ወይም ሌሎች አስቸኳይ ማሳወቂያዎችን ለማድመቅ እነዚህን ሊጠቀሙ ይችላሉ።"</string>
@@ -4164,7 +4161,7 @@
     <string name="adb_authorization_timeout_title" msgid="6996844506783749754">"የ adb ፈቃድ ጊዜ ማብቂያን አሰናክል"</string>
     <string name="adb_authorization_timeout_summary" msgid="409931540424019778">"በነባሪው (7 ቀናት) ወይም በተጠቃሚ የተዋቀረ (ቢያንስ 1 ቀን) ጊዜ ውስጥ ዳግም ያልተገናኙ ሥርዓቶች የ adb ፈቃዶችን ራስ-ሰር መሻሪያን ያሰናክሉ።"</string>
     <string name="sensors_off_quick_settings_title" msgid="8472151847125917167">"ዳሳሾች ጠፍተዋል"</string>
-    <string name="managed_profile_settings_title" msgid="3400923723423564217">"የስራ መገለጫ ቅንብሮች"</string>
+    <string name="managed_profile_settings_title" msgid="3400923723423564217">"የሥራ መገለጫ ቅንብሮች"</string>
     <string name="managed_profile_contact_search_title" msgid="6562061740814513737">"በግል መተግበሪያዎች ውስጥ የስራ ማውጫ እውቂያዎችን ይፈልጉ"</string>
     <string name="managed_profile_contact_search_summary" msgid="4974727886709219105">"የእርስዎ ፍለጋዎች እና ገቢ ጥሪዎች ለአይቲ አስተዳዳሪ የሚታዩ ሊሆኑ ይችላሉ"</string>
     <string name="cross_profile_calendar_title" msgid="7570277841490216947">"መገለጫ ተሻጋሪ ቀን መቁጠሪያ"</string>
@@ -4183,7 +4180,7 @@
     <string name="system_navigation_title" msgid="4890381153527184636">"የአሰሳ ሁነታ"</string>
     <string name="swipe_up_to_switch_apps_title" msgid="6677266952021118342">"2-አዝራር ዳሰሳ"</string>
     <string name="swipe_up_to_switch_apps_summary" msgid="1415457307836359560">"መተግበሪያዎችን ለመቀየር በመነሻ አዝራሩ ላይ ወደ ላይ ይጥረጉ። ሁሉንም መተግበሪያዎች ለማየት እንደገና ወደ ላይ ይጥረጉ። ለመመለስ የተመለስ አአዝራሩን መታ ያድርጉ።"</string>
-    <string name="emergency_settings_preference_title" msgid="6183455153241187148">"ደህንነት እና ድንገተኛ ሁኔታ"</string>
+    <string name="emergency_settings_preference_title" msgid="6183455153241187148">"ደህንነት እና ድንገተኛ አደጋ"</string>
     <string name="emergency_dashboard_summary" msgid="401033951074039302">"የነፍስ አድን ድንገተኛ ጥሪ፣ የሕክምና መረጃ፣ ማንቂያዎች"</string>
     <string name="edge_to_edge_navigation_title" msgid="714427081306043819">"የእጅ ውዝዋዜ ዳሰሳ"</string>
     <string name="edge_to_edge_navigation_summary" msgid="818109176611921504">"ወደ መነሻ ለመሄድ ከማያ ገፅ ከስር ወደ ላይ በጣት ያንሸራትቱ። መተግበሪያዎችን ለመቀየር ከስር ወደ ላይ በጣት ያንሸራቱ፣ ይያዙ፣ ከዚያም ይልቀቁ። ወደ ኋላ ለመመለስ ከግራ ወይም ቀኝ ጠርዝ በጣት ያንሸራትቱ።"</string>
@@ -4201,7 +4198,7 @@
     <string name="right_edge" msgid="1505309103265829121">"የቀኝ ጠርዝ"</string>
     <string name="back_sensitivity_dialog_message" msgid="6638367716784103306">"ከፍ ያለ ትብነት በማያ ገጹ ጠርዞች ላይ ከማንኛውም የመተግበሪያ ጣት ምልክት ጋር ሊጋጭ ይችላል።"</string>
     <string name="back_sensitivity_dialog_title" msgid="6153608904168908264">"የጀርባ ትብነት"</string>
-    <string name="gesture_settings_activity_title" msgid="2025828425762595733">"የእጅ ምልክት ዳሰሳ ትብነት"</string>
+    <string name="gesture_settings_activity_title" msgid="1882463161833981820">"የእጅ ምልክት ዳሰሳ"</string>
     <string name="button_navigation_settings_activity_title" msgid="7335636045504461813">"የአዝራር ዳሰሳ"</string>
     <string name="keywords_gesture_navigation_settings" msgid="667561222717238931">"የእጅ ምልክት ዳሰሳ፣ የመመለስ ስሜታዊነት፣ የመመለስ ምልክት"</string>
     <string name="keywords_button_navigation_settings" msgid="7888812253110553920">"ዳሰሳ፣ የመነሻ አዝራር"</string>
@@ -4580,8 +4577,10 @@
     <string name="summary_satellite_connection_guide" msgid="3496123195218418456">"ስልክዎ ከሳተላይት ጋር በራስ-ሰር ይገናኛል። ለምርጥ ግንኙነት፣ የሰማይ ጥርት ያለ ዕይታ ይኑርዎት።"</string>
     <string name="title_supported_service" msgid="4275535165812691571">"ስልክዎ ከሳተላይት ጋር ከተገናኘ በኋላ"</string>
     <string name="summary_supported_service" msgid="4320535903444834786">"ድንገተኛ አደጋ አገልግሎቶችን ጨምሮ ለማንም ሰው መላክ ይችላሉ። የተንቀሳቃሽ ስልክ አውታረ መረብ ሲገኝ ከስልክዎ ጋር እንደገና ይገናኛል።"</string>
-    <string name="satellite_setting_summary_more_information" msgid="4008690241760925372">"በሳተላይት መልዕክት መላላክ ረዘም ያለ ጊዜ ሊወስድ ይችላል እና በአንዳንድ አካባቢዎች ብቻ ይገኛል፣ እንዲሁም የአየር ሁኔታ እና የተወሰኑ አወቃቀሮች በሳተላይት ግንኙነትዎ ላይ ተጽዕኖ ሊያሳድሩ ይችላሉ። በሳተላይት መደወል አይገኝም።\n\nበእርስዎ መለያ ላይ የተደረጉ ለውጦች በቅንብሮች ውስጥ እስኪታዩ ድረስ የተወሰነ ጊዜ ሊወስድ ይችላል። ለዝርዝሮች <xliff:g id="CARRIER_NAME">%1$s</xliff:g> የሚለውን ያነጋግሩ።"</string>
+    <string name="satellite_setting_summary_more_information" msgid="7729454610548016356">"የሳተላይት መልዕክት መላላክ ረዘም ያለ ጊዜ ሊወስድ ይችላል እና በአንዳንድ አካባቢዎች ብቻ ሊገኝ ይችላል። የአየር ሁኔታ እና አንዳንድ መዋቅሮች በሳተላይት ግንኙነትዎ ላይ ተጽዕኖ ሊያሳድሩ ይችላሉ። በሳተላይት መደወል አይገኝም። የአደጋ ጥሪዎች አሁንም ሊገናኙ ይችላሉ።\n\nየመለያ ለውጦች በቅንብሮች ውስጥ እስኪታዩ ድረስ የተወሰነ ጊዜ ሊወስድ ይችላል። ለዝርዝሮች አገልግሎት አቅራቢዎን ያነጋግሩ።"</string>
     <string name="more_about_satellite_messaging" msgid="3385673133561348509">"በሳተላይት መልዕክት ስለመላላክ ተጨማሪ መረጃ"</string>
+    <string name="satellite_warning_dialog_title" msgid="1610117852475376931">"<xliff:g id="FUNCTION">%1$s</xliff:g> ማብራት አልተቻለም"</string>
+    <string name="satellite_warning_dialog_content" msgid="936419945275934955">"<xliff:g id="FUNCTION">%1$s</xliff:g> ለማብራት መጀመሪያ የሳተላይት ግንኙነቱን ያጠናቅቁ"</string>
     <string name="mobile_network_apn_title" msgid="5582995550142073054">"የመዳረሻ ነጥብ ስም"</string>
     <string name="keywords_access_point_names" msgid="8174967126858505945">"ኤፒኤን"</string>
     <string name="manual_mode_disallowed_summary" msgid="4243142645520152175">"ከ<xliff:g id="CARRIER">%1$s</xliff:g> ጋር ሲገናኝ የማይገኝ"</string>
@@ -4811,7 +4810,7 @@
     <string name="camera_extensions_fallback_description" msgid="6939818294458854536">"እንደ አይስ ፍሪ ቪዲዮግራፊ ያሉ የላቁ የካሜራ ባህሪያትን፣ የላቁ የካሜራ ባህሪያት ነባሪ የሶፍትዌር ትግበራን ያነቃል።"</string>
     <string name="connected_device_see_all_summary" msgid="2056010318537268108">"ብሉቱዝ ይበራል"</string>
     <string name="provider_internet_settings" msgid="3831259474776313323">"በይነመረብ"</string>
-    <string name="provider_network_settings_title" msgid="2624756136016346774">"SIMዎች"</string>
+    <string name="provider_network_settings_title" msgid="2624756136016346774">"ሲሞች"</string>
     <string name="calls_and_sms" msgid="1931855083959003306">"ጥሪዎች እና ኤስኤምኤስ"</string>
     <string name="calls_and_sms_category" msgid="3788238090898237767">"የWi-Fi ጥሪ ማድረጊያ"</string>
     <string name="calls_sms_wfc_summary" msgid="3940529919408667336">"ጥሪዎችን በWi-Fi ያድርጉ እና ይቀበሉ"</string>

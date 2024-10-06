@@ -48,9 +48,9 @@
     <string name="selective_stay_awake_title" msgid="7887645333447645168">"Kun spil, videoer m.m."</string>
     <string name="selective_stay_awake_summary" msgid="9055967322921984543">"Skærmen på forsiden tændes i forbindelse med apps, der forhindrer din skærm i at blive inaktiv"</string>
     <string name="stay_awake_on_lockscreen_title" msgid="8088456642083051068">"Stryg opad for at fortsætte"</string>
-    <string name="stay_awake_on_lockscreen_summary" msgid="2299351813382522952">"Fold din telefon, og stryg opad på skærmen på forsiden for at fortsætte med at bruge appen, eller vent et par sekunder, så skærmen låses"</string>
+    <string name="stay_awake_on_lockscreen_summary" msgid="8825321939913726566">"Fold din telefon, og stryg opad på skærmen på forsiden for at fortsætte med at bruge appen, eller vent et par sekunder, så skærmen låses. Spil og videoapps fortsætter automatisk."</string>
     <string name="sleep_on_fold_title" msgid="7626123024330501411">"Aldrig"</string>
-    <string name="sleep_on_fold_summary" msgid="7737992842459588846">"Skærmen på forsiden låses, når du folder din enhed"</string>
+    <string name="sleep_on_fold_summary" msgid="4191753338303043456">"Skærmen på forsiden slukkes og låses, når du folder din enhed"</string>
     <string name="auto_rotate_settings_primary_switch_title" msgid="3440951924928594520">"Brug automatisk rotering"</string>
     <string name="smart_rotate_text_headline" msgid="5878008933992951904">"Ansigtsgenkendelse bruger kameraet på forsiden for at forbedre nøjagtigheden af indstillingen Roter automatisk. Billeder gemmes ikke, og de sendes aldrig til Google."</string>
     <string name="bluetooth" msgid="8898478620943459654">"Bluetooth"</string>
@@ -133,7 +133,7 @@
     <string name="previous_connected_see_all" msgid="7759413145713251328">"Se alle"</string>
     <string name="connected_device_fast_pair_device_see_all" msgid="4898279230458128620">"Se alt"</string>
     <string name="stylus_device_details_title" msgid="7618295136015480864">"Styluspen"</string>
-    <string name="stylus_default_notes_app" msgid="4165657465911764628">"Ved tryk på knappen til styluspennen"</string>
+    <string name="stylus_default_notes_app" msgid="4165657465911764628">"Tryk på endeknappen"</string>
     <string name="stylus_default_notes_summary_work" msgid="4554643411627934223">"<xliff:g id="APP_NAME">%s</xliff:g> (arbejdsprofil)"</string>
     <string name="stylus_textfield_handwriting" msgid="2363579035338976327">"Skriv i tekstfelter"</string>
     <string name="stylus_ignore_button" msgid="7734540973145241391">"Ignorer alle tryk på styluspen-knappen"</string>
@@ -984,7 +984,7 @@
     <string name="wifi_dpp_sharing_wifi_with_this_device" msgid="7250369936882080107">"Deler Wi-Fi med denne enhed…"</string>
     <string name="wifi_dpp_connecting" msgid="2312769193202897589">"Opretter forbindelse…"</string>
     <string name="wifi_dpp_share_hotspot" msgid="6186452780604755316">"Del hotspot"</string>
-    <string name="wifi_dpp_lockscreen_title" msgid="5246641326066972419">"Bekræft, at det er dig"</string>
+    <string name="wifi_dpp_lockscreen_title" msgid="5246641326066972419">"Verificer, at det er dig"</string>
     <string name="wifi_dpp_wifi_password" msgid="4992986319806934381">"Adgangskode til Wi-Fi-netværk: <xliff:g id="PASSWORD">%1$s</xliff:g>"</string>
     <string name="wifi_dpp_hotspot_password" msgid="688464342650820420">"Adgangskode til hotspot: <xliff:g id="PASSWORD">%1$s</xliff:g>"</string>
     <string name="wifi_auto_connect_title" msgid="1890342051674657892">"Opret automatisk forbindelse"</string>
@@ -1032,7 +1032,7 @@
     <string name="wifi_advanced_ssid_title" msgid="1561437650193980185">"SSID"</string>
     <string name="wifi_advanced_device_mac_address_title" msgid="6155800851233164411">"Enhedens MAC-adresse"</string>
     <string name="wifi_advanced_randomized_mac_address_title" msgid="3930671320234553088">"Tilfældig MAC-adresse"</string>
-    <string name="wifi_advanced_randomized_mac_address_disconnected_title" msgid="2755843130417523727">"Tilfældig MAC-adresse (sidst anvendt)"</string>
+    <string name="wifi_advanced_randomized_mac_address_disconnected_title" msgid="2755843130417523727">"Tilfældig MAC-adresse (senest anvendt)"</string>
     <string name="wifi_details_title" msgid="222735438574597493">"Netværksoplysninger"</string>
     <string name="wifi_details_subnet_mask" msgid="1619151769276260512">"Undernetmaske"</string>
     <string name="wifi_type_title" msgid="2174893488722015838">"Type"</string>
@@ -1421,14 +1421,14 @@
     <string name="battery_level_title" msgid="1371765298786083448">"Batteriniveau"</string>
     <string name="communal_settings_title" msgid="2845678473945902115">"Fælles"</string>
     <string name="communal_settings_summary" msgid="4923914136953940317">"Fælles indstillinger"</string>
-    <string name="satellite_setting" msgid="706846910912477125">"Satellitbeskeder"</string>
+    <string name="satellite_setting" msgid="4171265534842459910">"Satellitbeskeder"</string>
     <string name="apn_settings" msgid="4295467389400441299">"Adgangspunkter"</string>
     <string name="apn_edit" msgid="2003683641840248741">"Rediger adgangspunkt"</string>
     <string name="apn_add" msgid="9069613192201630934">"Tilføj adgangspunkt"</string>
     <string name="apn_not_set" msgid="8246646433109750293">"Ikke angivet"</string>
     <string name="apn_not_set_for_mvno" msgid="1141490067313964640">"Ikke angivet"</string>
     <string name="apn_name" msgid="6677695784108157953">"Navn"</string>
-    <string name="apn_apn" msgid="5812828833797458602">"Adgangspunkt"</string>
+    <string name="apn_apn" msgid="5812828833797458602">"APN"</string>
     <string name="apn_http_proxy" msgid="1052464912365838007">"Proxy"</string>
     <string name="apn_http_port" msgid="9138610639873966046">"Port"</string>
     <string name="apn_user" msgid="5831763936428279228">"Brugernavn"</string>
@@ -1440,32 +1440,32 @@
     <string name="apn_mcc" msgid="4971414138516074809">"MCC"</string>
     <string name="apn_mnc" msgid="1926382406843447854">"MNC"</string>
     <string name="apn_auth_type" msgid="4234397513494356932">"Godkendelsestype"</string>
-    <string name="apn_type" msgid="1835573305077788773">"Adgangspunktets type"</string>
-    <string name="apn_protocol" msgid="181529867160380010">"Adgangspunktets protokol"</string>
-    <string name="apn_roaming_protocol" msgid="1645131094105362513">"Adgangspunktets roamingprotokol"</string>
-    <string name="carrier_enabled" msgid="664074151573150130">"Aktivér/deaktiver adgangspunkt"</string>
-    <string name="carrier_enabled_summaryOn" msgid="5212067975273903381">"Adgangspunktet er aktiveret"</string>
-    <string name="carrier_enabled_summaryOff" msgid="8541959867953738521">"Adgangspunktet er deaktiveret"</string>
+    <string name="apn_type" msgid="1835573305077788773">"APN-type"</string>
+    <string name="apn_protocol" msgid="181529867160380010">"APN-protokol"</string>
+    <string name="apn_roaming_protocol" msgid="1645131094105362513">"APN-roamingprotokol"</string>
+    <string name="carrier_enabled" msgid="664074151573150130">"Aktivér/deaktiver APN"</string>
+    <string name="carrier_enabled_summaryOn" msgid="5212067975273903381">"APN er aktiveret"</string>
+    <string name="carrier_enabled_summaryOff" msgid="8541959867953738521">"APN er deaktiveret"</string>
     <string name="bearer" msgid="3231443241639159358">"Bærer"</string>
     <string name="network_type" msgid="748590707422733595">"Netværkstype"</string>
     <string name="network_type_unspecified" msgid="7756349656194518725">"Ikke angivet"</string>
     <string name="mvno_type" msgid="4734654257494971247">"MVNO-type"</string>
     <string name="mvno_match_data" msgid="5213193073684321156">"MVNO-værdi"</string>
-    <string name="menu_delete" msgid="9199740901584348273">"Slet adgangspunkt"</string>
-    <string name="menu_new" msgid="6571230342655509006">"Nyt adgangspunkt"</string>
+    <string name="menu_delete" msgid="9199740901584348273">"Slet APN"</string>
+    <string name="menu_new" msgid="6571230342655509006">"Nyt APN"</string>
     <string name="menu_save" msgid="6611465355127483100">"Gem"</string>
     <string name="menu_cancel" msgid="1197826697950745335">"Luk"</string>
     <string name="error_title" msgid="7158648377702417716"></string>
     <string name="error_duplicate_apn_entry" msgid="7792928408935276618">"Dupliker APN-indgang."</string>
     <string name="error_name_empty" msgid="1258275899283079142">"Feltet Navn skal udfyldes."</string>
-    <string name="error_apn_empty" msgid="7657491065443746915">"Du skal angive et adgangspunkt."</string>
+    <string name="error_apn_empty" msgid="7657491065443746915">"Du skal angive et APN."</string>
     <string name="error_mcc_not3" msgid="883659545640179094">"MCC-feltet skal indeholde 3 tal."</string>
     <string name="error_mnc_not23" msgid="7642478711158474918">"MNC-feltet skal indeholde 2 eller 3 tal."</string>
     <string name="error_adding_apn_type" msgid="1324263534991467943">"Mobilselskabet tillader ikke, at du tilføjer adgangspunkter af typen %s."</string>
     <string name="error_mmsc_valid" msgid="8380951905485647380">"MMSC-feltet skal være gyldigt."</string>
-    <string name="restore_default_apn" msgid="6596048535642130689">"Gendannelse af standardindstillingerne for adgangspunktet."</string>
+    <string name="restore_default_apn" msgid="6596048535642130689">"Gendannelse af standardindstillingerne for APN."</string>
     <string name="menu_restore" msgid="4310539620115151551">"Nulstil til standard"</string>
-    <string name="restore_default_apn_completed" msgid="5167505087078340256">"Standardindstillingerne for adgangspunktet er nulstillet."</string>
+    <string name="restore_default_apn_completed" msgid="5167505087078340256">"Standardindstillingerne for APN er nulstillet."</string>
     <string name="reset_dashboard_title" msgid="7423200250697886918">"Nulstil valg"</string>
     <string name="reset_mobile_network_settings_title" msgid="5616713931258506842">"Nulstil indstillinger for mobilnetværk"</string>
     <string name="reset_mobile_network_settings_desc" msgid="7292636387692165727">"Denne handling nulstiller alle indstillingerne for mobilnetværk"</string>
@@ -1483,15 +1483,15 @@
     <string name="reset_network_confirm_title" msgid="913014422184481270">"Vil du nulstille?"</string>
     <string name="network_reset_not_available" msgid="1966334631394607829">"Gendannelse af netværk er ikke tilgængeligt for denne bruger"</string>
     <string name="reset_network_complete_toast" msgid="1367872474130621115">"Netværksindstillingerne er blevet nulstillet"</string>
-    <string name="reset_esim_error_title" msgid="6516110227665862295">"eSIM-kort kunne ikke ryddes"</string>
-    <string name="reset_esim_error_msg" msgid="8459527827897797168">"Noget gik galt, og dine eSIM-kort blev ikke ryddet.\n\nGenstart din enhed, og prøv igen."</string>
+    <string name="reset_esim_error_title" msgid="6516110227665862295">"eSIM kunne ikke ryddes"</string>
+    <string name="reset_esim_error_msg" msgid="8459527827897797168">"Noget gik galt, og dine eSIM blev ikke ryddet.\n\nGenstart din enhed, og prøv igen."</string>
     <string name="main_clear_title" msgid="277664302144837723">"Ryd alle data (gendan fabriksindstillinger)"</string>
     <string name="main_clear_short_title" msgid="4752094765533020696">"Ryd alle data (gendan fabriksindstillinger)"</string>
     <string name="main_clear_desc_also_erases_external" msgid="3687911419628956693"><li>"Musik"</li>\n<li>"Billeder"</li>\n<li>"Andre brugerdata"</li></string>
     <string name="main_clear_desc_also_erases_esim" msgid="4553469876411831729"><li>"eSIM"</li></string>
     <string name="main_clear_desc_no_cancel_mobile_plan" msgid="369883568059127035">\n\n"Dette opsiger ikke automatisk dit mobilabonnement."</string>
     <string name="main_clear_final_desc" msgid="5800877928569039580">"Alle dine personlige oplysninger og downloadede apps slettes. Denne handling kan ikke fortrydes."</string>
-    <string name="main_clear_final_desc_esim" msgid="6592404057237813989">"Alle dine personlige oplysninger, bl.a. downloadede apps og eSIM-kort, slettes. Denne handling kan ikke fortrydes."</string>
+    <string name="main_clear_final_desc_esim" msgid="6592404057237813989">"Alle dine personlige oplysninger, bl.a. downloadede apps og eSIM, slettes. Denne handling kan ikke fortrydes."</string>
     <string name="main_clear_confirm_title" msgid="6577071819657853713">"Vil du rydde alle data?"</string>
     <string name="main_clear_not_available" msgid="3433795327146684827">"Det er ikke muligt for denne bruger at gendanne fabriksindstillingerne"</string>
     <string name="main_clear_progress_title" msgid="7239741132015617719">"Rydder"</string>
@@ -1575,7 +1575,7 @@
     <string name="about_settings_summary" msgid="4831942939227432513">"Se juridisk info, status, softwareversion"</string>
     <string name="legal_information" msgid="7509900979811934843">"Juridiske oplysninger"</string>
     <string name="manual" msgid="3651593989906084868">"Brugervejledning"</string>
-    <string name="regulatory_labels" msgid="5960251403367154270">"Certificeringer"</string>
+    <string name="regulatory_labels" msgid="5960251403367154270">"Regulatorisk mærkning"</string>
     <string name="safety_and_regulatory_info" msgid="8285048080439298528">"Brugervejledning i sikkerhed og regler"</string>
     <string name="copyright_title" msgid="83245306827757857">"Ophavsret"</string>
     <string name="license_title" msgid="8745742085916617540">"Licens"</string>
@@ -1755,7 +1755,7 @@
     <string name="default_emergency_app" msgid="1929974800666613803">"Nødapp"</string>
     <string name="reset_app_preferences" msgid="8861758340732716573">"Nulstil app-præferencer"</string>
     <string name="reset_app_preferences_title" msgid="8935136792316050759">"Nulstil app-præferencer?"</string>
-    <string name="reset_app_preferences_desc" msgid="8550782670650158299">"Dette nulstiller alle præferencer for:\n\n "<li>"Deaktiverede apps"</li>\n" "<li>"Deaktiverede appnotifikationer"</li>\n" "<li>"Standardapps til handlinger"</li>\n" "<li>"Begrænsning af baggrundsdata for apps"</li>\n<li>"Eventuelle begrænsede tilladelser"</li>\n<li>"Indstillinger for batteriforbrug"</li>\n\n"Du vil ikke miste nogen appdata."</string>
+    <string name="reset_app_preferences_desc" msgid="8550782670650158299">"Dette nulstiller alle præferencer for:\n\n"<li>"Deaktiverede apps"</li>\n<li>"Deaktiverede appnotifikationer"</li>\n<li>"Standardapps til handlinger"</li>\n<li>"Begrænsning af baggrundsdata for apps"</li>\n<li>"Eventuelle begrænsede tilladelser"</li>\n<li>"Indstillinger for batteriforbrug"</li>\n\n"Du vil ikke miste nogen appdata."</string>
     <string name="reset_app_preferences_button" msgid="2591318711372850058">"Nulstil apps"</string>
     <string name="filter" msgid="9039576690686251462">"Filter"</string>
     <string name="filter_dlg_title" msgid="3086282431958601338">"Vælg filtreringsmuligheder"</string>
@@ -1874,7 +1874,7 @@
     <string name="show_ime_summary" msgid="7293345791727205975">"Behold det på skærmen, mens det fysiske tastatur er aktivt"</string>
     <string name="bounce_keys" msgid="7419450970351743904">"Elastiktaster"</string>
     <string name="bounce_keys_summary" msgid="7347050868868080302">"Tastaturet ignorerer gentagende, hurtige tryk på den samme tast inden for <xliff:g id="BOUNCE_KEYS_THRESHOLD">%1$d</xliff:g> ms"</string>
-    <string name="slow_keys" msgid="2891452895499690837">"Træge taster"</string>
+    <string name="slow_keys" msgid="2891452895499690837">"Langsomtaster"</string>
     <string name="slow_keys_summary" msgid="1784371292745423292">"Juster tiden det tager, inden et tryk på en tast aktiveres, til <xliff:g id="SLOW_KEYS_THRESHOLD">%1$d</xliff:g> ms"</string>
     <string name="sticky_keys" msgid="7317317044898161747">"Træge taster"</string>
     <string name="sticky_keys_summary" msgid="1844953803625480623">"Tryk på én tast ad gangen for at bruge genveje i stedet for at holde flere taster nede på samme tid"</string>
@@ -1980,7 +1980,7 @@
     <string name="usage_stats_sort_by_usage_time" msgid="2927310334119998301">"Sortér efter tidsforbrug"</string>
     <string name="usage_stats_sort_by_last_time_used" msgid="7039213339779884017">"Sortér efter sidst anvendt"</string>
     <string name="usage_stats_sort_by_app_name" msgid="4463833145514850478">"Sortér efter appnavn"</string>
-    <string name="last_time_used_label" msgid="7589377271406011659">"Sidst brugt"</string>
+    <string name="last_time_used_label" msgid="7589377271406011659">"Senest anvendt"</string>
     <string name="last_time_used_never" msgid="2936073559267990034">"aldrig"</string>
     <string name="usage_time_label" msgid="9105343335151559883">"Brugstid"</string>
     <string name="accessibility_settings" msgid="4713215774904704682">"Hjælpefunktioner"</string>
@@ -3003,7 +3003,7 @@
     <string name="repeat_title" msgid="8676570486899483606">"Gentag"</string>
     <string name="cell_broadcast_settings" msgid="2416980110093867199">"Mobilbaseret varsling"</string>
     <string name="network_operators_settings" msgid="5105453353329748954">"Netværksudbydere"</string>
-    <string name="access_point_names" msgid="5768430498022188057">"Adgangspunkter (APN)"</string>
+    <string name="access_point_names" msgid="5768430498022188057">"Navn på adgangspunkter"</string>
     <string name="enhanced_4g_lte_mode_title" msgid="6624700245232361149">"VoLTE"</string>
     <string name="enhanced_4g_lte_mode_title_advanced_calling" msgid="7066009898031465265">"Avancerede opkald"</string>
     <string name="enhanced_4g_lte_mode_title_4g_calling" msgid="7445853566718786195">"4G-opkald"</string>
@@ -3924,9 +3924,6 @@
     <string name="permit_manage_external_storage" msgid="6928847280689401761">"Tillad admin­istrations­adgang til alle filer"</string>
     <string name="allow_manage_external_storage_description" msgid="5707948153603253225">"Giv denne app tilladelse til at læse, ændre og slette alle filer på denne enhed eller andre tilsluttede lagringsløsninger. Hvis du giver tilladelse til dette, kan appen få adgang til dine filer, uden du specifikt bliver gjort opmærksom på det."</string>
     <string name="filter_manage_external_storage" msgid="6751640571715343804">"Kan få adgang til alle filer"</string>
-    <string name="voice_activation_apps_title" msgid="7130045161611529825">"Stemmeaktiverede apps"</string>
-    <string name="permit_voice_activation_apps" msgid="9152780172988949319">"Tillad stemmeaktivering"</string>
-    <string name="allow_voice_activation_apps_description" msgid="6369745626995060656">"Stemmeaktivering aktiverer godkendte apps håndfrit ved hjælp af stemmekommandoer. Indbygget adaptiv registrering sørger for, at dine private data forbliver beskyttet.\n\n"<a href="">"Få flere oplysninger om beskyttelse med adaptiv registrering"</a></string>
     <string name="full_screen_intent_title" msgid="747270185715224130">"Notifikationer i fuld skærm"</string>
     <string name="permit_full_screen_intent" msgid="9035367640019960861">"Tillad notifikationer i fuld skærm fra denne app"</string>
     <string name="footer_description_full_screen_intent" msgid="7716518411349225528">"Tillad appen at vise notifikationer, der fylder hele skærmen, når enheden er låst. Apps kan benytte denne mulighed til at fremhæve alarmer, indgående opkald og andre presserende notifikationer."</string>
@@ -4201,7 +4198,7 @@
     <string name="right_edge" msgid="1505309103265829121">"Højre kant"</string>
     <string name="back_sensitivity_dialog_message" msgid="6638367716784103306">"Højere følsomhed kan komme i konflikt med appbevægelser langs skærmens kant."</string>
     <string name="back_sensitivity_dialog_title" msgid="6153608904168908264">"Følsomhed for bevægelse fra kant"</string>
-    <string name="gesture_settings_activity_title" msgid="2025828425762595733">"Følsomhed af navigation med bevægelser"</string>
+    <string name="gesture_settings_activity_title" msgid="1882463161833981820">"Navigation med bevægelser"</string>
     <string name="button_navigation_settings_activity_title" msgid="7335636045504461813">"Navigation med knapper"</string>
     <string name="keywords_gesture_navigation_settings" msgid="667561222717238931">"navigation med bevægelser, følsomhed for bevægelse fra kant, bevægelse til at gå tilbage"</string>
     <string name="keywords_button_navigation_settings" msgid="7888812253110553920">"navigation, knappen Hjem"</string>
@@ -4451,7 +4448,7 @@
     <string name="media_output_default_summary" msgid="4200343059396412376">"Denne enhed"</string>
     <string name="media_out_summary_ongoing_call_state" msgid="475188726850090363">"Enheden kan ikke bruges under opkald"</string>
     <string name="take_call_on_title" msgid="1159417893879946757">"Besvar opkald på"</string>
-    <string name="cannot_change_apn_toast" msgid="296540724089240405">"Dette adgangspunkt kan ikke ændres."</string>
+    <string name="cannot_change_apn_toast" msgid="296540724089240405">"Dette APN kan ikke ændres."</string>
     <string name="gesture_prevent_ringing_screen_title" msgid="8293094715267769349">"Deaktiver ringetoner"</string>
     <string name="gesture_prevent_ringing_title" msgid="5978577898997523581">"Tryk på afbryderknappen og Lydstyrke op på samme tid for at"</string>
     <string name="gesture_prevent_ringing_sound_title" msgid="4529077822282099235">"Genvej til at stoppe ringelyd"</string>
@@ -4580,8 +4577,10 @@
     <string name="summary_satellite_connection_guide" msgid="3496123195218418456">"Din telefon opretter automatisk forbindelse til en satellit. Du opnår den bedst mulige forbindelse, hvis du står udenfor med frit udsyn til himlen."</string>
     <string name="title_supported_service" msgid="4275535165812691571">"Når din telefon har oprettet forbindelse til en satellit"</string>
     <string name="summary_supported_service" msgid="4320535903444834786">"Du kan sende en besked til alle, herunder nødtjenester. Din telefon opretter forbindelse til et mobilnetværk igen, når det er tilgængeligt."</string>
-    <string name="satellite_setting_summary_more_information" msgid="4008690241760925372">"Satellitbeskeder kan tage længere tid og er kun tilgængelige i nogle områder. Vejret og visse fysiske betingelser kan påvirke din satellitforbindelse. Opkald via satellit er ikke tilgængeligt.\n\nDer kan gå noget tid, før ændringer af din konto vises under Indstillinger. Kontakt <xliff:g id="CARRIER_NAME">%1$s</xliff:g> for at få flere oplysninger."</string>
+    <string name="satellite_setting_summary_more_information" msgid="7729454610548016356">"Satellitbeskeder kan tage længere tid og er kun tilgængelige i nogle regioner. Vejret og visse fysiske betingelser kan påvirke din satellitforbindelse. Opkald via satellit er ikke muligt. Nødopkald kan muligvis stadig gå igennem.\n\nDer kan gå lidt tid, før kontoændringerne vises i Indstillinger. Kontakt dit mobilselskab for at få flere oplysninger."</string>
     <string name="more_about_satellite_messaging" msgid="3385673133561348509">"Flere oplysninger om satellitbeskeder"</string>
+    <string name="satellite_warning_dialog_title" msgid="1610117852475376931">"<xliff:g id="FUNCTION">%1$s</xliff:g> kan ikke aktiveres"</string>
+    <string name="satellite_warning_dialog_content" msgid="936419945275934955">"Hvis du vil aktivere <xliff:g id="FUNCTION">%1$s</xliff:g>, skal du først afslutte satellitforbindelsen"</string>
     <string name="mobile_network_apn_title" msgid="5582995550142073054">"Adgangspunkter"</string>
     <string name="keywords_access_point_names" msgid="8174967126858505945">"apn"</string>
     <string name="manual_mode_disallowed_summary" msgid="4243142645520152175">"Utilgængelig ved forbindelse til <xliff:g id="CARRIER">%1$s</xliff:g>"</string>
@@ -5114,8 +5113,8 @@
     <string name="grammatical_gender_dialog_title" msgid="8754048592099871587">"Vælg grammatisk køn"</string>
     <string name="content_protection_preference_title" msgid="5069260032659193074">"Scanning af vildledende apps"</string>
     <string name="content_protection_preference_summary" msgid="2252393849408445391">"Tjek appaktivitet for phishing"</string>
-    <string name="content_protection_preference_user_consent_switch_title" msgid="1797782616799594426">"Brug scanning til at registrere vildledende apps"</string>
-    <string name="content_protection_preference_user_consent_work_profile_switch_title" msgid="3004347470520916069">"Brug scanning til at registrere vildledende arbejdsapps"</string>
+    <string name="content_protection_preference_user_consent_switch_title" msgid="1797782616799594426">"Brug scanning af vildledende apps"</string>
+    <string name="content_protection_preference_user_consent_work_profile_switch_title" msgid="3004347470520916069">"Brug scanning af vildledende arbejdsapps"</string>
     <string name="content_protection_preference_subpage_summary" msgid="3595621220981703364"></string>
     <string name="content_protection_preference_subpage_info" msgid="6890886357653365489"></string>
     <string name="accessibility_setup_password_complete" msgid="6358749253318369077">"Der er nu konfigureret en adgangskode"</string>

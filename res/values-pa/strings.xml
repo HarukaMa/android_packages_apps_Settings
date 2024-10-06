@@ -48,9 +48,9 @@
     <string name="selective_stay_awake_title" msgid="7887645333447645168">"ਸਿਰਫ਼ ਗੇਮਾਂ ਅਤੇ ਵੀਡੀਓ ਵਗੈਰਾ ਲਈ"</string>
     <string name="selective_stay_awake_summary" msgid="9055967322921984543">"ਸਕ੍ਰੀਨ ਨੂੰ ਬੰਦ ਹੋਣ ਤੋਂ ਰੋਕਣ ਵਾਲੀਆਂ ਐਪਾਂ ਦੇ ਲਈ ਅਗਲੀ ਡਿਸਪਲੇ ਚਾਲੂ ਹੋ ਜਾਂਦੀ ਹੈ"</string>
     <string name="stay_awake_on_lockscreen_title" msgid="8088456642083051068">"ਜਾਰੀ ਰੱਖਣ ਲਈ ਉੱਪਰ ਵੱਲ ਸਵਾਈਪ ਕਰੋ"</string>
-    <string name="stay_awake_on_lockscreen_summary" msgid="2299351813382522952">"ਆਪਣੇ ਫ਼ੋਨ ਨੂੰ ਫੋਲਡ ਕਰੋ ਅਤੇ ਐਪ ਦੀ ਵਰਤੋਂ ਜਾਰੀ ਰੱਖਣ ਲਈ ਅਗਲੀ ਡਿਸਪਲੇ \'ਤੇ ਉੱਪਰ ਵੱਲ ਸਵਾਈਪ ਕਰੋ ਜਾਂ ਸਕ੍ਰੀਨ ਲਾਕ ਹੋਣ ਲਈ ਕੁਝ ਸਕਿੰਟਾਂ ਦੀ ਉਡੀਕ ਕਰੋ"</string>
+    <string name="stay_awake_on_lockscreen_summary" msgid="8825321939913726566">"ਆਪਣੇ ਫ਼ੋਨ ਨੂੰ ਫੋਲਡ ਕਰੋ ਅਤੇ ਐਪ ਦੀ ਵਰਤੋਂ ਜਾਰੀ ਰੱਖਣ ਲਈ ਅਗਲੀ ਡਿਸਪਲੇ \'ਤੇ ਉੱਪਰ ਵੱਲ ਸਵਾਈਪ ਕਰੋ ਜਾਂ ਸਕ੍ਰੀਨ ਲਾਕ ਹੋਣ ਲਈ ਕੁਝ ਸਕਿੰਟਾਂ ਦੀ ਉਡੀਕ ਕਰੋ। ਗੇਮਾਂ ਅਤੇ ਵੀਡੀਓ ਐਪਾਂ ਸਵੈਚਲਿਤ ਤੌਰ \'ਤੇ ਚੱਲਣ ਲੱਗ ਜਾਣਗੀਆਂ।"</string>
     <string name="sleep_on_fold_title" msgid="7626123024330501411">"ਕਦੇ ਵੀ ਨਹੀਂ"</string>
-    <string name="sleep_on_fold_summary" msgid="7737992842459588846">"ਜਦੋਂ ਤੁਸੀਂ ਆਪਣੇ ਡੀਵਾਈਸ ਨੂੰ ਫੋਲਡ ਕਰਦੇ ਹੋ, ਤਾਂ ਅਗਲੀ ਡਿਸਪਲੇ ਲਾਕ ਹੋ ਜਾਂਦੀ ਹੈ"</string>
+    <string name="sleep_on_fold_summary" msgid="4191753338303043456">"ਜਦੋਂ ਤੁਸੀਂ ਆਪਣੇ ਡੀਵਾਈਸ ਨੂੰ ਫੋਲਡ ਕਰਦੇ ਹੋ, ਤਾਂ ਅਗਲੀ ਡਿਸਪਲੇ ਬੰਦ ਹੋ ਜਾਂਦੀ ਹੈ ਅਤੇ ਲਾਕ ਹੋ ਜਾਂਦੀ ਹੈ"</string>
     <string name="auto_rotate_settings_primary_switch_title" msgid="3440951924928594520">"ਸਵੈ-ਘੁਮਾਉਣ ਵਾਲੀ ਸੈਟਿੰਗ ਵਰਤੋ"</string>
     <string name="smart_rotate_text_headline" msgid="5878008933992951904">"ਚਿਹਰਾ ਪਛਾਣ \'ਸਵੈ-ਘੁਮਾਓ\' ਦੀ ਸਟੀਕਤਾ ਵਿੱਚ ਸੁਧਾਰ ਕਰਨ ਲਈ ਮੂਹਰਲੇ ਕੈਮਰੇ ਦੀ ਵਰਤੋਂ ਕਰਦੀ ਹੈ। ਚਿੱਤਰ ਕਦੇ ਵੀ ਸਟੋਰ ਨਹੀਂ ਕੀਤੇ ਜਾਂਦੇ ਅਤੇ ਨਾ ਹੀ Google ਨੂੰ ਭੇਜੇ ਜਾਂਦੇ ਹਨ।"</string>
     <string name="bluetooth" msgid="8898478620943459654">"ਬਲੂਟੁੱਥ"</string>
@@ -133,10 +133,10 @@
     <string name="previous_connected_see_all" msgid="7759413145713251328">"ਸਭ ਦੇਖੋ"</string>
     <string name="connected_device_fast_pair_device_see_all" msgid="4898279230458128620">"ਸਭ ਦੇਖੋ"</string>
     <string name="stylus_device_details_title" msgid="7618295136015480864">"ਸਟਾਈਲਸ"</string>
-    <string name="stylus_default_notes_app" msgid="4165657465911764628">"ਟੇਲ ਬਟਨ ਦਬਾਓ"</string>
+    <string name="stylus_default_notes_app" msgid="4165657465911764628">"ਟੇਲ ਬਟਨ ਦਬਾਉਣ \'ਤੇ ਖੁੱਲ੍ਹਣ ਵਾਲੀ ਐਪ"</string>
     <string name="stylus_default_notes_summary_work" msgid="4554643411627934223">"<xliff:g id="APP_NAME">%s</xliff:g> (ਕਾਰਜ ਪ੍ਰੋਫਾਈਲ)"</string>
     <string name="stylus_textfield_handwriting" msgid="2363579035338976327">"ਲਿਖਤ ਖੇਤਰਾਂ ਵਿੱਚ ਲਿਖੋ"</string>
-    <string name="stylus_ignore_button" msgid="7734540973145241391">"ਸਟਾਈਲਸ ਨਾਲ ਦਬਾਏ ਗਏ ਸਾਰੇ ਬਟਨਾਂ ਨੂੰ ਅਣਡਿੱਠ ਕਰੋ"</string>
+    <string name="stylus_ignore_button" msgid="7734540973145241391">"ਸਟਾਈਲਸ ਬਟਨ ਦਬਾਏ ਜਾਣ ਨੂੰ ਅਣਡਿੱਠ ਕਰੋ"</string>
     <string name="stylus_connected_devices_title" msgid="2823967577941359812">"ਸਟਾਈਲਸ"</string>
     <string name="audio_streams_empty" msgid="8803517701437394982">"ਕੋਈ ਨਜ਼ਦੀਕੀ ਆਡੀਓ ਸਟ੍ਰੀਮ ਨਹੀਂ ਮਿਲੀ।"</string>
     <string name="date_and_time" msgid="1788358029823431692">"ਤਾਰੀਖ ਅਤੇ ਸਮਾਂ"</string>
@@ -378,7 +378,7 @@
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_title_2" msgid="2580899232734177771">"ਇਹ ਕਿਵੇਂ ਕੰਮ ਕਰਦਾ ਹੈ"</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2" msgid="5909924864816776516">"ਫਿੰਗਰਪ੍ਰਿੰਟ ਅਣਲਾਕ ਤੁਹਾਡੀ ਪਛਾਣ ਕਰਨ ਲਈ ਤੁਹਾਡੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਦਾ ਇੱਕ ਵਿਲੱਖਣ ਮਾਡਲ ਬਣਾਉਂਦਾ ਹੈ। ਸੈੱਟਅੱਪ ਦੌਰਾਨ ਇਸ ਫਿੰਗਰਪ੍ਰਿੰਟ ਦੇ ਮਾਡਲ ਨੂੰ ਬਣਾਉਣ ਲਈ, ਤੁਸੀਂ ਵੱਖ-ਵੱਖ ਕੋਣਾਂ ਤੋਂ ਆਪਣੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਦੇ ਚਿੱਤਰ ਲਓਗੇ।"</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2" msgid="3493356605815124807">"ਫਿੰਗਰਪ੍ਰਿੰਟ ਅਣਲਾਕ ਤੁਹਾਡੇ ਬੱਚੇ ਦੀ ਪਛਾਣ ਕਰਨ ਲਈ ਉਸਦੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਦਾ ਇੱਕ ਵਿਲੱਖਣ ਮਾਡਲ ਬਣਾਉਂਦਾ ਹੈ। ਸੈੱਟਅੱਪ ਦੌਰਾਨ ਇਸ ਫਿੰਗਰਪ੍ਰਿੰਟ ਦੇ ਮਾਡਲ ਨੂੰ ਬਣਾਉਣ ਲਈ, ਉਹ ਵੱਖ-ਵੱਖ ਕੋਣਾਂ ਤੋਂ ਆਪਣੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਦੇ ਚਿੱਤਰ ਲਵੇਗਾ।"</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6" msgid="5314031490467481499">"ਬਿਹਤਰੀਨ ਨਤੀਜਿਆਂ ਲਈ, Made for Google ਵੱਲੋਂ ਪ੍ਰਮਾਣਿਤ ਸਕ੍ਰੀਨ ਗਾਰਡ ਦੀ ਵਰਤੋਂ ਕਰੋ। ਦੂਜੇ ਸਕ੍ਰੀਨ ਗਾਰਡਾਂ ਨਾਲ ਹੋ ਸਕਦਾ ਹੈ ਕਿ ਤੁਹਾਡਾ ਫਿੰਗਰਪ੍ਰਿੰਟ ਕੰਮ ਨਾ ਕਰੇ।"</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6" msgid="5314031490467481499">"ਬਿਹਤਰੀਨ ਨਤੀਜਿਆਂ ਲਈ, Made for Google ਵੱਲੋਂ ਪ੍ਰਮਾਣਿਤ ਸਕ੍ਰੀਨ ਗਾਰਡ ਦੀ ਵਰਤੋਂ ਕਰੋ। ਹੋਰ ਸਕ੍ਰੀਨ ਗਾਰਡਾਂ ਨਾਲ, ਹੋ ਸਕਦਾ ਹੈ ਕਿ ਤੁਹਾਡਾ ਫਿੰਗਰਪ੍ਰਿੰਟ ਕੰਮ ਨਾ ਕਰੇ।"</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_6" msgid="3563942520716110478">"ਬਿਹਤਰੀਨ ਨਤੀਜਿਆਂ ਲਈ, Made for Google ਵੱਲੋਂ ਪ੍ਰਮਾਣਿਤ ਸਕ੍ਰੀਨ ਗਾਰਡ ਦੀ ਵਰਤੋਂ ਕਰੋ। ਦੂਜੇ ਸਕ੍ਰੀਨ ਗਾਰਡਾਂ ਨਾਲ ਹੋ ਸਕਦਾ ਹੈ ਕਿ ਤੁਹਾਡੇ ਬੱਚੇ ਦਾ ਫਿੰਗਰਪ੍ਰਿੰਟ ਕੰਮ ਨਾ ਕਰੇ।"</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more" msgid="5856010507790137793"></string>
     <string name="security_settings_activeunlock_preference_title" msgid="4257580421087062228">"ਵਾਚ ਅਣਲਾਕ"</string>
@@ -479,8 +479,8 @@
     <string name="security_settings_fingerprint_enroll_repeat_message" msgid="5382958363770893577">"ਆਪਣੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਦੇ ਵੱਖ-ਵੱਖ ਭਾਗਾਂ ਨੂੰ ਸ਼ਾਮਲ ਕਰਨ ਲਈ ਆਪਣੀ ਉਂਗਲ ਨੂੰ ਰੱਖਣਾ-ਚੁੱਕਣਾ ਜਾਰੀ ਰੱਖੋ"</string>
     <string name="security_settings_udfps_enroll_repeat_message" msgid="2213106975297867798">"ਫਿੰਗਰਪ੍ਰਿੰਟ ਪ੍ਰਤੀਕ ਵਿੱਚ ਹਰੇਕ ਵਾਰ ਹਲਚਲ ਹੋਣ \'ਤੇ ਉਸਨੂੰ ਸਪਰਸ਼ ਕਰਕੇ ਰੱਖੋ। ਇਸ ਨਾਲ ਤੁਹਾਡੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਨੂੰ ਬਿਹਤਰ ਢੰਗ ਨਾਲ ਕੈਪਚਰ ਕਰਨ ਵਿੱਚ ਮਦਦ ਹੁੰਦੀ ਹੈ।"</string>
     <string name="security_settings_udfps_enroll_fingertip_title" msgid="4123142574168831116">"ਆਪਣੀ ਉਂਗਲ ਦੇ ਪੋਟੇ ਨੂੰ ਸੈਂਸਰ \'ਤੇ ਰੱਖੋ"</string>
-    <string name="security_settings_udfps_enroll_left_edge_title" msgid="1944076382202470458">"ਆਪਣੀ ਉਂਗਲ ਦੇ ਖੱਬੇ ਕੋਨੇ ਨੂੰ ਰੱਖੋ"</string>
-    <string name="security_settings_udfps_enroll_right_edge_title" msgid="9036744264606447490">"ਆਪਣੀ ਉਂਗਲ ਦੇ ਸੱਜੇ ਕੋਨੇ ਨੂੰ ਰੱਖੋ"</string>
+    <string name="security_settings_udfps_enroll_left_edge_title" msgid="1944076382202470458">"ਆਪਣੀ ਉਂਗਲ ਦੇ ਖੱਬੇ ਕੋਨੇ ਨੂੰ ਸੈਂਸਰ \'ਤੇ ਰੱਖੋ"</string>
+    <string name="security_settings_udfps_enroll_right_edge_title" msgid="9036744264606447490">"ਆਪਣੀ ਉਂਗਲ ਦੇ ਸੱਜੇ ਕੋਨੇ ਨੂੰ ਸੈਂਸਰ \'ਤੇ ਰੱਖੋ"</string>
     <string name="security_settings_sfps_enroll_finger_center_title" msgid="1320688855767675739">"ਆਪਣੀ ਉਂਗਲ ਦੇ ਵਿਚਕਾਰਲੇ ਹਿੱਸੇ ਨੂੰ ਸੈਂਸਰ \'ਤੇ ਰੱਖੋ"</string>
     <string name="security_settings_sfps_enroll_fingertip_title" msgid="2737520837684516446">"ਆਪਣੀ ਉਂਗਲ ਦੇ ਪੋਟੇ ਨੂੰ ਸੈਂਸਰ \'ਤੇ ਰੱਖੋ"</string>
     <string name="security_settings_sfps_enroll_left_edge_title" msgid="9022963735924413343">"ਆਪਣੀ ਉਂਗਲ ਦੇ ਖੱਬੇ ਕਿਨਾਰੇ ਨੂੰ ਸੈਂਸਰ \'ਤੇ ਰੱਖੋ"</string>
@@ -536,13 +536,13 @@
     <string name="security_advanced_settings_no_work_profile_settings_summary" msgid="345336447137417638">"ਇਨਕ੍ਰਿਪਸ਼ਨ, ਕ੍ਰੀਡੈਂਸ਼ੀਅਲ ਅਤੇ ਹੋਰ ਬਹੁਤ ਕੁਝ"</string>
     <string name="security_advanced_settings_keywords" msgid="5294945170370974974">"ਸੁਰੱਖਿਆ, ਹੋਰ ਸੁਰੱਖਿਆ ਸੈਟਿੰਗਾਂ, ਹੋਰ ਸੈਟਿੰਗਾਂ, ਅਡਵਾਂਸ ਸੁਰੱਖਿਆ ਸੈਟਿੰਗਾਂ"</string>
     <string name="privacy_advanced_settings" msgid="8828215456566937719">"ਹੋਰ ਪਰਦੇਦਾਰੀ ਸੈਟਿੰਗਾਂ"</string>
-    <string name="more_security_privacy_settings" msgid="123465614090328851">"ਹੋਰ ਸੁਰੱਖਿਆ ਅਤੇ ਪਰਦੇਦਾਰੀ"</string>
+    <string name="more_security_privacy_settings" msgid="123465614090328851">"ਹੋਰ ਸਿਕਿਊਰਟੀ ਅਤੇ ਪਰਦੇਦਾਰੀ"</string>
     <string name="security_header" msgid="961514795852103424">"ਸੁਰੱਖਿਆ"</string>
     <string name="privacy_header" msgid="5526002421324257007">"ਪਰਦੇਦਾਰੀ"</string>
     <string name="work_profile_category_header" msgid="85707750968948517">"ਕਾਰਜ ਪ੍ਰੋਫਾਈਲ"</string>
     <string name="private_space_title" msgid="1752064212078238723">"ਪ੍ਰਾਈਵੇਟ ਸਪੇਸ"</string>
     <string name="private_space_summary" msgid="2274405892301976238">"ਨਿੱਜੀ ਐਪਾਂ ਨੂੰ ਲਾਕ ਕਰ ਕੇ ਅਦਿੱਖ ਰੱਖੋ"</string>
-    <string name="private_space_description" msgid="4059594203775816136">"ਨਿੱਜੀ ਐਪਾਂ ਨੂੰ ਵੱਖਰੀ ਸਪੇਸ ਵਿੱਚ ਰੱਖੋ ਜਿਸ ਨੂੰ ਤੁਸੀਂ ਲੁਕਾ ਜਾਂ ਲਾਕ ਕਰ ਸਕਦੇ ਹੋ"</string>
+    <string name="private_space_description" msgid="4059594203775816136">"ਪ੍ਰਾਈਵੇਟ ਐਪਾਂ ਨੂੰ ਵੱਖਰੀ ਸਪੇਸ ਵਿੱਚ ਰੱਖੋ, ਜਿਨ੍ਹਾਂ ਨੂੰ ਤੁਸੀਂ ਲੁਕਾ ਜਾਂ ਲਾਕ ਕਰ ਸਕੋ"</string>
     <string name="private_space_lock_title" msgid="7230836881433350526">"ਪ੍ਰਾਈਵੇਟ ਸਪੇਸ ਲਾਕ"</string>
     <string name="private_space_one_lock_summary" msgid="2106513606571219068">"ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਸਪੇਸ ਨੂੰ ਉਸੇ ਤਰੀਕੇ ਨਾਲ ਅਣਲਾਕ ਕਰ ਸਕਦੇ ਹੋ ਜਿਸ ਤਰ੍ਹਾਂ ਤੁਸੀਂ ਆਪਣੇ ਡੀਵਾਈਸ ਨੂੰ ਅਣਲਾਕ ਕਰਦੇ ਹੋ ਜਾਂ ਕੋਈ ਵੱਖਰਾ ਲਾਕ ਚੁਣੋ"</string>
     <string name="private_space_screen_lock_title" msgid="8679383894967823163">"ਡੀਵਾਈਸ ਸਕ੍ਰੀਨ ਲਾਕ ਵਰਤੋ"</string>
@@ -553,16 +553,16 @@
     <string name="private_space_fingerprint_unlock_title" msgid="3614016453395789051">"ਪ੍ਰਾਈਵੇਟ ਸਪੇਸ ਲਈ ਫਿੰਗਰਪ੍ਰਿੰਟ ਅਣਲਾਕ"</string>
     <string name="private_space_face_unlock_title" msgid="462248384776453613">"ਪ੍ਰਾਈਵੇਟ ਸਪੇਸ ਲਈ ਫ਼ੇਸ ਅਣਲਾਕ"</string>
     <string name="private_space_category_ways_to_unlock" msgid="4356631225316950046">"ਅਣਲਾਕ ਕਰਨ ਦੇ ਤਰੀਕੇ"</string>
-    <string name="private_space_screen_lock_summary" msgid="394837965365561070">"ਡੀਵਾਈਸ ਸਕ੍ਰੀਨ ਲਾਕ ਵਰਗਾ"</string>
+    <string name="private_space_screen_lock_summary" msgid="394837965365561070">"ਡੀਵਾਈਸ ਸਕ੍ਰੀਨ ਲਾਕ ਹੀ"</string>
     <string name="private_space_new_lock_title" msgid="9056139964133004094">"ਕੀ ਪ੍ਰਾਈਵੇਟ ਸਪੇਸ ਲਈ ਨਵਾਂ ਲਾਕ ਚੁਣਨਾ ਹੈ?"</string>
-    <string name="private_space_auto_lock_title" msgid="8663409382910601261">"ਪ੍ਰਾਈਵੇਟ ਸਪੇਸ ਆਪਣੇ ਆਪ ਲਾਕ ਹੋਣ ਦੀ ਸੁਵਿਧਾ ਪ੍ਰਾਪਤ ਕਰੋ"</string>
-    <string name="private_space_auto_lock_page_summary" msgid="8679844515655838654">"ਜੇ ਤੁਸੀਂ ਕੁਝ ਸਮੇਂ ਲਈ ਆਪਣੇ ਡੀਵਾਈਸ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਹੈ, ਤਾਂ ਤੁਹਾਡੇ ਕੋਲ ਇਹ ਵਿਕਲਪ ਹੈ ਕਿ ਤੁਹਾਡੀ ਨਿੱਜੀ ਸਪੇਸ ਆਪਣੇ ਆਪ ਲਾਕ ਹੋ ਜਾਵੇਗੀ"</string>
+    <string name="private_space_auto_lock_title" msgid="8663409382910601261">"ਪ੍ਰਾਈਵੇਟ ਸਪੇਸ ਆਪਣੇ ਆਪ ਲਾਕ ਹੋਣਾ"</string>
+    <string name="private_space_auto_lock_page_summary" msgid="8679844515655838654">"ਤੁਹਾਡੇ ਕੋਲ ਇਹ ਚੁਣਨ ਦਾ ਵਿਕਲਪ ਹੈ ਕਿ ਜੇ ਤੁਸੀਂ ਕੁਝ ਸਮੇਂ ਲਈ ਆਪਣੇ ਡੀਵਾਈਸ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਹੈ, ਤਾਂ ਤੁਹਾਡੀ ਪ੍ਰਾਈਵੇਟ ਸਪੇਸ ਆਪਣੇ-ਆਪ ਲਾਕ ਹੋ ਜਾਵੇ"</string>
     <string name="private_space_auto_lock_every_time" msgid="1215061855836002830">"ਹਰ ਵਾਰ ਡੀਵਾਈਸ ਦੇ ਲਾਕ ਹੋਣ \'ਤੇ"</string>
     <string name="private_space_auto_lock_after_inactivity" msgid="1748673030841528649">"ਅਕਿਰਿਆਸ਼ੀਲਤਾ ਦੇ 5 ਮਿੰਟ ਬਾਅਦ"</string>
     <string name="private_space_auto_lock_never" msgid="595014527119778873">"ਕਦੇ ਵੀ ਨਹੀਂ"</string>
     <string name="private_space_hide_title" msgid="8687034008994037610">"ਲਾਕ ਹੋਣ \'ਤੇ ਲੁਕਾਓ"</string>
     <string name="privatespace_hide_page_title" msgid="8417507414027827566">"ਲਾਕ ਹੋਣ \'ਤੇ ਪ੍ਰਾਈਵੇਟ ਸਪੇਸ ਨੂੰ ਲੁਕਾਓ"</string>
-    <string name="privatespace_hide_page_summary" msgid="5525422595477989312">"ਹੋਰ ਲੋਕਾਂ ਤੋਂ ਤੁਹਾਡੇ ਡੀਵਾਈਸ \'ਤੇ ਪ੍ਰਾਈਵੇਟ ਸਪੇਸ ਦੀ ਮੌਜੂਦਗੀ ਨੂੰ ਲੁਕਾਉਣ ਲਈ, ਤੁਸੀਂ ਇਸਨੂੰ ਆਪਣੀ ਐਪ ਸੂਚੀ ਤੋਂ ਲੁਕਾ ਸਕਦੇ ਹੋ"</string>
+    <string name="privatespace_hide_page_summary" msgid="5525422595477989312">"ਤੁਹਾਡੇ ਡੀਵਾਈਸ \'ਤੇ ਪ੍ਰਾਈਵੇਟ ਸਪੇਸ ਦੀ ਮੌਜੂਦਗੀ ਨੂੰ ਹੋਰ ਲੋਕਾਂ ਤੋਂ ਲੁਕਾਉਣ ਲਈ, ਤੁਸੀਂ ਇਸਨੂੰ ਆਪਣੀ ਐਪ ਸੂਚੀ ਤੋਂ ਲੁਕਾ ਸਕਦੇ ਹੋ"</string>
     <string name="privatespace_access_header" msgid="6066826215718835041">"ਲੁਕੀ ਹੋਈ ਹੋਣ \'ਤੇ ਪ੍ਰਾਈਵੇਟ ਸਪੇਸ ਤੱਕ ਪਹੁੰਚ ਕਰੋ"</string>
     <string name="privatespace_search_description" msgid="3121043205513022357">"ਆਪਣੀ ਐਪ ਸੂਚੀ ਤੋਂ, ਖੋਜ ਪੱਟੀ ਵਿੱਚ \"ਪ੍ਰਾਈਵੇਟ ਸਪੇਸ\" ਦਾਖਲ ਕਰੋ"</string>
     <string name="privatespace_tap_tile_description" msgid="8346440188590931635">"ਪ੍ਰਾਈਵੇਟ ਸਪੇਸ ਟਾਇਲ \'ਤੇ ਟੈਪ ਕਰੋ"</string>
@@ -613,7 +613,7 @@
     <string name="private_space_continue_login_label" msgid="7779965766333065391">"ਜਾਰੀ ਰੱਖੋ"</string>
     <string name="private_space_lock_setup_title" msgid="6541564212199510787">"ਆਪਣੀ ਨਿੱਜੀ ਸਪੇਸ ਲਈ ਲਾਕ ਚੁਣੋ"</string>
     <string name="private_space_lock_setup_description" msgid="423405593476300918">"ਤੁਸੀਂ ਆਪਣੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਦੀ ਵਰਤੋਂ ਕਰ ਕੇ ਆਪਣੀ ਪ੍ਰਾਈਵੇਟ ਸਪੇਸ ਨੂੰ ਅਣਲਾਕ ਕਰ ਸਕਦੇ ਹੋ। ਸੁਰੱਖਿਆ ਲਈ, ਇਸ ਵਿਕਲਪ ਨੂੰ ਬੈਕਅੱਪ ਲਾਕ ਦੀ ਲੋੜ ਹੈ।"</string>
-    <string name="private_space_choose_your_pin_header" msgid="4560802934975898265">"ਆਪਣੀ ਨਿੱਜੀ ਸਪੇਸ ਲਈ ਪਿੰਨ ਸੈੱਟ ਕਰੋ"</string>
+    <string name="private_space_choose_your_pin_header" msgid="4560802934975898265">"ਆਪਣੀ ਪ੍ਰਾਈਵੇਟ ਸਪੇਸ ਲਈ ਪਿੰਨ ਸੈੱਟ ਕਰੋ"</string>
     <string name="private_space_choose_your_password_header" msgid="7660259341095044434">"ਆਪਣੀ ਨਿੱਜੀ ਸਪੇਸ ਲਈ ਪਾਸਵਰਡ ਸੈੱਟ ਕਰੋ"</string>
     <string name="private_space_choose_your_pattern_header" msgid="2165607102459936724">"ਆਪਣੀ ਨਿੱਜੀ ਸਪੇਸ ਲਈ ਪੈਟਰਨ ਸੈੱਟ ਕਰੋ"</string>
     <string name="private_space_apps_and_notifications_header" msgid="7493922100321972687">"ਐਪਾਂ ਅਤੇ ਸੂਚਨਾਵਾਂ"</string>
@@ -831,11 +831,11 @@
     <string name="nfc_stack_debuglog_title" msgid="2926748386805740609">"NFC ਸਟੈਕ ਡੀਬੱਗ ਲੌਗ"</string>
     <string name="nfc_stack_debuglog_summary" msgid="7333205107551132121">"NFC ਸਟੈਕ ਲੌਗਿੰਗ ਪੱਧਰ ਵਧਾਓ"</string>
     <string name="nfc_verbose_vendor_log_title" msgid="5554505631122964628">"NFC ਵਰਬੋਸ ਵਿਕਰੇਤਾ ਡੀਬੱਗ ਲੌਗ"</string>
-    <string name="nfc_verbose_vendor_log_summary" msgid="3049128322855928507">"ਬੱਗ ਰਿਪੋਰਟਾਂ ਵਿੱਚ ਵਧੀਕ ਡੀਵਾਈਸ ਨਾਲ ਸੰਬੰਧਿਤ ਵਿਕਰੇਤਾ ਲੌਗ ਸ਼ਾਮਲ ਕਰੋ, ਜਿਨ੍ਹਾਂ ਵਿੱਚ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਸ਼ਾਮਲ ਹੋ ਸਕਦੀ ਹੈ।"</string>
+    <string name="nfc_verbose_vendor_log_summary" msgid="3049128322855928507">"ਬੱਗ ਰਿਪੋਰਟਾਂ ਵਿੱਚ ਵਧੀਕ ਡੀਵਾਈਸ ਨਾਲ ਸੰਬੰਧਿਤ ਵਿਕਰੇਤਾ ਲੌਗ ਸ਼ਾਮਲ ਕਰੋ, ਜਿਨ੍ਹਾਂ ਵਿੱਚ ਪ੍ਰਾਈਵੇਟ ਜਾਣਕਾਰੀ ਸ਼ਾਮਲ ਹੋ ਸਕਦੀ ਹੈ।"</string>
     <string name="nfc_snoop_log_title" msgid="1576197495976952388">"NFC NCI ਦਾ ਫਿਲਟਰ-ਰਹਿਤ ਲੌਗ"</string>
-    <string name="nfc_snoop_log_summary" msgid="3988383328800163180">"ਵੇਰਵੇ ਵਾਲੇ NFC ਪੈਕੇਟਾਂ ਨੂੰ ਕੈਪਚਰ ਕਰੋ, ਜਿਨ੍ਹਾਂ ਵਿੱਚ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਸ਼ਾਮਲ ਹੋ ਸਕਦੀ ਹੈ।"</string>
+    <string name="nfc_snoop_log_summary" msgid="3988383328800163180">"ਵੇਰਵੇ ਵਾਲੇ NFC ਪੈਕੇਟਾਂ ਨੂੰ ਕੈਪਚਰ ਕਰੋ, ਜਿਨ੍ਹਾਂ ਵਿੱਚ ਪ੍ਰਾਈਵੇਟ ਜਾਣਕਾਰੀ ਸ਼ਾਮਲ ਹੋ ਸਕਦੀ ਹੈ।"</string>
     <string name="nfc_reboot_dialog_title" msgid="2033983438635768169">"ਕੀ ਡੀਵਾਈਸ ਮੁੜ-ਸ਼ੁਰੂ ਕਰਨਾ ਹੈ?"</string>
-    <string name="nfc_reboot_dialog_message" msgid="4929353168157966992">"ਵੇਰਵੇ ਵਾਲੀ NFC ਲੌਗਿੰਗ ਨੂੰ ਸਿਰਫ਼ ਵਿਕਾਸ ਦੇ ਉਦੇਸ਼ਾਂ ਲਈ ਬਣਾਇਆ ਗਿਆ ਹੈ। ਬੱਗ ਰਿਪੋਰਟਾਂ ਵਿੱਚ ਵਧੀਕ NFC ਡਾਟਾ ਸ਼ਾਮਲ ਹੁੰਦਾ ਹੈ, ਜਿਨ੍ਹਾਂ ਵਿੱਚ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਸ਼ਾਮਲ ਹੋ ਸਕਦੀ ਹੈ। ਇਸ ਸੈਟਿੰਗ ਨੂੰ ਬਦਲਣ ਲਈ ਆਪਣਾ ਡੀਵਾਈਸ ਮੁੜ-ਸ਼ੁਰੂ ਕਰੋ।"</string>
+    <string name="nfc_reboot_dialog_message" msgid="4929353168157966992">"ਵੇਰਵੇ ਵਾਲੀ NFC ਲੌਗਿੰਗ ਨੂੰ ਸਿਰਫ਼ ਵਿਕਾਸ ਦੇ ਉਦੇਸ਼ਾਂ ਲਈ ਬਣਾਇਆ ਗਿਆ ਹੈ। ਬੱਗ ਰਿਪੋਰਟਾਂ ਵਿੱਚ ਵਧੀਕ NFC ਡਾਟਾ ਸ਼ਾਮਲ ਹੁੰਦਾ ਹੈ, ਜਿਨ੍ਹਾਂ ਵਿੱਚ ਪ੍ਰਾਈਵੇਟ ਜਾਣਕਾਰੀ ਸ਼ਾਮਲ ਹੋ ਸਕਦੀ ਹੈ। ਇਸ ਸੈਟਿੰਗ ਨੂੰ ਬਦਲਣ ਲਈ ਆਪਣਾ ਡੀਵਾਈਸ ਮੁੜ-ਸ਼ੁਰੂ ਕਰੋ।"</string>
     <string name="nfc_reboot_dialog_confirm" msgid="4769763632008584567">"ਮੁੜ-ਸ਼ੁਰੂ ਕਰੋ"</string>
     <string name="wifi_display_settings_title" msgid="6451625615274960175">"ਕਾਸਟ ਕਰੋ"</string>
     <string name="keywords_wifi_display_settings" msgid="5753883229564422679">"ਸ਼ੀਸ਼ਾ"</string>
@@ -1180,7 +1180,7 @@
     <string name="display_white_balance_summary" msgid="7625456704950209050"></string>
     <string name="fold_lock_behavior_title" msgid="786228803694268449">"ਫੋਲਡ ਕਰਨ \'ਤੇ ਵੀ ਐਪਾਂ ਨੂੰ ਵਰਤਣਾ ਜਾਰੀ ਰੱਖੋ"</string>
     <string name="disable_game_default_frame_rate_title" msgid="3712908601744143753">"ਗੇਮਾਂ ਲਈ ਪੂਰਵ-ਨਿਰਧਾਰਿਤ ਫ੍ਰੇਮ ਰੇਟ ਨੂੰ ਬੰਦ ਕਰੋ"</string>
-    <string name="disable_game_default_frame_rate_summary" msgid="4436762704707434225">"<xliff:g id="FRAME_RATE">%1$d</xliff:g> Hz \'ਤੇ ਗੇਮਾਂ ਲਈ ਵੱਧ ਤੋਂ ਵੱਧ ਫ੍ਰੇਮ ਰੇਟ ਨੂੰ ਸੀਮਤ ਕਰਨ ਨੂੰ ਬੰਦ ਕਰੋ।"</string>
+    <string name="disable_game_default_frame_rate_summary" msgid="4436762704707434225">"ਗੇਮਾਂ ਲਈ ਵੱਧ ਤੋਂ ਵੱਧ ਫ੍ਰੇਮ ਰੇਟ ਨੂੰ <xliff:g id="FRAME_RATE">%1$d</xliff:g> Hz \'ਤੇ ਸੀਮਤ ਕਰਨ ਨੂੰ ਬੰਦ ਕਰੋ।"</string>
     <string name="peak_refresh_rate_title" msgid="2056355754210341011">"ਸਮੂਥ ਡਿਸਪਲੇ"</string>
     <string name="peak_refresh_rate_summary" msgid="3212309985294885790">"ਸਵੈਚਲਿਤ ਤੌਰ \'ਤੇ ਕੁਝ ਸਮੱਗਰੀ ਲਈ ਰਿਫ੍ਰੈਸ਼ ਦਰ ਨੂੰ ਵਧਾ ਕੇ <xliff:g id="ID_1">%1$d</xliff:g> Hz ਤੱਕ ਕਰ ਦਿੰਦੀ ਹੈ। ਬੈਟਰੀ ਵਰਤੋਂ ਵੱਧ ਜਾਂਦੀ ਹੈ।"</string>
     <string name="force_high_refresh_rate_toggle" msgid="3325789621928312050">"ਉੱਚ ਰਿਫ੍ਰੈਸ਼ ਦਰ ਸੈੱਟ ਕਰੋ"</string>
@@ -1200,7 +1200,7 @@
     <string name="auto_rotate_summary_no_permission" msgid="1025061139746254554">"\'ਚਿਹਰਾ ਪਛਾਣ\' ਲਈ ਕੈਮਰੇ ਤੱਕ ਪਹੁੰਚ ਲੋੜੀਂਦੀ ਹੈ। ਡੀਵਾਈਸ ਵਿਅਕਤੀਗਤਕਰਨ ਸੇਵਾਵਾਂ ਵਾਸਤੇ ਇਜਾਜ਼ਤਾਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰਨ ਲਈ ਟੈਪ ਕਰੋ"</string>
     <string name="auto_rotate_manage_permission_button" msgid="2591146085906382385">"ਇਜਾਜ਼ਤਾਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰੋ"</string>
     <string name="night_display_title" msgid="8532432776487216581">"ਨਾਈਟ ਲਾਈਟ"</string>
-    <string name="night_display_text" msgid="4789324042428095383">"\'ਰਾਤ ਦੀ ਰੋਸ਼ਨੀ\' ਤੁਹਾਡੀ ਸਕ੍ਰੀਨ ਨੂੰ ਭੂਰੇ ਪੀਲੇ ਰੰਗ ਦੀ ਭਾਹ ਦਿੰਦੀ ਹੈ। ਇਸ ਨਾਲ ਮੱਧਮ ਰੋਸ਼ਨੀ ਵਿੱਚ ਤੁਹਾਡੀ ਸਕ੍ਰੀਨ ਨੂੰ ਦੇਖਣਾ ਜਾਂ ਪੜ੍ਹਨਾ ਜ਼ਿਆਦਾ ਆਸਾਨ ਹੋ ਜਾਂਦਾ ਹੈ ਅਤੇ ਤੁਹਾਨੂੰ ਜ਼ਿਆਦਾ ਆਸਾਨੀ ਨਾਲ ਸੌਣ ਵਿੱਚ ਮਦਦ ਮਿਲ ਸਕਦੀ ਹੈ।"</string>
+    <string name="night_display_text" msgid="4789324042428095383">"ਨਾਈਟ ਲਾਈਟ ਤੁਹਾਡੀ ਸਕ੍ਰੀਨ ਨੂੰ ਭੂਰੇ ਪੀਲੇ ਰੰਗ ਦੀ ਭਾਹ ਦਿੰਦੀ ਹੈ। ਇਸ ਨਾਲ ਮੱਧਮ ਰੋਸ਼ਨੀ ਵਿੱਚ ਤੁਹਾਡੀ ਸਕ੍ਰੀਨ ਨੂੰ ਦੇਖਣਾ ਜਾਂ ਪੜ੍ਹਨਾ ਜ਼ਿਆਦਾ ਆਸਾਨ ਹੋ ਜਾਂਦਾ ਹੈ ਅਤੇ ਤੁਹਾਨੂੰ ਜ਼ਿਆਦਾ ਆਸਾਨੀ ਨਾਲ ਸੌਣ ਵਿੱਚ ਮਦਦ ਮਿਲ ਸਕਦੀ ਹੈ।"</string>
     <string name="night_display_auto_mode_title" msgid="5869128421470824381">"ਸਮਾਂ-ਸੂਚੀ"</string>
     <string name="night_display_auto_mode_never" msgid="2721729920187175239">"ਕੋਈ ਨਹੀਂ"</string>
     <string name="night_display_auto_mode_custom" msgid="3938791496034086916">"ਵਿਉਂਂਤੇ ਸਮੇਂ \'ਤੇ ਚਾਲੂ ਹੋ ਜਾਂਦੀ ਹੈ"</string>
@@ -1214,7 +1214,7 @@
     <string name="night_display_summary_on_auto_mode_never" msgid="832333009202889350">"ਆਪਣੇ ਆਪ ਕਦੇ ਵੀ ਬੰਦ ਨਹੀਂ ਹੋਵੇਗੀ"</string>
     <string name="night_display_summary_on_auto_mode_custom" msgid="2096677025343425755">"<xliff:g id="ID_1">%1$s</xliff:g> ਨੂੰ ਆਪਣੇ ਆਪ ਬੰਦ ਹੋ ਜਾਵੇਗੀ"</string>
     <string name="night_display_summary_on_auto_mode_twilight" msgid="8070517472000680361">"ਸੂਰਜ ਚੜ੍ਹਨ ਸਮੇਂ ਆਪਣੇ ਆਪ ਬੰਦ ਹੋ ਜਾਵੇਗੀ"</string>
-    <string name="night_display_not_currently_on" msgid="6600205753103093827">"ਰਾਤ ਦੀ ਰੋਸ਼ਨੀ ਫਿਲਹਾਲ ਚਾਲੂ ਨਹੀਂ"</string>
+    <string name="night_display_not_currently_on" msgid="6600205753103093827">"ਨਾਈਟ ਲਾਈਟ ਫਿਲਹਾਲ ਚਾਲੂ ਨਹੀਂ"</string>
     <string name="twilight_mode_location_off_dialog_message" msgid="4559150893687124801">"ਸੂਰਜ ਚੜ੍ਹਨ ਅਤੇ ਛਿਪਣ ਦੇ ਸਮੇਂ ਦਾ ਪਤਾ ਲਗਾਉਣ ਲਈ ਡੀਵਾਈਸ ਟਿਕਾਣੇ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ।"</string>
     <string name="twilight_mode_launch_location" msgid="7799112373591153956">"ਟਿਕਾਣਾ ਸੈਟਿੰਗਾਂ"</string>
     <string name="dark_ui_activation_on_manual" msgid="1541006734577325234">"ਹੁਣੇ ਚਾਲੂ ਕਰੋ"</string>
@@ -1421,7 +1421,7 @@
     <string name="battery_level_title" msgid="1371765298786083448">"ਬੈਟਰੀ ਪੱਧਰ"</string>
     <string name="communal_settings_title" msgid="2845678473945902115">"ਭਾਈਚਾਰਕ"</string>
     <string name="communal_settings_summary" msgid="4923914136953940317">"ਭਾਈਚਾਰਕ ਸੈਟਿੰਗਾਂ"</string>
-    <string name="satellite_setting" msgid="706846910912477125">"ਸੈਟੇਲਾਈਟ ਸੁਨੇਹਾ"</string>
+    <string name="satellite_setting" msgid="4171265534842459910">"ਸੈਟੇਲਾਈਟ ਸੁਨੇਹੇ"</string>
     <string name="apn_settings" msgid="4295467389400441299">"APN"</string>
     <string name="apn_edit" msgid="2003683641840248741">"ਪਹੁੰਚ ਬਿੰਦੂ ਦਾ ਸੰਪਾਦਨ ਕਰੋ"</string>
     <string name="apn_add" msgid="9069613192201630934">"ਪਹੁੰਚ ਬਿੰਦੂ ਨੂੰ ਸ਼ਾਮਲ ਕਰੋ"</string>
@@ -1474,7 +1474,7 @@
     <string name="reset_bluetooth_wifi_desc" msgid="4030295669083059711">"ਇਸ ਨਾਲ ਸਾਰੀਆਂ ਵਾਈ-ਫਾਈ ਅਤੇ ਬਲੂਟੁੱਥ ਸੈਟਿੰਗਾਂ ਰੀਸੈੱਟ ਹੋ ਜਾਣਗੀਆਂ। ਤੁਸੀਂ ਇਸ ਕਾਰਵਾਈ ਨੂੰ ਅਣਕੀਤਾ ਨਹੀਂ ਕਰ ਸਕਦੇ।"</string>
     <string name="reset_bluetooth_wifi_button_text" msgid="3974098137045963639">"ਰੀਸੈੱਟ ਕਰੋ"</string>
     <string name="reset_bluetooth_wifi_complete_toast" msgid="5893439291030574365">"ਬਲੂਟੁੱਥ ਅਤੇ ਵਾਈ-ਫਾਈ ਨੂੰ ਰੀਸੈੱਟ ਕੀਤਾ ਗਿਆ ਹੈ"</string>
-    <string name="reset_esim_title" msgid="4194570573425902754">"eSIMs ਨੂੰ ਮਿਟਾਓ"</string>
+    <string name="reset_esim_title" msgid="4194570573425902754">"ਈ-ਸਿਮਾਂ ਨੂੰ ਮਿਟਾਓ"</string>
     <string name="reset_esim_desc" msgid="6125192435907740751">"ਇਸ ਨਾਲ ਤੁਹਾਡਾ ਮੋਬਾਈਲ ਸੇਵਾ ਪਲਾਨ ਰੱਦ ਨਹੀਂ ਹੋਵੇਗਾ। ਰਿਪਲੇਸਮੈਂਟ ਸਿਮ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ, ਆਪਣੇ ਕੈਰੀਅਰ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।"</string>
     <string name="reset_network_button_text" msgid="2281476496459610071">"ਸੈਟਿੰਗਾਂ ਰੀਸੈੱਟ ਕਰੋ"</string>
     <string name="reset_network_final_desc" msgid="5304365082065278425">"ਕੀ ਸਾਰੀਆਂ ਨੈੱਟਵਰਕ ਸੈਟਿੰਗਾਂ ਰੀਸੈੱਟ ਕਰਨੀਆਂ ਹਨ? ਤੁਸੀਂ ਇਸ ਕਾਰਵਾਈ ਨੂੰ ਅਣਕੀਤਾ ਨਹੀਂ ਕਰ ਸਕਦੇ।"</string>
@@ -1625,7 +1625,7 @@
     <string name="lockpassword_forgot_password" msgid="5730587692489737223">"ਕੀ ਆਪਣਾ ਪਾਸਵਰਡ ਭੁੱਲ ਗਏ?"</string>
     <string name="lockpassword_forgot_pattern" msgid="1196116549051927516">"ਕੀ ਆਪਣਾ ਪੈਟਰਨ ਭੁੱਲ ਗਏ?"</string>
     <string name="lockpassword_forgot_pin" msgid="7164232234705747672">"ਕੀ ਆਪਣਾ ਪਿੰਨ ਭੁੱਲ ਗਏ?"</string>
-    <string name="lockpassword_confirm_your_pattern_generic" msgid="7401165571170203743">"ਜਾਰੀ ਰੱਖਣ ਲਈ ਆਪਣਾ ਪੈਟਰਨ ਬਣਾਓ"</string>
+    <string name="lockpassword_confirm_your_pattern_generic" msgid="7401165571170203743">"ਜਾਰੀ ਰੱਖਣ ਲਈ ਆਪਣਾ ਪੈਟਰਨ ਉਲੀਕੋ"</string>
     <string name="lockpassword_confirm_your_pin_generic" msgid="8990266101852808091">"ਜਾਰੀ ਰੱਖਣ ਲਈ ਆਪਣਾ ਪਿੰਨ ਦਾਖਲ ਕਰੋ"</string>
     <string name="lockpassword_confirm_your_password_generic" msgid="8823867445451497224">"ਜਾਰੀ ਰੱਖਣ ਲਈ ਆਪਣਾ ਪਾਸਵਰਡ ਦਾਖਲ ਕਰੋ"</string>
     <string name="lockpassword_confirm_your_pattern_generic_profile" msgid="7003851856761939690">"ਜਾਰੀ ਰੱਖਣ ਲਈ ਆਪਣਾ ਕੰਮ ਸੰਬੰਧੀ ਪੈਟਰਨ ਬਣਾਓ"</string>
@@ -1679,7 +1679,7 @@
     <string name="lockpattern_settings_enhanced_pin_privacy_summary" msgid="8639588868341114740">"ਪਿੰਨ ਦਾਖਲ ਕਰਨ ਵੇਲੇ ਐਨੀਮੇਸ਼ਨਾਂ ਨੂੰ ਬੰਦ ਕਰੋ"</string>
     <string name="lockpattern_settings_enable_visible_pattern_title_profile" msgid="5138189101808127489">"ਪ੍ਰੋਫਾਈਲ ਪੈਟਰਨ ਨੂੰ ਦਿਖਣਯੋਗ ਬਣਾਓ"</string>
     <string name="lockpattern_settings_enable_tactile_feedback_title" msgid="2273374883831956787">"ਟੈਪ \'ਤੇ ਥਰਥਰਾਹਟ ਕਰੋ"</string>
-    <string name="lockpattern_settings_enable_power_button_instantly_locks" msgid="1638619728773344099">"ਪਾਵਰ ਬਟਨ ਨਾਲ ਤੁਰੰਤ ਲਾਕ ਹੁੰਦਾ ਹੈ"</string>
+    <string name="lockpattern_settings_enable_power_button_instantly_locks" msgid="1638619728773344099">"ਪਾਵਰ ਬਟਨ ਨਾਲ ਤੁਰੰਤ ਲਾਕ ਹੋਵੇ"</string>
     <string name="lockpattern_settings_power_button_instantly_locks_summary" msgid="2202430156268094229">"ਸਿਵਾਏ ਇਸਦੇ ਜਦੋਂ <xliff:g id="TRUST_AGENT_NAME">%1$s</xliff:g> ਵੱਲੋਂ ਅਣਲਾਕ ਰੱਖਿਆ ਹੋਵੇ"</string>
     <string name="lockpattern_settings_choose_lock_pattern" msgid="2193588309557281466">"ਅਣਲਾਕ ਪੈਟਰਨ ਸੈੱਟ ਕਰੋ"</string>
     <string name="lockpattern_settings_change_lock_pattern" msgid="7614155083815661347">"ਅਣਲਾਕ ਪੈਟਰਨ ਬਦਲੋ"</string>
@@ -1874,7 +1874,7 @@
     <string name="show_ime_summary" msgid="7293345791727205975">"ਭੌਤਿਕ ਕੀ-ਬੋਰਡ ਕਿਰਿਆਸ਼ੀਲ ਹੋਣ ਦੌਰਾਨ ਇਸ ਨੂੰ ਸਕ੍ਰੀਨ \'ਤੇ ਬਣਾਈ ਰੱਖੋ"</string>
     <string name="bounce_keys" msgid="7419450970351743904">"ਬਾਊਂਸ ਕੁੰਜੀਆਂ"</string>
     <string name="bounce_keys_summary" msgid="7347050868868080302">"<xliff:g id="BOUNCE_KEYS_THRESHOLD">%1$d</xliff:g> ਮਿਲੀਸਕਿੰਟਾਂ ਵਿੱਚ ਵਾਰ-ਵਾਰ ਇੱਕੋ ਕੁੰਜੀ ਨੂੰ ਦਬਾਉਂਦੇ ਰਹਿਣ \'ਤੇ ਕੀ-ਬੋਰਡ ਉਸਨੂੰ ਅਣਡਿੱਠ ਕਰ ਦਿੰਦਾ ਹੈ"</string>
-    <string name="slow_keys" msgid="2891452895499690837">"ਧੀਵੀਂ ਕੁੰਜੀਆਂ"</string>
+    <string name="slow_keys" msgid="2891452895499690837">"ਸਲੋ ਕੁੰਜੀਆਂ"</string>
     <string name="slow_keys_summary" msgid="1784371292745423292">"ਕਿਸੇ ਕੁੰਜੀ ਨੂੰ ਕਿਰਿਆਸ਼ੀਲ ਕਰਨ ਵਿੱਚ ਲੱਗਣ ਵਾਲੇ ਸਮੇਂ ਨੂੰ <xliff:g id="SLOW_KEYS_THRESHOLD">%1$d</xliff:g> ਮਿਲੀਸਕਿੰਟਾਂ ਤੱਕ ਵਿਵਸਥਿਤ ਕਰਦਾ ਹੈ"</string>
     <string name="sticky_keys" msgid="7317317044898161747">"ਸਥਿਰ ਕੁੰਜੀਆਂ"</string>
     <string name="sticky_keys_summary" msgid="1844953803625480623">"ਸ਼ਾਰਟਕੱਟਾਂ ਲਈ ਕੁੰਜੀਆਂ ਨੂੰ ਇਕੱਠੇ ਦਬਾਈ ਰੱਖਣ ਦੀ ਬਜਾਏ ਇੱਕ ਵਾਰ ਵਿੱਚ ਇੱਕ ਕੁੰਜੀ ਦਬਾਓ"</string>
@@ -2131,7 +2131,7 @@
     <string name="accessibility_button_gesture_footer_learn_more_content_description" msgid="4144803517680297869">"ਪਹੁੰਚਯੋਗਤਾ ਬਟਨ ਅਤੇ ਇਸ਼ਾਰੇ ਬਾਰੇ ਹੋਰ ਜਾਣੋ"</string>
     <string name="accessibility_button_intro" msgid="2601976470525277903">"ਪਹੁੰਚਯੋਗਤਾ ਬਟਨ ਦੀ ਵਰਤੋਂ ਕਰਨਾ। ਇਸ਼ਾਰਾ 3-ਬਟਨ ਨੈਵੀਗੇਸ਼ਨ ਦੇ ਨਾਲ ਉਪਲਬਧ ਨਹੀਂ ਹੈ।"</string>
     <string name="accessibility_button_summary" msgid="8510939012631455831">"ਪਹੁੰਚਯੋਗਤਾ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਤੱਕ ਤੁਰੰਤ ਪਹੁੰਚ ਕਰੋ"</string>
-    <string name="accessibility_button_gesture_description" msgid="1141723096904904336">"&lt;b&gt;ਸ਼ੁਰੂਆਤ ਕਰਨ ਲਈ&lt;/b&gt;&lt;br/&gt; {0,number,integer}. ਪਹੁੰਚਯੋਗਤਾ ਸੈਟਿੰਗਾਂ \'ਤੇ ਜਾਓ&lt;br/&gt; {1,number,integer}. ਕੋਈ ਵਿਸ਼ੇਸ਼ਤਾ ਚੁਣੋ ਅਤੇ ਸ਼ਾਰਟਕੱਟ \'ਤੇ ਟੈਪ ਕਰੋ&lt;br/&gt; {2,number,integer}. ਚੁਣੋ ਕਿ ਤੁਸੀਂ ਵਿਸ਼ੇਸ਼ਤਾ ਤੱਕ ਪਹੁੰਚ ਕਰਨ ਲਈ ਬਟਨ ਦੀ ਵਰਤੋਂ ਕਰਨੀ ਹੈ ਜਾਂ ਫਿਰ ਇਸ਼ਾਰੇ ਦੀ&lt;br/&gt;"</string>
+    <string name="accessibility_button_gesture_description" msgid="1141723096904904336">"&lt;b&gt;ਸ਼ੁਰੂਆਤ ਕਰਨ ਲਈ&lt;/b&gt;&lt;br/&gt; {0,number,integer}. ਪਹੁੰਚਯੋਗਤਾ ਸੈਟਿੰਗਾਂ \'ਤੇ ਜਾਓ&lt;br/&gt; {1,number,integer}. ਕੋਈ ਵਿਸ਼ੇਸ਼ਤਾ ਚੁਣੋ ਅਤੇ ਸ਼ਾਰਟਕੱਟ \'ਤੇ ਟੈਪ ਕਰੋ&lt;br/&gt; {2,number,integer}. ਚੁਣੋ ਕਿ ਤੁਸੀਂ ਵਿਸ਼ੇਸ਼ਤਾ ਤੱਕ ਪਹੁੰਚ ਕਰਨ ਲਈ ਬਟਨ ਦੀ ਵਰਤੋਂ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ ਜਾਂ ਫਿਰ ਇਸ਼ਾਰੇ ਦੀ&lt;br/&gt;"</string>
     <string name="accessibility_button_description" msgid="7669538706120092399">"&lt;b&gt;ਸ਼ੁਰੂਆਤ ਕਰਨ ਲਈ&lt;/b&gt;&lt;br/&gt; {0,number,integer}. ਪਹੁੰਚਯੋਗਤਾ ਸੈਟਿੰਗਾਂ \'ਤੇ ਜਾਓ&lt;br/&gt; {1,number,integer}. ਕੋਈ ਵਿਸ਼ੇਸ਼ਤਾ ਚੁਣੋ ਅਤੇ ਸ਼ਾਰਟਕੱਟ \'ਤੇ ਟੈਪ ਕਰੋ&lt;br/&gt; {2,number,integer}. ਵਿਸ਼ੇਸ਼ਤਾ ਤੱਕ ਪਹੁੰਚ ਕਰਨ ਲਈ ਬਟਨ ਨੂੰ ਚੁਣੋ&lt;br/&gt;"</string>
     <string name="accessibility_button_or_gesture_title" msgid="3510075963401163529">"ਬਟਨ ਜਾਂ ਇਸ਼ਾਰਾ ਵਰਤੋ"</string>
     <string name="accessibility_button_location_title" msgid="7182107846092304942">"ਟਿਕਾਣਾ"</string>
@@ -2179,7 +2179,7 @@
     <string name="accessibility_action_label_panel_slice" msgid="1313725957071602932">"ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਜਾਣ ਲਈ"</string>
     <string name="accessibility_autoclick_preference_title" msgid="2703143361605555752">"ਸਵੈ-ਕਲਿੱਕ (ਉਡੀਕ ਦਾ ਸਮਾਂ)"</string>
     <string name="accessibility_autoclick_about_title" msgid="152923024405552594">"ਸਵੈ-ਕਲਿੱਕ (ਉਡੀਕ ਦਾ ਸਮਾਂ) ਬਾਰੇ"</string>
-    <string name="accessibility_autoclick_footer_learn_more_content_description" msgid="7056189627042350691">"ਸਵੈ-ਕਲਿੱਕ (ਉਡੀਕ ਦਾ ਸਮਾਂ) ਬਾਰੇ ਹੋਰ ਜਾਣੋ"</string>
+    <string name="accessibility_autoclick_footer_learn_more_content_description" msgid="7056189627042350691">"ਸਵੈ-ਕਲਿੱਕ (ਉਡੀਕ ਦੇ ਸਮੇਂ) ਬਾਰੇ ਹੋਰ ਜਾਣੋ"</string>
     <string name="accessibility_autoclick_intro_text" msgid="8959680635470639347">"ਤੁਸੀਂ ਕਰਸਰ ਦੇ ਕੁਝ ਦੇਰ ਤੱਕ ਚੱਲਣਾ ਬੰਦ ਹੋ ਜਾਣ \'ਤੇ ਕਨੈਕਟ ਕੀਤੇ ਮਾਊਸ ਨੂੰ ਸਵੈਚਲਿਤ ਤੌਰ \'ਤੇ ਕਲਿੱਕ ਕਰਨ ਲਈ ਸੈੱਟ ਕਰ ਸਕਦੇ ਹੋ"</string>
     <string name="accessibility_autoclick_description" msgid="6695732131412361101">"ਮਾਊਸ ਤੋਂ ਕਲਿੱਕ ਕਰਨਾ ਔਖਾ ਹੋਣ \'ਤੇ \'ਸਵੈ-ਕਲਿੱਕ\' ਵਿਸ਼ੇਸ਼ਤਾ ਲਾਹੇਵੰਦ ਹੋ ਸਕਦੀ ਹੈ"</string>
     <string name="accessibility_autoclick_default_title" msgid="2024730028293793490">"\'ਸਵੈ-ਕਲਿੱਕ\' ਵਿਸ਼ੇਸ਼ਤਾ ਬੰਦ ਹੈ"</string>
@@ -2337,10 +2337,10 @@
     <string name="touch_filtered_warning" msgid="4225815157460318241">"ਕਿਉਂਕਿ ਇੱਕ ਐਪ ਇੱਕ ਇਜਾਜ਼ਤ ਬੇਨਤੀ ਨੂੰ ਅਸਪਸ਼ਟ ਬਣਾ ਰਿਹਾ ਹੈ, ਸੈਟਿੰਗਾਂ ਤੁਹਾਡੇ ਜਵਾਬ ਦੀ ਜਾਂਚ ਨਹੀਂ ਕਰ ਸਕਦੀਆਂ।"</string>
     <string name="accessibility_service_warning" msgid="6779187188736432618">"<xliff:g id="SERVICE">%1$s</xliff:g> ਇਸ ਡੀਵਾਈਸ ਦੇ ਪੂਰੇ ਕੰਟਰੋਲ ਲਈ ਬੇਨਤੀ ਕਰ ਰਹੀ ਹੈ। ਸੇਵਾ ਸਕ੍ਰੀਨ ਨੂੰ ਪੜ੍ਹ ਕੇ ਪਹੁੰਚਯੋਗਤਾ ਜ਼ਰੂਰਤਾਂ ਵਾਲੇ ਵਰਤੋਂਕਾਰਾਂ ਵਜੋਂ ਕੰਮ ਕਰ ਸਕਦੀ ਹੈ। ਜ਼ਿਆਦਾਤਰ ਐਪਾਂ ਲਈ ਕੰਟਰੋਲ ਦਾ ਇਹ ਪੱਧਰ ਢੁਕਵਾਂ ਨਹੀਂ ਹੈ।"</string>
     <string name="accessibility_service_warning_description" msgid="6573203795976134751">"ਪੂਰਾ ਕੰਟਰੋਲ ਉਨ੍ਹਾਂ ਐਪਾਂ ਲਈ ਢੁਕਵਾਂ ਹੈ ਜੋ ਪਹੁੰਚਯੋਗਤਾ ਸੰਬੰਧੀ ਲੋੜਾਂ ਵਿੱਚ ਤੁਹਾਡੀ ਮਦਦ ਕਰਦੀਆਂ ਹਨ, ਪਰ ਜ਼ਿਆਦਾਤਰ ਐਪਾਂ ਲਈ ਢੁਕਵਾਂ ਨਹੀਂ ਹੁੰਦਾ।"</string>
-    <string name="accessibility_service_screen_control_title" msgid="324795030658109870">"ਸਕ੍ਰੀਨ ਨੂੰ ਦੇਖੋ ਅਤੇ ਕੰਟਰੋਲ ਕਰੋ"</string>
+    <string name="accessibility_service_screen_control_title" msgid="324795030658109870">"ਸਕ੍ਰੀਨ ਨੂੰ ਦੇਖਣਾ ਅਤੇ ਕੰਟਰੋਲ ਕਰਨਾ"</string>
     <string name="accessibility_service_screen_control_description" msgid="8431940515157990426">"ਇਹ ਸਕ੍ਰੀਨ \'ਤੇ ਸਾਰੀ ਸਮੱਗਰੀ ਪੜ੍ਹ ਸਕਦੀ ਹੈ ਅਤੇ ਸਮੱਗਰੀ ਨੂੰ ਦੂਜੀਆਂ ਐਪਾਂ ਦੇ ਉੱਪਰ ਦਿਖਾ ਸਕਦੀ ਹੈ।"</string>
-    <string name="accessibility_service_action_perform_title" msgid="1449360056585337833">"ਕਾਰਵਾਈਆਂ ਦੇਖੋ ਅਤੇ ਕਰੋ"</string>
-    <string name="accessibility_service_action_perform_description" msgid="7807832069800034738">"ਇਹ ਕਿਸੇ ਐਪ ਜਾਂ ਹਾਰਡਵੇਅਰ ਸੈਂਸਰ ਦੇ ਨਾਲ ਤੁਹਾਡੀਆਂ ਅੰਤਰਕਿਰਿਆਵਾਂ ਨੂੰ ਟਰੈਕ ਕਰ ਸਕਦੀ ਹੈ, ਅਤੇ ਤੁਹਾਡੀ ਤਰਫ਼ੋਂ ਐਪਾਂ ਦੇ ਨਾਲ ਅੰਤਰਕਿਰਿਆ ਕਰ ਸਕਦੀ ਹੈ।"</string>
+    <string name="accessibility_service_action_perform_title" msgid="1449360056585337833">"ਕਾਰਵਾਈਆਂ ਦੇਖਣਾ ਅਤੇ ਕਰਨਾ"</string>
+    <string name="accessibility_service_action_perform_description" msgid="7807832069800034738">"ਇਹ ਕਿਸੇ ਐਪ ਜਾਂ ਹਾਰਡਵੇਅਰ ਸੈਂਸਰ ਦੇ ਨਾਲ ਤੁਹਾਡੀਆਂ ਅੰਤਰਕਿਰਿਆਵਾਂ ਨੂੰ ਟਰੈਕ ਕਰ ਸਕਦੀ ਹੈ ਅਤੇ ਤੁਹਾਡੀ ਤਰਫ਼ੋਂ ਐਪਾਂ ਦੇ ਨਾਲ ਅੰਤਰਕਿਰਿਆ ਕਰ ਸਕਦੀ ਹੈ।"</string>
     <string name="accessibility_dialog_button_allow" msgid="8274918676473216697">"ਕਰਨ ਦਿਓ"</string>
     <string name="accessibility_dialog_button_deny" msgid="2037249860078259284">"ਨਾ ਕਰਨ ਦਿਓ"</string>
     <string name="accessibility_dialog_button_stop" msgid="7584815613743292151">"ਬੰਦ ਕਰੋ"</string>
@@ -3601,7 +3601,7 @@
     <string name="zen_mode_qs_set_behavior" msgid="3805244555649172848">"ਇਹ ਸੈਟਿੰਗਾਂ ਫਿਲਹਾਲ ਬਦਲੀਆਂ ਨਹੀਂ ਜਾ ਸਕਦੀਆਂ। ਵਿਉਂਤੇ ਵਤੀਰੇ ਨਾਲ ਹੱਥੀਂ \'ਪਰੇਸ਼ਾਨ ਨਾ ਕਰੋ\' ਮੋਡ ਚਾਲੂ ਕੀਤਾ ਗਿਆ।"</string>
     <string name="zen_schedule_rule_type_name" msgid="8071428540221112090">"ਸਮਾਂ"</string>
     <string name="zen_event_rule_type_name" msgid="1921166617081971754">"ਇਵੈਂਟ"</string>
-    <string name="zen_mode_event_rule_calendar" msgid="6279460374929508907">"ਇਸ ਲਈ ਇਵੈਂਟ ਦੇ ਦੌਰਾਨ"</string>
+    <string name="zen_mode_event_rule_calendar" msgid="6279460374929508907">"ਇਸ ਇਵੈਂਟ ਦੇ ਦੌਰਾਨ"</string>
     <string name="zen_mode_event_rule_calendar_any" msgid="5152139705998281205">"ਕੋਈ ਵੀ ਕੈਲੰਡਰ"</string>
     <string name="zen_mode_event_rule_reply" msgid="6099405414361340225">"ਜਿੱਥੇ ਜਵਾਬ ਇਹ ਹੈ"</string>
     <string name="zen_mode_event_rule_reply_any_except_no" msgid="4672746760505346596">"ਹਾਂ, ਸ਼ਾਇਦ, ਜਾਂ ਜਵਾਬ ਨਹੀਂ ਦਿੱਤਾ ਗਿਆ"</string>
@@ -3818,7 +3818,7 @@
     <string name="usage_access" msgid="5487993885373893282">"ਵਰਤੋਂ ਤੱਕ ਪਹੁੰਚ"</string>
     <string name="permit_usage_access" msgid="179630895262172674">"ਵਰਤੋਂ ਤੱਕ ਪਹੁੰਚ ਲਈ ਮਨਜ਼ੂਰੀ"</string>
     <string name="time_spent_in_app_pref_title" msgid="25327097913383330">"ਸਕ੍ਰੀਨ ਸਮਾਂ"</string>
-    <string name="usage_access_description" msgid="8547716253713890707">"\'ਵਰਤੋਂ ਤੱਕ ਪਹੁੰਚ\' ਨਾਲ ਕੋਈ ਐਪ ਇਸ ਚੀਜ਼ ਨੂੰ ਟਰੈਕ ਕਰ ਸਕਦੀ ਹੈ ਕਿ ਤੁਸੀਂ ਹੋਰ ਕਿਹੜੀਆਂ ਐਪਾਂ ਵਰਤ ਰਹੇ ਹੋ ਅਤੇ ਕਿੰਨੀ ਵਾਰ ਵਰਤ ਰਹੇ ਹੋ, ਨਾਲ ਹੀ ਇਸ ਨਾਲ ਤੁਹਾਡੇ ਕੈਰੀਅਰ, ਭਾਸ਼ਾ ਸੈਟਿੰਗਾਂ, ਅਤੇ ਹੋਰ ਵੇਰਵਿਆਂ ਨੂੰ ਵੀ ਟਰੈਕ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।"</string>
+    <string name="usage_access_description" msgid="8547716253713890707">"\'ਵਰਤੋਂ ਤੱਕ ਪਹੁੰਚ\' ਨਾਲ ਕੋਈ ਐਪ ਇਸ ਚੀਜ਼ ਨੂੰ ਟਰੈਕ ਕਰ ਸਕਦੀ ਹੈ ਕਿ ਤੁਸੀਂ ਹੋਰ ਕਿਹੜੀਆਂ ਐਪਾਂ ਵਰਤ ਰਹੇ ਹੋ ਅਤੇ ਕਿੰਨੀ ਵਾਰ ਵਰਤ ਰਹੇ ਹੋ, ਨਾਲ ਹੀ ਇਸ ਨਾਲ ਤੁਹਾਡੇ ਕੈਰੀਅਰ, ਭਾਸ਼ਾ ਸੈਟਿੰਗਾਂ ਅਤੇ ਹੋਰ ਵੇਰਵਿਆਂ ਨੂੰ ਵੀ ਟਰੈਕ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।"</string>
     <string name="memory_settings_title" msgid="6582588646363308430">"ਮੈਮੋਰੀ"</string>
     <string name="always_running" msgid="9012705720688200252">"ਹਮੇਸ਼ਾਂ ਚੱਲਦਾ ਹੈ (<xliff:g id="PERCENTAGE">%s</xliff:g>)"</string>
     <string name="sometimes_running" msgid="7954947311082655448">"ਕਦੇ-ਕਦਾਈਂ ਚੱਲਦਾ ਹੈ (<xliff:g id="PERCENTAGE">%s</xliff:g>)"</string>
@@ -3924,11 +3924,8 @@
     <string name="permit_manage_external_storage" msgid="6928847280689401761">"ਸਾਰੀਆਂ ਫ਼ਾਈਲਾਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰਨ ਦਿਓ"</string>
     <string name="allow_manage_external_storage_description" msgid="5707948153603253225">"ਇਸ ਐਪ ਨੂੰ ਇਸ ਡੀਵਾਈਸ ਜਾਂ ਇਸ ਨਾਲ ਕਨੈਕਟ ਕਿਸੇ ਵੀ ਸਟੋਰੇਜ ਭਾਗ ਦੀਆਂ ਸਾਰੀਆਂ ਫ਼ਾਈਲਾਂ ਨੂੰ ਪੜ੍ਹਨ, ਸੋਧਣ ਅਤੇ ਮਿਟਾਉਣ ਦੀ ਆਗਿਆ ਦਿਓ। ਜੇ ਇਜਾਜ਼ਤ ਦਿੱਤੀ ਜਾਂਦੀ ਹੈ, ਤਾਂ ਐਪ ਤੁਹਾਨੂੰ ਸੂਚਿਤ ਕੀਤੇ ਬਿਨਾਂ ਫ਼ਾਈਲਾਂ ਤੱਕ ਪਹੁੰਚ ਕਰ ਸਕਦੀ ਹੈ।"</string>
     <string name="filter_manage_external_storage" msgid="6751640571715343804">"ਇਹ ਸਾਰੀਆਂ ਫ਼ਾਈਲਾਂ ਤੱਕ ਪਹੁੰਚ ਕਰ ਸਕਦੀ ਹੈ"</string>
-    <string name="voice_activation_apps_title" msgid="7130045161611529825">"ਅਵਾਜ਼ੀ ਕਿਰਿਆਸ਼ੀਲਤਾ ਦੀ ਸੁਵਿਧਾ ਵਾਲੀਆਂ ਐਪਾਂ"</string>
-    <string name="permit_voice_activation_apps" msgid="9152780172988949319">"ਅਵਾਜ਼ੀ ਕਿਰਿਆਸ਼ੀਲਤਾ ਦੀ ਆਗਿਆ ਦਿਓ"</string>
-    <string name="allow_voice_activation_apps_description" msgid="6369745626995060656">"ਅਵਾਜ਼ੀ ਕਿਰਿਆਸ਼ੀਲਤਾ ਦੀ ਸੁਵਿਧਾ ਅਵਾਜ਼ੀ ਆਦੇਸ਼ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹੋਏ ਮਨਜ਼ੂਰਸ਼ੁਦਾ ਐਪਾਂ ਨੂੰ ਬਿਨਾਂ ਹੱਥ ਲਾਏ ਚਾਲੂ ਕਰਦੀ ਹੈ। ਬਿਲਟ-ਇਨ ਸੁਰੱਖਿਅਤ ਅਡੈਪਟਿਵ ਸੈਂਸਿੰਗ ਇਹ ਪੱਕਾ ਕਰਦੀ ਹੈ ਕਿ ਡਾਟਾ ਸਿਰਫ਼ ਤੁਹਾਡੇ ਲਈ ਹੀ ਨਿੱਜੀ ਰਹਿੰਦਾ ਹੈ।\n\n"<a href="">"ਸੁਰੱਖਿਅਤ ਅਡੈਪਟਿਵ ਸੈਂਸਿੰਗ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ"</a></string>
-    <string name="full_screen_intent_title" msgid="747270185715224130">"ਪੂਰੀ ਸਕ੍ਰੀਨ ਸੂਚਨਾਵਾਂ"</string>
-    <string name="permit_full_screen_intent" msgid="9035367640019960861">"ਇਸ ਐਪ ਤੋਂ ਪੂਰੀ ਸਕ੍ਰੀਨ ਸੂਚਨਾਵਾਂ ਦੀ ਆਗਿਆ ਦਿਓ"</string>
+    <string name="full_screen_intent_title" msgid="747270185715224130">"ਪੂਰੀ ਸਕ੍ਰੀਨ \'ਤੇ ਸੂਚਨਾਵਾਂ"</string>
+    <string name="permit_full_screen_intent" msgid="9035367640019960861">"ਇਸ ਐਪ ਤੋਂ ਸੂਚਨਾਵਾਂ ਨੂੰ ਪੂਰੀ ਸਕ੍ਰੀਨ \'ਤੇ ਦਿਖਾਉਣ ਦੀ ਆਗਿਆ ਦਿਓ"</string>
     <string name="footer_description_full_screen_intent" msgid="7716518411349225528">"ਇਸ ਐਪ ਨੂੰ ਉਹ ਸੂਚਨਾਵਾਂ ਦਿਖਾਉਣ ਦੀ ਆਗਿਆ ਦਿਓ ਜੋ ਡੀਵਾਈਸ ਲਾਕ ਹੋਣ \'ਤੇ ਪੂਰੀ ਸਕ੍ਰੀਨ ਵਿੱਚ ਦਿਖਾਈ ਦਿੰਦੀਆਂ ਹਨ। ਐਪਾਂ ਇਨ੍ਹਾਂ ਦੀ ਵਰਤੋਂ ਅਲਾਰਮਾਂ, ਇਨਕਮਿੰਗ ਕਾਲਾਂ ਜਾਂ ਹੋਰ ਜ਼ਰੂਰੀ ਸੂਚਨਾਵਾਂ ਨੂੰ ਉਜਾਗਰ ਕਰਨ ਲਈ ਕਰ ਸਕਦੀਆਂ ਹਨ।"</string>
     <string name="media_management_apps_title" msgid="8222942355578724582">"ਮੀਡੀਆ ਪ੍ਰਬੰਧਨ ਐਪਾਂ"</string>
     <string name="media_management_apps_toggle_label" msgid="166724270857067456">"ਐਪ ਨੂੰ ਮੀਡੀਆ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰਨ ਦਿਓ"</string>
@@ -3938,7 +3935,7 @@
     <string name="overlay_settings" msgid="2030836934139139469">"ਦੂਜੀਆਂ ਐਪਾਂ ਦੇ ਉੱਤੇ ਦਿਖਾਉਣਾ"</string>
     <string name="filter_overlay_apps" msgid="2483998217116789206">"ਅਨੁਮਤੀ ਵਾਲੀਆਂ ਐਪਸ"</string>
     <string name="app_permission_summary_allowed" msgid="1155115629167757278">"ਆਗਿਆ ਹੈ"</string>
-    <string name="app_permission_summary_not_allowed" msgid="2673793662439097900">"ਗੈਰ-ਮਨਜ਼ੂਰਸ਼ੁਦਾ"</string>
+    <string name="app_permission_summary_not_allowed" msgid="2673793662439097900">"ਆਗਿਆ ਨਹੀਂ ਹੈ"</string>
     <string name="keywords_install_other_apps" msgid="563895867658775580">"ਅਗਿਆਤ ਸਰੋਤ ਐਪਾਂ ਸਥਾਪਤ ਕਰੋ"</string>
     <string name="write_settings" msgid="6864794401614425894">"ਸਿਸਟਮ ਸੈਟਿੰਗਾਂ ਦਾ ਸੰਸ਼ੋਧਨ"</string>
     <string name="keywords_write_settings" msgid="6908708078855507813">"ਸੰਸ਼ੋਧਿਤ ਸਿਸਟਮ ਸੈਟਿੰਗਾਂ ਲਿਖੋ"</string>
@@ -4006,7 +4003,7 @@
     <string name="condition_device_muted_summary" msgid="3772178424510397327">"ਕਾਲਾਂ ਅਤੇ ਸੂਚਨਾਵਾਂ ਲਈ"</string>
     <string name="condition_device_vibrate_title" msgid="9058943409545158583">"ਸਿਰਫ਼ ਥਰਥਰਾਹਟ"</string>
     <string name="condition_device_vibrate_summary" msgid="7537724181691903202">"ਕਾਲਾਂ ਅਤੇ ਸੂਚਨਾਵਾਂ ਲਈ"</string>
-    <string name="night_display_suggestion_title" msgid="5418911386429667704">"ਰਾਤ ਦੀ ਰੋਸ਼ਨੀ ਸਬੰਧੀ ਸਮਾਂ-ਸੂਚੀ ਸੈੱਟ ਕਰੋ"</string>
+    <string name="night_display_suggestion_title" msgid="5418911386429667704">"ਨਾਈਟ ਲਾਈਟ ਸਬੰਧੀ ਸਮਾਂ-ਸੂਚੀ ਸੈੱਟ ਕਰੋ"</string>
     <string name="night_display_suggestion_summary" msgid="4218017907425509769">"ਹਰ ਰਾਤ ਸਵੈਚਲਿਤ ਤੌਰ \'ਤੇ ਸਕ੍ਰੀਨ ਟਿੰਟ ਕਰੋ"</string>
     <string name="condition_night_display_title" msgid="1072880897812554421">"ਰਾਤਰੀ ਲਾਈਟ ਚਾਲੂ ਹੈ"</string>
     <string name="condition_night_display_summary" msgid="3278349775875166984">"ਸਕ੍ਰੀਨ ਨੂੰ ਭੂਰੇ ਪੀਲੇ ਰੰਗ ਦੀ ਭਾਹ ਦਿੱਤੀ ਗਈ"</string>
@@ -4201,7 +4198,7 @@
     <string name="right_edge" msgid="1505309103265829121">"ਸੱਜਾ ਕਿਨਾਰਾ"</string>
     <string name="back_sensitivity_dialog_message" msgid="6638367716784103306">"ਜ਼ਿਆਦਾ ਸੰਵੇਦਨਸ਼ੀਲਤਾ ਕਾਰਨ ਸਕ੍ਰੀਨ ਦੇ ਕਿਨਾਰਿਆਂ ਸੰਬੰਧੀ ਐਪ ਇਸ਼ਾਰਿਆਂ ਵਿੱਚ ਉਲਝਣ ਪੈਦਾ ਹੋ ਸਕਦੀ ਹੈ।"</string>
     <string name="back_sensitivity_dialog_title" msgid="6153608904168908264">"\'ਪਿੱਛੇ\' ਸੰਬੰਧੀ ਸੰਵੇਦਨਸ਼ੀਲਤਾ"</string>
-    <string name="gesture_settings_activity_title" msgid="2025828425762595733">"ਇਸ਼ਾਰਾ ਨੈਵੀਗੇਸ਼ਨ ਸੰਵੇਦਨਸ਼ੀਲਤਾ"</string>
+    <string name="gesture_settings_activity_title" msgid="1882463161833981820">"ਇਸ਼ਾਰਾ ਨੈਵੀਗੇਸ਼ਨ"</string>
     <string name="button_navigation_settings_activity_title" msgid="7335636045504461813">"ਬਟਨ ਨੈਵੀਗੇਸ਼ਨ"</string>
     <string name="keywords_gesture_navigation_settings" msgid="667561222717238931">"ਇਸ਼ਾਰਾ ਨੈਵੀਗੇਸ਼ਨ, \'ਪਿੱਛੇ\' ਸੰਬੰਧੀ ਸੰਵੇਦਨਸ਼ੀਲਤਾ, \'ਪਿੱਛੇ\' ਸੰਬੰਧੀ ਇਸ਼ਾਰਾ"</string>
     <string name="keywords_button_navigation_settings" msgid="7888812253110553920">"ਨੈਵੀਗੇਸ਼ਨ, ਹੋਮ ਬਟਨ"</string>
@@ -4368,7 +4365,7 @@
     <string name="credman_confirmation_message" msgid="2357324543658635239">"&lt;b&gt;ਕੀ ਇਸ ਸੇਵਾ ਨੂੰ ਬੰਦ ਕਰਨਾ ਹੈ?&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; ਤੁਹਾਡੇ ਵੱਲੋਂ ਸਾਈਨ-ਇਨ ਕਰਨ ਵੇਲੇ ਰੱਖਿਅਤ ਕੀਤੀ ਗਈ ਜਾਣਕਾਰੀ ਜਿਵੇਂ ਕਿ ਪਾਸਵਰਡਾਂ, ਪਾਸਕੀਆਂ, ਭੁਗਤਾਨ ਵਿਧੀਆਂ ਅਤੇ ਹੋਰ ਜਾਣਕਾਰੀ ਨੂੰ ਭਰਿਆ ਨਹੀਂ ਜਾਵੇਗਾ। ਆਪਣੀ ਰੱਖਿਅਤ ਕੀਤੀ ਜਾਣਕਾਰੀ ਵਰਤਣ ਲਈ ਕੋਈ ਪਾਸਵਰਡ, ਪਾਸਕੀ ਜਾਂ ਡਾਟਾ ਸੇਵਾ ਚੁਣੋ।"</string>
     <string name="account_dashboard_title_with_passkeys" msgid="6214673787161409996">"ਪਾਸਵਰਡ, ਪਾਸਕੀਆਂ ਅਤੇ ਆਟੋਫਿਲ"</string>
     <string name="credman_confirmation_message_new_ui" msgid="6126274509951156460">"&lt;b&gt;ਕੀ ਸਾਰੀਆਂ ਸੇਵਾਵਾਂ ਨੂੰ ਚਾਲੂ ਕਰਨਾ ਹੈ?&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; ਪਾਸਵਰਡ, ਪਾਸਕੀਆਂ ਅਤੇ ਰੱਖਿਅਤ ਕੀਤੀ ਹੋਰ ਜਾਣਕਾਰੀ ਤੁਹਾਡੇ ਵੱਲੋਂ ਸਾਈਨ-ਇਨ ਕਰਨ \'ਤੇ ਆਟੋਫਿਲ ਲਈ ਉਪਲਬਧ ਨਹੀਂ ਰਹਿਣਗੇ"</string>
-    <string name="credman_autofill_confirmation_message_new_ui" msgid="6222139222478822267">"&lt;b&gt;ਕੀ ਆਪਣੀ ਤਰਜੀਹੀ ਸੇਵਾ ਨੂੰ ਬਦਲ ਕੇ &lt;xliff:g id=app_name example=Provider&gt;%1$s&lt;/xliff:g&gt; ਵਜੋਂ ਸੈੱਟ ਕਰਨਾ ਹੈ?&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; ਨਵੇਂ ਪਾਸਵਰਡਾਂ, ਪਾਸਕੀਆਂ ਅਤੇ ਹੋਰ ਜਾਣਕਾਰੀ ਨੂੰ ਹੁਣ ਤੋਂ ਇੱਥੇ ਰੱਖਿਅਤ ਕੀਤਾ ਜਾਵੇਗਾ। &lt;xliff:g id=app_name example=Provider&gt;%1$s&lt;/xliff:g&gt; ਵੱਲੋਂ ਤੁਹਾਡੀ ਸਕ੍ਰੀਨ \'ਤੇ ਦਿਖ ਰਹੀ ਸਮੱਗਰੀ ਦੇ ਆਧਾਰ \'ਤੇ ਇਹ ਨਿਰਧਾਰਿਤ ਕੀਤਾ ਜਾਂਦਾ ਹੈ ਕਿ ਕਿਹੜੀ ਜਾਣਕਾਰੀ ਆਟੋਫਿਲ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ"</string>
+    <string name="credman_autofill_confirmation_message_new_ui" msgid="6222139222478822267">"&lt;b&gt;ਕੀ ਆਪਣੀ ਤਰਜੀਹੀ ਸੇਵਾ ਨੂੰ ਬਦਲ ਕੇ &lt;xliff:g id=app_name example=Provider&gt;%1$s&lt;/xliff:g&gt; ਵਜੋਂ ਸੈੱਟ ਕਰਨਾ ਹੈ?&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; ਨਵੇਂ ਪਾਸਵਰਡਾਂ, ਪਾਸਕੀਆਂ ਅਤੇ ਹੋਰ ਜਾਣਕਾਰੀ ਨੂੰ ਹੁਣ ਤੋਂ ਇੱਥੇ ਰੱਖਿਅਤ ਕੀਤਾ ਜਾਵੇਗਾ। ਇਹ ਨਿਰਧਾਰਿਤ ਕਰਨ ਲਈ ਕਿ ਕਿਹੜੀ ਜਾਣਕਾਰੀ ਆਟੋਫਿਲ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ, &lt;xliff:g id=app_name example=Provider&gt;%1$s&lt;/xliff:g&gt; ਵੱਲੋਂ ਤੁਹਾਡੀ ਸਕ੍ਰੀਨ \'ਤੇ ਦਿਖ ਰਹੀ ਸਮੱਗਰੀ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ।"</string>
     <string name="credman_enable_confirmation_message_title" msgid="1037501792652277829">"ਕੀ %1$s ਦੀ ਵਰਤੋਂ ਕਰਨੀ ਹੈ?"</string>
     <string name="credman_confirmation_turn_off_positive_button" msgid="5678773011513369161">"ਬੰਦ ਕਰੋ"</string>
     <string name="credman_confirmation_change_provider_positive_button" msgid="7732302992885116967">"ਬਦਲੋ"</string>
@@ -4441,7 +4438,7 @@
     <string name="my_device_info_device_identifiers_category_title" msgid="2197063484127704153">"ਡੀਵਾਈਸ ਪਛਾਣਕਰਤਾ"</string>
     <string name="change_wifi_state_title" msgid="5629648102837821525">"ਵਾਈ‑ਫਾਈ ਕੰਟਰੋਲ"</string>
     <string name="change_wifi_state_app_detail_switch" msgid="1385358508267180745">"ਐਪ ਨੂੰ ਵਾਈ‑ਫਾਈ ਕੰਟਰੋਲ ਕਰਨ ਦਿਓ"</string>
-    <string name="change_wifi_state_app_detail_summary" msgid="8230854855584217111">"ਇਸ ਐਪ ਨੂੰ ਵਾਈ-ਫਾਈ ਚਾਲੂ ਜਾਂ ਬੰਦ ਕਰਨ ਦਿਓ, ਵਾਈ-ਫਾਈ ਨੈੱਟਵਰਕਾਂ ਨੂੰ ਸਕੈਨ ਅਤੇ ਉਨ੍ਹਾਂ ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਦਿਓ, ਨੈੱਟਵਰਕ ਸ਼ਾਮਲ ਕਰਨ ਜਾਂ ਹਟਾਉਣ ਦਿਓ, ਜਾਂ ਸਿਰਫ਼-ਸਥਾਨਕ ਹੌਟਸਪੌਟ ਸ਼ੁਰੂ ਕਰਨ ਦਿਓ"</string>
+    <string name="change_wifi_state_app_detail_summary" msgid="8230854855584217111">"ਇਸ ਐਪ ਨੂੰ ਵਾਈ-ਫਾਈ ਚਾਲੂ ਜਾਂ ਬੰਦ ਕਰਨ, ਵਾਈ-ਫਾਈ ਨੈੱਟਵਰਕਾਂ ਨੂੰ ਸਕੈਨ ਅਤੇ ਉਨ੍ਹਾਂ ਨਾਲ ਕਨੈਕਟ ਕਰਨ, ਨੈੱਟਵਰਕ ਸ਼ਾਮਲ ਕਰਨ ਜਾਂ ਹਟਾਉਣ, ਜਾਂ \'ਸਿਰਫ਼-ਸਥਾਨਕ ਹੌਟਸਪੌਟ\' ਸ਼ੁਰੂ ਕਰਨ ਦੀ ਆਗਿਆ ਦਿਓ"</string>
     <string name="change_nfc_tag_apps_title" msgid="91514009058149617">"NFC ਰਾਹੀਂ ਲਾਂਚ ਕਰੋ"</string>
     <string name="change_nfc_tag_apps_detail_switch" msgid="240286205725043561">"NFC ਸਕੈਨ ਹੋਣ \'ਤੇ ਲਾਂਚ ਹੋਣ ਦੀ ਆਗਿਆ ਦਿਓ"</string>
     <string name="change_nfc_tag_apps_detail_summary" msgid="3338220223868942195">"NFC ਟੈਗ ਦੇ ਸਕੈਨ ਹੋਣ \'ਤੇ ਇਸ ਐਪ ਨੂੰ ਲਾਂਚ ਹੋਣ ਦੀ ਆਗਿਆ ਦਿਓ।\nਜੇ ਇਹ ਇਜਾਜ਼ਤ ਚਾਲੂ ਹੈ, ਤਾਂ ਟੈਗ ਦੇ ਪਤਾ ਲੱਗਣ \'ਤੇ ਇਹ ਐਪ ਇੱਕ ਵਿਕਲਪ ਦੇ ਤੌਰ \'ਤੇ ਉਪਲਬਧ ਹੋਵੇਗੀ।"</string>
@@ -4463,7 +4460,7 @@
     <string name="pref_title_network_details" msgid="7329759534269363308">"ਨੈੱਟਵਰਕ ਵੇਰਵੇ"</string>
     <string name="devices_title" msgid="649715719278562515">"ਡੀਵਾਈਸਾਂ"</string>
     <string name="choose_network_title" msgid="5355609223363859430">"ਨੈੱਟਵਰਕ ਚੁਣੋ"</string>
-    <string name="network_disconnected" msgid="8281188173486212661">"ਡਿਸਕਨੈਕਟ ਹੋਇਆ"</string>
+    <string name="network_disconnected" msgid="8281188173486212661">"ਡਿਸਕਨੈਕਟ ਹੈ"</string>
     <string name="network_connected" msgid="7637745547242487795">"ਕਨੈਕਟ ਹੈ"</string>
     <string name="network_connecting" msgid="6856124847029124041">"ਕਨੈਕਟ ਹੋ ਰਿਹਾ ਹੈ…"</string>
     <string name="network_could_not_connect" msgid="676574629319069922">"ਕਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ"</string>
@@ -4580,8 +4577,10 @@
     <string name="summary_satellite_connection_guide" msgid="3496123195218418456">"ਤੁਹਾਡਾ ਫ਼ੋਨ ਸੈਟੇਲਾਈਟ ਨਾਲ ਸਵੈ-ਕਨੈਕਟ ਹੋ ਜਾਵੇਗਾ। ਵਧੀਆ ਕੁਨੈਕਸ਼ਨ ਲਈ, ਅਸਮਾਨ ਦਾ ਸਾਫ਼ ਦ੍ਰਿਸ਼ ਨੂੰ ਬਰਕਰਾਰ ਰੱਖੋ।"</string>
     <string name="title_supported_service" msgid="4275535165812691571">"ਤੁਹਾਡਾ ਫ਼ੋਨ ਸੈਟੇਲਾਈਟ ਨਾਲ ਕਨੈਕਟ ਹੋ ਜਾਣ ਤੋਂ ਬਾਅਦ"</string>
     <string name="summary_supported_service" msgid="4320535903444834786">"ਤੁਸੀਂ ਐਮਰਜੈਂਸੀ ਸੇਵਾਵਾਂ ਸਮੇਤ ਕਿਸੇ ਨੂੰ ਵੀ ਲਿਖਤ ਸੁਨੇਹਾ ਭੇਜ ਸਕਦੇ ਹੋ। ਉਪਲਬਧ ਹੋਣ \'ਤੇ ਤੁਹਾਡਾ ਫ਼ੋਨ ਮੋਬਾਈਲ ਨੈੱਟਵਰਕ ਨਾਲ ਮੁੜ-ਕਨੈਕਟ ਹੋ ਜਾਵੇਗਾ।"</string>
-    <string name="satellite_setting_summary_more_information" msgid="4008690241760925372">"ਸੈਟੇਲਾਈਟ ਸੁਨੇਹਾ ਸੇਵਾ ਵਿੱਚ ਜ਼ਿਆਦਾ ਸਮਾਂ ਲੱਗ ਸਕਦਾ ਹੈ ਅਤੇ ਇਹ ਸਿਰਫ਼ ਕੁਝ ਖੇਤਰਾਂ ਵਿੱਚ ਉਪਲਬਧ ਹੈ, ਮੌਸਮ ਅਤੇ ਕੁਝ ਢਾਂਚੇ ਤੁਹਾਡੇ ਸੈਟੇਲਾਈਟ ਕਨੈਕਸ਼ਨ ਨੂੰ ਪ੍ਰਭਾਵਿਤ ਕਰ ਸਕਦੇ ਹਨ। ਸੈਟੇਲਾਈਟ ਰਾਹੀਂ ਕਾਲ ਕਰਨ ਦੀ ਸੁਵਿਧਾ ਉਪਲਬਧ ਨਹੀਂ ਹੈ।\n\nਤੁਹਾਡੇ ਖਾਤੇ ਵਿੱਚ ਤਬਦੀਲੀਆਂ ਨੂੰ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਦਿਖਾਉਣ ਵਿੱਚ ਕੁਝ ਸਮਾਂ ਲੱਗ ਸਕਦਾ ਹੈ। ਵੇਰਵਿਆਂ ਲਈ <xliff:g id="CARRIER_NAME">%1$s</xliff:g> ਨੂੰ ਸੰਪਰਕ ਕਰੋ।"</string>
+    <string name="satellite_setting_summary_more_information" msgid="7729454610548016356">"ਸੈਟੇਲਾਈਟ ਸੁਨੇਹੇ ਸੇਵਾ ਵਿੱਚ ਜ਼ਿਆਦਾ ਸਮਾਂ ਲੱਗ ਸਕਦਾ ਹੈ ਅਤੇ ਇਹ ਸਿਰਫ਼ ਕੁਝ ਖੇਤਰਾਂ ਵਿੱਚ ਉਪਲਬਧ ਹੈ। ਮੌਸਮ ਅਤੇ ਕੁਝ ਢਾਂਚੇ ਤੁਹਾਡੇ ਸੈਟੇਲਾਈਟ ਕਨੈਕਸ਼ਨ ਨੂੰ ਪ੍ਰਭਾਵਿਤ ਕਰ ਸਕਦੇ ਹਨ। ਸੈਟੇਲਾਈਟ ਰਾਹੀਂ ਕਾਲ ਕਰਨ ਦੀ ਸੁਵਿਧਾ ਉਪਲਬਧ ਨਹੀਂ ਹੈ। ਐਮਰਜੈਂਸੀ ਕਾਲਾਂ ਹਾਲੇ ਵੀ ਕਨੈਕਟ ਹੋ ਸਕਦੀਆਂ ਹਨ।\n\nਖਾਤਾ ਤਬਦੀਲੀਆਂ ਨੂੰ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਦਿਖਾਈ ਦੇਣ ਵਿੱਚ ਕੁਝ ਸਮਾਂ ਲੱਗ ਸਕਦਾ ਹੈ। ਵੇਰਵਿਆਂ ਲਈ ਆਪਣੇ ਕੈਰੀਅਰ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।"</string>
     <string name="more_about_satellite_messaging" msgid="3385673133561348509">"ਸੈਟੇਲਾਈਟ ਸੁਨੇਹਾ ਸੇਵਾ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ"</string>
+    <string name="satellite_warning_dialog_title" msgid="1610117852475376931">"<xliff:g id="FUNCTION">%1$s</xliff:g> ਨੂੰ ਚਾਲੂ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ"</string>
+    <string name="satellite_warning_dialog_content" msgid="936419945275934955">"<xliff:g id="FUNCTION">%1$s</xliff:g> ਨੂੰ ਚਾਲੂ ਕਰੋ, ਪਹਿਲਾਂ ਸੈਟੇਲਾਈਟ ਕਨੈਕਸ਼ਨ ਨੂੰ ਬੰਦ ਕਰੋ"</string>
     <string name="mobile_network_apn_title" msgid="5582995550142073054">"ਐਕਸੈੱਸ ਪੁਆਇੰਟ ਨਾਮ"</string>
     <string name="keywords_access_point_names" msgid="8174967126858505945">"APN"</string>
     <string name="manual_mode_disallowed_summary" msgid="4243142645520152175">"<xliff:g id="CARRIER">%1$s</xliff:g> ਨਾਲ ਕਨੈਕਟ ਹੋਣ \'ਤੇ ਉਪਲਬਧ ਨਹੀਂ ਹੈ"</string>
@@ -4808,7 +4807,7 @@
     <string name="media_controls_show_player" msgid="8504571042365814021">"ਪਲੇਅਰ ਦਿਖਾਓ"</string>
     <string name="keywords_media_controls" msgid="8345490568291778638">"ਮੀਡੀਆ"</string>
     <string name="camera_extensions_fallback_title" msgid="3604579046777004989">"ਕੈਮਰਾ ਸਾਫ਼ਟਵੇਅਰ ਐਕਸਟੈਂਸ਼ਨਾਂ ਦੀ ਆਗਿਆ ਦਿਓ"</string>
-    <string name="camera_extensions_fallback_description" msgid="6939818294458854536">"ਉੱਨਤ ਕੈਮਰਾ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਦੇ ਪੂਰਵ-ਨਿਰਧਾਰਿਤ ਸਾਫ਼ਟਵੇਅਰ ਲਾਗੂਕਰਨ ਨੂੰ ਚਾਲੂ ਕਰਦਾ ਹੈ, ਜਿਵੇਂ ਕਿ ਅੱਖਾਂ ਰਹਿਤ ਵੀਡੀਓਗ੍ਰਾਫ਼ੀ।"</string>
+    <string name="camera_extensions_fallback_description" msgid="6939818294458854536">"ਇਸ ਨਾਲ ਅਡਵਾਂਸ ਕੈਮਰਾ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਦੇ ਲਈ ਪੂਰਵ-ਨਿਰਧਾਰਿਤ ਸਾਫ਼ਟਵੇਅਰ ਦੇ ਲਾਗੂਕਰਨ ਨੂੰ ਚਾਲੂ ਕੀਤਾ ਜਾਂਦਾ ਹੈ, ਜਿਵੇਂ ਕਿ ਅੱਖਾਂ ਰਹਿਤ ਵੀਡੀਓਗ੍ਰਾਫ਼ੀ।"</string>
     <string name="connected_device_see_all_summary" msgid="2056010318537268108">"ਬਲੂਟੁੱਥ ਚਾਲੂ ਹੋਵੇਗਾ"</string>
     <string name="provider_internet_settings" msgid="3831259474776313323">"ਇੰਟਰਨੈੱਟ"</string>
     <string name="provider_network_settings_title" msgid="2624756136016346774">"ਸਿਮ"</string>
@@ -4880,7 +4879,7 @@
     <string name="multiple_users_main_switch_keywords" msgid="4845954458094134356">"ਆਗਿਆ ਦਿਓ, ਇੱਕ ਤੋਂ ਵੱਧ, ਵਰਤੋਂਕਾਰ, ਪਰਮਿਟ, ਕਈ"</string>
     <string name="wireless_debugging_main_switch_title" msgid="8463499572781441719">"ਵਾਇਰਲੈੱਸ ਡੀਬੱਗਿੰਗ ਵਰਤੋ"</string>
     <string name="graphics_driver_main_switch_title" msgid="6125172901855813790">"ਗ੍ਰਾਫ਼ਿਕ ਡਰਾਈਵਰ ਤਰਜੀਹਾਂ ਵਰਤੋ"</string>
-    <string name="night_light_main_switch_title" msgid="3428298022467805219">"\'ਰਾਤ ਦੀ ਰੋਸ਼ਨੀ\' ਵਰਤੋ"</string>
+    <string name="night_light_main_switch_title" msgid="3428298022467805219">"\'ਨਾਈਟ ਲਾਈਟ\' ਵਰਤੋ"</string>
     <string name="nfc_main_switch_title" msgid="6295839988954817432">"NFC ਵਰਤੋ"</string>
     <string name="adaptive_brightness_main_switch_title" msgid="2681666805191642737">"ਅਡੈਪਟਿਵ ਬ੍ਰਾਈਟਨੈੱਸ ਵਰਤੋ"</string>
     <string name="wifi_calling_main_switch_title" msgid="4070224008346815634">"ਵਾਈ-ਫਾਈ ਕਾਲਿੰਗ ਵਰਤੋ"</string>
@@ -5022,7 +5021,7 @@
     <string name="bluetooth_find_broadcast" msgid="1768337775649457586">"ਪ੍ਰਸਾਰਨ ਲੱਭੋ"</string>
     <string name="bluetooth_find_broadcast_button_leave" msgid="7881206581147104908">"ਪ੍ਰਸਾਰਨ ਛੱਡੋ"</string>
     <string name="bluetooth_find_broadcast_button_scan" msgid="3995664694641895189">"QR ਕੋਡ ਸਕੈਨ ਕਰੋ"</string>
-    <string name="find_broadcast_password_dialog_title" msgid="3176988702535737484">"ਪਾਸਵਰਡ ਦਾਖਲ ਕਰੋ"</string>
+    <string name="find_broadcast_password_dialog_title" msgid="3176988702535737484">"ਪਾਸਵਰਡ ਪਾਓ"</string>
     <string name="find_broadcast_password_dialog_connection_error" msgid="47873617983439400">"ਕਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ। ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"</string>
     <string name="find_broadcast_password_dialog_password_error" msgid="243855327674765">"ਗਲਤ ਪਾਸਵਰਡ"</string>
     <string name="find_broadcast_join_broadcast_error" msgid="5486980388774711346">"ਪ੍ਰਸਾਰਨ ਵਿੱਚ ਸ਼ਾਮਲ ਨਹੀਂ ਹੋ ਸਕਦੇ"</string>
@@ -5110,14 +5109,14 @@
     <string name="live_caption_disabled" msgid="3562035026547887366">"ਬੰਦ"</string>
     <string name="live_caption_enabled" msgid="5269360946200718949">"ਚਾਲੂ"</string>
     <string name="about_phone_device_name_warning" msgid="3243226572404472381">"ਤੁਹਾਡੇ ਡੀਵਾਈਸ ਦਾ ਨਾਮ ਤੁਹਾਡੇ ਵੱਲੋਂ ਸਥਾਪਤ ਕੀਤੀਆਂ ਗਈਆਂ ਐਪਾਂ ਨੂੰ ਦਿਖਾਈ ਦਿੰਦਾ ਹੈ। ਤੁਹਾਡੇ ਵੱਲੋਂ ਬਲੂਟੁੱਥ ਡੀਵਾਈਸਾਂ ਨਾਲ ਕਨੈਕਟ ਕਰਨ, ਵਾਈ-ਫਾਈ ਨੈੱਟਵਰਕ ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਜਾਂ ਵਾਈ-ਫਾਈ ਹੌਟਸਪੌਟ ਦਾ ਸੈੱਟਅੱਪ ਕਰਨ \'ਤੇ ਇਸਨੂੰ ਹੋਰ ਲੋਕਾਂ ਵੱਲੋਂ ਵੀ ਦੇਖਿਆ ਜਾ ਸਕਦਾ ਹੈ।"</string>
-    <string name="grammatical_gender_title" msgid="8584242850477270828">"ਵਿਆਕਰਨ ਸੰਬੰਧੀ ਲਿੰਗ"</string>
+    <string name="grammatical_gender_title" msgid="8584242850477270828">"ਵਿਆਕਰਨਿਕ ਲਿੰਗ"</string>
     <string name="grammatical_gender_dialog_title" msgid="8754048592099871587">"ਵਿਆਕਰਨ ਸੰਬੰਧੀ ਲਿੰਗ ਚੁਣੋ"</string>
-    <string name="content_protection_preference_title" msgid="5069260032659193074">"ਧੋਖੇਬਾਜ਼ ਐਪਾਂ ਲਈ ਸਕੈਨ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"</string>
+    <string name="content_protection_preference_title" msgid="5069260032659193074">"ਭਰਮਾਊ ਐਪਾਂ ਲਈ ਸਕੈਨ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"</string>
     <string name="content_protection_preference_summary" msgid="2252393849408445391">"ਫ਼ਿਸ਼ਿੰਗ ਲਈ ਐਪ ਸਰਗਰਮੀ ਦੀ ਜਾਂਚ ਕਰੋ"</string>
-    <string name="content_protection_preference_user_consent_switch_title" msgid="1797782616799594426">"ਧੋਖਾਧੜੀ ਵਾਲੀਆਂ ਐਪਾਂ ਲਈ ਸਕੈਨਿੰਗ ਦੀ ਵਰਤੋਂ ਕਰੋ"</string>
-    <string name="content_protection_preference_user_consent_work_profile_switch_title" msgid="3004347470520916069">"ਧੋਖਾਧੜੀ ਵਾਲੀਆਂ ਐਪਾਂ ਲਈ ਸਕੈਨਿੰਗ ਦੀ ਕੰਮ ਵਾਸਤੇ ਵਰਤੋਂ ਕਰੋ"</string>
+    <string name="content_protection_preference_user_consent_switch_title" msgid="1797782616799594426">"ਭਰਮਾਊ ਐਪਾਂ ਲਈ ਸਕੈਨਿੰਗ ਦੀ ਵਰਤੋਂ ਕਰੋ"</string>
+    <string name="content_protection_preference_user_consent_work_profile_switch_title" msgid="3004347470520916069">"ਭਰਮਾਊ ਐਪਾਂ ਲਈ ਸਕੈਨਿੰਗ ਦੀ ਕੰਮ ਵਾਸਤੇ ਵਰਤੋਂ ਕਰੋ"</string>
     <string name="content_protection_preference_subpage_summary" msgid="3595621220981703364"></string>
     <string name="content_protection_preference_subpage_info" msgid="6890886357653365489"></string>
     <string name="accessibility_setup_password_complete" msgid="6358749253318369077">"ਹੁਣ ਪਾਸਵਰਡ ਸੈੱਟ ਹੋ ਗਿਆ ਹੈ"</string>
-    <string name="show_stylus_pointer_icon" msgid="1010583689203665786">"ਕਰਸਰ ਘੁਮਾਉਣ ਦੌਰਾਨ ਪੁਆਇੰਟ ਦਿਖਾਓ"</string>
+    <string name="show_stylus_pointer_icon" msgid="1010583689203665786">"ਕਰਸਰ ਘੁਮਾਉਣ ਦੌਰਾਨ ਪੁਆਇੰਟਰ ਦਿਖਾਓ"</string>
 </resources>

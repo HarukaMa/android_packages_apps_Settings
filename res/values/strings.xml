@@ -95,12 +95,12 @@
     <!-- Title for fold grace period radio button that, on fold, goes to the lockscreen. [CHAR_LIMIT=NONE] -->
     <string name="stay_awake_on_lockscreen_title">Swipe up to continue</string>
     <!-- Summary for folding grace period radio button that, on fold, goes to the lockscreen. [CHAR_LIMIT=NONE] -->
-    <string name="stay_awake_on_lockscreen_summary">Fold your phone and swipe up on the front display to continue using the app, or wait a few seconds for the screen to lock</string>
+    <string name="stay_awake_on_lockscreen_summary">Fold your phone and swipe up on the front display to continue using the app, or wait a few seconds for the screen to lock. Games and video apps will continue automatically.</string>
 
     <!-- Title for sleep on fold radio button. [CHAR_LIMIT=NONE] -->
     <string name="sleep_on_fold_title">Never</string>
     <!-- Summary for sleep on fold radio button. [CHAR_LIMIT=NONE] -->
-    <string name="sleep_on_fold_summary">Front display locks when you fold your device</string>
+    <string name="sleep_on_fold_summary">Front display turns off and locks when you fold your device</string>
 
     <!-- Auto rotate switchbar title. [CHAR_LIMIT=NONE] -->
     <string name="auto_rotate_settings_primary_switch_title">Use auto-rotate</string>
@@ -3298,7 +3298,7 @@
 
     <!-- _satellite_setting_preference_layout -->
     <!-- _satellite_setting_preference_layout screen title-->
-    <string name="satellite_setting">Satellite Messaging</string>
+    <string name="satellite_setting">Satellite messaging</string>
 
     <!-- APN Settings -->
     <!-- APN settings screen title -->
@@ -9703,13 +9703,6 @@
     <!-- Label for showing apps that can manage external storage[CHAR LIMIT=45] -->
     <string name="filter_manage_external_storage">Can access all files</string>
 
-    <!-- Voice Activation apps settings title [CHAR LIMIT=40] -->
-    <string name="voice_activation_apps_title">Voice activation apps</string>
-    <!-- Label for a setting which controls whether an app can be voice activated [CHAR LIMIT=NONE] -->
-    <string name="permit_voice_activation_apps">Allow voice activation</string>
-    <!-- Description for a setting which controls whether an app can be voice activated [CHAR LIMIT=NONE] -->
-    <string name ="allow_voice_activation_apps_description">Voice activation turns-on approved apps, hands-free, using voice command. Built-in adaptive sensing ensures data stays private only to you.\n\n<a href="">More about protected adaptive sensing</a></string>
-
     <!-- Manage full screen intent permission title [CHAR LIMIT=40] -->
     <string name="full_screen_intent_title">Full screen notifications</string>
 
@@ -10484,7 +10477,7 @@
     <string name="back_sensitivity_dialog_title">Back Sensitivity</string>
 
     <!-- Title for the screen to show all the gesture navigation settings [CHAR LIMIT=80] -->
-    <string name="gesture_settings_activity_title">Gesture Navigation Sensitivity</string>
+    <string name="gesture_settings_activity_title">Gesture Navigation</string>
 
     <!-- Title for the screen to show all the 2- and 3-button navigation settings. [CHAR LIMIT=80] -->
     <string name="button_navigation_settings_activity_title">Button navigation</string>
@@ -11556,11 +11549,14 @@
     <!-- Summary for satellite supported service [CHAR_LIMIT=NONE] -->
     <string name="summary_supported_service">You can text anyone, including emergency services. Your phone will reconnect to a mobile network when available.</string>
     <!-- learn more text - more about satellite messaging [CHAR_LIMIT=NONE] -->
-    <string name="satellite_setting_summary_more_information">Satellite messaging may take longer and is available only in some areas, Weather and certain structures may affect your satellite connection. Calling by satellite isn\u2019t available.\n\nIt may take some time for changes to your account to show in Settings. Contact <xliff:g id="carrier_name" example="T-Mobile">%1$s</xliff:g> for details.</string>
+    <string name="satellite_setting_summary_more_information">Satellite messaging may take longer and is available only in some areas. Weather and certain structures may affect your satellite connection. Calling by satellite isn\u2019t available. Emergency calls may still connect.\n\nIt may take some time for account changes to show in Settings. Contact your carrier for details.</string>
     <!-- more about satellite messaging [CHAR_LIMIT=NONE] -->
     <string name="more_about_satellite_messaging">More about satellite messaging</string>
-    <!-- URL for more info about satellite messaging [CHAR LIMIT=60] -->
-    <string name="more_info_satellite_messaging_link" translatable="false"></string>
+    <!-- Title for satellite warning dialog to avoid user using wifi/bluetooth/airplane mode [CHAR_LIMIT=NONE] -->
+    <string name="satellite_warning_dialog_title">Can’t turn on <xliff:g id="function" example="bluetooth">%1$s</xliff:g></string>
+    <!-- Content for satellite warning dialog to avoid user using wifi/bluetooth/airplane mode [CHAR_LIMIT=NONE] -->
+    <string name="satellite_warning_dialog_content">To turn on <xliff:g id="function" example="bluetooth">%1$s</xliff:g>, first end the satellite connection</string>
+
 
     <!-- Title for Apn settings in mobile network settings [CHAR LIMIT=60] -->
     <string name="mobile_network_apn_title">Access Point Names</string>

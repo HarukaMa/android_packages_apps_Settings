@@ -48,9 +48,9 @@
     <string name="selective_stay_awake_title" msgid="7887645333447645168">"Yalnız oyun, video və s."</string>
     <string name="selective_stay_awake_summary" msgid="9055967322921984543">"Ekranın hərəkətsiz qalmasının qarşısını alan tətbiqlər üçün ön ekran yandırılır"</string>
     <string name="stay_awake_on_lockscreen_title" msgid="8088456642083051068">"Davam etmək üçün yuxarı sürüşdürün"</string>
-    <string name="stay_awake_on_lockscreen_summary" msgid="2299351813382522952">"Tətbiqdən istifadəyə davam etmək üçün telefonunuzu qatlayıb, ön ekranda yuxarı sürüşdürün və ya ekranın kilidlənməsi üçün bir neçə saniyə gözləyin"</string>
+    <string name="stay_awake_on_lockscreen_summary" msgid="8825321939913726566">"Tətbiqdən istifadəyə davam etmək üçün telefonu qatlayıb, ön ekranda yuxarı çəkin və ya ekranın kilidlənməsi üçün bir neçə saniyə gözləyin. Oyunlar və video tətbiqlər avtomatik davam edəcək."</string>
     <string name="sleep_on_fold_title" msgid="7626123024330501411">"Heç vaxt"</string>
-    <string name="sleep_on_fold_summary" msgid="7737992842459588846">"Cihazı qatladıqda ön ekran kilidlənir"</string>
+    <string name="sleep_on_fold_summary" msgid="4191753338303043456">"Cihazı qatladıqda ön ekran sönür və kilidlənir"</string>
     <string name="auto_rotate_settings_primary_switch_title" msgid="3440951924928594520">"Ekran avtomatik dönsün"</string>
     <string name="smart_rotate_text_headline" msgid="5878008933992951904">"Üz Aşkarlanması, avtodönüş dəqiqliyini yaxşılaşdırmaq üçün ön kameranı istifadə edir. Şəkillər heç vaxt saxlanılmır, yaxud Google\'a göndərilmir."</string>
     <string name="bluetooth" msgid="8898478620943459654">"Bluetooth"</string>
@@ -540,10 +540,10 @@
     <string name="security_header" msgid="961514795852103424">"Təhlükəsizlik"</string>
     <string name="privacy_header" msgid="5526002421324257007">"Məxfilik"</string>
     <string name="work_profile_category_header" msgid="85707750968948517">"İş profili"</string>
-    <string name="private_space_title" msgid="1752064212078238723">"Şəxsi sahə"</string>
+    <string name="private_space_title" msgid="1752064212078238723">"Məxfi sahə"</string>
     <string name="private_space_summary" msgid="2274405892301976238">"Şəxsi tətbiqləri kilidli və gizli saxlayın"</string>
-    <string name="private_space_description" msgid="4059594203775816136">"Şəxsi tətbiqləri gizlədə və ya kilidləyə biləcəyiniz ayrı yerdə saxlayın"</string>
-    <string name="private_space_lock_title" msgid="7230836881433350526">"Şəxsi sahə kilidi"</string>
+    <string name="private_space_description" msgid="4059594203775816136">"Məxfi tətbiqləri gizlədə və ya kilidləyə biləcəyiniz ayrı yerdə saxlayın"</string>
+    <string name="private_space_lock_title" msgid="7230836881433350526">"Məxfi sahə kilidi"</string>
     <string name="private_space_one_lock_summary" msgid="2106513606571219068">"Şəxsi sahənin kilidini cihaz ilə eyni qaydada aça və ya başqa kilid seçə bilərsiniz"</string>
     <string name="private_space_screen_lock_title" msgid="8679383894967823163">"Cihazın ekran kilidini istifadə edin"</string>
     <string name="private_space_biometric_title" msgid="3934339826674553174">"Üz və Barmaqla Kiliddən Açma"</string>
@@ -555,7 +555,7 @@
     <string name="private_space_category_ways_to_unlock" msgid="4356631225316950046">"Kiliddən çıxarma üsulları"</string>
     <string name="private_space_screen_lock_summary" msgid="394837965365561070">"Cihazın ekran kilidi ilə eyni"</string>
     <string name="private_space_new_lock_title" msgid="9056139964133004094">"Şəxsi sahə üçün yeni kilid seçilsin?"</string>
-    <string name="private_space_auto_lock_title" msgid="8663409382910601261">"Şəxsi sahəni avtomatik kilidləyin"</string>
+    <string name="private_space_auto_lock_title" msgid="8663409382910601261">"Məxfi sahəni avtomatik kilidləyin"</string>
     <string name="private_space_auto_lock_page_summary" msgid="8679844515655838654">"Cihazı bir müddət istifadə etmədikdə şəxsi sahəni avtomatik kilidləyə bilərsiniz"</string>
     <string name="private_space_auto_lock_every_time" msgid="1215061855836002830">"Hər dəfə cihaz kilidləndikdə"</string>
     <string name="private_space_auto_lock_after_inactivity" msgid="1748673030841528649">"5 dəqiqə fəaliyyətsizlikdən sonra"</string>
@@ -570,8 +570,8 @@
     <string name="privatespace_hide_off_summary" msgid="7227778747159633671">"Deaktiv"</string>
     <string name="privatespace_hide_on_summary" msgid="6136704537527640183">"Aktiv"</string>
     <string name="private_space_category_system" msgid="1286843321867285700">"Sistem"</string>
-    <string name="private_space_delete_title" msgid="636873505724100006">"Şəxsi sahəni silin"</string>
-    <string name="private_space_delete_header" msgid="4594429153176776184">"Şəxsi sahə silinsin?"</string>
+    <string name="private_space_delete_title" msgid="636873505724100006">"Məxfi sahəni silin"</string>
+    <string name="private_space_delete_header" msgid="4594429153176776184">"Məxfi sahə silinsin?"</string>
     <string name="private_space_delete_summary" msgid="3344372988408565545">"Şəxsi sahə cihazdan silinəcək. Şəxsi tətbiqlər və data silinəcək. Bu əməliyyatı geri qaytarmaq olmur."</string>
     <string name="private_space_accounts" msgid="1078277762792056395">"Aşağıdakı hesablar şəxsi sahədən silinəcək:"</string>
     <string name="private_space_delete_button_label" msgid="1256981385318225002">"Silin"</string>
@@ -1421,7 +1421,7 @@
     <string name="battery_level_title" msgid="1371765298786083448">"Enerji səviyyəsi"</string>
     <string name="communal_settings_title" msgid="2845678473945902115">"Kommunal"</string>
     <string name="communal_settings_summary" msgid="4923914136953940317">"Kommunal ayarlar"</string>
-    <string name="satellite_setting" msgid="706846910912477125">"Peyk vasitəsilə mesajlaşma"</string>
+    <string name="satellite_setting" msgid="4171265534842459910">"Peyk vasitəsilə mesajlaşma"</string>
     <string name="apn_settings" msgid="4295467389400441299">"APN-lər"</string>
     <string name="apn_edit" msgid="2003683641840248741">"Giriş nöqtəsinə düzəliş edin"</string>
     <string name="apn_add" msgid="9069613192201630934">"Giriş nöqtəsi əlavə edin"</string>
@@ -3924,9 +3924,6 @@
     <string name="permit_manage_external_storage" msgid="6928847280689401761">"Bütün faylları idarə etmək üçün giriş icazəsi verin"</string>
     <string name="allow_manage_external_storage_description" msgid="5707948153603253225">"Bu tətbiqə bu cihazda və ya qoşulmuş cihazların yaddaşındakı bütün faylları oxumaq, dəyişmək və silmək icazəsi verin. İcazə verilsə, tətbiq xəbəriniz olmadan fayllara daxil ola bilər."</string>
     <string name="filter_manage_external_storage" msgid="6751640571715343804">"Bütün fayllara daxil ola bilər"</string>
-    <string name="voice_activation_apps_title" msgid="7130045161611529825">"Səslə aktivləşdirmə tətbiqləri"</string>
-    <string name="permit_voice_activation_apps" msgid="9152780172988949319">"Səslə aktivləşdirməyə icazə verin"</string>
-    <string name="allow_voice_activation_apps_description" msgid="6369745626995060656">"Səslə aktivləşdirmə təsdiqlənmiş tətbiqləri səsli əmrdən istifadə edərək, səsli idarəetmə vasitəsilə aktiv edir. Daxili qorunan adaptiv sensor datanın yalnız sizin üçün görünməsini təmin edir.\n\n"<a href="">"Qorunan adaptiv sensor haqqında ətraflı məlumat"</a></string>
     <string name="full_screen_intent_title" msgid="747270185715224130">"Tam ekran bildirişləri"</string>
     <string name="permit_full_screen_intent" msgid="9035367640019960861">"Bu tətbiqin tam ekran bildirişlərinə icazə verin"</string>
     <string name="footer_description_full_screen_intent" msgid="7716518411349225528">"Bu tətbiqə cihaz kilidli olduqda tam ekranı tutan bildirişlər göstərmək icazəsi verin. Bunlar zəngli saat, gələn zəng və ya digər təcili bildirişlər üçündür."</string>
@@ -4201,7 +4198,7 @@
     <string name="right_edge" msgid="1505309103265829121">"Sağ kənar"</string>
     <string name="back_sensitivity_dialog_message" msgid="6638367716784103306">"Yüksək həssaslıq zamanı ekranın kənarlarında jestlər işləməyə bilər."</string>
     <string name="back_sensitivity_dialog_title" msgid="6153608904168908264">"Arxa Həssaslıq"</string>
-    <string name="gesture_settings_activity_title" msgid="2025828425762595733">"Jest Naviqasiyası Həssaslığı"</string>
+    <string name="gesture_settings_activity_title" msgid="1882463161833981820">"Jest Naviqasiyası"</string>
     <string name="button_navigation_settings_activity_title" msgid="7335636045504461813">"Düymə ilə naviqasiya"</string>
     <string name="keywords_gesture_navigation_settings" msgid="667561222717238931">"jest naviqasiyası, geri həssaslıq, geri jest"</string>
     <string name="keywords_button_navigation_settings" msgid="7888812253110553920">"naviqasiya, əsas ekran düyməsi"</string>
@@ -4580,8 +4577,10 @@
     <string name="summary_satellite_connection_guide" msgid="3496123195218418456">"Telefon peykə avtomatik qoşulacaq. Yaxşı bağlantı üçün səma aydın görünməlidir."</string>
     <string name="title_supported_service" msgid="4275535165812691571">"Telefon peykə qoşulduqdan sonra"</string>
     <string name="summary_supported_service" msgid="4320535903444834786">"Təcili xidmətlər daxil olmaqla istədiyiniz şəxsə mesaj yaza bilərsiniz. Əlçatan olduqda telefon mobil şəbəkəyə yenidən qoşulacaq."</string>
-    <string name="satellite_setting_summary_more_information" msgid="4008690241760925372">"Peyk vasitəsilə mesajlaşma uzun çəkə bilər və yalnız bəzi ərazilərdə əlçatandır. Hava və müəyyən strukturlar peyk bağlantısına təsir edə bilər. Peyk vasitəsilə zəng əlçatan deyil.\n\nHesaba edilən dəyişikliklərin Ayarlarda görünməsi bir qədər vaxt apara bilər. Ətraflı məlumat üçün <xliff:g id="CARRIER_NAME">%1$s</xliff:g> ilə əlaqə saxlayın."</string>
+    <string name="satellite_setting_summary_more_information" msgid="7729454610548016356">"Peyk vasitəsilə mesajlaşma uzun çəkə bilər və yalnız bəzi ərazilərdə əlçatandır. Hava və müəyyən strukturlar peyk bağlantısına təsir edə bilər. Peyk vasitəsilə zənglər hələ əlçatan deyil. Təcili zənglər yenə qoşula bilər.\n\nHesab dəyişikliklərinin Ayarlarda görünməsi bir müddət çəkə bilər. Ətraflı məlumat üçün operator ilə əlaqə saxlayın."</string>
     <string name="more_about_satellite_messaging" msgid="3385673133561348509">"Peyk vasitəsilə mesajlaşma haqqında ətraflı"</string>
+    <string name="satellite_warning_dialog_title" msgid="1610117852475376931">"<xliff:g id="FUNCTION">%1$s</xliff:g> funksiyasını yandırmaq olmur"</string>
+    <string name="satellite_warning_dialog_content" msgid="936419945275934955">"<xliff:g id="FUNCTION">%1$s</xliff:g> funksiyasını yandırmaq üçün əvvəlcə peyk bağlantısını sonlandırın"</string>
     <string name="mobile_network_apn_title" msgid="5582995550142073054">"Giriş nöqtəsi adları"</string>
     <string name="keywords_access_point_names" msgid="8174967126858505945">"apn"</string>
     <string name="manual_mode_disallowed_summary" msgid="4243142645520152175">"<xliff:g id="CARRIER">%1$s</xliff:g> ünvanına qoşulduqda əlçatan deyil"</string>

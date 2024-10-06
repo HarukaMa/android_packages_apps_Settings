@@ -48,9 +48,9 @@
     <string name="selective_stay_awake_title" msgid="7887645333447645168">"Only games, videos and more"</string>
     <string name="selective_stay_awake_summary" msgid="9055967322921984543">"Front display turns on for apps that stop your screen going idle"</string>
     <string name="stay_awake_on_lockscreen_title" msgid="8088456642083051068">"Swipe up to continue"</string>
-    <string name="stay_awake_on_lockscreen_summary" msgid="2299351813382522952">"Fold your phone and swipe up on the front display to continue using the app, or wait a few seconds for the screen to lock"</string>
+    <string name="stay_awake_on_lockscreen_summary" msgid="8825321939913726566">"Fold your phone and swipe up on the front display to continue using the app, or wait a few seconds for the screen to lock. Games and video apps will continue automatically."</string>
     <string name="sleep_on_fold_title" msgid="7626123024330501411">"Never"</string>
-    <string name="sleep_on_fold_summary" msgid="7737992842459588846">"Front display locks when you fold your device"</string>
+    <string name="sleep_on_fold_summary" msgid="4191753338303043456">"Front display turns off and locks when you fold your device"</string>
     <string name="auto_rotate_settings_primary_switch_title" msgid="3440951924928594520">"Use auto-rotate"</string>
     <string name="smart_rotate_text_headline" msgid="5878008933992951904">"Face detection uses the front-facing camera to improve auto-rotate accuracy. Images are never stored or sent to Google."</string>
     <string name="bluetooth" msgid="8898478620943459654">"Bluetooth"</string>
@@ -1369,7 +1369,7 @@
     <string name="storage_menu_free" msgid="616100170298501673">"Free up space"</string>
     <string name="storage_menu_manage" msgid="7465522758801346408">"Manage storage"</string>
     <string name="storage_free_up_space_title" msgid="281047807372131975">"Free up space"</string>
-    <string name="storage_free_up_space_summary" msgid="6650027929735481350">"Go to Files app to manage and free up space"</string>
+    <string name="storage_free_up_space_summary" msgid="6650027929735481350">"Go to the Files app to manage and free up space"</string>
     <string name="storage_other_users" msgid="7017206190449510992">"Other users"</string>
     <string name="storage_size_large" msgid="1155308277890194878">"<xliff:g id="NUMBER">^1</xliff:g>"<small><small>" <xliff:g id="UNIT">^2</xliff:g>"</small></small>""</string>
     <string name="storage_mount_success" msgid="393972242641313135">"<xliff:g id="NAME">%1$s</xliff:g> is mounted"</string>
@@ -1421,7 +1421,7 @@
     <string name="battery_level_title" msgid="1371765298786083448">"Battery level"</string>
     <string name="communal_settings_title" msgid="2845678473945902115">"Communal"</string>
     <string name="communal_settings_summary" msgid="4923914136953940317">"Communal settings"</string>
-    <string name="satellite_setting" msgid="706846910912477125">"Satellite messaging"</string>
+    <string name="satellite_setting" msgid="4171265534842459910">"Satellite messaging"</string>
     <string name="apn_settings" msgid="4295467389400441299">"APNs"</string>
     <string name="apn_edit" msgid="2003683641840248741">"Edit access point"</string>
     <string name="apn_add" msgid="9069613192201630934">"Add access point"</string>
@@ -2103,7 +2103,7 @@
     <string name="accessibility_shortcut_edit_dialog_title_software" msgid="4796192466943479849">"Tap Accessibility button"</string>
     <string name="accessibility_shortcut_edit_dialog_title_software_by_gesture" msgid="3981188764050497346">"Use accessibility gesture"</string>
     <string name="accessibility_shortcut_edit_dialog_summary_software" msgid="5606196352833449600">"Tap the accessibility button <xliff:g id="ACCESSIBILITY_ICON">%s</xliff:g> at the bottom of your screen.\n\nTo switch between features, touch and hold the accessibility button."</string>
-    <string name="accessibility_shortcut_edit_dialog_summary_software_gesture" msgid="8292555254353761635">"Swipe up from the bottom of the screen with 2 fingers.\n\nTo switch between features, swipe up with 2 fingers and hold."</string>
+    <string name="accessibility_shortcut_edit_dialog_summary_software_gesture" msgid="8292555254353761635">"Swipe up from the bottom of the screen with two fingers.\n\nTo switch between features, swipe up with two fingers and hold."</string>
     <string name="accessibility_shortcut_edit_dialog_summary_software_gesture_talkback" msgid="84483464524360845">"Swipe up from the bottom of the screen with three fingers.\n\nTo switch between features, swipe up with three fingers and hold."</string>
     <string name="accessibility_shortcut_edit_dialog_summary_software_floating" msgid="4459254227203203324"><annotation id="link">"More options"</annotation></string>
     <string name="footer_learn_more_content_description" msgid="8843798273152131341">"Learn more about <xliff:g id="SERVICE">%1$s</xliff:g>"</string>
@@ -2124,7 +2124,7 @@
     <string name="accessibility_shortcut_service_on_lock_screen_title" msgid="3923122834058574478">"Shortcut from lock screen"</string>
     <string name="accessibility_shortcut_description" msgid="2184693606202133549">"Allow feature shortcut to turn on from the lock screen. Hold both volume keys for a few seconds."</string>
     <string name="accessibility_button_title" msgid="5251235485581552614">"Accessibility button"</string>
-    <string name="accessibility_button_gesture_title" msgid="3573456209050374139">"Accessibility button &amp; gesture"</string>
+    <string name="accessibility_button_gesture_title" msgid="3573456209050374139">"Accessibility button and gesture"</string>
     <string name="accessibility_button_intro_text" msgid="80993874471745687">"Quickly access accessibility features from any screen"</string>
     <string name="accessibility_button_about_title" msgid="3581116105084067926">"About accessibility button"</string>
     <string name="accessibility_button_gesture_about_title" msgid="8468987303602865536">"About accessibility button &amp; gesture"</string>
@@ -3924,9 +3924,6 @@
     <string name="permit_manage_external_storage" msgid="6928847280689401761">"Allow access to manage all files"</string>
     <string name="allow_manage_external_storage_description" msgid="5707948153603253225">"Allow this app to read, modify and delete all files on this device or any connected storage volumes. If granted, app may access files without your explicit knowledge."</string>
     <string name="filter_manage_external_storage" msgid="6751640571715343804">"Can access all files"</string>
-    <string name="voice_activation_apps_title" msgid="7130045161611529825">"Voice activation apps"</string>
-    <string name="permit_voice_activation_apps" msgid="9152780172988949319">"Allow voice activation"</string>
-    <string name="allow_voice_activation_apps_description" msgid="6369745626995060656">"Voice activation turns on approved apps, hands-free, using voice command. Built-in adaptive sensing ensures data stays private only to you.\n\n"<a href="">"More about protected adaptive sensing"</a></string>
     <string name="full_screen_intent_title" msgid="747270185715224130">"Full-screen notifications"</string>
     <string name="permit_full_screen_intent" msgid="9035367640019960861">"Allow full-screen notifications from this app"</string>
     <string name="footer_description_full_screen_intent" msgid="7716518411349225528">"Allow this app to show notifications that take up the full screen when the device is locked. Apps may use these to highlight alarms, incoming calls or other urgent notifications."</string>
@@ -4201,7 +4198,7 @@
     <string name="right_edge" msgid="1505309103265829121">"Right edge"</string>
     <string name="back_sensitivity_dialog_message" msgid="6638367716784103306">"Higher sensitivity may conflict with any app gestures along the edges of the screen."</string>
     <string name="back_sensitivity_dialog_title" msgid="6153608904168908264">"Back sensitivity"</string>
-    <string name="gesture_settings_activity_title" msgid="2025828425762595733">"Gesture navigation sensitivity"</string>
+    <string name="gesture_settings_activity_title" msgid="1882463161833981820">"Gesture navigation"</string>
     <string name="button_navigation_settings_activity_title" msgid="7335636045504461813">"Button navigation"</string>
     <string name="keywords_gesture_navigation_settings" msgid="667561222717238931">"gesture navigation, back sensitivity, back gesture"</string>
     <string name="keywords_button_navigation_settings" msgid="7888812253110553920">"navigation, home button"</string>
@@ -4368,7 +4365,7 @@
     <string name="credman_confirmation_message" msgid="2357324543658635239">"&lt;b&gt;Turn off this service?&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; Saved info like passwords, passkeys, payment methods and other info won\'t be filled in when you sign in. To use your saved info, choose a password, passkey or data service."</string>
     <string name="account_dashboard_title_with_passkeys" msgid="6214673787161409996">"Passwords, passkeys and autofill"</string>
     <string name="credman_confirmation_message_new_ui" msgid="6126274509951156460">"&lt;b&gt;Turn off all services?&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; Passwords, passkeys and other saved info won\'t be available for autofill when you sign in"</string>
-    <string name="credman_autofill_confirmation_message_new_ui" msgid="6222139222478822267">"&lt;b&gt;Change your preferred service to &lt;xliff:g id=app_name example=Provider&gt;%1$s&lt;/xliff:g&gt;?&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; New passwords, passkeys and other info will be saved here from now on. &lt;xliff:g id=app_name example=Provider&gt;%1$s&lt;/xliff:g&gt; may use what\'s on your screen to determine what can be autofilled"</string>
+    <string name="credman_autofill_confirmation_message_new_ui" msgid="6222139222478822267">"&lt;b&gt;Change your preferred service to &lt;xliff:g id=app_name example=Provider&gt;%1$s&lt;/xliff:g&gt;?&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; New passwords, passkeys and other info will be saved here from now on. &lt;xliff:g id=app_name example=Provider&gt;%1$s&lt;/xliff:g&gt; may use what\'s on your screen to determine what can be autofilled."</string>
     <string name="credman_enable_confirmation_message_title" msgid="1037501792652277829">"Use %1$s?"</string>
     <string name="credman_confirmation_turn_off_positive_button" msgid="5678773011513369161">"Turn off"</string>
     <string name="credman_confirmation_change_provider_positive_button" msgid="7732302992885116967">"Change"</string>
@@ -4580,8 +4577,10 @@
     <string name="summary_satellite_connection_guide" msgid="3496123195218418456">"Your phone will auto-connect to a satellite. For the best connection, keep a clear view of the sky."</string>
     <string name="title_supported_service" msgid="4275535165812691571">"After your phone connects to a satellite"</string>
     <string name="summary_supported_service" msgid="4320535903444834786">"You can text anyone, including emergency services. Your phone will reconnect to a mobile network when available."</string>
-    <string name="satellite_setting_summary_more_information" msgid="4008690241760925372">"Satellite messaging may take longer and is available only in some areas, weather and certain structures may affect your satellite connection. Calling by satellite isn’t available.\n\nIt may take some time for changes to your account to show in Settings. Contact <xliff:g id="CARRIER_NAME">%1$s</xliff:g> for details."</string>
+    <string name="satellite_setting_summary_more_information" msgid="7729454610548016356">"Satellite messaging may take longer and is only available in some areas. Weather and certain structures may affect your satellite connection. Calling by satellite isn’t available. Emergency calls may still connect.\n\nIt may take some time for account changes to show in Settings. Contact your operator for details."</string>
     <string name="more_about_satellite_messaging" msgid="3385673133561348509">"More about satellite messaging"</string>
+    <string name="satellite_warning_dialog_title" msgid="1610117852475376931">"Can\'t turn on <xliff:g id="FUNCTION">%1$s</xliff:g>"</string>
+    <string name="satellite_warning_dialog_content" msgid="936419945275934955">"To turn on <xliff:g id="FUNCTION">%1$s</xliff:g>, first end the satellite connection"</string>
     <string name="mobile_network_apn_title" msgid="5582995550142073054">"Access point names"</string>
     <string name="keywords_access_point_names" msgid="8174967126858505945">"APN"</string>
     <string name="manual_mode_disallowed_summary" msgid="4243142645520152175">"Unavailable when connected to <xliff:g id="CARRIER">%1$s</xliff:g>"</string>

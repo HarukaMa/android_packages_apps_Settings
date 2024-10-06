@@ -48,9 +48,9 @@
     <string name="selective_stay_awake_title" msgid="7887645333447645168">"只限遊戲、影片等"</string>
     <string name="selective_stay_awake_summary" msgid="9055967322921984543">"如果應用程式不讓螢幕進入閒置狀態，前方螢幕就會開啟"</string>
     <string name="stay_awake_on_lockscreen_title" msgid="8088456642083051068">"向上滑動即可繼續"</string>
-    <string name="stay_awake_on_lockscreen_summary" msgid="2299351813382522952">"你可將手機摺疊並在前方螢幕向上滑動，繼續使用應用程式，或等待幾秒讓螢幕上鎖。"</string>
+    <string name="stay_awake_on_lockscreen_summary" msgid="8825321939913726566">"將手機摺疊並在前方螢幕向上滑動，即可繼續使用應用程式，或等待幾秒讓螢幕上鎖。遊戲和影片應用程式會自動繼續執行。"</string>
     <string name="sleep_on_fold_title" msgid="7626123024330501411">"永不"</string>
-    <string name="sleep_on_fold_summary" msgid="7737992842459588846">"裝置摺疊時鎖定前方螢幕"</string>
+    <string name="sleep_on_fold_summary" msgid="4191753338303043456">"裝置摺疊時關閉並鎖定前方螢幕"</string>
     <string name="auto_rotate_settings_primary_switch_title" msgid="3440951924928594520">"使用自動旋轉"</string>
     <string name="smart_rotate_text_headline" msgid="5878008933992951904">"面孔偵測功能會使用前置鏡頭提高自動旋轉的準確度。系統絕不會將相關圖像儲存或傳送給 Google。"</string>
     <string name="bluetooth" msgid="8898478620943459654">"藍牙"</string>
@@ -557,7 +557,7 @@
     <string name="private_space_new_lock_title" msgid="9056139964133004094">"要為私人空間選擇新的鎖定方式嗎？"</string>
     <string name="private_space_auto_lock_title" msgid="8663409382910601261">"自動鎖定私人空間"</string>
     <string name="private_space_auto_lock_page_summary" msgid="8679844515655838654">"裝置可在閒置一段時間後自動鎖定私人空間"</string>
-    <string name="private_space_auto_lock_every_time" msgid="1215061855836002830">"每當裝置鎖定"</string>
+    <string name="private_space_auto_lock_every_time" msgid="1215061855836002830">"每當裝置鎖定時"</string>
     <string name="private_space_auto_lock_after_inactivity" msgid="1748673030841528649">"閒置 5 分鐘後"</string>
     <string name="private_space_auto_lock_never" msgid="595014527119778873">"永不"</string>
     <string name="private_space_hide_title" msgid="8687034008994037610">"在鎖定時隱藏"</string>
@@ -571,7 +571,7 @@
     <string name="privatespace_hide_on_summary" msgid="6136704537527640183">"開啟"</string>
     <string name="private_space_category_system" msgid="1286843321867285700">"系統"</string>
     <string name="private_space_delete_title" msgid="636873505724100006">"刪除私人空間"</string>
-    <string name="private_space_delete_header" msgid="4594429153176776184">"要刪除私人空間嗎？"</string>
+    <string name="private_space_delete_header" msgid="4594429153176776184">"要刪除私人空間？"</string>
     <string name="private_space_delete_summary" msgid="3344372988408565545">"你的私人空間將從裝置上移除。所有私人應用程式和資料都會被刪除，且無法復原。"</string>
     <string name="private_space_accounts" msgid="1078277762792056395">"系統將從你的私人空間移除以下帳戶："</string>
     <string name="private_space_delete_button_label" msgid="1256981385318225002">"刪除"</string>
@@ -1421,7 +1421,7 @@
     <string name="battery_level_title" msgid="1371765298786083448">"電量"</string>
     <string name="communal_settings_title" msgid="2845678473945902115">"共用"</string>
     <string name="communal_settings_summary" msgid="4923914136953940317">"共用設定"</string>
-    <string name="satellite_setting" msgid="706846910912477125">"衛星訊息"</string>
+    <string name="satellite_setting" msgid="4171265534842459910">"衛星訊息"</string>
     <string name="apn_settings" msgid="4295467389400441299">"APN"</string>
     <string name="apn_edit" msgid="2003683641840248741">"編輯接入點"</string>
     <string name="apn_add" msgid="9069613192201630934">"新增存取點"</string>
@@ -1792,7 +1792,7 @@
     <string name="force_stop_dlg_title" msgid="86745852555490146">"你要強制停止嗎？"</string>
     <string name="force_stop_dlg_text" msgid="1527286468544457368">"強制停止應用程式，可能會導致操作不正常。"</string>
     <string name="app_disable_dlg_positive" msgid="1414218905322009505">"停用應用程式"</string>
-    <string name="app_disable_dlg_text" msgid="2449382902751908916">"如果你停用此應用程式，Android 和其他應用程式可能無法正常運作。請謹記，由於此應用程式已預先安裝至你的裝置，因此無法將之刪除。停用後，你便可關閉此應用程式並在裝置上隱藏它。"</string>
+    <string name="app_disable_dlg_text" msgid="2449382902751908916">"如果你停用此應用程式，Android 和其他應用程式可能無法正常運作。請謹記，由於此應用程式已預先安裝至你的裝置，因此無法刪除。停用後，你便可在裝置上關閉並隱藏此應用程式。"</string>
     <string name="app_install_details_group_title" msgid="1172114479073704677">"商店"</string>
     <string name="app_install_details_title" msgid="7783556181897142187">"應用程式詳細資料"</string>
     <string name="app_install_details_summary" msgid="2013043219249992373">"從「<xliff:g id="APP_STORE">%1$s</xliff:g>」安裝的應用程式"</string>
@@ -2143,7 +2143,7 @@
     <string name="accessibility_button_high_label" msgid="9138077512008190896">"不透明"</string>
     <string name="accessibility_toggle_high_text_contrast_preference_title" msgid="1830189632458752698">"高對比文字"</string>
     <string name="accessibility_toggle_high_text_contrast_preference_summary" msgid="5286411556836346180">"將文字顏色改成黑色或白色，盡量令文字和背景顏色有最大對比。"</string>
-    <string name="accessibility_toggle_maximize_text_contrast_preference_title" msgid="8737272017343509753">"將文字對比度最大化"</string>
+    <string name="accessibility_toggle_maximize_text_contrast_preference_title" msgid="8737272017343509753">"提高文字對比度"</string>
     <string name="accessibility_toggle_maximize_text_contrast_preference_summary" msgid="5493999083693403489">"將文字色彩改成黑色或白色，提升文字和背景之間的對比度。"</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title" msgid="4987009529235165664">"自動更新螢幕放大設定"</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary" msgid="9034532513972547720">"在應用程式轉場時更新螢幕放大設定"</string>
@@ -3924,9 +3924,6 @@
     <string name="permit_manage_external_storage" msgid="6928847280689401761">"允許存取以管理所有檔案"</string>
     <string name="allow_manage_external_storage_description" msgid="5707948153603253225">"允許此應用程式讀取、修改和刪除此裝置或任何已連接的儲存空間卷宗上的所有檔案。如獲得權限，應用程式可能會在你不知情的情況下存取檔案。"</string>
     <string name="filter_manage_external_storage" msgid="6751640571715343804">"可存取所有檔案"</string>
-    <string name="voice_activation_apps_title" msgid="7130045161611529825">"透過語音啟動的應用程式"</string>
-    <string name="permit_voice_activation_apps" msgid="9152780172988949319">"允許使用語音啟動功能"</string>
-    <string name="allow_voice_activation_apps_description" msgid="6369745626995060656">"語音啟動功能讓你可以透過語音指令，開句聲便啟動已核准的應用程式。內置的自動調整感應功能則可確保資料不外洩。\n\n"<a href="">"進一步瞭解受保護的自動調整感應功能"</a></string>
     <string name="full_screen_intent_title" msgid="747270185715224130">"全螢幕通知"</string>
     <string name="permit_full_screen_intent" msgid="9035367640019960861">"允許此應用程式的全螢幕通知"</string>
     <string name="footer_description_full_screen_intent" msgid="7716518411349225528">"允許此應用程式在裝置上鎖時顯示全螢幕通知。應用程式可能會利用這些通知突顯鬧鐘、來電或其他緊急通知。"</string>
@@ -4201,7 +4198,7 @@
     <string name="right_edge" msgid="1505309103265829121">"右側邊緣"</string>
     <string name="back_sensitivity_dialog_message" msgid="6638367716784103306">"較高的敏感度可能會與任何在螢幕邊緣的應用程式手勢互相衝突。"</string>
     <string name="back_sensitivity_dialog_title" msgid="6153608904168908264">"返回手勢的敏感度"</string>
-    <string name="gesture_settings_activity_title" msgid="2025828425762595733">"手勢導覽敏感度"</string>
+    <string name="gesture_settings_activity_title" msgid="1882463161833981820">"手勢導覽"</string>
     <string name="button_navigation_settings_activity_title" msgid="7335636045504461813">"按鈕導覽"</string>
     <string name="keywords_gesture_navigation_settings" msgid="667561222717238931">"手勢導覽, 返回手勢的敏感度, 返回手勢"</string>
     <string name="keywords_button_navigation_settings" msgid="7888812253110553920">"導覽, 主按鈕"</string>
@@ -4580,8 +4577,10 @@
     <string name="summary_satellite_connection_guide" msgid="3496123195218418456">"手機將自動連接衛星。在清楚看到天空的的地方可獲得最佳連線。"</string>
     <string name="title_supported_service" msgid="4275535165812691571">"手機連接衛星後"</string>
     <string name="summary_supported_service" msgid="4320535903444834786">"你可發短訊給任何人，包括緊急服務。如果有可用的流動網絡，手機就會重新連線。"</string>
-    <string name="satellite_setting_summary_more_information" msgid="4008690241760925372">"衛星訊息可能需要比較長的時間才會送達，而且此功能只支援部分地區。天氣和特定結構可能會影響衛星連線。系統不支援衛星電話。\n\n「設定」頁面可能要一段時間後才會顯示帳戶變動，歡迎聯絡 <xliff:g id="CARRIER_NAME">%1$s</xliff:g> 查詢詳情。"</string>
+    <string name="satellite_setting_summary_more_information" msgid="7729454610548016356">"衛星訊息可能需要比較長的時間才會送達，而且此功能只支援部分地區。天氣和特定結構可能會影響衛星連線。系統不支援衛星電話，但緊急電話可能仍能接通。\n\n「設定」頁面可能要一段時間後才會顯示帳戶變動，詳情請聯絡流動網絡供應商。"</string>
     <string name="more_about_satellite_messaging" msgid="3385673133561348509">"進一步瞭解衛星訊息"</string>
+    <string name="satellite_warning_dialog_title" msgid="1610117852475376931">"無法開啟<xliff:g id="FUNCTION">%1$s</xliff:g>"</string>
+    <string name="satellite_warning_dialog_content" msgid="936419945275934955">"如要開啟<xliff:g id="FUNCTION">%1$s</xliff:g>，請先中斷衛星連線"</string>
     <string name="mobile_network_apn_title" msgid="5582995550142073054">"接入點名稱 (APN)"</string>
     <string name="keywords_access_point_names" msgid="8174967126858505945">"APN"</string>
     <string name="manual_mode_disallowed_summary" msgid="4243142645520152175">"無法在連接至<xliff:g id="CARRIER">%1$s</xliff:g>時使用"</string>

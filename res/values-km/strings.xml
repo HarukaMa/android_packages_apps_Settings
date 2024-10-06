@@ -48,9 +48,9 @@
     <string name="selective_stay_awake_title" msgid="7887645333447645168">"ហ្គេម វីដេអូ និងអ្វីៗជាច្រើនទៀតតែប៉ុណ្ណោះ"</string>
     <string name="selective_stay_awake_summary" msgid="9055967322921984543">"អេក្រង់មុខបើកសម្រាប់កម្មវិធីដែលរារាំងមិនឱ្យអេក្រង់ចូលសម្ងំ"</string>
     <string name="stay_awake_on_lockscreen_title" msgid="8088456642083051068">"អូសឡើងលើ ដើម្បីបន្ត"</string>
-    <string name="stay_awake_on_lockscreen_summary" msgid="2299351813382522952">"បត់ទូរសព្ទរបស់អ្នក រួចអូសឡើងនៅលើអេក្រង់មុខ ដើម្បីបន្តប្រើប្រាស់កម្មវិធី ឬរង់ចាំពីរបីវិនាទី ដើម្បីឱ្យអេក្រង់ចាក់សោ"</string>
+    <string name="stay_awake_on_lockscreen_summary" msgid="8825321939913726566">"បត់ទូរសព្ទរបស់អ្នក រួចអូសឡើងនៅលើអេក្រង់មុខ ដើម្បីបន្តប្រើប្រាស់កម្មវិធី ឬរង់ចាំពីរបីវិនាទី ដើម្បីឱ្យអេក្រង់ចាក់សោ។ ហ្គេម និងកម្មវិធីវីដេអូនឹងបន្តដោយស្វ័យប្រវត្តិ។"</string>
     <string name="sleep_on_fold_title" msgid="7626123024330501411">"កុំឱ្យសោះ"</string>
-    <string name="sleep_on_fold_summary" msgid="7737992842459588846">"អេក្រង់មុខចាក់សោ នៅពេលអ្នកបត់ឧបករណ៍របស់អ្នក"</string>
+    <string name="sleep_on_fold_summary" msgid="4191753338303043456">"អេក្រង់មុខបិទ និងចាក់សោនៅពេលអ្នកបត់ឧបករណ៍របស់អ្នក"</string>
     <string name="auto_rotate_settings_primary_switch_title" msgid="3440951924928594520">"ប្រើ​ការបង្វិលស្វ័យប្រវត្តិ"</string>
     <string name="smart_rotate_text_headline" msgid="5878008933992951904">"ការសម្គាល់មុខ​ប្រើកាមេរ៉ា​ខាងមុខ ដើម្បីកែលម្អ​ភាពត្រឹមត្រូវនៃ​ការបង្វិល​ស្វ័យប្រវត្តិ។ រូបភាព​មិនត្រូវបានរក្សាទុក ឬផ្ញើទៅ Google ឡើយ។"</string>
     <string name="bluetooth" msgid="8898478620943459654">"ប៊្លូធូស"</string>
@@ -378,7 +378,7 @@
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_title_2" msgid="2580899232734177771">"របៀបដែលវាដំណើរការ"</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2" msgid="5909924864816776516">"ការដោះសោ​ដោយស្កេន​ស្នាមម្រាមដៃ​បង្កើតគំរូស្នាមម្រាមដៃ​របស់អ្នក​ខុសប្លែកពីគេ ដើម្បីផ្ទៀងផ្ទាត់​ថាជាអ្នក។ ដើម្បីបង្កើត​គំរូស្នាមម្រាមដៃនេះ​ក្នុងអំឡុងពេល​រៀបចំ អ្នកនឹងត្រូវ​ថតរូបស្នាមម្រាមដៃ​របស់អ្នក​ពីផ្នែកខុសៗគ្នា។"</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2" msgid="3493356605815124807">"ការដោះសោ​ដោយប្រើស្នាមម្រាមដៃ​បង្កើតគំរូស្នាមម្រាមដៃ​របស់កូនអ្នក​ខុសប្លែកពីគេ ដើម្បីផ្ទៀងផ្ទាត់​ថាជាគាត់។ ដើម្បីបង្កើត​គំរូស្នាមម្រាមដៃនេះ​ក្នុងអំឡុងពេល​រៀបចំ គាត់នឹងត្រូវ​ថតរូបស្នាមម្រាមដៃ​របស់គាត់​ពីផ្នែក​ខុសៗគ្នា។"</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6" msgid="5314031490467481499">"ដើម្បីទទួលបាន​លទ្ធផល​ល្អបំផុត សូមប្រើកញ្ចក់​ការពារ​អេក្រង់​ដែលបានទទួលស្គាល់​ពី Made for Google។ តាមរយៈ​កញ្ចក់​ការពារ​អេក្រង់ផ្សេងទៀត ស្នាមម្រាមដៃរបស់អ្នកអាចមិនដំណើរការ។"</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6" msgid="5314031490467481499">"ដើម្បីទទួលបាន​លទ្ធផល​ល្អបំផុត សូមប្រើកញ្ចក់​ការពារ​អេក្រង់​ដែលបានទទួលស្គាល់​ពី Made for Google។ បើប្រើកញ្ចក់​ការពារ​អេក្រង់ផ្សេងទៀត ស្នាមម្រាមដៃរបស់អ្នកអាចមិនដំណើរការ។"</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_6" msgid="3563942520716110478">"ដើម្បីទទួលបាន​លទ្ធផល​ល្អបំផុត សូមប្រើកញ្ចក់​ការពារ​អេក្រង់​ដែលបានទទួលស្គាល់​ពី Made for Google។ តាមរយៈ​កញ្ចក់​ការពារ​អេក្រង់ផ្សេងទៀត ស្នាមម្រាមដៃរបស់អ្នកអាចមិនដំណើរការ។"</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more" msgid="5856010507790137793"></string>
     <string name="security_settings_activeunlock_preference_title" msgid="4257580421087062228">"ការដោះសោដោយប្រើនាឡិកា"</string>
@@ -542,7 +542,7 @@
     <string name="work_profile_category_header" msgid="85707750968948517">"កម្រងព័ត៌មានការងារ"</string>
     <string name="private_space_title" msgid="1752064212078238723">"លំហ​ឯកជន"</string>
     <string name="private_space_summary" msgid="2274405892301976238">"រក្សាកម្មវិធីឯកជនឱ្យនៅជាប់សោ និងលាក់"</string>
-    <string name="private_space_description" msgid="4059594203775816136">"រក្សាកម្មវិធីឯកជនក្នុងបន្ទប់ដាច់ដោយឡែកដែលអ្នកអាចលាក់ ឬចាក់សោបាន"</string>
+    <string name="private_space_description" msgid="4059594203775816136">"រក្សាកម្មវិធីឯកជនក្នុងលំហដាច់ដោយឡែកដែលអ្នកអាចលាក់ ឬចាក់សោបាន"</string>
     <string name="private_space_lock_title" msgid="7230836881433350526">"ការចាក់សោលំហឯកជន"</string>
     <string name="private_space_one_lock_summary" msgid="2106513606571219068">"អ្នកអាចដោះសោលំហឯកជនរបស់អ្នកតាមវិធីតែមួយដែលអ្នកប្រើសម្រាប់ដោះសោឧបករណ៍របស់អ្នក ឬជ្រើសរើសការចាក់សោផ្សេង"</string>
     <string name="private_space_screen_lock_title" msgid="8679383894967823163">"ប្រើការចាក់សោអេក្រង់ឧបករណ៍"</string>
@@ -682,7 +682,7 @@
     <string name="unlock_set_unlock_mode_pattern" msgid="1926480143883094896">"លំនាំ"</string>
     <string name="unlock_set_unlock_mode_pin" msgid="9028659554829888373">"កូដ PIN"</string>
     <string name="unlock_set_unlock_mode_password" msgid="8810609692771987513">"ពាក្យសម្ងាត់​"</string>
-    <string name="unlock_disable_frp_warning_title" msgid="2545569051372893686">"ដកចេញនូវប្រភេទទាំងអស់នៃការដោះសោឧបករណ៍ឬ?"</string>
+    <string name="unlock_disable_frp_warning_title" msgid="2545569051372893686">"ដកការដោះសោឧបករណ៍គ្រប់ប្រភេទចេញឬ?"</string>
     <string name="unlock_disable_frp_warning_title_profile" msgid="1005284289723910461">"ដកការការពារប្រវត្តិរូបចេញឬទេ?"</string>
     <string name="unlock_disable_frp_warning_content_pattern" msgid="6246242612158828147">"លំនាំការពារទូរសព្ទរបស់អ្នក ប្រសិនបើវាបាត់ ឬត្រូវបានគេលួច"</string>
     <string name="unlock_disable_frp_warning_content_pattern_fingerprint" msgid="2259825377085781801">"លំនាំការពារទូរសព្ទរបស់អ្នក ប្រសិនបើវាបាត់ ឬត្រូវបានគេលួច។<xliff:g id="EMPTY_LINE">
@@ -812,7 +812,7 @@
     <string name="bluetooth_device_context_pair_connect" msgid="2406032703622371826">"ផ្គូផ្គង &amp; តភ្ជាប់"</string>
     <string name="bluetooth_empty_list_bluetooth_off" msgid="7326727272747345476">"ពេលបើកប៊្លូធូស ឧបករណ៍របស់អ្នកអាចទាក់ទងជាមួយឧបករណ៍ប៊្លូធូសនៅជិតផ្សេងទៀតបាន"</string>
     <string name="bluetooth_empty_list_bluetooth_off_auto_on_available" msgid="5833847615853525971">"នៅពេលបើកប៊្លូធូស ឧបករណ៍របស់អ្នកអាចទាក់ទងជាមួយ​ឧបករណ៍ប៊្លូធូសនៅជិត​ផ្សេងទៀតបាន។ មុខងារដូចជា Quick Share, \"រកឧបករណ៍របស់ខ្ញុំ\" និងទីតាំងឧបករណ៍ប្រើប្រាស់ប៊្លូធូស។"</string>
-    <string name="bluetooth_scanning_on_info_message" msgid="786648535600075223">"ឧបករណ៍​របស់អ្នក​អាចភ្ជាប់​ជាមួយ​ឧបករណ៍​ប៊្លូធូស​ដែល​នៅជិត​ផ្សេងទៀត នៅពេល​ប៊្លូធូស​បើក។\n\nដើម្បី​កែលម្អ​បទពិសោធន៍​ប្រើប្រាស់​ឧបករណ៍ កម្មវិធី និង​សេវាកម្ម​នៅតែ​អាច​ស្កេនរកឧបករណ៍​ដែល​នៅជិត​បាន​គ្រប់ពេល ទោះបីជា​នៅពេលបិទ​ប៊្លូធូស​ក៏ដោយ។ ឧទាហរណ៍ សកម្មភាពនេះ​អាច​ត្រូវ​បានប្រើ ដើម្បី​កែលម្អ​មុខងារ និង​សេវាកម្ម​ដែល​ផ្អែក​លើ​ទីតាំង​ជាដើម។ អ្នកអាច​ប្ដូរវា​បាននៅក្នុងការកំណត់​ការស្កេនប៊្លូធូស។"</string>
+    <string name="bluetooth_scanning_on_info_message" msgid="786648535600075223">"នៅពេល​ប៊្លូធូស​បើក ឧបករណ៍​របស់អ្នក​អាចធ្វើទំនាក់ទំនងជាមួយ​ឧបករណ៍​ប៊្លូធូស​ដែល​នៅជិត​ផ្សេងទៀត។\n\nដើម្បី​កែលម្អ​បទពិសោធ​ប្រើប្រាស់​ឧបករណ៍ កម្មវិធី និង​សេវាកម្ម​នៅតែ​អាច​ស្កេនរកឧបករណ៍​ដែល​នៅជិត​បាន​គ្រប់ពេល ទោះបីជា​នៅពេលបិទ​ប៊្លូធូស​ក៏ដោយ។ ឧទាហរណ៍ វាអាច​ត្រូវ​បានប្រើ ដើម្បី​កែលម្អ​មុខងារ និង​សេវាកម្ម​ដែល​ផ្អែក​លើ​ទីតាំង​ជាដើម។ អ្នកអាច​ប្ដូរវា​បាននៅក្នុងការកំណត់​ការស្កេនប៊្លូធូស។"</string>
     <string name="bluetooth_scanning_on_info_message_auto_on_available" msgid="5047787966768730069">"នៅពេលបើកប៊្លូធូស ឧបករណ៍របស់អ្នកអាចទាក់ទងជាមួយ​ឧបករណ៍ប៊្លូធូសនៅជិត​ផ្សេងទៀតបាន។ មុខងារដូចជា Quick Share, \"រកឧបករណ៍របស់ខ្ញុំ\" និងទីតាំងឧបករណ៍ប្រើប្រាស់ប៊្លូធូស។\n\nកម្មវិធី និង​សេវាកម្ម​នៅតែ​អាច​ស្កេនរកឧបករណ៍​នៅជិត​នៅពេលណាក៏បាន សូម្បី​នៅពេលបិទ​ប៊្លូធូស​ក៏ដោយ។ សកម្មភាពនេះ​អាច​ត្រូវ​បានប្រើ ដូចជាដើម្បី​កែលម្អ​មុខងារ និង​សេវាកម្ម​ដែល​ផ្អែក​លើ​ទីតាំង​ជាដើម។ អ្នកអាចផ្លាស់ប្ដូរលក្ខណៈនេះនៅក្នុងការ​កំណត់ការស្កេនរកប៊្លូធូស។"</string>
     <string name="bluetooth_scan_change" msgid="1744636222637390367">"ផ្លាស់ប្ដូរ"</string>
     <string name="device_details_title" msgid="1155622417516195481">"ព័ត៌មានលម្អិត​អំពី​ឧបករណ៍"</string>
@@ -1421,10 +1421,10 @@
     <string name="battery_level_title" msgid="1371765298786083448">"កម្រិត​ថ្ម"</string>
     <string name="communal_settings_title" msgid="2845678473945902115">"ទូទៅ"</string>
     <string name="communal_settings_summary" msgid="4923914136953940317">"ការកំណត់ទូទៅ"</string>
-    <string name="satellite_setting" msgid="706846910912477125">"ការ​ផ្ញើ​សារតាមផ្កាយរណប"</string>
+    <string name="satellite_setting" msgid="4171265534842459910">"ការ​ផ្ញើ​សារតាមផ្កាយរណប"</string>
     <string name="apn_settings" msgid="4295467389400441299">"APNs"</string>
     <string name="apn_edit" msgid="2003683641840248741">"កែ​ចំណុច​ចូលប្រើប្រាស់"</string>
-    <string name="apn_add" msgid="9069613192201630934">"បញ្ចូលដុំភ្ជាប់បណ្ដាញឥតខ្សែ"</string>
+    <string name="apn_add" msgid="9069613192201630934">"បញ្ចូលចំណុចចូលប្រើប្រាស់"</string>
     <string name="apn_not_set" msgid="8246646433109750293">"មិនបានកំណត់"</string>
     <string name="apn_not_set_for_mvno" msgid="1141490067313964640">"មិនបានកំណត់"</string>
     <string name="apn_name" msgid="6677695784108157953">"ឈ្មោះ"</string>
@@ -1872,10 +1872,10 @@
     <string name="physical_keyboard_title" msgid="3328134097512350958">"ក្ដារចុច​រូបវ័ន្ត"</string>
     <string name="show_ime" msgid="4334255501724746849">"ប្រើក្ដារចុច​លើអេក្រង់"</string>
     <string name="show_ime_summary" msgid="7293345791727205975">"រក្សា​នៅលើអេក្រង់ ពេលក្តារចុចរូបវ័ន្តកំពុងធ្វើ​​ប្រតិបត្តិការ"</string>
-    <string name="bounce_keys" msgid="7419450970351743904">"គ្រាប់ចុចលោត"</string>
+    <string name="bounce_keys" msgid="7419450970351743904">"គ្រាប់ចុចឡង"</string>
     <string name="bounce_keys_summary" msgid="7347050868868080302">"ក្ដារចុចមិនអើពើនឹងការចុចដដែលៗយ៉ាងរហ័សនៃគ្រាប់ចុចដដែលក្នុងរយៈពេល <xliff:g id="BOUNCE_KEYS_THRESHOLD">%1$d</xliff:g> មិល្លីវិនាទី"</string>
     <string name="slow_keys" msgid="2891452895499690837">"គ្រាប់ចុចយឺត"</string>
-    <string name="slow_keys_summary" msgid="1784371292745423292">"កែតម្រូវរយៈពេលដែលប្រើសម្រាប់ការចុចគ្រាប់ចុច ដើម្បីបើកដំណើរការដល់ <xliff:g id="SLOW_KEYS_THRESHOLD">%1$d</xliff:g> មិល្លីវិនាទី"</string>
+    <string name="slow_keys_summary" msgid="1784371292745423292">"កែតម្រូវរយៈពេលនៃការចុចគ្រាប់ចុចដើម្បីបើកដំណើរការទៅ <xliff:g id="SLOW_KEYS_THRESHOLD">%1$d</xliff:g> មិល្លីវិនាទី"</string>
     <string name="sticky_keys" msgid="7317317044898161747">"គ្រាប់ចុចស្អិត"</string>
     <string name="sticky_keys_summary" msgid="1844953803625480623">"ចុចគ្រាប់ចុចមួយក្នុងមួយលើកសម្រាប់ផ្លូវកាត់ជំនួសឱ្យការចុចគ្រាប់ចុចឱ្យជាប់រួមគ្នា"</string>
     <string name="keyboard_shortcuts_helper" msgid="2553221039203165344">"ផ្លូវកាត់ក្តារចុច"</string>
@@ -1996,9 +1996,9 @@
     <string name="general_category_title" msgid="6298579528716834157">"ទូទៅ"</string>
     <string name="display_category_title" msgid="6638191682294461408">"បង្ហាញ"</string>
     <string name="accessibility_color_and_motion_title" msgid="2323301706545305874">"ពណ៌ និងចលនា"</string>
-    <string name="accessibility_color_contrast_title" msgid="5757724357142452378">"កម្រិតពណ៌"</string>
+    <string name="accessibility_color_contrast_title" msgid="5757724357142452378">"កម្រិតរំលេចពណ៌"</string>
     <string name="accessibility_color_contrast_intro" msgid="7795090401101214930">"កម្រិតពណ៌កាន់តែខ្ពស់ធ្វើឱ្យអក្សរ ប៊ូតុង និងរូបតំណាងកាន់តែលេចធ្លោ។ សូមជ្រើសរើសកម្រិតពណ៌ដែលមើលទៅល្អបំផុតសម្រាប់អ្នក។"</string>
-    <string name="color_contrast_note" msgid="7592686603372566198">"កម្មវិធីមួយចំនួនប្រហែលជាមិនអាចប្រើការកំណត់កម្រិតពណ៌ និងកម្រិតពណ៌អក្សរទាំងអស់បានទេ"</string>
+    <string name="color_contrast_note" msgid="7592686603372566198">"កម្មវិធីមួយចំនួនប្រហែលជាមិនអាចប្រើការកំណត់កម្រិតពណ៌ និងកម្រិតរំលេចពណ៌អក្សរទាំងអស់បានទេ"</string>
     <string name="accessibility_color_contrast_summary" msgid="7563237683500106632">"កែតម្រូវលក្ខណៈពណ៌ និងអក្សរធៀបនឹងពណ៌ផ្ទៃខាងក្រោយរបស់អេក្រង់អ្នក"</string>
     <string name="color_contrast_preview" msgid="6791430227535363883">"មើលសាកល្បង"</string>
     <string name="color_contrast_preview_sender_name" msgid="8641943417589238147">"Helen, Adam"</string>
@@ -2131,7 +2131,7 @@
     <string name="accessibility_button_gesture_footer_learn_more_content_description" msgid="4144803517680297869">"ស្វែងយល់បន្ថែមអំពីប៊ូតុង​ភាពងាយស្រួល និងចលនា"</string>
     <string name="accessibility_button_intro" msgid="2601976470525277903">"ប្រើប៊ូតុង​ភាពងាយស្រួល។ មិនអាចប្រើចលនានេះតាមរយៈការរុករកដោយប្រើ​​ប៊ូតុង 3 បានទេ។"</string>
     <string name="accessibility_button_summary" msgid="8510939012631455831">"ចូលប្រើមុខងារ​ភាពងាយស្រួល​បានយ៉ាងរហ័ស"</string>
-    <string name="accessibility_button_gesture_description" msgid="1141723096904904336">"&lt;b&gt;ដើម្បីចាប់ផ្ដើម&lt;/b&gt;&lt;br/&gt; {0,number,integer}។ ចូលទៅកាន់ការកំណត់ភាពងាយស្រួល&lt;br/&gt; {1,number,integer}។ ជ្រើសរើសមុខងារ និងចុចផ្លូវកាត់&lt;br/&gt; {2,number,integer}។ ជ្រើសរើសថាតើអ្នកចង់ប្រើប៊ូតុង ឬចលនា ដើម្បីចូលប្រើប្រាស់មុខងារនេះឬអត់&lt;br/&gt;"</string>
+    <string name="accessibility_button_gesture_description" msgid="1141723096904904336">"&lt;b&gt;ដើម្បីចាប់ផ្ដើម&lt;/b&gt;&lt;br/&gt; {0,number,integer}. ចូលទៅកាន់ការកំណត់ភាពងាយស្រួល&lt;br/&gt; {1,number,integer}. ជ្រើសរើសមុខងារ និងចុចផ្លូវកាត់&lt;br/&gt; {2,number,integer}. ជ្រើសរើសថាតើអ្នកចង់ប្រើប៊ូតុង ឬចលនា ដើម្បីចូលប្រើប្រាស់មុខងារនេះ&lt;br/&gt;"</string>
     <string name="accessibility_button_description" msgid="7669538706120092399">"&lt;b&gt;ដើម្បីចាប់ផ្ដើម&lt;/b&gt;&lt;br/&gt; {0,number,integer}។ ចូលទៅកាន់ការកំណត់ភាពងាយស្រួល&lt;br/&gt; {1,number,integer}។ ជ្រើសរើសមុខងារ និងចុចផ្លូវកាត់&lt;br/&gt; {2,number,integer}។ ជ្រើសរើសប៊ូតុង ដើម្បីចូលប្រើប្រាស់មុខងារនេះ&lt;br/&gt;"</string>
     <string name="accessibility_button_or_gesture_title" msgid="3510075963401163529">"ប្រើប៊ូតុង ឬចលនា"</string>
     <string name="accessibility_button_location_title" msgid="7182107846092304942">"ទីតាំង"</string>
@@ -2143,7 +2143,7 @@
     <string name="accessibility_button_high_label" msgid="9138077512008190896">"មិនថ្លា"</string>
     <string name="accessibility_toggle_high_text_contrast_preference_title" msgid="1830189632458752698">"អក្សររំលេចពណ៌ខ្លាំង"</string>
     <string name="accessibility_toggle_high_text_contrast_preference_summary" msgid="5286411556836346180">"ប្ដូរពណ៌អក្សរទៅខ្មៅ ឬស។ បង្កើនកម្រិតរំលេចពណ៌ជាអតិបរមាជាមួយផ្ទៃខាងក្រោយ។"</string>
-    <string name="accessibility_toggle_maximize_text_contrast_preference_title" msgid="8737272017343509753">"បង្កើនកម្រិតពណ៌អក្សរ"</string>
+    <string name="accessibility_toggle_maximize_text_contrast_preference_title" msgid="8737272017343509753">"បង្កើនកម្រិតរំលេចពណ៌អក្សរ"</string>
     <string name="accessibility_toggle_maximize_text_contrast_preference_summary" msgid="5493999083693403489">"ផ្លាស់ប្ដូរពណ៌អក្សរទៅខ្មៅឬស ដើម្បីបង្កើនកម្រិតពណ៌នៅផ្ទៃខាងក្រោយ។"</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title" msgid="4987009529235165664">"ធ្វើ​បច្ចុប្បន្នភាព​ការ​ពង្រីក​អេក្រង់​ស្វ័យប្រវត្តិ"</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary" msgid="9034532513972547720">"ធ្វើ​បច្ចុប្បន្ន​ភាព​ការ​ពង្រីក​អេក្រង់​ពេល​មាន​ដំណើរ​ផ្លាស់​ប្ដូរ​កម្មវិធី"</string>
@@ -2760,7 +2760,7 @@
     <string name="remove_account_label" msgid="4169490568375358010">"លុប​គណនី"</string>
     <string name="header_add_an_account" msgid="3919151542338822661">"បញ្ចូលគណនី"</string>
     <string name="really_remove_account_title" msgid="253097435885652310">"លុប​គណនី?"</string>
-    <string name="remove_account_failed" msgid="3709502163548900644">"ការផ្លាស់ប្តូរនេះ​មិនត្រូវ​បាន​អនុញ្ញាត​ដោយអ្នកគ្រប់គ្រងរបស់អ្នក"</string>
+    <string name="remove_account_failed" msgid="3709502163548900644">"ការ​ផ្លាស់ប្ដូរ​នេះ​មិន​ត្រូវ​បាន​អនុញ្ញាត​ដោយ​អ្នក​គ្រប់គ្រង​របស់​អ្នកទេ"</string>
     <string name="cant_sync_dialog_title" msgid="2613000568881139517">"មិន​អាច​ធ្វើ​សម​កាល​កម្ម​ដោយ​ដៃ"</string>
     <string name="cant_sync_dialog_message" msgid="7612557105054568581">"បច្ចុប្បន្ន​បាន​បិទ​ការ​ធ្វើ​សម​កាល​កម្ម​សម្រាប់​​ធាតុ​នេះ។ ដើម្បី​ប្ដូរ​ការ​កំណត់​នេះ បើក​ទិន្នន័យ​​ផ្ទៃ​ខាង​ក្រោយ និង​ធ្វើ​សម​កាល​កម្ម​​ស្វ័យ​ប្រវត្តិ​ជា​បណ្ដោះអាសន្ន។"</string>
     <string name="delete" msgid="8330605554706263775">"លុប"</string>
@@ -3924,9 +3924,6 @@
     <string name="permit_manage_external_storage" msgid="6928847280689401761">"អនុញ្ញាតឱ្យចូលប្រើ ដើម្បីគ្រប់គ្រងឯកសារទាំងអស់"</string>
     <string name="allow_manage_external_storage_description" msgid="5707948153603253225">"អនុញ្ញាតឱ្យ​កម្មវិធី​នេះ​អាន កែសម្រួល និងលុប​ឯកសារ​ទាំងអស់​នៅលើ​ឧបករណ៍​នេះ ឬឧបករណ៍ផ្ទុកទាំងឡាយ​ដែលបានភ្ជាប់។ ប្រសិនបើ​ផ្ដល់​ការអនុញ្ញាត កម្មវិធីនេះ​អាច​ចូលប្រើ​ឯកសារ ដោយ​មិនឱ្យ​អ្នកដឹង។"</string>
     <string name="filter_manage_external_storage" msgid="6751640571715343804">"អាច​ចូលប្រើ​ឯកសារ​ទាំងអស់​បាន"</string>
-    <string name="voice_activation_apps_title" msgid="7130045161611529825">"កម្មវិធីបើកដំណើរការសំឡេង"</string>
-    <string name="permit_voice_activation_apps" msgid="9152780172988949319">"អនុញ្ញាតការបើកដំណើរការសំឡេង"</string>
-    <string name="allow_voice_activation_apps_description" msgid="6369745626995060656">"ការបើកដំណើរការសំឡេងបើកកម្មវិធីដែលបានយល់ព្រម ដោយមិនប្រើដៃ ដោយប្រើឃ្លាបញ្ជាដោយសំឡេង។ ការចាប់ដឹងប្រកបដោយភាពបត់បែនដែលភ្ជាប់មកជាមួយស្រាប់ធានាថា ទិន្នន័យស្ថិតនៅជា​លក្ខណៈឯកជន​សម្រាប់តែអ្នកប៉ុណ្ណោះ។\n\n"<a href="">"ព័ត៌មានបន្ថែមអំពីការចាប់ដឹងប្រកបដោយភាពបត់បែនដែលបានការពារ"</a></string>
     <string name="full_screen_intent_title" msgid="747270185715224130">"ការជូនដំណឹងពេញអេក្រង់"</string>
     <string name="permit_full_screen_intent" msgid="9035367640019960861">"អនុញ្ញាតឱ្យមានការជូនដំណឹងពេញអេក្រង់ពីកម្មវិធីនេះ"</string>
     <string name="footer_description_full_screen_intent" msgid="7716518411349225528">"អនុញ្ញាតឱ្យកម្មវិធីនេះបង្ហាញការជូនដំណឹងពេញអេក្រង់ នៅពេលឧបករណ៍ត្រូវបានចាក់សោ។ កម្មវិធីអាចប្រើការជូនដំណឹងទាំងនេះ ដើម្បីរំលេចម៉ោងរោទ៍ ការហៅចូល ឬការជូនដំណឹងបន្ទាន់ផ្សេងទៀត។"</string>
@@ -4201,7 +4198,7 @@
     <string name="right_edge" msgid="1505309103265829121">"គែម​ខាង​ស្ដាំ"</string>
     <string name="back_sensitivity_dialog_message" msgid="6638367716784103306">"រំញោចកាន់តែ​ខ្ពស់​អាចប៉ះពាល់ជាមួយ​ចលនាកម្មវិធីទាំងឡាយ​​នៅតាមគែមអេក្រង់។"</string>
     <string name="back_sensitivity_dialog_title" msgid="6153608904168908264">"រំញោចថយក្រោយ"</string>
-    <string name="gesture_settings_activity_title" msgid="2025828425762595733">"កម្រិតរំញោចនៃ​ការរុករក​ដោយប្រើចលនា"</string>
+    <string name="gesture_settings_activity_title" msgid="1882463161833981820">"ការរុករក​ដោយប្រើចលនា"</string>
     <string name="button_navigation_settings_activity_title" msgid="7335636045504461813">"ការរុករកដោយប្រើ​ប៊ូតុង"</string>
     <string name="keywords_gesture_navigation_settings" msgid="667561222717238931">"ការរុករក​ដោយប្រើចលនា រំញោច​ថយក្រោយ ចលនា​ថយក្រោយ"</string>
     <string name="keywords_button_navigation_settings" msgid="7888812253110553920">"ការរុករក ប៊ូតុងដើម"</string>
@@ -4580,8 +4577,10 @@
     <string name="summary_satellite_connection_guide" msgid="3496123195218418456">"ទូរសព្ទរបស់អ្នកនឹងភ្ជាប់ទៅផ្កាយរណបដោយស្វ័យប្រវត្តិ។ ដើម្បីទទួលបានការតភ្ជាប់ល្អបំផុត សូមស្ថិតនៅក្រោមផ្ទៃមេឃស្រឡះ។"</string>
     <string name="title_supported_service" msgid="4275535165812691571">"បន្ទាប់ពីទូរសព្ទរបស់អ្នកភ្ជាប់ទៅផ្កាយរណប"</string>
     <string name="summary_supported_service" msgid="4320535903444834786">"អ្នកអាចផ្ញើសារជាអក្សរទៅអ្នកណាក៏បាន រួមទាំងសេវាសង្គ្រោះបន្ទាន់។ ទូរសព្ទរបស់អ្នកនឹងភ្ជាប់ឡើងវិញ នៅពេលមានបណ្ដាញ​ទូរសព្ទ​ចល័ត។"</string>
-    <string name="satellite_setting_summary_more_information" msgid="4008690241760925372">"ការ​ផ្ញើ​សារតាមផ្កាយរណបអាចចំណាយពេលកាន់តែយូរ និងអាចប្រើបាននៅក្នុងតំបន់មួយចំនួនតែប៉ុណ្ណោះ។ អាកាសធាតុ និងរចនាសម្ព័ន្ធមួយចំនួនអាចប៉ះពាល់ដល់ការតភ្ជាប់ផ្កាយរណបរបស់អ្នក។ មិនអាចធ្វើការហៅទូរសព្ទតាមផ្កាយរណបបានទេ។\n\nការផ្លាស់ប្ដូរចំពោះគណនីរបស់អ្នកអាចចំណាយពេលបន្តិច ដើម្បីបង្ហាញនៅក្នុងការកំណត់។ សូម​ទាក់ទង <xliff:g id="CARRIER_NAME">%1$s</xliff:g> ដើម្បី​ទទួលបានព័ត៌មានលម្អិត។"</string>
+    <string name="satellite_setting_summary_more_information" msgid="7729454610548016356">"ការ​ផ្ញើ​សារតាមផ្កាយរណបអាចចំណាយពេលកាន់តែយូរ និងអាចប្រើបាននៅក្នុងតំបន់មួយចំនួនតែប៉ុណ្ណោះ។ អាកាសធាតុ និងរចនាសម្ព័ន្ធមួយចំនួនអាចប៉ះពាល់ដល់ការតភ្ជាប់ផ្កាយរណបរបស់អ្នក។ មិនអាចធ្វើការហៅទូរសព្ទតាមផ្កាយរណបបានទេ។ ការហៅទៅលេខសង្គ្រោះបន្ទាន់នៅតែអាចភ្ជាប់បាន។\n\nការផ្លាស់ប្ដូរចំពោះគណនីអាចចំណាយពេលបន្តិច ដើម្បីបង្ហាញនៅក្នុង \"ការកំណត់\"។ សូមទាក់ទងទៅក្រុមហ៊ុន​សេវាទូរសព្ទ​របស់អ្នក ដើម្បីទទួលបាន​ព័ត៌មានលម្អិត។"</string>
     <string name="more_about_satellite_messaging" msgid="3385673133561348509">"ព័ត៌មានបន្ថែមអំពីការ​ផ្ញើ​សារតាមផ្កាយរណប"</string>
+    <string name="satellite_warning_dialog_title" msgid="1610117852475376931">"មិនអាចបើក <xliff:g id="FUNCTION">%1$s</xliff:g> បានទេ"</string>
+    <string name="satellite_warning_dialog_content" msgid="936419945275934955">"ដើម្បីបើក <xliff:g id="FUNCTION">%1$s</xliff:g> សូមបញ្ចប់ការ​តភ្ជាប់ផ្កាយរណបជាមុនសិន"</string>
     <string name="mobile_network_apn_title" msgid="5582995550142073054">"ឈ្មោះ​ចំណុច​ចូល​ប្រើប្រាស់"</string>
     <string name="keywords_access_point_names" msgid="8174967126858505945">"apn"</string>
     <string name="manual_mode_disallowed_summary" msgid="4243142645520152175">"មិន​អាច​ប្រើបាន​ទេ នៅពេលភ្ជាប់ <xliff:g id="CARRIER">%1$s</xliff:g>"</string>

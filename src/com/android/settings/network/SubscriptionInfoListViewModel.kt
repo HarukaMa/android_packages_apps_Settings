@@ -41,7 +41,7 @@ class SubscriptionInfoListViewModel(application: Application) : AndroidViewModel
     }.stateIn(scope, SharingStarted.Eagerly, initialValue = emptyList())
 
     /**
-     * Getting the Selectable SubscriptionInfo List from the SubscriptionManager's
+     * Getting the Selectable SubscriptionInfo List from the SubscriptionRepository's
      * getAvailableSubscriptionInfoList
      */
     val selectableSubscriptionInfoListFlow = application.subscriptionsChangedFlow().map {

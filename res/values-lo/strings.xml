@@ -48,9 +48,9 @@
     <string name="selective_stay_awake_title" msgid="7887645333447645168">"ສະເພາະເກມ, ວິດີໂອ ແລະ ອື່ນໆ"</string>
     <string name="selective_stay_awake_summary" msgid="9055967322921984543">"ຈໍສະແດງຜົນດ້ານໜ້າຈະເປີດຂຶ້ນສຳລັບແອັບທີ່ເຮັດໃຫ້ໜ້າຈໍຂອງທ່ານບໍ່ມີການນຳໃຊ້"</string>
     <string name="stay_awake_on_lockscreen_title" msgid="8088456642083051068">"ປັດຂຶ້ນເພື່ອສືບຕໍ່"</string>
-    <string name="stay_awake_on_lockscreen_summary" msgid="2299351813382522952">"ພັບໂທລະສັບຂອງທ່ານ ແລ້ວປັດຂຶ້ນຢູ່ຈໍສະແດງຜົນທາງໜ້າເພື່ອສືບຕໍ່ໃຊ້ແອັບ ຫຼື ລໍຖ້າສອງສາມວິນາທີເພື່ອໃຫ້ໜ້າຈໍລັອກ"</string>
+    <string name="stay_awake_on_lockscreen_summary" msgid="8825321939913726566">"ພັບໂທລະສັບຂອງທ່ານ ແລ້ວປັດຂຶ້ນຢູ່ຈໍສະແດງຜົນທາງໜ້າເພື່ອສືບຕໍ່ໃຊ້ແອັບ ຫຼື ລໍຖ້າສອງສາມວິນາທີເພື່ອໃຫ້ໜ້າຈໍລັອກ. ເກມ ແລະ ແອັບວິດີໂອຈະດຳເນີນການຕໍ່ໂດຍອັດຕະໂນມັດ."</string>
     <string name="sleep_on_fold_title" msgid="7626123024330501411">"ບໍ່"</string>
-    <string name="sleep_on_fold_summary" msgid="7737992842459588846">"ຈໍສະແດງຜົນດ້ານໜ້າຈະລັອກເມື່ອທ່ານພັບອຸປະກອນຂອງທ່ານ"</string>
+    <string name="sleep_on_fold_summary" msgid="4191753338303043456">"ຈໍສະແດງຜົນທາງໜ້າຈະປິດ ແລະ ລັອກເມື່ອທ່ານພັບອຸປະກອນຂອງທ່ານ"</string>
     <string name="auto_rotate_settings_primary_switch_title" msgid="3440951924928594520">"ໃຊ້ການໝຸນອັດຕະໂນມັດ"</string>
     <string name="smart_rotate_text_headline" msgid="5878008933992951904">"ການກວດຫາໃບໜ້າຈະໃຊ້ກ້ອງໜ້າເພື່ອປັບປຸງຄວາມຖືກຕ້ອງຂອງການໝຸນອັດຕະໂນມັດ. ຮູບຈະບໍ່ຖືກຈັດເກັບ ຫຼື ສົ່ງໄປໃຫ້ Google ເດັດຂາດ."</string>
     <string name="bluetooth" msgid="8898478620943459654">"Bluetooth"</string>
@@ -1421,7 +1421,7 @@
     <string name="battery_level_title" msgid="1371765298786083448">"ລະດັບແບັດເຕີຣີ"</string>
     <string name="communal_settings_title" msgid="2845678473945902115">"ສ່ວນກາງ"</string>
     <string name="communal_settings_summary" msgid="4923914136953940317">"ການຕັ້ງຄ່າສ່ວນກາງ"</string>
-    <string name="satellite_setting" msgid="706846910912477125">"ການຮັບສົ່ງຂໍ້ຄວາມຜ່ານດາວທຽມ"</string>
+    <string name="satellite_setting" msgid="4171265534842459910">"ການຮັບສົ່ງຂໍ້ຄວາມຜ່ານດາວທຽມ"</string>
     <string name="apn_settings" msgid="4295467389400441299">"APNs"</string>
     <string name="apn_edit" msgid="2003683641840248741">"ແກ້ໄຂຈຸດການເຊື່ອມຕໍ່"</string>
     <string name="apn_add" msgid="9069613192201630934">"ເພີ່ມຈຸດເຂົ້າເຖິງ"</string>
@@ -1790,7 +1790,7 @@
     <string name="system_package" msgid="7559476279008519360">"ການອັບເດດລະບົບ ບໍ່ສາມາດຖືກຕິດຕັ້ງໃສ່ບ່ອນຈັດເກັບຂໍ້ມູນພາຍນອກໄດ້."</string>
     <string name="move_error_device_admin" msgid="1561502976834303626">"ບໍ່ສາມາດຕິດຕັ້ງແອັບຜູ້ເບິ່ງແຍງລະບົບອຸປະກອນຢູ່ມີເດຍພາຍນອກໄດ້"</string>
     <string name="force_stop_dlg_title" msgid="86745852555490146">"ບັງ​ຄັບ​ປິດ?"</string>
-    <string name="force_stop_dlg_text" msgid="1527286468544457368">"ຫານທ່ານບັງຄັບປິດແອັບໃດໜຶ່ງ, ມັນອາດເຮັດວຽກຜິດປົກກະຕິໄດ້."</string>
+    <string name="force_stop_dlg_text" msgid="1527286468544457368">"ຫາກທ່ານບັງຄັບປິດແອັບໃດໜຶ່ງ, ມັນອາດເຮັດວຽກຜິດປົກກະຕິໄດ້."</string>
     <string name="app_disable_dlg_positive" msgid="1414218905322009505">"ປິດການນຳໃຊ້ແອັບ"</string>
     <string name="app_disable_dlg_text" msgid="2449382902751908916">"ຖ້າທ່ານປິດນຳໃຊ້ແອັບນີ້, Android ແລະ ແອັບອື່ນອາດບໍ່ເຮັດວຽກຕາມທີ່ຖືກອອກແບບມາໄດ້. ກະລຸນາຮັບຊາບວ່າ: ທ່ານບໍ່ສາມາດລຶບແອັບນີ້ເນື່ອງຈາກມັນຖືກຕິດຕັ້ງມາພ້ອມກັບອຸປະກອນທ່ານ. ໂດຍການປິດການນຳໃຊ້, ທ່ານຈະປິດແອັບນີ້ໄວ້ ແລະ ເຊື່ອງມັນຈາກອຸປະກອນຂອງທ່ານ."</string>
     <string name="app_install_details_group_title" msgid="1172114479073704677">"ຮ້ານຄ້າ"</string>
@@ -1877,7 +1877,7 @@
     <string name="slow_keys" msgid="2891452895499690837">"ເພີ່ມໄລຍະເວລາໃນການກົດປຸ່ມ"</string>
     <string name="slow_keys_summary" msgid="1784371292745423292">"ປັບເວລາທີ່ມັນໃຊ້ສໍາລັບການກົດປຸ່ມເພື່ອເປີດໃຊ້ເປັນ <xliff:g id="SLOW_KEYS_THRESHOLD">%1$d</xliff:g> ms"</string>
     <string name="sticky_keys" msgid="7317317044898161747">"ປຸ່ມກົດຄ້າງ"</string>
-    <string name="sticky_keys_summary" msgid="1844953803625480623">"ກົດເທື່ອລະປຸ່ມເພື່ອທາງລັດແທນການກົດປຸ່ມຄ້າງໄວ້ຮ່ວມກັນ"</string>
+    <string name="sticky_keys_summary" msgid="1844953803625480623">"ກົດເທື່ອລະປຸ່ມເພື່ອໃຊ້ທາງລັດແທນການກົດປຸ່ມຄ້າງໄວ້ຮ່ວມກັນ"</string>
     <string name="keyboard_shortcuts_helper" msgid="2553221039203165344">"ປຸ່ມລັດແປ້ນພິມ"</string>
     <string name="keyboard_shortcuts_helper_summary" msgid="5979507677602559203">"ສະແດງລາຍຊື່ຂອງທາງລັດ"</string>
     <string name="language_and_input_for_work_category_title" msgid="2546950919124199743">"ແປ້ນພິມໂປຣໄຟລ໌ວຽກ ແລະ ເຄື່ອງມື"</string>
@@ -1997,7 +1997,7 @@
     <string name="display_category_title" msgid="6638191682294461408">"ການສະແດງຜົນ"</string>
     <string name="accessibility_color_and_motion_title" msgid="2323301706545305874">"ສີ ແລະ ໂມຊັນ"</string>
     <string name="accessibility_color_contrast_title" msgid="5757724357142452378">"ຄວາມຄົມຊັດຂອງສີ"</string>
-    <string name="accessibility_color_contrast_intro" msgid="7795090401101214930">"ຄວາມຄົມຊັດທີ່ສູງຂຶ້ນເຮັດໃຫ້ຂໍ້ຄວາມ, ປຸ່ມ, ແລະ ໄອຄອນໂດດເດັ່ນຫຼາຍຂຶ້ນ. ເລືອກຮູບລັກຄວາມຄົມຊັດທີ່ດີທີ່ສຸດສໍາລັບທ່ານ."</string>
+    <string name="accessibility_color_contrast_intro" msgid="7795090401101214930">"ຄວາມຄົມຊັດທີ່ສູງຂຶ້ນເຮັດໃຫ້ຂໍ້ຄວາມ, ປຸ່ມ ແລະ ໄອຄອນໂດດເດັ່ນຫຼາຍຂຶ້ນ. ເລືອກຮູບລັກຄວາມຄົມຊັດທີ່ດີທີ່ສຸດສໍາລັບທ່ານ."</string>
     <string name="color_contrast_note" msgid="7592686603372566198">"ບາງແອັບອາດຈະບໍ່ຮອງຮັບການຕັ້ງຄ່າສີ ແລະ ຄວາມຄົມຊັດຂໍ້ຄວາມທັງໝົດ"</string>
     <string name="accessibility_color_contrast_summary" msgid="7563237683500106632">"ປັບແກ້ຮູບລັກສີ ແລະ ຂໍ້ຄວາມກັບສີພື້ນຫຼັງຂອງໜ້າຈໍຂອງທ່ານ"</string>
     <string name="color_contrast_preview" msgid="6791430227535363883">"ຕົວຢ່າງ"</string>
@@ -2006,7 +2006,7 @@
     <string name="color_contrast_preview_email_badge" msgid="4845484039428505392">"ຕິດຕາມຜົນບໍ?"</string>
     <string name="color_contrast_preview_email_title" msgid="198712116139754823">"ລາຍ​ງານການເດີນທາງເພື່ອທຸລະກິດ"</string>
     <string name="color_contrast_preview_email_body" msgid="4139331665325624199">"ສຳລັບຄວາມຊ່ວຍເຫຼືອເພີ່ມເຕີມ, ກະລຸນາຕິດຕໍ່ຫາ \nຂ້ອຍເອງ ຫຼື Helen. ລາຍງານນີ້ຈະເປັນ"</string>
-    <string name="color_contrast_preview_email_attachment_name" msgid="852407311884814746">"ຄ່າໃຊ້ຈ່າຍຂອງລູກຂ່າຍ"</string>
+    <string name="color_contrast_preview_email_attachment_name" msgid="852407311884814746">"ຄ່າໃຊ້ຈ່າຍຂອງລູກຄ້າ"</string>
     <string name="accessibility_turn_screen_darker_title" msgid="5986223133285858349">"ເຮັດໃຫ້ໜ້າຈໍມືດລົງ"</string>
     <string name="interaction_control_category_title" msgid="2696474616743882372">"ການຄວບຄຸມການໂຕ້ຕອບ"</string>
     <string name="accessibility_tap_assistance_title" msgid="1058913033421048284">"ການຄວບຄຸມຊ່ວງເວລາ"</string>
@@ -2635,7 +2635,7 @@
     <string name="vpn_settings_insecure_single" msgid="9012504179995045195">"ບໍ່ປອດໄພ"</string>
     <string name="vpn_settings_single_insecure_multiple_total" msgid="6107225844641301139">"<xliff:g id="VPN_COUNT">%d</xliff:g> ບໍ່ປອດໄພ"</string>
     <string name="vpn_settings_multiple_insecure_multiple_total" msgid="1706236062478680488">"<xliff:g id="VPN_COUNT">%d</xliff:g> ບໍ່ປອດໄພ"</string>
-    <string name="adaptive_connectivity_title" msgid="7464959640138428192">"ການເຊື່ອມຕໍ່ແບບປັບຕົວໄດ້"</string>
+    <string name="adaptive_connectivity_title" msgid="7464959640138428192">"ການເຊື່ອມຕໍ່ແບບປັບອັດຕະໂນມັດ"</string>
     <string name="adaptive_connectivity_summary" msgid="3648731530666326885">"ຍືດອາຍຸແບັດເຕີຣີ ແລະ ປັບປຸງປະສິດທິພາບອຸປະກອນໂດຍອັດຕະໂນມັດດ້ວຍການຈັດການການເຊື່ອມຕໍ່ເຄືອຂ່າຍຂອງທ່ານ"</string>
     <string name="adaptive_connectivity_switch_on" msgid="3653067561620745493">"ເປີດ"</string>
     <string name="adaptive_connectivity_switch_off" msgid="5076172560836115265">"ປິດ"</string>
@@ -3924,9 +3924,6 @@
     <string name="permit_manage_external_storage" msgid="6928847280689401761">"ອະນຸຍາດການເຂົ້າເຖິງເພື່ອຈັດການໄຟລ໌ທັງໝົດ"</string>
     <string name="allow_manage_external_storage_description" msgid="5707948153603253225">"ອະນຸຍາດໃຫ້ແອັບນີ້ອ່ານ, ແກ້ໄຂ ແລະ ລຶບໄຟລ໌ທັງໝົດຢູ່ອຸປະກອນນີ້ ຫຼື ບ່ອນຈັດເກັບຂໍ້ມູນໃດກໍຕາມທີ່ເຊື່ອມຕໍ່ໄວ້. ຫາກໄດ້ຮັບອະນຸຍາດແລ້ວ, ແອັບຈະສາມາດເຂົ້າເຖິງໄຟລ໌ໂດຍແຈ້ງໃຫ້ທ່ານຮັບຮູ້ຢ່າງຈະແຈ້ງໄດ້."</string>
     <string name="filter_manage_external_storage" msgid="6751640571715343804">"ສາມາດເຂົ້າເຖິງໄຟລ໌ທັງໝົດ"</string>
-    <string name="voice_activation_apps_title" msgid="7130045161611529825">"ແອັບການເປີດນຳໃຊ້ດ້ວຍສຽງ"</string>
-    <string name="permit_voice_activation_apps" msgid="9152780172988949319">"ອະນຸຍາດການເປີດນຳໃຊ້ດ້ວຍສຽງ"</string>
-    <string name="allow_voice_activation_apps_description" msgid="6369745626995060656">"ການເປີດນຳໃຊ້ດ້ວຍສຽງຈະເປີດແອັບທີ່ໄດ້ຮັບອະນຸມັດແບບແຮນຟຣີໂດຍໃຊ້ຄຳສັ່ງສຽງ. ການກວດຈັບແບບປັບອັດຕະໂນມັດໃນຕົວຊ່ວຍໃຫ້ໝັ້ນໃຈໄດ້ວ່າຂໍ້ມູນຈະເປັນສ່ວນຕົວສຳລັບທ່ານເທົ່ານັ້ນ.\n\n"<a href="">"ຂໍ້ມູນເພີ່ມເຕີມກ່ຽວກັບການກວດຈັບແບບປັບອັດຕະໂນມັດທີ່ມີການປ້ອງກັນ"</a></string>
     <string name="full_screen_intent_title" msgid="747270185715224130">"ການແຈ້ງເຕືອນແບບເຕັມຈໍ"</string>
     <string name="permit_full_screen_intent" msgid="9035367640019960861">"ອະນຸຍາດໃຫ້ແອັບນີ້ສະແດງການແຈ້ງເຕືອນແບບເຕັມຈໍ"</string>
     <string name="footer_description_full_screen_intent" msgid="7716518411349225528">"ອະນຸຍາດໃຫ້ແອັບນີ້ສະແດງການແຈ້ງເຕືອນແບບເຕັມຈໍເມື່ອອຸປະກອນລັອກຢູ່. ແອັບອາດໃຊ້ການແຈ້ງເຕືອນເຫຼົ່ານີ້ເພື່ອໄຮໄລ້ໂມງປຸກ, ສາຍໂທເຂົ້າ ຫຼື ການແຈ້ງເຕືອນສຸກເສີນອື່ນໆ."</string>
@@ -4201,7 +4198,7 @@
     <string name="right_edge" msgid="1505309103265829121">"ຂອບຂວາ"</string>
     <string name="back_sensitivity_dialog_message" msgid="6638367716784103306">"ຄວາມລະອຽດອ່ອນທີ່ສູງຂຶ້ນອາດຂັດແຍ່ງກັບທ່າທາງແອັບໃດໆທີ່ມີຢູ່ຂອບຈໍ."</string>
     <string name="back_sensitivity_dialog_title" msgid="6153608904168908264">"ຄວາມລະອຽດອ່ອນກັບຫຼັງ"</string>
-    <string name="gesture_settings_activity_title" msgid="2025828425762595733">"ຄວາມລະອຽດອ່ອນຂອງການນຳທາງແບບທ່າທາງ"</string>
+    <string name="gesture_settings_activity_title" msgid="1882463161833981820">"ການນຳທາງແບບທ່າທາງ"</string>
     <string name="button_navigation_settings_activity_title" msgid="7335636045504461813">"ການນຳທາງແບບປຸ່ມ"</string>
     <string name="keywords_gesture_navigation_settings" msgid="667561222717238931">"ການນຳທາງທ່າທາງ, ຄວາມລະອຽດອ່ອນທາງຫຼັງ, ທ່າທາງທາງຫຼັງ"</string>
     <string name="keywords_button_navigation_settings" msgid="7888812253110553920">"ການນຳທາງ, ປຸ່ມໜ້າທໍາອິດ"</string>
@@ -4580,8 +4577,10 @@
     <string name="summary_satellite_connection_guide" msgid="3496123195218418456">"ໂທລະສັບຂອງທ່ານຈະເຊື່ອມຕໍ່ກັບດາວທຽມໂດຍອັດຕະໂນມັດ. ສຳລັບການເຊື່ອມຕໍ່ທີ່ດີທີ່ສຸດ, ກະລຸນາຢູ່ໃນພື້ນທີ່ທີ່ເບິ່ງເຫັນທ້ອງຟ້າໄດ້ຢ່າງຊັດເຈນ."</string>
     <string name="title_supported_service" msgid="4275535165812691571">"ຫຼັງຈາກທີ່ໂທລະສັບຂອງທ່ານເຊື່ອມຕໍ່ກັບດາວທຽມ"</string>
     <string name="summary_supported_service" msgid="4320535903444834786">"ທ່ານສາມາດສົ່ງຂໍ້ຄວາມຫາໃຜກໍໄດ້, ເຊິ່ງຮວມທັງບໍລິການສຸກເສີນ. ໂທລະສັບຂອງທ່ານຈະເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍມືຖືອີກຄັ້ງເມື່ອມີໃຫ້ໃຊ້."</string>
-    <string name="satellite_setting_summary_more_information" msgid="4008690241760925372">"ການຮັບສົ່ງຂໍ້ຄວາມຜ່ານດາວທຽມອາດໃຊ້ເວລາດົນກວ່າປົກກະຕິ ແລະ ພ້ອມໃຫ້ບໍລິການໃນບາງພື້ນທີ່ເທົ່ານັ້ນ, ສະພາບອາກາດ ແລະ ໂຄງສ້າງບາງຢ່າງອາດສົ່ງຜົນຕໍ່ການເຊື່ອມຕໍ່ຜ່ານດາວທຽມຂອງທ່ານ. ການໂທຜ່ານດາວທຽມບໍ່ພ້ອມໃຫ້ບໍລິການ.\n\nລະບົບອາດໃຊ້ເວລາໄລຍະໜຶ່ງຈົນກວ່າການປ່ຽນແປງໃນບັນຊີຂອງທ່ານຈະສະແດງໃນການຕັ້ງຄ່າ. ຕິດຕໍ່ <xliff:g id="CARRIER_NAME">%1$s</xliff:g> ສຳລັບລາຍລະອຽດ."</string>
+    <string name="satellite_setting_summary_more_information" msgid="7729454610548016356">"ການຮັບສົ່ງຂໍ້ຄວາມຜ່ານດາວທຽມອາດໃຊ້ເວລາດົນກວ່າປົກກະຕິ ແລະ ພ້ອມໃຫ້ບໍລິການໃນບາງພື້ນທີ່ເທົ່ານັ້ນ. ສະພາບອາກາດ ແລະ ໂຄງສ້າງບາງຢ່າງອາດສົ່ງຜົນຕໍ່ການເຊື່ອມຕໍ່ຜ່ານດາວທຽມຂອງທ່ານ. ການໂທຜ່ານດາວທຽມບໍ່ພ້ອມໃຫ້ບໍລິການ. ການໂທສຸກເສີນອາດຍັງເຊື່ອມຕໍ່ຢູ່.\n\nລະບົບອາດໃຊ້ເວລາໄລຍະໜຶ່ງຈົນກວ່າການປ່ຽນແປງໃນບັນຊີຈະສະແດງໃນການຕັ້ງຄ່າ. ກະລຸນາຕິດຕໍ່ຜູ້ໃຫ້ບໍລິການຂອງທ່ານສຳລັບລາຍລະອຽດ."</string>
     <string name="more_about_satellite_messaging" msgid="3385673133561348509">"ຂໍ້ມູນເພີ່ມເຕີມກ່ຽວກັບການຮັບສົ່ງຂໍ້ຄວາມຜ່ານດາວທຽມ"</string>
+    <string name="satellite_warning_dialog_title" msgid="1610117852475376931">"ບໍ່ສາມາດເປີດ <xliff:g id="FUNCTION">%1$s</xliff:g> ໄດ້"</string>
+    <string name="satellite_warning_dialog_content" msgid="936419945275934955">"ເພື່ອເປີດ <xliff:g id="FUNCTION">%1$s</xliff:g>, ໃຫ້ສິ້ນສຸດການເຊື່ອມຕໍ່ດາວທຽມກ່ອນ"</string>
     <string name="mobile_network_apn_title" msgid="5582995550142073054">"ຊື່ຈຸດເຂົ້າເຖິງ (APN)"</string>
     <string name="keywords_access_point_names" msgid="8174967126858505945">"APN"</string>
     <string name="manual_mode_disallowed_summary" msgid="4243142645520152175">"ບໍ່ສາມາດໃຊ້ໄດ້ເມື່ອເຊື່ອມຕໍ່ກັບ <xliff:g id="CARRIER">%1$s</xliff:g>"</string>

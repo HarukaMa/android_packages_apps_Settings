@@ -48,9 +48,9 @@
     <string name="selective_stay_awake_title" msgid="7887645333447645168">"Ainult mängude, videote jne puhul"</string>
     <string name="selective_stay_awake_summary" msgid="9055967322921984543">"Esiekraan lülitub sisse rakenduste jaoks, mis takistavad ekraanil unerežiimile lülitumist"</string>
     <string name="stay_awake_on_lockscreen_title" msgid="8088456642083051068">"Jätkamiseks pühkige üles"</string>
-    <string name="stay_awake_on_lockscreen_summary" msgid="2299351813382522952">"Voltige telefon kokku ja pühkige esiekraanil üles, et jätkata rakenduse kasutamist, või oodake mõni sekund, et ekraan lukustuks"</string>
+    <string name="stay_awake_on_lockscreen_summary" msgid="8825321939913726566">"Voltige telefon kokku ja pühkige esiekraanil üles, et jätkata rakenduse kasutamist, või oodake mõni sekund, et ekraan lukustuks. Mängud ja videorakendused jätkuvad automaatselt."</string>
     <string name="sleep_on_fold_title" msgid="7626123024330501411">"Mitte kunagi"</string>
-    <string name="sleep_on_fold_summary" msgid="7737992842459588846">"Esiekraan lukustub seadme kokkuvoltimisel"</string>
+    <string name="sleep_on_fold_summary" msgid="4191753338303043456">"Seadme kokkuvoltimise korral lülitub esiekraan välja ja lukustub"</string>
     <string name="auto_rotate_settings_primary_switch_title" msgid="3440951924928594520">"Kasuta automaatset pööramist"</string>
     <string name="smart_rotate_text_headline" msgid="5878008933992951904">"Näotuvastus kasutab esikaamerat, et parandada automaatse pööramise täpsust. Pilte ei salvestata ega saadeta kunagi Google\'ile."</string>
     <string name="bluetooth" msgid="8898478620943459654">"Bluetooth"</string>
@@ -811,9 +811,9 @@
     <string name="bluetooth_device_context_disconnect" msgid="4464167389972513232">"Katkesta ühendus"</string>
     <string name="bluetooth_device_context_pair_connect" msgid="2406032703622371826">"Seo ja ühenda"</string>
     <string name="bluetooth_empty_list_bluetooth_off" msgid="7326727272747345476">"Kui Bluetooth on sisse lülitatud, saab seade suhelda teiste lähikonna Bluetooth-seadmetega"</string>
-    <string name="bluetooth_empty_list_bluetooth_off_auto_on_available" msgid="5833847615853525971">"Kui Bluetooth on sees, saab seade suhelda teiste lähikonna Bluetooth-seadmetega Funktsioonid, nagu Kiirjagamine, Leia mu seade ja seadme asukoht, kasutavad Bluetoothi."</string>
+    <string name="bluetooth_empty_list_bluetooth_off_auto_on_available" msgid="5833847615853525971">"Kui Bluetooth on sees, saab seade suhelda teiste lähikonna Bluetooth-seadmetega. Sellised funktsioonid nagu kiirjagamine, leia mu seade ja seadme asukoht, kasutavad Bluetoothi."</string>
     <string name="bluetooth_scanning_on_info_message" msgid="786648535600075223">"Kui Bluetooth on sisse lülitatud, saab teie seade suhelda teiste läheduses olevate Bluetooth-seadmetega.\n\nSeadme kasutuskogemuse täiustamiseks saavad rakendused ja teenused endiselt igal ajal otsida läheduses olevaid seadmeid isegi siis, kui Bluetooth on välja lülitatud. Seda saab kasutada näiteks asukohapõhiste funktsioonide ja teenuste täiustamiseks. Saate seda muuta Bluetoothi skannimise seadetes."</string>
-    <string name="bluetooth_scanning_on_info_message_auto_on_available" msgid="5047787966768730069">"Kui Bluetooth on sees, saab seade suhelda teiste lähikonna Bluetooth-seadmetega Funktsioonid, nagu Kiirjagamine, Leia mu seade ja seadme asukoht, kasutavad Bluetoothi.\n\nRakendused ja teenused saavad endiselt igal ajal otsida läheduses olevaid seadmeid isegi siis, kui Bluetooth on välja lülitatud. Seda saab kasutada näiteks asukohapõhiste funktsioonide ja teenuste täiustamiseks. Saate seda muuta Bluetoothi skannimise seadetes."</string>
+    <string name="bluetooth_scanning_on_info_message_auto_on_available" msgid="5047787966768730069">"Kui Bluetooth on sees, saab seade suhelda teiste lähikonna Bluetooth-seadmetega. Sellised funktsioonid nagu Kiirjagamine, Leia mu seade ja Seadme asukoht kasutavad Bluetoothi.\n\nRakendused ja teenused saavad endiselt igal ajal otsida läheduses olevaid seadmeid isegi siis, kui Bluetooth on välja lülitatud. Seda saab kasutada näiteks asukohapõhiste funktsioonide ja teenuste täiustamiseks. Saate seda muuta Bluetoothi skannimise seadetes."</string>
     <string name="bluetooth_scan_change" msgid="1744636222637390367">"Muutke"</string>
     <string name="device_details_title" msgid="1155622417516195481">"Seadme üksikasjad"</string>
     <string name="bluetooth_device_keyboard_settings_preference_title" msgid="3411693160917620519">"Klaviatuuriseaded"</string>
@@ -1421,14 +1421,14 @@
     <string name="battery_level_title" msgid="1371765298786083448">"Aku tase"</string>
     <string name="communal_settings_title" msgid="2845678473945902115">"Ühised"</string>
     <string name="communal_settings_summary" msgid="4923914136953940317">"Ühised seaded"</string>
-    <string name="satellite_setting" msgid="706846910912477125">"Satellidipõhine sõnumside"</string>
+    <string name="satellite_setting" msgid="4171265534842459910">"Satellidipõhine sõnumside"</string>
     <string name="apn_settings" msgid="4295467389400441299">"Pääsupunktid (APN-id)"</string>
     <string name="apn_edit" msgid="2003683641840248741">"Pääsupunkti muutmine"</string>
     <string name="apn_add" msgid="9069613192201630934">"Pääsupunkti lisamine"</string>
     <string name="apn_not_set" msgid="8246646433109750293">"Määramata"</string>
     <string name="apn_not_set_for_mvno" msgid="1141490067313964640">"Määramata"</string>
     <string name="apn_name" msgid="6677695784108157953">"Nimi"</string>
-    <string name="apn_apn" msgid="5812828833797458602">"Pääsupunkti nimi"</string>
+    <string name="apn_apn" msgid="5812828833797458602">"APN"</string>
     <string name="apn_http_proxy" msgid="1052464912365838007">"Puhverserver"</string>
     <string name="apn_http_port" msgid="9138610639873966046">"Port"</string>
     <string name="apn_user" msgid="5831763936428279228">"Kasutajanimi"</string>
@@ -1451,7 +1451,7 @@
     <string name="network_type_unspecified" msgid="7756349656194518725">"Määramata"</string>
     <string name="mvno_type" msgid="4734654257494971247">"MVNO tüüp"</string>
     <string name="mvno_match_data" msgid="5213193073684321156">"MVNO väärtus"</string>
-    <string name="menu_delete" msgid="9199740901584348273">"Kustuta pääsupunktinimi"</string>
+    <string name="menu_delete" msgid="9199740901584348273">"Kustuta APN"</string>
     <string name="menu_new" msgid="6571230342655509006">"Uus pääsupunkt"</string>
     <string name="menu_save" msgid="6611465355127483100">"Salvesta"</string>
     <string name="menu_cancel" msgid="1197826697950745335">"Tühista"</string>
@@ -1996,9 +1996,9 @@
     <string name="general_category_title" msgid="6298579528716834157">"Üldine"</string>
     <string name="display_category_title" msgid="6638191682294461408">"Ekraan"</string>
     <string name="accessibility_color_and_motion_title" msgid="2323301706545305874">"Värvid ja liigutused"</string>
-    <string name="accessibility_color_contrast_title" msgid="5757724357142452378">"Värvi kontrastsus"</string>
+    <string name="accessibility_color_contrast_title" msgid="5757724357142452378">"Värvikontrastsus"</string>
     <string name="accessibility_color_contrast_intro" msgid="7795090401101214930">"Suurem kontrastsus muudab teksti, nupud ja ikoonid väljapaistvamaks. Valige kontrastsus, mis tundub teie jaoks kõige sobivam."</string>
-    <string name="color_contrast_note" msgid="7592686603372566198">"Mõni rakendus ei pruugi kõiki värvi ja teksti kontrastsuse seadeid toetada"</string>
+    <string name="color_contrast_note" msgid="7592686603372566198">"Mõni rakendus ei pruugi kõiki värvi- ja tekstikontrastsuse seadeid toetada"</string>
     <string name="accessibility_color_contrast_summary" msgid="7563237683500106632">"Kohandage, kuidas värvid ja tekst ekraani taustavärvil välja näevad"</string>
     <string name="color_contrast_preview" msgid="6791430227535363883">"Eelvaade"</string>
     <string name="color_contrast_preview_sender_name" msgid="8641943417589238147">"Helen, Adam"</string>
@@ -2143,7 +2143,7 @@
     <string name="accessibility_button_high_label" msgid="9138077512008190896">"Läbipaistmatu"</string>
     <string name="accessibility_toggle_high_text_contrast_preference_title" msgid="1830189632458752698">"Suure kontrastsusega tekst"</string>
     <string name="accessibility_toggle_high_text_contrast_preference_summary" msgid="5286411556836346180">"Muutke tekst mustaks või valgeks. Maksimeerib kontrasti taustaga."</string>
-    <string name="accessibility_toggle_maximize_text_contrast_preference_title" msgid="8737272017343509753">"Teksti kontrastsuse maksimeerimine"</string>
+    <string name="accessibility_toggle_maximize_text_contrast_preference_title" msgid="8737272017343509753">"Tekstikontrastsuse maksimeerimine"</string>
     <string name="accessibility_toggle_maximize_text_contrast_preference_summary" msgid="5493999083693403489">"Muutke tekst mustaks või valgeks, et kontrastsust taustaga suurendada."</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title" msgid="4987009529235165664">"Ekraanisuurenduse värskendus"</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary" msgid="9034532513972547720">"Ekraanisuurenduse kasutus rakenduste vahetamisel"</string>
@@ -2757,7 +2757,7 @@
     <string name="header_data_and_synchronization" msgid="453920312552838939">"Andmed ja sünkroonimine"</string>
     <string name="preference_change_password_title" msgid="5465821666939825972">"Parooli muutmine"</string>
     <string name="header_account_settings" msgid="1189339410278750008">"Konto seaded"</string>
-    <string name="remove_account_label" msgid="4169490568375358010">"Eemalda konto"</string>
+    <string name="remove_account_label" msgid="4169490568375358010">"Konto eemaldamine"</string>
     <string name="header_add_an_account" msgid="3919151542338822661">"Konto lisamine"</string>
     <string name="really_remove_account_title" msgid="253097435885652310">"Kas eemaldada konto?"</string>
     <string name="remove_account_failed" msgid="3709502163548900644">"Administraator on selle muudatuse keelanud"</string>
@@ -3924,9 +3924,6 @@
     <string name="permit_manage_external_storage" msgid="6928847280689401761">"Luba juurdepääs kõikide failide haldamisele"</string>
     <string name="allow_manage_external_storage_description" msgid="5707948153603253225">"Sellel rakendusel lubatakse lugeda, muuta ja kustutada kõiki selles seadmes ning ühendatud andmekandjatel olevaid faile. Loa andmisel võib rakendus failidele juurde pääseda ilma teie teadmata."</string>
     <string name="filter_manage_external_storage" msgid="6751640571715343804">"Pääseb failidele juurde"</string>
-    <string name="voice_activation_apps_title" msgid="7130045161611529825">"Häälaktiveeritavad rakendused"</string>
-    <string name="permit_voice_activation_apps" msgid="9152780172988949319">"Luba häälaktiveerimine"</string>
-    <string name="allow_voice_activation_apps_description" msgid="6369745626995060656">"Häälega aktiveerimine lülitab sisse kinnitatud rakendused, vabakäerežiimi ja häälkäskluste kasutamise. Sisseehitatud kohanduv tuvastamine tagab, et andmed jäävad teie jaoks privaatseks.\n\n"<a href="">"Lisateave turvalise kohanduva tuvastamise kohta"</a></string>
     <string name="full_screen_intent_title" msgid="747270185715224130">"Kogu ekraani katvad märguanded"</string>
     <string name="permit_full_screen_intent" msgid="9035367640019960861">"Luba selle rakenduse kogu ekraani katvad märguanded"</string>
     <string name="footer_description_full_screen_intent" msgid="7716518411349225528">"Lubage sellel rakendusel kuvada kogu ekraani katvaid märguandeid, kui seade on lukustatud. Rakendused võivad selle abil tõsta esile alarme, sissetulevaid kõnesid või muid pakilisi märguandeid."</string>
@@ -4201,7 +4198,7 @@
     <string name="right_edge" msgid="1505309103265829121">"Parem serv"</string>
     <string name="back_sensitivity_dialog_message" msgid="6638367716784103306">"Suurem tundlikkus võib ekraani servades mõne rakenduse liigutusega vastuolus olla."</string>
     <string name="back_sensitivity_dialog_title" msgid="6153608904168908264">"Tagasiliigutuse tundlikkus"</string>
-    <string name="gesture_settings_activity_title" msgid="2025828425762595733">"Liigutustega navigeerimise tundlikkus"</string>
+    <string name="gesture_settings_activity_title" msgid="1882463161833981820">"Liigutustega navigeerimine"</string>
     <string name="button_navigation_settings_activity_title" msgid="7335636045504461813">"Nupuga navigeerimine"</string>
     <string name="keywords_gesture_navigation_settings" msgid="667561222717238931">"liigutustega navigeerimine, tagasiliigutuse tundlikkus, tagasiliigutus"</string>
     <string name="keywords_button_navigation_settings" msgid="7888812253110553920">"navigeerimine, avakuva nupp"</string>
@@ -4580,8 +4577,10 @@
     <string name="summary_satellite_connection_guide" msgid="3496123195218418456">"Teie telefon ühendatakse satelliidiga automaatselt. Parima ühenduse tagamiseks asuge taeva all."</string>
     <string name="title_supported_service" msgid="4275535165812691571">"Kui telefon on satelliidiga ühenduse loonud"</string>
     <string name="summary_supported_service" msgid="4320535903444834786">"Saate sõnumeid saata kellele tahes, sealhulgas hädaabiteenustele. Teie telefon loob uuesti ühenduse mobiilsidevõrguga, kui see on saadaval."</string>
-    <string name="satellite_setting_summary_more_information" msgid="4008690241760925372">"Satelliitsõnumite saatmine võib võtta kauem aega ja on saadaval ainult teatud piirkondades. Ilm ja teatud struktuurid võivad mõjutada teie satelliidiühendust. Satelliidi kaudu helistamine pole saadaval.\n\nKontol tehtud muudatuste jõustumiseks seadetes võib kuluda veidi aega. Võtke ühendust operaatoriga <xliff:g id="CARRIER_NAME">%1$s</xliff:g> ja küsige lisateavet."</string>
+    <string name="satellite_setting_summary_more_information" msgid="7729454610548016356">"Satellidipõhine sõnumside võib võtta kauem aega ja on saadaval ainult teatud piirkondades. Ilm ja teatud struktuurid võivad mõjutada teie satelliidiühendust. Satelliidi kaudu helistamine pole saadaval. Hädaabikõned võivad siiski toimida.\n\nKontol tehtud muudatuste jõustumiseks seadetes võib kuluda veidi aega. Lisateavet küsige operaatorilt."</string>
     <string name="more_about_satellite_messaging" msgid="3385673133561348509">"Lisateave satellidipõhise sõnumside kohta"</string>
+    <string name="satellite_warning_dialog_title" msgid="1610117852475376931">"Funktsiooni <xliff:g id="FUNCTION">%1$s</xliff:g> ei saa sisse lülitada"</string>
+    <string name="satellite_warning_dialog_content" msgid="936419945275934955">"Funktsiooni <xliff:g id="FUNCTION">%1$s</xliff:g> sisselülitamiseks katkestage esmalt satelliitühendus"</string>
     <string name="mobile_network_apn_title" msgid="5582995550142073054">"Pääsupunktide nimed"</string>
     <string name="keywords_access_point_names" msgid="8174967126858505945">"apn"</string>
     <string name="manual_mode_disallowed_summary" msgid="4243142645520152175">"Pole saadaval, kui on ühendus on loodud operaatoriga <xliff:g id="CARRIER">%1$s</xliff:g>"</string>
@@ -4627,7 +4626,7 @@
     <string name="sim_onboarding_select_sim_title" msgid="5895262188167744055">"Kasutamiseks SIM-ide valimine"</string>
     <string name="sim_onboarding_select_sim_msg" msgid="5638859405391915048">"Saate korraga kasutada kahte SIM-i"</string>
     <string name="sim_onboarding_primary_sim_title" msgid="2793090401371135675">"Peamiste SIM-ide määramine"</string>
-    <string name="sim_onboarding_primary_sim_msg" msgid="5484656671490558032">"Valige, milliseid SIM-e kõnede, tekstisõnumite ja andmeside jaoks vaikimisi kasutada"</string>
+    <string name="sim_onboarding_primary_sim_msg" msgid="5484656671490558032">"Valige, milliseid SIM-e kõnede, tekstsõnumite ja andmeside jaoks vaikimisi kasutada"</string>
     <string name="primary_sim_title" msgid="2508161011657571566">"Teie peamised SIM-id"</string>
     <string name="primary_sim_calls_title" msgid="4961189133582615685">"Kõned"</string>
     <string name="primary_sim_texts_title" msgid="1287584042733097749">"Tekstsõnumid"</string>
@@ -4870,7 +4869,7 @@
     <string name="category_name_display_controls" msgid="7046581691184725216">"Muud ekraanikuva juhtelemendid"</string>
     <string name="category_name_general" msgid="7737273712848115886">"Üldine"</string>
     <string name="dark_theme_main_switch_title" msgid="4045147031947562280">"Kasuta tumedat teemat"</string>
-    <string name="bluetooth_main_switch_title" msgid="8409835540311309632">"Bluetoothi kasutamine"</string>
+    <string name="bluetooth_main_switch_title" msgid="8409835540311309632">"Kasuta Bluetoothi"</string>
     <string name="prevent_ringing_main_switch_title" msgid="4726252811262086643">"Helisemise vältimise kasutamine"</string>
     <string name="use_wifi_hotsopt_main_switch_title" msgid="3909731167290690539">"WiFi-kuumkoha kasutamine"</string>
     <string name="app_pinning_main_switch_title" msgid="5465506660064032876">"Rakenduse kinnitamise kasutamine"</string>
@@ -5028,7 +5027,7 @@
     <string name="find_broadcast_join_broadcast_error" msgid="5486980388774711346">"Ülekandega ei saa liituda"</string>
     <string name="bt_le_audio_scan_qr_code_scanner" msgid="7614569515419813053">"Kuulamise alustamiseks paigutage QR-kood allpool keskele"</string>
     <string name="bt_le_audio_qr_code_is_not_valid_format" msgid="7821837654128137901">"QR-kood ei ole sobilik vorming"</string>
-    <string name="convert_to_esim_title" msgid="71037864129009206">"Konvertimine eSIM-iks"</string>
+    <string name="convert_to_esim_title" msgid="71037864129009206">"Teisendamine eSIM-iks"</string>
     <string name="transfer_esim_to_another_device_title" msgid="5286117866086383192">"eSIM-i ülekandmine teise seadmesse"</string>
     <string name="background_install_preference_summary" msgid="3065219346519340364">"{count,plural, =1{# rakendus}other{# rakendust}}"</string>
     <string name="background_install_title" msgid="607913515188276168">"Taustal installitud rakendused"</string>

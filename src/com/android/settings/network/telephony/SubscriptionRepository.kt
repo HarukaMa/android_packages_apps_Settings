@@ -26,24 +26,33 @@ import kotlinx.coroutines.asExecutor
 import kotlinx.coroutines.channels.awaitClose
 import kotlinx.coroutines.flow.callbackFlow
 import kotlinx.coroutines.flow.conflate
+import kotlinx.coroutines.flow.filterNot
 import kotlinx.coroutines.flow.flowOn
 import kotlinx.coroutines.flow.map
 import kotlinx.coroutines.flow.onEach
 
 private const val TAG = "SubscriptionRepository"
 
-fun Context.isSubscriptionEnabledFlow(subId: Int) = subscriptionsChangedFlow().map {
-    val subscriptionManager = getSystemService(SubscriptionManager::class.java)
+class SubscriptionRepository(private val context: Context) {
+    fun isSubscriptionEnabledFlow(subId: Int) = context.isSubscriptionEnabledFlow(subId)
+}
 
+val Context.subscriptionManager: SubscriptionManager?
+    get() = getSystemService(SubscriptionManager::class.java)
+
+fun Context.requireSubscriptionManager(): SubscriptionManager = subscriptionManager!!
+
+fun Context.isSubscriptionEnabledFlow(subId: Int) = subscriptionsChangedFlow().map {
     subscriptionManager?.isSubscriptionEnabled(subId) ?: false
-}.flowOn(Dispatchers.Default)
+}.conflate().onEach { Log.d(TAG, "[$subId] isSubscriptionEnabledFlow: $it") }
+    .flowOn(Dispatchers.Default)
 
 fun Context.phoneNumberFlow(subscriptionInfo: SubscriptionInfo) = subscriptionsChangedFlow().map {
     SubscriptionUtil.getFormattedPhoneNumber(this, subscriptionInfo)
-}.flowOn(Dispatchers.Default)
+}.filterNot { it.isNullOrEmpty() }.flowOn(Dispatchers.Default)
 
 fun Context.subscriptionsChangedFlow() = callbackFlow {
-    val subscriptionManager = getSystemService(SubscriptionManager::class.java)!!
+    val subscriptionManager = requireSubscriptionManager()
 
     val listener = object : SubscriptionManager.OnSubscriptionsChangedListener() {
         override fun onSubscriptionsChanged() {

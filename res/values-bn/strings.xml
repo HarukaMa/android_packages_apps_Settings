@@ -48,9 +48,9 @@
     <string name="selective_stay_awake_title" msgid="7887645333447645168">"শুধুমাত্র গেম, ভিডিও ও আরও অনেক কিছু"</string>
     <string name="selective_stay_awake_summary" msgid="9055967322921984543">"যেসব অ্যাপ আপনার স্ক্রিন নিষ্ক্রিয় করে দেয় সেগুলির জন্য ফ্রন্ট ডিসপ্লে চালু হয়ে যায়"</string>
     <string name="stay_awake_on_lockscreen_title" msgid="8088456642083051068">"চালিয়ে যেতে, উপরের দিকে সোয়াইপ করুন"</string>
-    <string name="stay_awake_on_lockscreen_summary" msgid="2299351813382522952">"অ্যাপটি ব্যবহার করা চালিয়ে যেতে আপনার ফোন ফোল্ড করুন এবং ফ্রন্ট ডিসপ্লেতে উপরের দিকে সোয়াইপ করুন বা স্ক্রিন লক না হওয়া পর্যন্ত কয়েক সেকেন্ড অপেক্ষা করুন"</string>
+    <string name="stay_awake_on_lockscreen_summary" msgid="8825321939913726566">"অ্যাপ ব্যবহার করা চালিয়ে যেতে আপনার ফোন ফোল্ড করুন এবং ফ্রন্ট ডিসপ্লের উপরের দিকে সোয়াইপ করুন বা স্ক্রিন লক না হওয়া পর্যন্ত কয়েক সেকেন্ড অপেক্ষা করুন। গেম ও ভিডিওর অ্যাপ অটোমেটিক চালু থাকবে।"</string>
     <string name="sleep_on_fold_title" msgid="7626123024330501411">"কখনওই নয়"</string>
-    <string name="sleep_on_fold_summary" msgid="7737992842459588846">"আপনার ডিভাইস ফোল্ড করলে ফ্রন্ট ডিসপ্লে লক হয়ে যায়"</string>
+    <string name="sleep_on_fold_summary" msgid="4191753338303043456">"আপনি ডিভাইস ফোল্ড করলে ফ্রন্ট ডিসপ্লে বন্ধ ও লক হয়ে যায়"</string>
     <string name="auto_rotate_settings_primary_switch_title" msgid="3440951924928594520">"\'অটো রোটেট\' সেটিং ব্যবহার করুন"</string>
     <string name="smart_rotate_text_headline" msgid="5878008933992951904">"\'অটো-রোটেট\' সেটিং আরও ভালভাবে কাজ করার জন্য সামনের দিকে ধরে রাখা ক্যামেরা \'ফেস ডিটেকশন\' ব্যবহার করবে। ছবি কখনও Google-এ সেভ করা বা পাঠানো হয় না।"</string>
     <string name="bluetooth" msgid="8898478620943459654">"ব্লুটুথ"</string>
@@ -378,7 +378,7 @@
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_title_2" msgid="2580899232734177771">"এটি কীভাবে কাজ করে"</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2" msgid="5909924864816776516">"আপনার পরিচয় যাচাই করার জন্য, \'ফিঙ্গারপ্রিন্ট আনলক\' ফিচার আপনার ফিঙ্গারপ্রিন্টের একটি অনন্য মডেল তৈরি করে। সেট-আপ করার সময় ফিঙ্গারপ্রিন্ট মডেলটি তৈরি করার জন্য, বিভিন্ন দিক থেকে আপনাকে ফিঙ্গারপ্রিন্টের ছবি নিতে হবে।"</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2" msgid="3493356605815124807">"আপনার সন্তানের পরিচয় যাচাই করার জন্য, \'ফিঙ্গারপ্রিন্ট আনলক\' ফিচার তার ফিঙ্গারপ্রিন্টের একটি অনন্য মডেল তৈরি করে। সেটআপ করার সময় এই ফিঙ্গারপ্রিন্ট মডেল তৈরি করার জন্য, বিভিন্ন দিক থেকে তার ফিঙ্গারপ্রিন্টের ছবি নিতে হবে।"</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6" msgid="5314031490467481499">"সবচেয়ে ভাল ফলাফল পেতে, Google-এর জন্য তৈরি হিসেবে সার্টিফিকেট প্রাপ্ত একটি স্ক্রিন প্রোটেকটর ব্যবহার করুন। অন্য কোনও স্ক্রিন প্রোটেকটর ব্যবহার করলে, আপনার ফিঙ্গারপ্রিন্ট কাজ নাও করতে পারে।"</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6" msgid="5314031490467481499">"সবচেয়ে ভাল ফলাফল পেতে, Google-এর জন্য তৈরি হিসেবে সার্টিফিকেট প্রাপ্ত একটি স্ক্রিন প্রোটেকটর ব্যবহার করুন। অন্যান্য স্ক্রিন প্রোটেকটর ব্যবহার করলে, আপনার ফিঙ্গারপ্রিন্ট কাজ নাও করতে পারে।"</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_6" msgid="3563942520716110478">"সবচেয়ে ভাল ফলাফল পেতে, Google-এর জন্য তৈরি হিসেবে সার্টিফিকেট প্রাপ্ত একটি স্ক্রিন প্রোটেকটর ব্যবহার করুন। অন্য কোনও স্ক্রিন প্রোটেকটর ব্যবহার করলে, আপনার সন্তানের আঙ্গুলের ছাপ কাজ নাও করতে পারে।"</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more" msgid="5856010507790137793"></string>
     <string name="security_settings_activeunlock_preference_title" msgid="4257580421087062228">"ঘড়ি আনলক করা"</string>
@@ -1257,7 +1257,7 @@
     <string name="screensaver_settings_when_to_dream_bedtime" msgid="3279310576803094771">"বেডটাইম মোড চালু থাকায় এই সুবিধা উপলভ্য নয়"</string>
     <string name="screensaver_settings_toggle_title" msgid="6194634226897244374">"স্ক্রিন সেভার ব্যবহার করুন"</string>
     <string name="screensaver_settings_summary_either_long" msgid="371949139331896271">"চার্জ অথবা ডক করার সময়"</string>
-    <string name="screensaver_settings_summary_dock_and_charging" msgid="8485905100159376156">"ডক করা অবস্থায় বা চার্জ করার সময়"</string>
+    <string name="screensaver_settings_summary_dock_and_charging" msgid="8485905100159376156">"ডক করা অবস্থায় এবং চার্জ করার সময়"</string>
     <string name="screensaver_settings_summary_sleep" msgid="6555922932643037432">"চার্জ করার সময়"</string>
     <string name="screensaver_settings_summary_dock" msgid="6997766385189369733">"ডক করে রাখার সময়"</string>
     <string name="screensaver_settings_summary_never" msgid="4988141393040918450">"কখনই নয়"</string>
@@ -1421,7 +1421,7 @@
     <string name="battery_level_title" msgid="1371765298786083448">"ব্যাটারি স্তর"</string>
     <string name="communal_settings_title" msgid="2845678473945902115">"কমিউনাল"</string>
     <string name="communal_settings_summary" msgid="4923914136953940317">"\'কমিউনাল\' সেটিংস"</string>
-    <string name="satellite_setting" msgid="706846910912477125">"স্যাটেলাইট মেসেজিং"</string>
+    <string name="satellite_setting" msgid="4171265534842459910">"স্যাটেলাইট মেসেজিং"</string>
     <string name="apn_settings" msgid="4295467389400441299">"APN"</string>
     <string name="apn_edit" msgid="2003683641840248741">"অ্যাক্সেস পয়েন্ট এডিট করুন"</string>
     <string name="apn_add" msgid="9069613192201630934">"অ্যাক্সেস পয়েন্ট যোগ করুন"</string>
@@ -1439,11 +1439,11 @@
     <string name="apn_mms_port" msgid="6500563737462966663">"MMS পোর্ট"</string>
     <string name="apn_mcc" msgid="4971414138516074809">"MCC"</string>
     <string name="apn_mnc" msgid="1926382406843447854">"MNC"</string>
-    <string name="apn_auth_type" msgid="4234397513494356932">"প্রমাণীকরণের প্রকার"</string>
+    <string name="apn_auth_type" msgid="4234397513494356932">"যাচাইকরণের প্রকার"</string>
     <string name="apn_type" msgid="1835573305077788773">"APN-এর প্রকার"</string>
     <string name="apn_protocol" msgid="181529867160380010">"APN প্রোটোকল"</string>
     <string name="apn_roaming_protocol" msgid="1645131094105362513">"APN রোমিং প্রোটোকল"</string>
-    <string name="carrier_enabled" msgid="664074151573150130">"APN সক্ষম/অক্ষম করুন"</string>
+    <string name="carrier_enabled" msgid="664074151573150130">"APN চালু/বন্ধ করুন"</string>
     <string name="carrier_enabled_summaryOn" msgid="5212067975273903381">"APN সক্ষম"</string>
     <string name="carrier_enabled_summaryOff" msgid="8541959867953738521">"APN অক্ষম"</string>
     <string name="bearer" msgid="3231443241639159358">"বিয়ারার"</string>
@@ -1791,7 +1791,7 @@
     <string name="move_error_device_admin" msgid="1561502976834303626">"ডিভাইস প্রশাসক অ্যাপটি এক্সটার্নাল মিডিয়াতে ইনস্টল করা যাবে না"</string>
     <string name="force_stop_dlg_title" msgid="86745852555490146">"জোর করে বন্ধ করবেন?"</string>
     <string name="force_stop_dlg_text" msgid="1527286468544457368">"আপনি একটি অ্যাপ্লিকেশানকে জোর করে বন্ধ করলে, তা অস্বাভাবিক ব্যবহার করতে পারে।"</string>
-    <string name="app_disable_dlg_positive" msgid="1414218905322009505">"অ্যাপ্লিকেশান অক্ষম করুন"</string>
+    <string name="app_disable_dlg_positive" msgid="1414218905322009505">"অ্যাপ বন্ধ করুন"</string>
     <string name="app_disable_dlg_text" msgid="2449382902751908916">"আপনি এই অ্যাপ বন্ধ করে দিলে, Android এবং অন্যান্য অ্যাপ যেভাবে কাজ করার কথা সেইভাবে আর নাও কাজ করতে পারে। মনে রাখবেন যে এই অ্যাপ আপনার ডিভাইসে আগে থেকেই ইনস্টল করা আছে বলে এটি আপনি মুছে ফেলতে পারবেন না। বন্ধ করার মাধ্যমে, আপনি অ্যাপটিকে বন্ধ করে লুকিয়ে রাখতে পারেন।"</string>
     <string name="app_install_details_group_title" msgid="1172114479073704677">"Store"</string>
     <string name="app_install_details_title" msgid="7783556181897142187">"অ্যাপের বিশদ বিবরণ"</string>
@@ -2760,7 +2760,7 @@
     <string name="remove_account_label" msgid="4169490568375358010">"অ্যাকাউন্ট সরান"</string>
     <string name="header_add_an_account" msgid="3919151542338822661">"একটি অ্যাকাউন্ট যোগ করুন"</string>
     <string name="really_remove_account_title" msgid="253097435885652310">"অ্যাকাউন্ট সরাবেন?"</string>
-    <string name="remove_account_failed" msgid="3709502163548900644">"আপনার প্রশাসক এই পরিবর্তনটি করতে দেবেন না"</string>
+    <string name="remove_account_failed" msgid="3709502163548900644">"আপনার অ্যাডমিন এই পরিবর্তনটি করতে দেবেন না"</string>
     <string name="cant_sync_dialog_title" msgid="2613000568881139517">"ম্যানুয়ালি সমন্বয় করা যাবে না"</string>
     <string name="cant_sync_dialog_message" msgid="7612557105054568581">"এই আইটেমটির জন্য সিঙ্ক বর্তমানে অক্ষম। এই সেটিং পরিবর্তন করতে, অস্থায়ীভাবে ব্যাকগ্রাউন্ড ডেটা এবং অটোমেটিক সিঙ্ক চালু করুন।"</string>
     <string name="delete" msgid="8330605554706263775">"মুছুন"</string>
@@ -3086,7 +3086,7 @@
     <string name="app_and_notification_dashboard_summary" msgid="8047683010984186106">"সাম্প্রতিক অ্যাপ, ডিফল্ট অ্যাপ"</string>
     <string name="notification_settings_work_profile" msgid="6076211850526353975">"কাজের প্রোফাইলে অ্যাপের জন্য বিজ্ঞপ্তি অ্যাক্সেস উপলভ্য নয়।"</string>
     <string name="account_dashboard_title" msgid="8228773251948253914">"পাসওয়ার্ড ও অ্যাকাউন্ট"</string>
-    <string name="account_dashboard_default_summary" msgid="7976899924144356939">"সাইন-ইন &amp; অটোফিলের জন্য সাজেশন"</string>
+    <string name="account_dashboard_default_summary" msgid="7976899924144356939">"সাইন-ইন ও অটোফিলের জন্য সাজেশন"</string>
     <string name="app_default_dashboard_title" msgid="4071015747629103216">"ডিফল্ট অ্যাপ"</string>
     <string name="cloned_apps_dashboard_title" msgid="5542076801222950921">"ক্লোন করা অ্যাপ"</string>
     <string name="desc_cloned_apps_intro_text" msgid="1369621522882622476">"আপনি যাতে একই সময়ে দুটি অ্যাকাউন্ট ব্যবহার করতে পারেন তার জন্য অ্যাপের দ্বিতীয় ইন্সট্যান্স তৈরি করুন।"</string>
@@ -3924,9 +3924,6 @@
     <string name="permit_manage_external_storage" msgid="6928847280689401761">"সব ফাইল ম্যানেজ করতে অ্যাক্সেস দিন"</string>
     <string name="allow_manage_external_storage_description" msgid="5707948153603253225">"এই ডিভাইস অথবা এতে কানেক্ট রয়েছে এমন যেকোনও স্টোরেজে থাকা সব ফাইল পড়তে, পরিবর্তন করতে এবং মুছতে এই অ্যাপকে অনুমতি দিন। অনুমতি দিলে এই অ্যাপ আপনাকে না জানিয়েই ফাইলগুলি অ্যাক্সেস করতে পারবে।"</string>
     <string name="filter_manage_external_storage" msgid="6751640571715343804">"সব ফাইল অ্যাক্সেস করতে পারে"</string>
-    <string name="voice_activation_apps_title" msgid="7130045161611529825">"ভয়েস অ্যাক্টিভেশন অ্যাপ"</string>
-    <string name="permit_voice_activation_apps" msgid="9152780172988949319">"ভয়েস অ্যাক্টিভেশনের অনুমতি দিন"</string>
-    <string name="allow_voice_activation_apps_description" msgid="6369745626995060656">"ভয়েস অ্যাক্টিভেশন, ভয়েস কমান্ড ব্যবহার করে অনুমোদিত অ্যাপ, হ্যান্ডস-ফ্রি সুবিধা চালু করে। ডেটা যাতে শুধুমাত্র আপনার জন্যই ব্যক্তিগত থাকে, বিল্ট-ইন অ্যাডাপ্টিভ সেন্সিং তা নিশ্চিত করে।\n\n"<a href="">"সুরক্ষিত অ্যাডাপ্টিভ সেন্সিং সম্পর্কে অনেক কিছু"</a></string>
     <string name="full_screen_intent_title" msgid="747270185715224130">"ফুল স্ক্রিন বিজ্ঞপ্তি"</string>
     <string name="permit_full_screen_intent" msgid="9035367640019960861">"এই অ্যাপকে ফুল স্ক্রিন জুড়ে বিজ্ঞপ্তি দেখানোর অনুমতি দিন"</string>
     <string name="footer_description_full_screen_intent" msgid="7716518411349225528">"ডিভাইস লক থাকার সময় এই অ্যাপকে ফুল স্ক্রিন জুড়ে বিজ্ঞপ্তি দেখানোর অনুমতি দিন। অ্যালার্ম, ইনকামিং কল অথবা অন্যান্য জরুরি বিজ্ঞপ্তি হাইলাইট করতে, অ্যাপ এগুলি ব্যবহার করতে পারে।"</string>
@@ -4201,7 +4198,7 @@
     <string name="right_edge" msgid="1505309103265829121">"ডানদিকের প্রান্ত"</string>
     <string name="back_sensitivity_dialog_message" msgid="6638367716784103306">"সংবেদনশীলতা বেড়ে গেলে সেটি স্ক্রিনের প্রান্তে যেকোনও অ্যাপ জেসচার সেটিংসকে ভালভাবে কাজ করতে দেয় না।"</string>
     <string name="back_sensitivity_dialog_title" msgid="6153608904168908264">"আগের স্ক্রিনে ফিরে যাওয়ার সংবেদনশীলতা"</string>
-    <string name="gesture_settings_activity_title" msgid="2025828425762595733">"জেসচার নেভিগেশনের সংবেদনশীলতা"</string>
+    <string name="gesture_settings_activity_title" msgid="1882463161833981820">"জেসচার নেভিগেশন"</string>
     <string name="button_navigation_settings_activity_title" msgid="7335636045504461813">"বোতামের মাধ্যমে নেভিগেশন"</string>
     <string name="keywords_gesture_navigation_settings" msgid="667561222717238931">"জেসচার নেভিগেশন, ফিরে যাওয়ার সংবেদনশীলতা, ফিরে যাওয়ার জেসচার"</string>
     <string name="keywords_button_navigation_settings" msgid="7888812253110553920">"\'নেভিগেশন\', \'হোম\' বোতাম"</string>
@@ -4363,10 +4360,10 @@
     <string name="credman_app_list_preference_none" msgid="2509646651254971448">"কিছুই বেছে নেওয়া হয়নি"</string>
     <string name="autofill_confirmation_message" msgid="4888767934273494272">"&lt;b&gt;নিশ্চিত করুন যে এই অ্যাপটি বিশ্বাসযোগ্য&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; কোনও তথ্য নিজে থেকে পূরণ করা যাবে কিনা, তা নির্ণয় করতে &lt;xliff:g id=app_name example=Google Autofill&gt;%1$s&lt;/xliff:g&gt; অ্যাপটি আপনার স্ক্রিনে যা দেখা যাচ্ছে সেই অনুযায়ী সিদ্ধান্ত নেয়।"</string>
     <string name="credman_autofill_confirmation_message" msgid="843829628024668466">"&lt;b&gt;Use &lt;xliff:g id=app_name example=Provider&gt;%1$s&lt;/xliff:g&gt;?&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; এখন থেকে নতুন পাসওয়ার্ড, পাসকী ও অন্যান্য তথ্য এখানে সেভ করা হবে। কী কী অটোফিল করা যেতে পারে তা নির্ধারণ করতে, আপনার স্ক্রিনে দেখানো বিষয় &lt;xliff:g id=app_name example=Provider&gt;%1$s&lt;/xliff:g&gt; ব্যবহার করতে পারে।"</string>
-    <string name="credman_picker_title" msgid="8442086614222006564">"পাসওয়ার্ড, পাসকী &amp; অটোফিল"</string>
+    <string name="credman_picker_title" msgid="8442086614222006564">"পাসওয়ার্ড, পাসকী ও অটোফিল"</string>
     <string name="credman_confirmation_message_title" msgid="8847900085593880729">"%1$s বন্ধ করবেন?"</string>
     <string name="credman_confirmation_message" msgid="2357324543658635239">"&lt;b&gt;এই পরিষেবা বন্ধ করবেন?&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; পাসওয়ার্ড, \'পাসকী\', পেমেন্ট পদ্ধতির মতো তথ্য ও অন্যান্য সেভ করে রাখা তথ্য, আপনি সাইন-ইন করার সময় উপলভ্য হবে না। আপনার সেভ করে রাখা তথ্য ব্যবহার করতে, একটি পাসওয়ার্ড, \'পাসকী\' বা ডেটা পরিষেবা বেছে নিন।"</string>
-    <string name="account_dashboard_title_with_passkeys" msgid="6214673787161409996">"পাসওয়ার্ড, পাসকী &amp; অটোফিল"</string>
+    <string name="account_dashboard_title_with_passkeys" msgid="6214673787161409996">"পাসওয়ার্ড, পাসকী ও অটোফিল"</string>
     <string name="credman_confirmation_message_new_ui" msgid="6126274509951156460">"&lt;b&gt;সবকটি পরিষেবা বন্ধ করবেন?&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; আপনি সাইন-ইন করার সময় পাসওয়ার্ড, \'পাসকী\' ও অন্যান্য তথ্য উপলভ্য হবে না"</string>
     <string name="credman_autofill_confirmation_message_new_ui" msgid="6222139222478822267">"&lt;b&gt;আপনার পছন্দের পরিষেবা পাল্টে &lt;xliff:g id=app_name example=Provider&gt;%1$s&lt;/xliff:g&gt; বেছে নিতে চান?&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; এখন থেকে নতুন পাসওয়ার্ড, \'পাসকী\' ও অন্যান্য তথ্য এখানে সেভ করা হবে। কী কী অটোফিল করা যেতে পারে তা নির্ধারণ করতে, আপনার স্ক্রিনে দেখানো বিষয় &lt;xliff:g id=app_name example=Provider&gt;%1$s&lt;/xliff:g&gt; ব্যবহার করতে পারে"</string>
     <string name="credman_enable_confirmation_message_title" msgid="1037501792652277829">"%1$s ব্যবহার করবেন?"</string>
@@ -4387,8 +4384,8 @@
     <string name="location_category" msgid="3496759112306219062">"লোকেশন"</string>
     <string name="location_indicator_settings_title" msgid="6655916258720093451">"স্ট্যাটাস বার লোকেশন সূচক"</string>
     <string name="location_indicator_settings_description" msgid="2888022085372804021">"নেটওয়ার্ক ও কানেক্টিভিটি সমেত সব লোকেশন দেখুন"</string>
-    <string name="enable_gnss_raw_meas_full_tracking" msgid="1206679951510243341">"GnssMeasurement সম্পূর্ণভাবে ট্র্যাক করুন"</string>
-    <string name="enable_gnss_raw_meas_full_tracking_summary" msgid="3841463141138247167">"ডিউটি-সাইক্লিং বাদে সমস্ত কন্সটেলেশন এবং ফ্রিকোয়েন্সি ট্র্যাক করুন"</string>
+    <string name="enable_gnss_raw_meas_full_tracking" msgid="1206679951510243341">"GNSS measurement সম্পূর্ণভাবে ট্র্যাক করুন"</string>
+    <string name="enable_gnss_raw_meas_full_tracking_summary" msgid="3841463141138247167">"ডিউটি-সাইক্লিং বাদে সমস্ত GNSS কন্সটেলেশন এবং ফ্রিকোয়েন্সি ট্র্যাক করুন"</string>
     <string name="input_method_category" msgid="2252659253631639005">"ইনপুট পদ্ধতি"</string>
     <string name="stylus_handwriting" msgid="2154591374132794563">"স্টাইলাস হ্যান্ডরাইটিং"</string>
     <string name="stylus_handwriting_summary" msgid="6333425895172696950">"চালু করা থাকলে এবং Editor ফোকাস করা হলে, বর্তমান ইনপুট পদ্ধতি স্টাইলাস MotionEvent কোড পায়।"</string>
@@ -4463,7 +4460,7 @@
     <string name="pref_title_network_details" msgid="7329759534269363308">"নেটওয়ার্কের বিবরণ"</string>
     <string name="devices_title" msgid="649715719278562515">"ডিভাইস"</string>
     <string name="choose_network_title" msgid="5355609223363859430">"নেটওয়ার্ক বেছে নিন"</string>
-    <string name="network_disconnected" msgid="8281188173486212661">"ডিসকানেক্ট আছে"</string>
+    <string name="network_disconnected" msgid="8281188173486212661">"ডিসকানেক্ট করা আছে"</string>
     <string name="network_connected" msgid="7637745547242487795">"কানেক্ট আছে"</string>
     <string name="network_connecting" msgid="6856124847029124041">"কানেক্ট হচ্ছে…"</string>
     <string name="network_could_not_connect" msgid="676574629319069922">"কানেক্ট করা যায়নি"</string>
@@ -4580,8 +4577,10 @@
     <string name="summary_satellite_connection_guide" msgid="3496123195218418456">"আপনার ফোন স্যাটেলাইটের সাথে অটোমেটিক কানেক্ট হয়ে যাবে। সবচেয়ে ভাল কানেকশনের জন্য পরিষ্কার আকাশ দেখা যায় এমন জায়গায় থাকুন।"</string>
     <string name="title_supported_service" msgid="4275535165812691571">"আপনার ফোন স্যাটেলাইটে কানেক্ট করার পরে"</string>
     <string name="summary_supported_service" msgid="4320535903444834786">"আপনি জরুরি পরিষেবা সহ যেকোনও ব্যক্তিকে মেসেজ পাঠাতে পারেন। মোবাইল নেটওয়ার্ক পাওয়া গেলে ফোন সেটির সাথে আবার কানেক্ট করবে।"</string>
-    <string name="satellite_setting_summary_more_information" msgid="4008690241760925372">"স্যাটেলাইট মেসেজিংয়ে আরও বেশি সময় লাগতে পারে এবং এটি শুধু কিছু জায়গাতে উপলভ্য। আবহাওয়া এবং নির্দিষ্ট স্ট্রাকচার আপনার স্যাটেলাইট কানেকশনে বিঘ্ন ঘটাতে পারে। স্যাটেলাইটের মাধ্যমে কল করা যায় না।\n\nআপনার অ্যাকাউন্টে পরিবর্তন সেটিংসে দেখাতে কিছু সময় লাগতে পারে। বিস্তারিত জানতে <xliff:g id="CARRIER_NAME">%1$s</xliff:g>-এর সাথে যোগাযোগ করুন।"</string>
+    <string name="satellite_setting_summary_more_information" msgid="7729454610548016356">"স্যাটেলাইট মেসেজিংয়ে আরও বেশি সময় লাগতে পারে এবং এটি শুধু কিছু জায়গাতে উপলভ্য। আবহাওয়া এবং নির্দিষ্ট স্ট্রাকচার আপনার স্যাটেলাইট কানেকশন প্রভাবিত করতে পারে। স্যাটেলাইটের মাধ্যমে কল করার সুবিধা উপলভ্য নেই। জরুরি কলের জন্য এখনও কানেক্ট করা যেতে পারে।\n\n\'সেটিংস\'-এ অ্যাকাউন্ট পরিবর্তনের বিষয়টি দেখানোর জন্য কিছুটা সময় লাগতে পারে। বিবরণের জন্য আপনার পরিষেবা প্রদানকারীর সাথে যোগাযোগ করুন।"</string>
     <string name="more_about_satellite_messaging" msgid="3385673133561348509">"স্যাটেলাইট মেসেজিং সম্পর্কে আরও তথ্য"</string>
+    <string name="satellite_warning_dialog_title" msgid="1610117852475376931">"<xliff:g id="FUNCTION">%1$s</xliff:g> চালু করা যাচ্ছে না"</string>
+    <string name="satellite_warning_dialog_content" msgid="936419945275934955">"<xliff:g id="FUNCTION">%1$s</xliff:g> চালু করতে, প্রথমে স্যাটেলাইট কানেকশন বন্ধ করুন"</string>
     <string name="mobile_network_apn_title" msgid="5582995550142073054">"অ্যাক্সেস পয়েন্টের নাম"</string>
     <string name="keywords_access_point_names" msgid="8174967126858505945">"APN"</string>
     <string name="manual_mode_disallowed_summary" msgid="4243142645520152175">"<xliff:g id="CARRIER">%1$s</xliff:g>-এ কনেক্ট থাকলে উপলভ্য থাকে না"</string>

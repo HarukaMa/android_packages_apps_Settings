@@ -48,9 +48,9 @@
     <string name="selective_stay_awake_title" msgid="7887645333447645168">"ක්‍රීඩා, වීඩියෝ, සහ තවත් දේ පමණි"</string>
     <string name="selective_stay_awake_summary" msgid="9055967322921984543">"ඔබේ තිරය අක්‍රිය වීම නවත්වන යෙදුම් සඳහා ඉදිරිපස සංදර්ශකය ක්‍රියාත්මක වේ"</string>
     <string name="stay_awake_on_lockscreen_title" msgid="8088456642083051068">"ඉදිරියට යාමට ඉහළට ස්වයිප් කරන්න"</string>
-    <string name="stay_awake_on_lockscreen_summary" msgid="2299351813382522952">"යෙදුම දිගටම භාවිතා කිරීම සඳහා ඔබේ දුරකථනය නමා ඉදිරිපස සංදර්ශකය මත ස්වයිප් කරන්න, නැතහොත් තිරය අගුළු දැමීම සඳහා තත්පර කිහිපයක් රැඳී සිටින්න"</string>
+    <string name="stay_awake_on_lockscreen_summary" msgid="8825321939913726566">"යෙදුම දිගටම භාවිතා කිරීම සඳහා ඔබේ දුරකථනය නමා ඉදිරිපස සංදර්ශකය මත ස්වයිප් කරන්න, නැතහොත් තිරය අගුළු දැමීම සඳහා තත්පර කිහිපයක් රැඳී සිටින්න. ක්‍රීඩා සහ වීඩියෝ යෙදුම් ස්වයංක්‍රීයව ඉදිරියට යනු ඇත."</string>
     <string name="sleep_on_fold_title" msgid="7626123024330501411">"කිසිදා නැත"</string>
-    <string name="sleep_on_fold_summary" msgid="7737992842459588846">"ඔබ ඔබේ උපාංගය නවන විට ඉදිරිපස සංදර්ශකය අගුළු වැටෙයි"</string>
+    <string name="sleep_on_fold_summary" msgid="4191753338303043456">"ඔබ ඔබේ උපාංගය නැමූ විට ඉදිරිපස සංදර්ශකය ක්‍රියා විරහිත වී අගුළු දමයි"</string>
     <string name="auto_rotate_settings_primary_switch_title" msgid="3440951924928594520">"ස්වයංක්‍රිය කරකැවීම භාවිත කරන්න"</string>
     <string name="smart_rotate_text_headline" msgid="5878008933992951904">"ස්වයංක්‍රිය කරකැවීම් නිරවද්‍යතාව වැඩි දියුණු කිරීම සඳහා මුහුණු හඳුනා ගැනීම ඉදිරිපස කැමරාව භාවිත කරයි. රූප ගබඩා කිරීම හෝ Google වෙත යැවීම කිසි විටක සිදු නොකෙරේ."</string>
     <string name="bluetooth" msgid="8898478620943459654">"බ්ලූටූත්"</string>
@@ -540,10 +540,10 @@
     <string name="security_header" msgid="961514795852103424">"ආරක්ෂාව"</string>
     <string name="privacy_header" msgid="5526002421324257007">"පෞද්ගලිකත්වය"</string>
     <string name="work_profile_category_header" msgid="85707750968948517">"කාර්යාල පැතිකඩ"</string>
-    <string name="private_space_title" msgid="1752064212078238723">"පුද්ගලික අවකාශය"</string>
+    <string name="private_space_title" msgid="1752064212078238723">"පෞද්ගලික අවකාශය"</string>
     <string name="private_space_summary" msgid="2274405892301976238">"පෞද්ගලික යෙදුම් අගුළු දමා සඟවා තබා ගන්න"</string>
     <string name="private_space_description" msgid="4059594203775816136">"පෞද්ගලික යෙදුම් ඔබට සැඟවීමට හෝ අගුළු දැමීමට හැකි වෙනම අවකාශයක තබා ගන්න"</string>
-    <string name="private_space_lock_title" msgid="7230836881433350526">"පුද්ගලික අවකාශ අගුල"</string>
+    <string name="private_space_lock_title" msgid="7230836881433350526">"පෞද්ගලික අවකාශ අගුල"</string>
     <string name="private_space_one_lock_summary" msgid="2106513606571219068">"ඔබට ඔබේ උපාංගය අගුලු හරින ආකාරයටම ඔබේ පුද්ගලික අවකාශය අගුලු ඇරීමට හෝ වෙනත් අගුලක් තෝරා ගැනීමට හැක"</string>
     <string name="private_space_screen_lock_title" msgid="8679383894967823163">"උපාංග තිර අගුල භාවිතා කරන්න"</string>
     <string name="private_space_biometric_title" msgid="3934339826674553174">"මුහුණ සහ ඇඟිලි සලකුණු අගුළු හැරීම"</string>
@@ -1421,7 +1421,7 @@
     <string name="battery_level_title" msgid="1371765298786083448">"බැටරි මට්ටම"</string>
     <string name="communal_settings_title" msgid="2845678473945902115">"වාර්ගික"</string>
     <string name="communal_settings_summary" msgid="4923914136953940317">"වාර්ගික සැකසීම්"</string>
-    <string name="satellite_setting" msgid="706846910912477125">"චන්ද්‍රිකා පණිවුඩ යැවීම"</string>
+    <string name="satellite_setting" msgid="4171265534842459910">"චන්ද්‍රිකා පණිවුඩ යැවීම"</string>
     <string name="apn_settings" msgid="4295467389400441299">"APN"</string>
     <string name="apn_edit" msgid="2003683641840248741">"ප්‍රවේශ ස්ථානය සංස්කරණය"</string>
     <string name="apn_add" msgid="9069613192201630934">"ප්‍රවේශ ස්ථානය එක් කරන්න"</string>
@@ -3924,9 +3924,6 @@
     <string name="permit_manage_external_storage" msgid="6928847280689401761">"සියලු ගොනු කළමනාකරණය කිරීමට ප්‍රවේශය ඉඩ දෙන්න"</string>
     <string name="allow_manage_external_storage_description" msgid="5707948153603253225">"මෙම යෙදුමට මෙම උපාංගයේ හෝ ඕනෑම සබැඳුණු ගබඩා ධාරිතාවක ඇති සියලු ගොනු කියවීමට, වෙනස් කිරීමට සහ මැකීමට ඉඩ දෙන්න. ප්‍රදානය කළහොත්, ඔබේ ප්‍රකාශිත දැනුම රහිතව යෙදුමට ගොනු වෙත ප්‍රවේශ විය හැකිය."</string>
     <string name="filter_manage_external_storage" msgid="6751640571715343804">"සියලු ගොනු වෙත ප්‍රවේශ විය හැකිය"</string>
-    <string name="voice_activation_apps_title" msgid="7130045161611529825">"හඬ සක්‍රිය කිරීමේ යෙදුම්"</string>
-    <string name="permit_voice_activation_apps" msgid="9152780172988949319">"හඬ සක්‍රිය කිරීමට ඉඩ දෙන්න"</string>
-    <string name="allow_voice_activation_apps_description" msgid="6369745626995060656">"හඬ ක්‍රියාත්මක කිරීම හඬ විධානය භාවිත කර අනුමත යෙදුම්, දෑත් නොයොදන සක්‍රීය කරයි. තිළැලි අනුවර්තන සංවේදනය දත්ත ඔබට පමණක් පුද්ගලිකව පවතින බව සහතික කරයි.\n\n"<a href="">"ආරක්ෂිත අනුවර්තන සංවේදනය පිළිබඳ තව විස්තර"</a></string>
     <string name="full_screen_intent_title" msgid="747270185715224130">"පූර්ණ තිර දැනුම්දීම්"</string>
     <string name="permit_full_screen_intent" msgid="9035367640019960861">"මෙම යෙදුමෙන් පූර්ණ තිර දැනුම්දීම්වලට ඉඩ දෙන්න"</string>
     <string name="footer_description_full_screen_intent" msgid="7716518411349225528">"උපාංගය අගුළු දමා ඇති විට පූර්ණ තිරය ගන්නා දැනුම්දීම් පෙන්වීමට මෙම යෙදුමට ඉඩ දෙන්න. එලාම්, එන ඇමතුම්, හෝ වෙනත් හදිසි දැනුම්දීම් උද්දීපනය කිරීමට යෙදුම් මේවා භාවිතා කිරීමට ඉඩ ඇත."</string>
@@ -4201,7 +4198,7 @@
     <string name="right_edge" msgid="1505309103265829121">"දකුණු මායිම"</string>
     <string name="back_sensitivity_dialog_message" msgid="6638367716784103306">"වඩා ඉහළ සංවේදීතාව තිරයෙහි මායිම් දිගේ යම් යෙදුම් ඉංගිත සමග ගැටීමට හැකිය."</string>
     <string name="back_sensitivity_dialog_title" msgid="6153608904168908264">"පසු සංවේදීතාව"</string>
-    <string name="gesture_settings_activity_title" msgid="2025828425762595733">"අභින සංචාලන සංවේදීතාව"</string>
+    <string name="gesture_settings_activity_title" msgid="1882463161833981820">"අභින සංචලනය"</string>
     <string name="button_navigation_settings_activity_title" msgid="7335636045504461813">"බොත්තම් සංචාලනය"</string>
     <string name="keywords_gesture_navigation_settings" msgid="667561222717238931">"ඉංගිත සංචාලනය, පසු සංවේදීතාව, පසු ඉංගිතය"</string>
     <string name="keywords_button_navigation_settings" msgid="7888812253110553920">"සංචාලනය, මුල් පිටු බොත්තම"</string>
@@ -4580,8 +4577,10 @@
     <string name="summary_satellite_connection_guide" msgid="3496123195218418456">"ඔබේ දුරකථනය චන්ද්‍රිකාවකට ස්වයංක්‍රීයව සම්බන්ධ වේ. හොඳම සම්බන්ධතාව සඳහා, අහසේ පැහැදිලි දර්ශනයක් තබා ගන්න."</string>
     <string name="title_supported_service" msgid="4275535165812691571">"ඔබේ දුරකථනය චන්ද්‍රිකාවකට සම්බන්ධ වූ පසු"</string>
     <string name="summary_supported_service" msgid="4320535903444834786">"හදිසි සේවා ඇතුළුව ඔබට ඕනෑම කෙනෙකුට කෙටි පණිවුඩයක් යැවිය හැක. පවතින විට ඔබේ දුරකථනය ජංගම ජාලයකට නැවත සම්බන්ධ වේ."</string>
-    <string name="satellite_setting_summary_more_information" msgid="4008690241760925372">"චන්ද්‍රිකා පණිවුඩ යැවීමට වැඩි කාලයක් ගත විය හැකි අතර සමහර ප්‍රදේශවල පමණක් ලබා ගත හැක, කාලගුණය සහ ඇතැම් ව්‍යුහ ඔබේ චන්ද්‍රිකා සම්බන්ධතාවට බලපෑ හැක. චන්ද්‍රිකා මඟින් ඇමතීම ලබා ගත නොහැක.\n\nඔබේ ගිණුමේ වෙනස්කම් සැකසීම් තුළ පෙන්වීමට යම් කාලයක් ගත විය හැක. විස්තර සඳහා <xliff:g id="CARRIER_NAME">%1$s</xliff:g> අමතන්න."</string>
+    <string name="satellite_setting_summary_more_information" msgid="7729454610548016356">"චන්ද්‍රිකා පණිවිඩ යැවීමට වැඩි කාලයක් ගත විය හැකි අතර සමහර ප්‍රදේශවල පමණක් ලබා ගත හැක. කාලගුණය සහ ඇතැම් ව්‍යුහයන් ඔබේ චන්ද්‍රිකා සම්බන්ධතාවයට බලපෑ හැක. චන්ද්‍රිකා මගින් ඇමතීම ලබා ගත නොහැක. හදිසි අවස්ථා ඇමතුම් තවමත් සම්බන්ධ විය හැක.\n\nගිණුම් වෙනස්කම් සැකසීම් තුළ පෙන්වීමට යම් කාලයක් ගත විය හැක. විස්තර සඳහා ඔබේ වාහකය සම්බන්ධ කර ගන්න."</string>
     <string name="more_about_satellite_messaging" msgid="3385673133561348509">"චන්ද්‍රිකා පණිවුඩ යැවීම ගැන වැඩි විස්තර"</string>
+    <string name="satellite_warning_dialog_title" msgid="1610117852475376931">"<xliff:g id="FUNCTION">%1$s</xliff:g> ක්‍රියාත්මක කළ නොහැක"</string>
+    <string name="satellite_warning_dialog_content" msgid="936419945275934955">"<xliff:g id="FUNCTION">%1$s</xliff:g> ක්‍රියාත්මක කිරීමට, පළමුව චන්ද්‍රිකා සම්බන්ධතාවය නිමා කරන්න"</string>
     <string name="mobile_network_apn_title" msgid="5582995550142073054">"ප්‍රවේශ ලක්ෂ්‍ය නම්"</string>
     <string name="keywords_access_point_names" msgid="8174967126858505945">"apn"</string>
     <string name="manual_mode_disallowed_summary" msgid="4243142645520152175">"<xliff:g id="CARRIER">%1$s</xliff:g> වෙත සම්බන්ධ වූ විට නොමැත"</string>

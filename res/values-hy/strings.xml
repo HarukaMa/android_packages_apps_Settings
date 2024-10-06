@@ -48,10 +48,10 @@
     <string name="selective_stay_awake_title" msgid="7887645333447645168">"Միայն խաղեր, տեսանյութեր և այլն"</string>
     <string name="selective_stay_awake_summary" msgid="9055967322921984543">"Առջևի էկրանը միանում է այն հավելվածների համար, որոնք թույլ չեն տալիս, որ էկրանն անցնի անգործուն ռեժիմի"</string>
     <string name="stay_awake_on_lockscreen_title" msgid="8088456642083051068">"Սահեցնել վերև՝ շարունակելու համար"</string>
-    <string name="stay_awake_on_lockscreen_summary" msgid="2299351813382522952">"Ծալեք ձեր հեռախոսը և սահեցրեք վերև՝ առջևի էկրանին, որպեսզի շարունակեք օգտվել հավելվածից, կամ սպասեք մի քանի վայրկյան, մինչև էկրանը կողպվի"</string>
+    <string name="stay_awake_on_lockscreen_summary" msgid="8825321939913726566">"Ծալեք ձեր հեռախոսը և սահեցրեք վերև առջևի էկրանին, որպեսզի շարունակեք օգտագործել հավելվածը, կամ սպասեք մի քանի վայրկյան, մինչև էկրանը կողպվի։ Խաղերը և վիդեո հավելվածները ավտոմատ կշարունակեն աշխատել։"</string>
     <string name="sleep_on_fold_title" msgid="7626123024330501411">"Երբեք"</string>
-    <string name="sleep_on_fold_summary" msgid="7737992842459588846">"Առջևի էկրանը կողպվում է, երբ սարքը ծալում եք"</string>
-    <string name="auto_rotate_settings_primary_switch_title" msgid="3440951924928594520">"Օգտագործել ինքնապտտումը"</string>
+    <string name="sleep_on_fold_summary" msgid="4191753338303043456">"Առջևի էկրանն անջատվում և կողպվում է, երբ սարքը ծալում եք"</string>
+    <string name="auto_rotate_settings_primary_switch_title" msgid="3440951924928594520">"Օգտագործել ավտոմատ պտտումը"</string>
     <string name="smart_rotate_text_headline" msgid="5878008933992951904">"Դիմաճանաչումն օգտագործում է առջևի տեսախցիկը՝ ինքնապտտման ճշգրտությունը բարելավելու համար։ Պատկերները չեն պահվում և չեն ուղարկվում Google-ին։"</string>
     <string name="bluetooth" msgid="8898478620943459654">"Bluetooth"</string>
     <string name="bluetooth_is_discoverable" msgid="4798961627677790935">"Տեսանելի դառնալ մոտակայքում գտնվող բոլոր Bluetooth սարքերին (<xliff:g id="DISCOVERABLE_TIME_PERIOD">%1$s</xliff:g>)"</string>
@@ -133,10 +133,10 @@
     <string name="previous_connected_see_all" msgid="7759413145713251328">"Տեսնել բոլորը"</string>
     <string name="connected_device_fast_pair_device_see_all" msgid="4898279230458128620">"Տեսնել բոլորը"</string>
     <string name="stylus_device_details_title" msgid="7618295136015480864">"Ստիլուս"</string>
-    <string name="stylus_default_notes_app" msgid="4165657465911764628">"Ստիլուսի կոճակի սեղմում"</string>
+    <string name="stylus_default_notes_app" msgid="4165657465911764628">"Ստիլուսի ծայրի կոճակի սեղմում"</string>
     <string name="stylus_default_notes_summary_work" msgid="4554643411627934223">"<xliff:g id="APP_NAME">%s</xliff:g> (աշխատանքային պրոֆիլ)"</string>
     <string name="stylus_textfield_handwriting" msgid="2363579035338976327">"Գրել տեքստային դաշտերում"</string>
-    <string name="stylus_ignore_button" msgid="7734540973145241391">"Անտեսել կոճակների ստիլուսով սեղմումները"</string>
+    <string name="stylus_ignore_button" msgid="7734540973145241391">"Անտեսել կոճակների սեղմումները ստիլուսով"</string>
     <string name="stylus_connected_devices_title" msgid="2823967577941359812">"Ստիլուս"</string>
     <string name="audio_streams_empty" msgid="8803517701437394982">"Մոտակայքում աուդիո հոսքեր չեն գտնվել։"</string>
     <string name="date_and_time" msgid="1788358029823431692">"Ամսաթիվ և ժամ"</string>
@@ -382,7 +382,7 @@
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_6" msgid="3563942520716110478">"Խորհուրդ ենք տալիս օգտագործել էկրանի պաշտպանիչ՝ «Made for Google» մակնշմամբ։ Էկրանի այլ պաշտպանիչներով սարքերը կարող են չճանաչել ձեր երեխայի մատնահետքը։"</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more" msgid="5856010507790137793"></string>
     <string name="security_settings_activeunlock_preference_title" msgid="4257580421087062228">"ժամացույցով ապակողպում"</string>
-    <string name="biometric_settings_intro_with_activeunlock" msgid="5032953826653108646">"Երբ կարգավորեք դեմքով և մատնահետքով ապակողպումը, հեռախոսը կպահանջի, որ օգտագործեք մատնահետքը, եթե դիմակ կրելիս լինեք կամ լուսավորությունը թույլ լինի։\n\nԺամացույցով ապակողպումը հարմարավետ եղանակ է հեռախոսն ապակողպելու համար, օրինակ, երբ ձեր ձեռքերը թաց են, կամ դեմքը չի հաջողվում ճանաչել։"</string>
+    <string name="biometric_settings_intro_with_activeunlock" msgid="5032953826653108646">"Երբ կարգավորեք դեմքով և մատնահետքով ապակողպումը, հեռախոսը կպահանջի, որ օգտագործեք մատնահետքը, եթե դիմակ կրելիս լինեք, կամ լուսավորությունը թույլ լինի։\n\nԺամացույցով ապակողպումը հարմարավետ եղանակ է հեռախոսն ապակողպելու համար, օրինակ, երբ ձեր ձեռքերը թաց են, կամ դեմքը չի հաջողվում ճանաչել։"</string>
     <string name="biometric_settings_intro_with_fingerprint" msgid="5881355884547769337">"Ժամացույցով ապակողպումը հարմարավետ եղանակ է հեռախոսն ապակողպելու համար, օրինակ, երբ ձեր մատնահետքը չի հաջողվում ճանաչել։"</string>
     <string name="biometric_settings_intro_with_face" msgid="7671919122230588521">"Ժամացույցով ապակողպումը հարմարավետ եղանակ է հեռախոսն ապակողպելու համար, օրինակ, երբ ձեր դեմքը չի հաջողվում ճանաչել։"</string>
     <string name="biometric_settings_use_fingerprint_or_watch_for" msgid="1160830065613858095">"Օգտագործեք մատնահետքը կամ ժամացույցը՝"</string>
@@ -408,7 +408,7 @@
     <string name="security_settings_remoteauth_preference_title" msgid="8319680328086089533">"Authenticator-ով հեռակա ապակողպում"</string>
     <string name="security_settings_remoteauth_preference_summary" msgid="1507004469316635196">"Ժամացույցն ավելացված է"</string>
     <string name="security_settings_remoteauth_enroll_introduction_title" msgid="2151004795778999671">"Կարգավորեք ձեր ժամացույցը"</string>
-    <string name="security_settings_remoteauth_enroll_introduction_message" msgid="8737276885766036074">"Ժամացույցով ապակողպումը հարմարավետ եղանակ է հեռախոսն ապակողպելու համար, օրինակ, երբ ձեր ձեռքերը թաց են կամ դեմքը հնարավոր չի լինում ճանաչել։\n\nԴուք կարող եք ձեր ժամացույցով ապակողպել այս հեռախոսը, երբ՝"</string>
+    <string name="security_settings_remoteauth_enroll_introduction_message" msgid="8737276885766036074">"Ժամացույցով ապակողպումը հարմարավետ եղանակ է հեռախոսն ապակողպելու համար, օրինակ, երբ ձեր ձեռքերը թաց են կամ դեմքը հնարավոր չի լինում ճանաչել։\n\nԴուք կարող եք ձեր ժամացույցով ապակողպել այս հեռախոսը․"</string>
     <string name="security_settings_remoteauth_enroll_introduction_disagree" msgid="7639258097401796028">"Ոչ հիմա"</string>
     <string name="security_settings_remoteauth_enroll_introduction_agree" msgid="5271119227172049339">"Շարունակել"</string>
     <string name="security_settings_remoteauth_enroll_introduction_more" msgid="1644105894631257595">"Ավելին"</string>
@@ -437,7 +437,7 @@
     <string name="security_settings_biometric_preference_summary_none_enrolled" msgid="213377753727694575">"Պահանջվում է կարգավորում"</string>
     <string name="security_settings_biometric_preference_summary_both_fp_multiple" msgid="4821859306609955966">"Դեմքի և մատնահետքի նմուշներն ավելացվեցին"</string>
     <string name="security_settings_biometric_preference_summary_both_fp_single" msgid="684409535278676426">"Դեմքի և մատնահետքի նմուշներն ավելացվեցին"</string>
-    <string name="biometric_settings_intro" msgid="4263069383955676756">"Դեմքով կամ մատնահետքով ապակողպումն օգտագործելու դեպքում, երբ դիմակ կրելիս լինեք կամ լուսավորությունը թույլ լինի, ձեր հեռախոսը կպահանջի, որ օգտագործեք ձեր մատնահետքը"</string>
+    <string name="biometric_settings_intro" msgid="4263069383955676756">"Դեմքով կամ մատնահետքով ապակողպումն օգտագործելու դեպքում, երբ դիմակ կրելիս լինեք, կամ լուսավորությունը թույլ լինի, ձեր հեռախոսը կպահանջի, որ օգտագործեք ձեր մատնահետքը"</string>
     <string name="biometric_settings_category_ways_to_unlock" msgid="3384767901580915266">"Ապակողպման եղանակներ"</string>
     <string name="biometric_settings_category_use_face_fingerprint" msgid="4377659744376863913">"Դեմքի կամ մատնահետքի օգտագործում"</string>
     <string name="biometric_settings_use_biometric_unlock_phone" msgid="8180914579885804358">"Հեռախոսի ապակողպում"</string>
@@ -460,7 +460,7 @@
     <string name="security_settings_sfps_enroll_find_sensor_title" msgid="8327884364635804363">"Հպեք սնուցման կոճակին առանց այն սեղմելու"</string>
     <string name="security_settings_udfps_enroll_find_sensor_title" msgid="8077484429913330179">"Ինչպես կարգավորել մատնահետքը"</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message" msgid="6160543980992596286">"Այն գտնվում է ձեր հեռախոսի հետևի մասում: Հպեք ցուցամատով:"</string>
-    <string name="security_settings_udfps_enroll_find_sensor_message" msgid="8383106460819519961">"Մատնահետքի սկաները ձեր էկրանի վրա է։ Հաջորդ էկրանին դուք կգրանցեք ձեր մատնահետքը։"</string>
+    <string name="security_settings_udfps_enroll_find_sensor_message" msgid="8383106460819519961">"Մատնահետքի սկաները ձեր էկրանին է։ Հաջորդ էկրանին դուք կգրանցեք ձեր մատնահետքը։"</string>
     <string name="security_settings_udfps_enroll_find_sensor_start_button" msgid="3172268783620336357">"Սկսել"</string>
     <string name="security_settings_udfps_enroll_a11y" msgid="1899453114050362235">"Այն գտնելու համար մատը շարժեք էկրանի վրայով։ Հպեք մատնահետքի սկաներին և պահեք։"</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_content_description" msgid="3065850549419750523">"Սարքի և մատնահետքի սենսորի տեղադրության պատկեր"</string>
@@ -541,8 +541,8 @@
     <string name="privacy_header" msgid="5526002421324257007">"Գաղտնիություն"</string>
     <string name="work_profile_category_header" msgid="85707750968948517">"Աշխատանքային պրոֆիլ"</string>
     <string name="private_space_title" msgid="1752064212078238723">"Մասնավոր տարածք"</string>
-    <string name="private_space_summary" msgid="2274405892301976238">"Անձնական հավելվածները պահեք կողպված և թաքցված"</string>
-    <string name="private_space_description" msgid="4059594203775816136">"Անձնական հավելվածները պահեք առանձին տարածքում, որը կարող եք թաքցնել կամ կողպել"</string>
+    <string name="private_space_summary" msgid="2274405892301976238">"Մասնավոր հավելվածները պահեք կողպված և թաքցված"</string>
+    <string name="private_space_description" msgid="4059594203775816136">"Մասնավոր հավելվածները պահեք առանձին տարածքում, որը կարող եք թաքցնել կամ կողպել"</string>
     <string name="private_space_lock_title" msgid="7230836881433350526">"Մասնավոր տարածքի կողպում"</string>
     <string name="private_space_one_lock_summary" msgid="2106513606571219068">"Դուք կարող եք օգտագործել ապակողպման նույն եղանակը, որն օգտագործվում է էկրանի համար, կամ ընտրել մեկ ուրիշը"</string>
     <string name="private_space_screen_lock_title" msgid="8679383894967823163">"Օգտագործել սարքի էկրանի կողպումը"</string>
@@ -554,7 +554,7 @@
     <string name="private_space_face_unlock_title" msgid="462248384776453613">"Դեմքով ապակողպում մասնավոր տարածքի համար"</string>
     <string name="private_space_category_ways_to_unlock" msgid="4356631225316950046">"Ապակողպման եղանակներ"</string>
     <string name="private_space_screen_lock_summary" msgid="394837965365561070">"Նույնը, ինչ սարքի էկրանի կողպումը"</string>
-    <string name="private_space_new_lock_title" msgid="9056139964133004094">"Ընտրե՞լ նոր կողպում մասնավոր տարածքի համար։"</string>
+    <string name="private_space_new_lock_title" msgid="9056139964133004094">"Ընտրե՞լ նոր կողպում մասնավոր տարածքի համար"</string>
     <string name="private_space_auto_lock_title" msgid="8663409382910601261">"Մասնավոր տարածքի ավտոմատ կողպում"</string>
     <string name="private_space_auto_lock_page_summary" msgid="8679844515655838654">"Կարող եք այնպես անել, որ ձեր մասնավոր տարածքն ավտոմատ կողպվի, եթե որոշ ժամանակ չօգտագործեք ձեր սարքը"</string>
     <string name="private_space_auto_lock_every_time" msgid="1215061855836002830">"Ամեն անգամ, երբ սարքը կողպվում է"</string>
@@ -570,7 +570,7 @@
     <string name="privatespace_hide_off_summary" msgid="7227778747159633671">"Անջատված է"</string>
     <string name="privatespace_hide_on_summary" msgid="6136704537527640183">"Միացված է"</string>
     <string name="private_space_category_system" msgid="1286843321867285700">"Համակարգ"</string>
-    <string name="private_space_delete_title" msgid="636873505724100006">"Մասնավոր տարածքի ջնջում"</string>
+    <string name="private_space_delete_title" msgid="636873505724100006">"Ջնջել մասնավոր տարածքը"</string>
     <string name="private_space_delete_header" msgid="4594429153176776184">"Ջնջե՞լ մասնավոր տարածքը"</string>
     <string name="private_space_delete_summary" msgid="3344372988408565545">"Ձեր մասնավոր տարածքը կհեռացվի ձեր սարքից։ Բոլոր անձնական հավելվածներն ու տվյալները կջնջվեն։ Այս գործողությունը չեք կարող հետարկել։"</string>
     <string name="private_space_accounts" msgid="1078277762792056395">"Հետևյալ հաշիվները կհեռացվեն ձեր մասնավոր տարածքից՝"</string>
@@ -684,23 +684,23 @@
     <string name="unlock_set_unlock_mode_password" msgid="8810609692771987513">"Գաղտնաբառ"</string>
     <string name="unlock_disable_frp_warning_title" msgid="2545569051372893686">"Հեռացնե՞լ սարքի բոլոր տեսակի ապակողպումները"</string>
     <string name="unlock_disable_frp_warning_title_profile" msgid="1005284289723910461">"Հեռացնե՞լ պրոֆիլի պաշտպանությունը:"</string>
-    <string name="unlock_disable_frp_warning_content_pattern" msgid="6246242612158828147">"Նախշի միջոցով դուք կարող եք պաշտպանել ձեր հեռախոսը, եթե այն կորչի կամ գողացվի։"</string>
-    <string name="unlock_disable_frp_warning_content_pattern_fingerprint" msgid="2259825377085781801">"Նախշի միջոցով դուք կարող եք պաշտպանել ձեր հեռախոսը, եթե այն կորչի կամ գողացվի։<xliff:g id="EMPTY_LINE">
+    <string name="unlock_disable_frp_warning_content_pattern" msgid="6246242612158828147">"Նախշի միջոցով դուք կարող եք պաշտպանել ձեր հեռախոսը, եթե այն կորչի կամ գողանան։"</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint" msgid="2259825377085781801">"Նախշի միջոցով դուք կարող եք պաշտպանել ձեր հեռախոսը, եթե այն կորչի կամ գողանան։<xliff:g id="EMPTY_LINE">
 
 </xliff:g>Ձեր մատնահետքի նմուշը նույնպես սարքից կջնջվի։ Դուք չեք կարողանա ձեր մատնահետքի միջոցով մտնել հաշիվ հավելվածներում։"</string>
-    <string name="unlock_disable_frp_warning_content_pattern_face" msgid="4699508435412336378">"Նախշի միջոցով դուք կարող եք պաշտպանել ձեր հեռախոսը, եթե այն կորչի կամ գողացվի։<xliff:g id="EMPTY_LINE">
+    <string name="unlock_disable_frp_warning_content_pattern_face" msgid="4699508435412336378">"Նախշի միջոցով դուք կարող եք պաշտպանել ձեր հեռախոսը, եթե այն կորչի կամ գողանան։<xliff:g id="EMPTY_LINE">
 
 </xliff:g>Ձեր դեմքի նմուշը նույնպես ընդմիշտ կջնջվի։ Դուք չեք կարողանա ձեր դեմքի միջոցով մտնել հաշիվ հավելվածներում։"</string>
-    <string name="unlock_disable_frp_warning_content_pattern_face_fingerprint" msgid="7049706229344804972">"Նախշի միջոցով դուք կարող եք պաշտպանել ձեր հեռախոսը, եթե այն կորչի կամ գողացվի։<xliff:g id="EMPTY_LINE">
+    <string name="unlock_disable_frp_warning_content_pattern_face_fingerprint" msgid="7049706229344804972">"Նախշի միջոցով դուք կարող եք պաշտպանել ձեր հեռախոսը, եթե այն կորչի կամ գողանան։<xliff:g id="EMPTY_LINE">
 
 </xliff:g>Ձեր մատնահետքի նմուշը սարքից կջնջվի։ Ձեր դեմքի նմուշը նույնպես ընդմիշտ կջնջվի։ Դուք չեք կարողանա ձեր դեմքի կամ մատնահետքի միջոցով մտնել հաշիվ հավելվածներում։"</string>
-    <string name="unlock_disable_frp_warning_content_pin" msgid="122154942944422284">"PIN կոդի միջոցով դուք կարող եք պաշտպանել ձեր հեռախոսը, եթե այն կորչի կամ գողացվի։"</string>
+    <string name="unlock_disable_frp_warning_content_pin" msgid="122154942944422284">"PIN կոդի միջոցով դուք կարող եք պաշտպանել ձեր հեռախոսը, եթե այն կորչի կամ գողանան։"</string>
     <string name="unlock_disable_frp_warning_content_pin_authbound_keys" msgid="6497861740382402784">"Դուք կկորցնեք ձեր պահած տվյալները, օրինակ՝ PIN կոդը։<xliff:g id="EMPTY_LINE_0">
 
 </xliff:g>Անհպում վճարման համար կարգավորված քարտերը կհեռացվեն։<xliff:g id="EMPTY_LINE_1">
 
 </xliff:g>Դրամապանակներն ու մյուս հավելվածները, որոնց համար անհրաժեշտ է սարքի ապակողպում, կարող են պատշաճ չաշխատել։"</string>
-    <string name="unlock_disable_frp_warning_content_pin_fingerprint" msgid="983373874470746066">"PIN կոդի միջոցով դուք կարող եք պաշտպանել ձեր հեռախոսը, եթե այն կորչի կամ գողացվի։<xliff:g id="EMPTY_LINE">
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint" msgid="983373874470746066">"PIN կոդի միջոցով դուք կարող եք պաշտպանել ձեր հեռախոսը, եթե այն կորչի կամ գողանան։<xliff:g id="EMPTY_LINE">
 
 </xliff:g>Ձեր մատնահետքի նմուշը նույնպես սարքից կջնջվի։ Դուք չեք կարողանա ձեր մատնահետքի միջոցով մտնել հաշիվ հավելվածներում։"</string>
     <string name="unlock_disable_frp_warning_content_pin_fingerprint_authbound_keys" msgid="8930057076658360799">"Դուք կկորցնեք ձեր պահած տվյալները, օրինակ՝ PIN կոդն ու մատնահետքի նմուշը։<xliff:g id="EMPTY_LINE_0">
@@ -708,7 +708,7 @@
 </xliff:g>Անհպում վճարման համար կարգավորված քարտերը կհեռացվեն։<xliff:g id="EMPTY_LINE_1">
 
 </xliff:g>Դրամապանակներն ու մյուս հավելվածները, որոնց համար անհրաժեշտ է սարքի ապակողպում, կարող են պատշաճ չաշխատել։"</string>
-    <string name="unlock_disable_frp_warning_content_pin_face" msgid="5607150515413131761">"PIN կոդի միջոցով դուք կարող եք պաշտպանել ձեր հեռախոսը, եթե այն կորչի կամ գողացվի։<xliff:g id="EMPTY_LINE">
+    <string name="unlock_disable_frp_warning_content_pin_face" msgid="5607150515413131761">"PIN կոդի միջոցով դուք կարող եք պաշտպանել ձեր հեռախոսը, եթե այն կորչի կամ գողանան։<xliff:g id="EMPTY_LINE">
 
 </xliff:g>Ձեր դեմքի նմուշը նույնպես ընդմիշտ կջնջվի։ Դուք չեք կարողանա ձեր դեմքի միջոցով մտնել հաշիվ հավելվածներում։"</string>
     <string name="unlock_disable_frp_warning_content_pin_face_authbound_keys" msgid="979399855891561038">"Դուք կկորցնեք ձեր պահած տվյալները, օրինակ՝ PIN կոդն ու դեմքի նմուշը։<xliff:g id="EMPTY_LINE_0">
@@ -716,7 +716,7 @@
 </xliff:g>Անհպում վճարման համար կարգավորված քարտերը կհեռացվեն։<xliff:g id="EMPTY_LINE_1">
 
 </xliff:g>Դրամապանակներն ու մյուս հավելվածները, որոնց համար անհրաժեշտ է սարքի ապակողպում, կարող են պատշաճ չաշխատել։"</string>
-    <string name="unlock_disable_frp_warning_content_pin_face_fingerprint" msgid="1821792325159866312">"PIN կոդի միջոցով դուք կարող եք պաշտպանել ձեր հեռախոսը, եթե այն կորչի կամ գողացվի։<xliff:g id="EMPTY_LINE">
+    <string name="unlock_disable_frp_warning_content_pin_face_fingerprint" msgid="1821792325159866312">"PIN կոդի միջոցով դուք կարող եք պաշտպանել ձեր հեռախոսը, եթե այն կորչի կամ գողանան։<xliff:g id="EMPTY_LINE">
 
 </xliff:g>Ձեր մատնահետքի նմուշը սարքից կջնջվի։ Ձեր դեմքի նմուշը նույնպես ընդմիշտ կջնջվի։ Դուք չեք կարողանա ձեր դեմքի կամ մատնահետքի միջոցով մտնել հաշիվ հավելվածներում։"</string>
     <string name="unlock_disable_frp_warning_content_pin_face_fingerprint_authbound_keys" msgid="7019955731206729909">"Դուք կկորցնեք ձեր պահած տվյալները, օրինակ՝ PIN կոդը, դեմքի և մատնահետքի նմուշները։<xliff:g id="EMPTY_LINE_0">
@@ -724,14 +724,14 @@
 </xliff:g>Անհպում վճարման համար կարգավորված քարտերը կհեռացվեն։<xliff:g id="EMPTY_LINE_1">
 
 </xliff:g>Դրամապանակներն ու մյուս հավելվածները, որոնց համար անհրաժեշտ է սարքի ապակողպում, կարող են պատշաճ չաշխատել։"</string>
-    <string name="unlock_disable_frp_warning_content_password" msgid="6422723907917376210">"Գաղտնաբառի միջոցով դուք կարող եք պաշտպանել ձեր հեռախոսը, եթե այն կորչի կամ գողացվի։"</string>
-    <string name="unlock_disable_frp_warning_content_password_fingerprint" msgid="8899452884016354856">"Գաղտնաբառի միջոցով դուք կարող եք պաշտպանել ձեր հեռախոսը, եթե այն կորչի կամ գողացվի։<xliff:g id="EMPTY_LINE">
+    <string name="unlock_disable_frp_warning_content_password" msgid="6422723907917376210">"Գաղտնաբառի միջոցով դուք կարող եք պաշտպանել ձեր հեռախոսը, եթե այն կորչի կամ գողանան։"</string>
+    <string name="unlock_disable_frp_warning_content_password_fingerprint" msgid="8899452884016354856">"Գաղտնաբառի միջոցով դուք կարող եք պաշտպանել ձեր հեռախոսը, եթե այն կորչի կամ գողանան։<xliff:g id="EMPTY_LINE">
 
 </xliff:g>Ձեր մատնահետքի նմուշը նույնպես սարքից կջնջվի։ Դուք չեք կարողանա ձեր մատնահետքի միջոցով մտնել հաշիվ հավելվածներում։"</string>
-    <string name="unlock_disable_frp_warning_content_password_face" msgid="1811067332335964495">"Գաղտնաբառի միջոցով դուք կարող եք պաշտպանել ձեր հեռախոսը, եթե այն կորչի կամ գողացվի։<xliff:g id="EMPTY_LINE">
+    <string name="unlock_disable_frp_warning_content_password_face" msgid="1811067332335964495">"Գաղտնաբառի միջոցով դուք կարող եք պաշտպանել ձեր հեռախոսը, եթե այն կորչի կամ գողանան։<xliff:g id="EMPTY_LINE">
 
 </xliff:g>Ձեր դեմքի նմուշը նույնպես ընդմիշտ կջնջվի։ Դուք չեք կարողանա ձեր դեմքի միջոցով մտնել հաշիվ հավելվածներում։"</string>
-    <string name="unlock_disable_frp_warning_content_password_face_fingerprint" msgid="7063649456205159491">"Գաղտնաբառի միջոցով դուք կարող եք պաշտպանել ձեր հեռախոսը, եթե այն կորչի կամ գողացվի։<xliff:g id="EMPTY_LINE">
+    <string name="unlock_disable_frp_warning_content_password_face_fingerprint" msgid="7063649456205159491">"Գաղտնաբառի միջոցով դուք կարող եք պաշտպանել ձեր հեռախոսը, եթե այն կորչի կամ գողանան։<xliff:g id="EMPTY_LINE">
 
 </xliff:g>Ձեր մատնահետքի նմուշը սարքից կջնջվի։ Ձեր դեմքի նմուշը նույնպես ընդմիշտ կջնջվի։ Դուք չեք կարողանա ձեր դեմքի կամ մատնահետքի միջոցով մտնել հաշիվ հավելվածներում։"</string>
     <string name="unlock_disable_frp_warning_content_unknown" msgid="8903568674104115231">"Սարքի պաշտպանության գործառույթները չեն աշխատի առանց էկրանի կողպման։"</string>
@@ -799,7 +799,7 @@
     <string name="bluetooth_pin_values_hint" msgid="2753202519050044670">"Սովորաբար 0000 կամ 1234"</string>
     <string name="bluetooth_pin_values_hint_16_digits" msgid="5603928271430883558">"Պետք է պարունակի 16 թվանշան"</string>
     <string name="bluetooth_enter_pin_other_device" msgid="6737778699899780717">"Հնարավոր է պետք լինի մուտքագրել այս PIN-ը մյուս սարքերի վրա ևս:"</string>
-    <string name="bluetooth_enter_passkey_other_device" msgid="8270426446247344709">"Հնարավոր է պետք լինի մուտքագրել այս անցաբառը այլ սարքերում:"</string>
+    <string name="bluetooth_enter_passkey_other_device" msgid="8270426446247344709">"Հնարավոր է պետք լինի մուտքագրել այս մուտքի բանալին այլ սարքերում:"</string>
     <string name="bluetooth_paring_group_msg" msgid="2455293929036668131">"Հաստատեք՝ աուդիո սարքի հետ զուգակցելու համար"</string>
     <string name="bluetooth_pairing_shares_phonebook" msgid="4329325125260724843">"Թույլատրել կոնտակտների ու զանգերի պատմության հասանելիությունը"</string>
     <string name="bluetooth_pairing_phonebook_toggle_text" msgid="2474015367387690034">"Նաև հասանելի դարձնել կոնտակտները և զանգերի պատմությունը"</string>
@@ -813,9 +813,9 @@
     <string name="bluetooth_empty_list_bluetooth_off" msgid="7326727272747345476">"Երբ Bluetooth-ը միացված է, ձեր սարքը կարող է հաղորդակցել մոտակայքում գտնվող Bluetooth սարքերի հետ"</string>
     <string name="bluetooth_empty_list_bluetooth_off_auto_on_available" msgid="5833847615853525971">"Երբ Bluetooth-ը միացված է, ձեր սարքը կարող է հաղորդակցվել մոտակայքում գտնվող Bluetooth սարքերի հետ: Գործառույթները, ինչպիսիք են Quick Share-ը, «Գտնել իմ սարքը» գործառույթը և սարքի տեղորոշումը, օգտագործում են Bluetooth-ը:"</string>
     <string name="bluetooth_scanning_on_info_message" msgid="786648535600075223">"Երբ Bluetooth-ը միացված է, ձեր սարքը կարող է հաղորդակցվել մոտակայքում գտնվող Bluetooth սարքերի հետ։\n\nՍարքի աշխատանքը բարելավելու նպատակով հավելվածներն ու ծառայությունները կորոնեն մոտակայքում գտնվող սարքեր, նույնիսկ երբ Bluetooth-ն անջատված է։ Դա կարելի է օգտագործել, օրինակ, տեղադրության տվյալների վրա հիմնված գործառույթների և ծառայությունների աշխատանքը բարելավելու համար։ Այս պարամետրը կարող եք փոխել Bluetooth-ի որոնման կարգավորումներում։"</string>
-    <string name="bluetooth_scanning_on_info_message_auto_on_available" msgid="5047787966768730069">"Երբ Bluetooth-ը միացված է, ձեր սարքը կարող է հաղորդակցվել մոտակայքում գտնվող Bluetooth սարքերի հետ: Գործառույթները, ինչպիսիք են Quick Share-ը, «Գտնել իմ սարքը» գործառույթը և սարքի տեղորոշումը, օգտագործում են Bluetooth-ը:\n\nՀավելվածներն ու ծառայությունները կարող են նախկինի պես որոնել մոտակայքում գտնվող սարքեր, նույնիսկ երբ Bluetooth-ն անջատված է։ Դա կարող է օգտագործվել, օրինակ, տեղադրության տվյալների վրա հիմնված գործառույթների և ծառայությունների աշխատանքը բարելավելու համար։ Այս պարամետրը ցանկացած ժամանակ կարող եք փոխել Bluetooth սարքերի որոնման կարգավորումներում։"</string>
+    <string name="bluetooth_scanning_on_info_message_auto_on_available" msgid="5047787966768730069">"Երբ Bluetooth-ը միացված է, ձեր սարքը կարող է հաղորդակցվել մոտակայքում գտնվող Bluetooth սարքերի հետ: Գործառույթները, ինչպիսիք են Quick Share-ը, «Գտնել իմ սարքը» գործառույթը և սարքի տեղորոշումը, օգտագործում են Bluetooth-ը:\n\nՀավելվածներն ու ծառայությունները կարող են մոտակայքում սարքեր որոնել, նույնիսկ երբ Bluetooth-ն անջատված է։ Դա կարող է օգտագործվել, օրինակ, տեղադրության տվյալների վրա հիմնված գործառույթների և ծառայությունների աշխատանքը բարելավելու համար։ Այս պարամետրը ցանկացած ժամանակ կարող եք փոխել Bluetooth սարքերի որոնման կարգավորումներում։"</string>
     <string name="bluetooth_scan_change" msgid="1744636222637390367">"Փոխել"</string>
-    <string name="device_details_title" msgid="1155622417516195481">"Սարքի տվյալները"</string>
+    <string name="device_details_title" msgid="1155622417516195481">"Սարքի տվյալներ"</string>
     <string name="bluetooth_device_keyboard_settings_preference_title" msgid="3411693160917620519">"Ստեղնաշարի կարգավորումներ"</string>
     <string name="bluetooth_device_mac_address" msgid="4873325074786732703">"Սարքի Bluetooth հասցեն՝ <xliff:g id="ADDRESS">%1$s</xliff:g>"</string>
     <string name="bluetooth_multuple_devices_mac_address" msgid="4974301550897923376">"Սարքի Bluetooth հասցեն՝\n<xliff:g id="ADDRESS">%1$s</xliff:g>"</string>
@@ -1421,7 +1421,7 @@
     <string name="battery_level_title" msgid="1371765298786083448">"Մարտկոցի մակարդակը"</string>
     <string name="communal_settings_title" msgid="2845678473945902115">"Ընդհանուր"</string>
     <string name="communal_settings_summary" msgid="4923914136953940317">"Ընդհանուր կարգավորումներ"</string>
-    <string name="satellite_setting" msgid="706846910912477125">"Արբանյակային կապով հաղորդագրում"</string>
+    <string name="satellite_setting" msgid="4171265534842459910">"Արբանյակային կապով հաղորդագրում"</string>
     <string name="apn_settings" msgid="4295467389400441299">"APN-ներ"</string>
     <string name="apn_edit" msgid="2003683641840248741">"Խմբագրել մուտքի կետը"</string>
     <string name="apn_add" msgid="9069613192201630934">"Ավելացրեք մուտքի կետ"</string>
@@ -1470,7 +1470,7 @@
     <string name="reset_mobile_network_settings_title" msgid="5616713931258506842">"Զրոյացնել բջջային ցանցի կարգավորումները"</string>
     <string name="reset_mobile_network_settings_desc" msgid="7292636387692165727">"Բջջային ցանցի բոլոր կարգավորումները կզրոյացվեն"</string>
     <string name="reset_mobile_network_settings_confirm_title" msgid="7510965634669511241">"Վերակայե՞լ բջջային ցանցը"</string>
-    <string name="reset_bluetooth_wifi_title" msgid="4113071322344697317">"Bluetooth-ի և Wi‑Fi-ի կարգավորումների զրոյացում"</string>
+    <string name="reset_bluetooth_wifi_title" msgid="4113071322344697317">"Զրոյացնել Bluetooth-ի և Wi‑Fi-ի կարգավորումները"</string>
     <string name="reset_bluetooth_wifi_desc" msgid="4030295669083059711">"Bluetooth-ի և Wi‑Fi-ի բոլոր կարգավորումները կզրոյացվեն։ Այս գործողությունը չեք կարող հետարկել։"</string>
     <string name="reset_bluetooth_wifi_button_text" msgid="3974098137045963639">"Զրոյացնել"</string>
     <string name="reset_bluetooth_wifi_complete_toast" msgid="5893439291030574365">"Bluetooth-ի և Wi‑Fi-ի կարգավորումները զրոյացվել են"</string>
@@ -1792,7 +1792,7 @@
     <string name="force_stop_dlg_title" msgid="86745852555490146">"Կանգնեցնե՞լ"</string>
     <string name="force_stop_dlg_text" msgid="1527286468544457368">"Հավելվածի ստիպողական դադարեցումը կարող է ազդել դրա աշխատանքի վրա։"</string>
     <string name="app_disable_dlg_positive" msgid="1414218905322009505">"Անջատել հավելվածը"</string>
-    <string name="app_disable_dlg_text" msgid="2449382902751908916">"Եթե անջատեք այս հավելվածը, համակարգը և այլ հավելվածներ հնարավոր է՝ սխալներով աշխատեն: Դուք չեք կարող ջնջել այս հավելվածը, քանի որ այն նախապես տեղադրված է եղել ձեր սարքում։ Անջատելու դեպքում հավելվածը կդադարի աշխատել և կթաքցվի։"</string>
+    <string name="app_disable_dlg_text" msgid="2449382902751908916">"Եթե անջատեք այս հավելվածը, համակարգը և այլ հավելվածներ հնարավոր է սխալներով աշխատեն: Դուք չեք կարող ջնջել այս հավելվածը, քանի որ այն նախապես տեղադրված է եղել ձեր սարքում։ Անջատելու դեպքում հավելվածը կդադարի աշխատել և կթաքցվի։"</string>
     <string name="app_install_details_group_title" msgid="1172114479073704677">"Խանութ"</string>
     <string name="app_install_details_title" msgid="7783556181897142187">"Հավելվածի մասին"</string>
     <string name="app_install_details_summary" msgid="2013043219249992373">"Հավելվածը տեղադրվել է <xliff:g id="APP_STORE">%1$s</xliff:g>ից"</string>
@@ -1872,7 +1872,7 @@
     <string name="physical_keyboard_title" msgid="3328134097512350958">"Ֆիզիկական ստեղնաշար"</string>
     <string name="show_ime" msgid="4334255501724746849">"Օգտագործել էկրանի ստեղնաշարը"</string>
     <string name="show_ime_summary" msgid="7293345791727205975">"Պահել էկրանին, երբ ֆիզիկական ստեղնաշարն ակտիվ է"</string>
-    <string name="bounce_keys" msgid="7419450970351743904">"Վերադառնալու ստեղներ"</string>
+    <string name="bounce_keys" msgid="7419450970351743904">"Կրկնակի սեղմման անտեսում"</string>
     <string name="bounce_keys_summary" msgid="7347050868868080302">"Ստեղնաշարը անտեսում է միևնույն ստեղնի արագ սեղմումները, որոնք կրկնվում են <xliff:g id="BOUNCE_KEYS_THRESHOLD">%1$d</xliff:g> մվ-ի ընթացքում"</string>
     <string name="slow_keys" msgid="2891452895499690837">"Դանդաղ ստեղներ"</string>
     <string name="slow_keys_summary" msgid="1784371292745423292">"Կարգավորում է ժամանակի տևողությունը, որից հետո ստեղնը արձագանքում է սեղմմանը՝ <xliff:g id="SLOW_KEYS_THRESHOLD">%1$d</xliff:g> մվ"</string>
@@ -1997,8 +1997,8 @@
     <string name="display_category_title" msgid="6638191682294461408">"Էկրան"</string>
     <string name="accessibility_color_and_motion_title" msgid="2323301706545305874">"Գույն և շարժում"</string>
     <string name="accessibility_color_contrast_title" msgid="5757724357142452378">"Գույների կոնտրաստ"</string>
-    <string name="accessibility_color_contrast_intro" msgid="7795090401101214930">"Բարձր կոնտրաստն ավելի է առանձնացնում տեքստը, կոճակները և պատկերակները։ Ընտրեք ձեզ հարմարավետ կոնտրաստ։"</string>
-    <string name="color_contrast_note" msgid="7592686603372566198">"Որոշ հավելվածներ հնարավոր է՝ չաջակցեն գույների և տեքստի կոնտրաստի կարգավորումները"</string>
+    <string name="accessibility_color_contrast_intro" msgid="7795090401101214930">"Բարձր կոնտրաստն ավելի է առանձնացնում տեքստը, կոճակները և պատկերակները։ Ընտրեք ձեզ հարմար կոնտրաստ։"</string>
+    <string name="color_contrast_note" msgid="7592686603372566198">"Որոշ հավելվածներ հնարավոր է չաջակցեն գույների և տեքստի կոնտրաստի կարգավորումները"</string>
     <string name="accessibility_color_contrast_summary" msgid="7563237683500106632">"Հարմարեցրեք գույների և տեքստի տեսքը ձեր էկրանի ֆոնի գույնին"</string>
     <string name="color_contrast_preview" msgid="6791430227535363883">"Նախադիտում"</string>
     <string name="color_contrast_preview_sender_name" msgid="8641943417589238147">"Հելեն, Ադամ"</string>
@@ -2131,8 +2131,8 @@
     <string name="accessibility_button_gesture_footer_learn_more_content_description" msgid="4144803517680297869">"Իմացեք ավելին «Հատուկ գործառույթներ» կոճակի և ժեստի մասին"</string>
     <string name="accessibility_button_intro" msgid="2601976470525277903">"«Հատուկ գործառույթներ» կոճակի օգտագործում։ Ժեստը հասանելի չէ եռակոճակ նավիգացիայի դեպքում։"</string>
     <string name="accessibility_button_summary" msgid="8510939012631455831">"Արագ բացեք հատուկ գործառույթները"</string>
-    <string name="accessibility_button_gesture_description" msgid="1141723096904904336">"&lt;b&gt;Սկսելու համար կատարեք հետևյալ քայլերը․&lt;/b&gt;&lt;br/&gt; {0,number,integer}. Անցեք հատուկ գործառույթների կարգավորումներ&lt;br/&gt; {1,number,integer}. Ընտրեք գործառույթ և հպեք դյուրանցմանը&lt;br/&gt; {2,number,integer}. Ընտրեք՝ արդյոք գործառույթը միացնելու համար կոճակ եք ուզում օգտագործել, թե ժեստ&lt;br/&gt;"</string>
-    <string name="accessibility_button_description" msgid="7669538706120092399">"&lt;b&gt;Սկսելու համար կատարեք հետևյալ քայլերը․&lt;/b&gt;&lt;br/&gt; {0,number,integer}. Անցեք հատուկ գործառույթների կարգավորումներ&lt;br/&gt; {1,number,integer}. Ընտրեք գործառույթ և հպեք դյուրանցմանը&lt;br/&gt; {2,number,integer}. Ընտրեք կոճակը, որով պետք է միացվի գործառույթը&lt;br/&gt;"</string>
+    <string name="accessibility_button_gesture_description" msgid="1141723096904904336">"&lt;b&gt;Սկսելու համար՝&lt;/b&gt;&lt;br/&gt; {0,number,integer}. Անցեք հատուկ գործառույթների կարգավորումներ&lt;br/&gt; {1,number,integer}. Ընտրեք գործառույթ և հպեք դյուրանցմանը&lt;br/&gt; {2,number,integer}. Ընտրեք՝ արդյոք գործառույթը միացնելու համար կոճակ եք ուզում օգտագործել, թե ժեստ&lt;br/&gt;"</string>
+    <string name="accessibility_button_description" msgid="7669538706120092399">"&lt;b&gt;Սկսելու համար՝&lt;/b&gt;&lt;br/&gt; {0,number,integer}. Անցեք հատուկ գործառույթների կարգավորումներ&lt;br/&gt; {1,number,integer}. Ընտրեք գործառույթ և հպեք դյուրանցմանը&lt;br/&gt; {2,number,integer}. Ընտրեք կոճակը, որով պետք է միացվի գործառույթը&lt;br/&gt;"</string>
     <string name="accessibility_button_or_gesture_title" msgid="3510075963401163529">"Կոճակ, թե ժեստ օգտագործել"</string>
     <string name="accessibility_button_location_title" msgid="7182107846092304942">"Վայրը"</string>
     <string name="accessibility_button_size_title" msgid="5785110470538960881">"Չափսը"</string>
@@ -2167,7 +2167,7 @@
     <string name="accessibility_setting_item_control_timeout_title" msgid="1600516937989217899">"Գործողություն կատարելու սպասման ժամանակը"</string>
     <string name="accessibility_control_timeout_about_title" msgid="813588002683460837">"Գործողություն կատարելու սպասման ժամանակը"</string>
     <string name="accessibility_control_timeout_footer_learn_more_content_description" msgid="8118584413220542193">"Իմացեք ավելին գործողություն կատարելու սպասման ժամանակի մասին"</string>
-    <string name="accessibility_control_timeout_preference_title" msgid="1443940538597464758">"Հակազդելու ժամանակը"</string>
+    <string name="accessibility_control_timeout_preference_title" msgid="1443940538597464758">"Գործողություն կատարելու ժամանակը"</string>
     <string name="accessibility_control_timeout_preference_summary" msgid="4037051091059316310">"Ժամանակի այս կարգավորումը ոչ բոլոր հավելվածներում է աջակցվում"</string>
     <string name="accessibility_control_timeout_preference_intro_text" msgid="1398116710556762245">"Ընտրեք, թե որքան ժամանակ է ձեզ անհրաժեշտ ավտոմատ անհետացող հաղորդագրությունների հետ կապված գործողություն կատարելու համար"</string>
     <string name="accessibility_long_press_timeout_preference_title" msgid="5237764682976688855">"Սեղմելու և պահելու հապաղումը"</string>
@@ -2803,7 +2803,7 @@
     <string name="data_usage_restrict_denied_dialog" msgid="8599940395497268584">"Ֆոնային տվյալների սահմանափակումը հնարավոր է միայն բջջային ինտերնետի սահմանաչափ նշելու դեպքում։"</string>
     <string name="data_usage_auto_sync_on_dialog_title" msgid="2048411447974361181">"Միացնե՞լ ինքնահամաժամացումը"</string>
     <string name="data_usage_auto_sync_off_dialog_title" msgid="1783917145440587470">"Անջատե՞լ ինքնահամաժամացումը"</string>
-    <string name="data_usage_auto_sync_off_dialog" msgid="6523112583569674837">"Դա կկրճատի թրաֆիկն ու մարտկոցի օգտագործման չափը, սակայն նոր տվյալներ հավաքելու համար անհրաժեշտ կլինի ձեռքով համաժամացնել յուրաքանչյուր հաշիվը։ Թարմացումների մասին ծանուցումներ չեն ցուցադրվի։"</string>
+    <string name="data_usage_auto_sync_off_dialog" msgid="6523112583569674837">"Դա կնվազեցնի թրաֆիկի և մարտկոցի ծախսը, սակայն նոր տվյալներ հավաքելու համար անհրաժեշտ կլինի ձեռքով համաժամացնել յուրաքանչյուր հաշիվը։ Թարմացումների մասին ծանուցումներ չեն ցուցադրվի։"</string>
     <string name="data_usage_cycle_editor_title" msgid="2019035830921480941">"Վիճակագրության զրոյացում"</string>
     <string name="data_usage_cycle_editor_subtitle" msgid="1026234456777365545">"Ամսվա օրը՝"</string>
     <string name="data_usage_cycle_editor_positive" msgid="6110165528024717527">"Պահել"</string>
@@ -3924,9 +3924,6 @@
     <string name="permit_manage_external_storage" msgid="6928847280689401761">"Բոլոր ֆայլերը կառավարելու թույլտվություն տալ"</string>
     <string name="allow_manage_external_storage_description" msgid="5707948153603253225">"Դուք կարող եք թույլատրել այս հավելվածին կարդալ, փոփոխել և ջնջել այս սարքի կամ միացված կրիչների բոլոր ֆայլերը։ Եթե թույլատրեք, հավելվածը կկարողանա օգտվել ֆայյլերից առանց ձեր իմացության։"</string>
     <string name="filter_manage_external_storage" msgid="6751640571715343804">"Հասանելիություն ունեն բոլոր ֆայլերին"</string>
-    <string name="voice_activation_apps_title" msgid="7130045161611529825">"Ձայնային ակտիվացմամբ հավելվածներ"</string>
-    <string name="permit_voice_activation_apps" msgid="9152780172988949319">"Թույլատրել ձայնային ակտիվացումը"</string>
-    <string name="allow_voice_activation_apps_description" msgid="6369745626995060656">"Միացրեք ընտրված հավելվածները ձայնային հրամանների միջոցով։ Ճանաչման ներկառուցված հարմարվող համակարգի շնորհիվ ձեր տվյալները միայն ձեզ հասանելի կլինեն։\n\n"<a href="">"Իմանալ ավելին ճանաչման պաշտպանված հարմարվող համակարգի մասին"</a></string>
     <string name="full_screen_intent_title" msgid="747270185715224130">"Ծանուցումներ լիաէկրան ռեժիմում"</string>
     <string name="permit_full_screen_intent" msgid="9035367640019960861">"Թույլատրել այս հավելվածին ցույց տալ ծանուցումներ լիաէկրան ռեժիմում"</string>
     <string name="footer_description_full_screen_intent" msgid="7716518411349225528">"Թույլատրել այս հավելվածին ցույց տալ ծանուցումներ լիաէկրան ռեժիմում, երբ սարքը կողպված է։ Հավելվածները կարող են օգտագործել այս գործառույթը՝ զարթուցիչներ, մուտքային զանգեր և այլ շտապ ծանուցումներ ցուցադրելու համար։"</string>
@@ -4201,7 +4198,7 @@
     <string name="right_edge" msgid="1505309103265829121">"Աջ եզր"</string>
     <string name="back_sensitivity_dialog_message" msgid="6638367716784103306">"Բարձր զգայունությունը կարող է խանգարել ժեստերի աշխատանքին էկրանի եզրերին:"</string>
     <string name="back_sensitivity_dialog_title" msgid="6153608904168908264">"Էկրանի եզրերի զգայունությունը"</string>
-    <string name="gesture_settings_activity_title" msgid="2025828425762595733">"Ժեստերով նավիգացիայի զգայունություն"</string>
+    <string name="gesture_settings_activity_title" msgid="1882463161833981820">"Ժեստերով նավիգացիա"</string>
     <string name="button_navigation_settings_activity_title" msgid="7335636045504461813">"Կոճակների միջոցով նավիգացիա"</string>
     <string name="keywords_gesture_navigation_settings" msgid="667561222717238931">"ժեստերով նավիգացիա, հետ գնալու ժեստի զգայունություն, հետ գնալու ժեստ"</string>
     <string name="keywords_button_navigation_settings" msgid="7888812253110553920">"նավիգացիա, գլխավոր էկրանի կոճակ"</string>
@@ -4356,17 +4353,17 @@
     <string name="credman_credentials" msgid="2620352336624160642">"Լրացուցիչ ծառայություններ"</string>
     <string name="autofill_passwords_count" msgid="6359289285822955973">"{count,plural, =1{# գաղտնաբառ}one{# գաղտնաբառ}other{# գաղտնաբառ}}"</string>
     <string name="autofill_keywords" msgid="8598763328489346438">"ավտոմատ, լրացում, ինքնալրացում, գաղտնաբառ"</string>
-    <string name="credman_keywords" msgid="8305600680836806170">"տվյալներ, անցաբառ, գաղտնաբառ"</string>
-    <string name="credman_autofill_keywords" msgid="701180623776848914">"ավտոմատ, լրացնել, ինքնալրացում, տվյալներ, անցաբառ, գաղտնաբառ"</string>
+    <string name="credman_keywords" msgid="8305600680836806170">"տվյալներ, մուտքի բանալի, գաղտնաբառ"</string>
+    <string name="credman_autofill_keywords" msgid="701180623776848914">"ավտոմատ, լրացնել, ինքնալրացում, տվյալներ, մուտքի բանալի, գաղտնաբառ"</string>
     <string name="credman_button_change" msgid="4072629639218503790">"Փոփոխել"</string>
     <string name="credman_button_open" msgid="7519871964170816850">"Բացել"</string>
     <string name="credman_app_list_preference_none" msgid="2509646651254971448">"Ոչինչ ընտրված չէ"</string>
     <string name="autofill_confirmation_message" msgid="4888767934273494272">"&lt;b&gt;Համոզվեք, որ վստահում եք այս հավելվածին&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; &lt;xliff:g id=app_name example=Google Autofill&gt;%1$s&lt;/xliff:g&gt;-ն օգտագործում է էկրանի բովանդակությունը՝ որոշելու, թե ինչը կարող է ինքնալրացվել:"</string>
     <string name="credman_autofill_confirmation_message" msgid="843829628024668466">"&lt;b&gt;Օգտագործեք &lt;xliff:g id=app_name example=Provider&gt;%1$s&lt;/xliff:g&gt;?&lt;/b&gt; հավելվածը &lt;br/&gt; &lt;br/&gt; Նոր գաղտնաբառերը, մուտքի բանալիները և այլ տեղեկություններ այսուհետ կպահվեն այստեղ։ &lt;xliff:g id=app_name example=Provider&gt;%1$s&lt;/xliff:g&gt; հավելվածը կարող է օգտագործել ձեր էկրանի բովանդակությունը՝ որոշելու, թե ինչ կարելի է ինքնալրացնել։"</string>
-    <string name="credman_picker_title" msgid="8442086614222006564">"Նախընտրելի ծառայությունը գաղտնաբառերի, անցաբառերի և ինքնալրացման համար"</string>
+    <string name="credman_picker_title" msgid="8442086614222006564">"Նախընտրելի ծառայությունը գաղտնաբառերի, մուտքի բանալիների և ինքնալրացման համար"</string>
     <string name="credman_confirmation_message_title" msgid="8847900085593880729">"Անջատե՞լ %1$s ծառայությունը"</string>
-    <string name="credman_confirmation_message" msgid="2357324543658635239">"&lt;b&gt;Անջատե՞լ այս ծառայությունը&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; Պահված տեղեկությունները, ինչպիսիք են գաղտնաբառերը, մուտքի բանալիները, վճարման եղանակները և այլ տվյալներ, չեն լրացվի, երբ մուտք գործեք։ Ձեր պահված տեղեկությունները օգտագործելու համար ընտրեք գաղտնաբառ, անցաբառ կամ ծառայություն։"</string>
-    <string name="account_dashboard_title_with_passkeys" msgid="6214673787161409996">"Գաղտնաբառեր, անցաբառեր և ինքնալրացում"</string>
+    <string name="credman_confirmation_message" msgid="2357324543658635239">"&lt;b&gt;Անջատե՞լ այս ծառայությունը&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; Պահված տեղեկությունները, ինչպիսիք են գաղտնաբառերը, մուտքի բանալիները, վճարման եղանակները և այլ տվյալներ, չեն լրացվի, երբ մուտք գործեք։ Ձեր պահված տեղեկությունները օգտագործելու համար ընտրեք գաղտնաբառ, մուտքի բանալի կամ ծառայություն։"</string>
+    <string name="account_dashboard_title_with_passkeys" msgid="6214673787161409996">"Գաղտնաբառեր, մուտքի բանալիներ և ինքնալրացում"</string>
     <string name="credman_confirmation_message_new_ui" msgid="6126274509951156460">"&lt;b&gt;Անջատե՞լ բոլոր ծառայությունները&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; Գաղտնաբառերը, մուտքի բանալիները և այլ տեղեկություններ հասանելի չեն լինի ինքնալրացման համար, երբ հաշիվ մտնեք"</string>
     <string name="credman_autofill_confirmation_message_new_ui" msgid="6222139222478822267">"&lt;b&gt;Փոխարինե՞լ նախընտրած ծառայությունը &lt;xliff:g id=app_name example=Provider&gt;%1$s&lt;/xliff:g&gt;-ով&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; Նոր գաղտնաբառերը, մուտքի բանալիները և այլ տեղեկություններ այսուհետ կպահվեն այստեղ։ &lt;xliff:g id=app_name example=Provider&gt;%1$s&lt;/xliff:g&gt; հավելվածը կարող է օգտագործել ձեր էկրանի բովանդակությունը՝ որոշելու, թե ինչ կարելի է ինքնալրացնել"</string>
     <string name="credman_enable_confirmation_message_title" msgid="1037501792652277829">"Օգտագործե՞լ %1$s"</string>
@@ -4375,8 +4372,8 @@
     <string name="credman_limit_error_msg_title" msgid="1525814645803612135">"Դուք կարող եք միայն 5 միացված ծառայություն ունենալ"</string>
     <string name="credman_limit_error_msg" msgid="2521803280130310063">"Անջատեք առնվազն մեկ ծառայություն՝ նորն ավելացնելու համար"</string>
     <string name="credman_enable_confirmation_message" msgid="8407841892310870169">"%1$s-ն օգտագործում է ձեր էկրանի բովանդակությունը՝ որոշելու, թե ինչ կարելի է ինքնալրացնել։"</string>
-    <string name="credman_error_message_title" msgid="4099557206946333568">"Գաղտնաբառերի, անցաբառերի և տվյալների պահման ծառայությունների քանակը սահմանափակ է"</string>
-    <string name="credman_error_message" msgid="8334797097200415449">"Միաժամանակ դուք կարող եք ունենալ գաղտնաբառերի, անցաբառերի և տվյալների պահման մինչև 5 ակտիվ ծառայություն։ Նոր ծառայություն ավելացնելու համար անջատեք եղածներից որևէ մեկը։"</string>
+    <string name="credman_error_message_title" msgid="4099557206946333568">"Գաղտնաբառերի, մուտքի բանալիների և տվյալների պահման ծառայությունների քանակը սահմանափակ է"</string>
+    <string name="credman_error_message" msgid="8334797097200415449">"Միաժամանակ դուք կարող եք ունենալ գաղտնաբառերի, մուտքի բանալիների և տվյալների պահման մինչև 5 ակտիվ ծառայություն։ Նոր ծառայություն ավելացնելու համար անջատեք եղածներից որևէ մեկը։"</string>
     <string name="credman_confirmation_message_positive_button" msgid="2812613187691345361">"Անջատել"</string>
     <string name="debug_autofill_category" msgid="5998163555428196185">"Ինքնալրացում"</string>
     <string name="autofill_logging_level_title" msgid="3733958845861098307">"Գրանցման մակարդակ"</string>
@@ -4580,8 +4577,10 @@
     <string name="summary_satellite_connection_guide" msgid="3496123195218418456">"Ձեր հեռախոսն ավտոմատ կմիանա արբանյակային կապին։ Կապի օպտիմալ որակի համար պետք է դրսում լինեք, և երկինքը պետք է պարզ երևա։"</string>
     <string name="title_supported_service" msgid="4275535165812691571">"Երբ հեռախոսը միանա արբանյակային կապին"</string>
     <string name="summary_supported_service" msgid="4320535903444834786">"Դուք կարող եք տեքստային հաղորդագրություններ ուղարկել ցանկացած համարի, այդ թվում՝ արտակարգ իրավիճակների ծառայություններին։ Ձեր հեռախոսը նորից կմիանա բջջային ցանցին, երբ այն հասանելի դառնա։"</string>
-    <string name="satellite_setting_summary_more_information" msgid="4008690241760925372">"Արբանյակային կապով հաղորդագրումը կարող է ավելի երկար տևել և հասանելի է միայն որոշ տարածաշրջաններում։ Եղանակը և որոշակի կառույցներ կարող են ազդել արբանյակային կապի վրա։ Արբանյակային կապի միջոցով զանգերը հասանելի չեն։\n\nԿարող է որոշակի ժամանակ պահանջվել, որպեսզի ձեր հաշվի փոփոխությունները ցուցադրվեն Կարգավորումներում։ Մանրամասների համար դիմեք <xliff:g id="CARRIER_NAME">%1$s</xliff:g>-ին։"</string>
+    <string name="satellite_setting_summary_more_information" msgid="7729454610548016356">"Արբանյակային կապով հաղորդագրումը կարող է ավելի երկար տևել և հասանելի է միայն որոշ տարածաշրջաններում։ Եղանակը և որոշակի կառույցներ կարող են ազդել արբանյակային կապի վրա։ Արբանյակային կապի միջոցով զանգերը հասանելի չեն՝ բացառությամբ շտապ կանչերի։\n\nԿարող է որոշակի ժամանակ պահանջվել, որպեսզի ձեր հաշվի փոփոխությունները ցուցադրվեն Կարգավորումներում։ Մանրամասների համար դիմեք կապի օպերատորին։"</string>
     <string name="more_about_satellite_messaging" msgid="3385673133561348509">"Լրացուցիչ տեղեկություններ արբանյակային կապով հաղորդագրման մասին"</string>
+    <string name="satellite_warning_dialog_title" msgid="1610117852475376931">"Հնարավոր չէ միացնել այս գործառույթը (<xliff:g id="FUNCTION">%1$s</xliff:g>)"</string>
+    <string name="satellite_warning_dialog_content" msgid="936419945275934955">"Այս գործառույթը (<xliff:g id="FUNCTION">%1$s</xliff:g>) միացնելու համար նախ անջատեք արբանյակային կապը"</string>
     <string name="mobile_network_apn_title" msgid="5582995550142073054">"Մուտքի կետերի անունները"</string>
     <string name="keywords_access_point_names" msgid="8174967126858505945">"APN"</string>
     <string name="manual_mode_disallowed_summary" msgid="4243142645520152175">"Հասանելի չէ <xliff:g id="CARRIER">%1$s</xliff:g>-ին միանալու դեպքում"</string>
@@ -4626,7 +4625,7 @@
     <string name="sim_onboarding_label_sim_dialog_label" msgid="9020433985426525185">"Պիտակ"</string>
     <string name="sim_onboarding_select_sim_title" msgid="5895262188167744055">"Ընտրեք՝ որ SIM-երն օգտագործել"</string>
     <string name="sim_onboarding_select_sim_msg" msgid="5638859405391915048">"Դուք միաժամանակ կարող եք օգտագործել 2 SIM քարտ"</string>
-    <string name="sim_onboarding_primary_sim_title" msgid="2793090401371135675">"Սահմանեք ձեր հիմնական SIM-երը"</string>
+    <string name="sim_onboarding_primary_sim_title" msgid="2793090401371135675">"Նշանակեք հիմնական SIM-երը"</string>
     <string name="sim_onboarding_primary_sim_msg" msgid="5484656671490558032">"Ընտրեք, թե որ SIM քարտերն ըստ կանխադրման օգտագործել զանգերի, SMS-ների և բջջային ինտերնետի համար"</string>
     <string name="primary_sim_title" msgid="2508161011657571566">"Ձեր հիմնական SIM քարտերը"</string>
     <string name="primary_sim_calls_title" msgid="4961189133582615685">"Զանգեր"</string>
@@ -5028,7 +5027,7 @@
     <string name="find_broadcast_join_broadcast_error" msgid="5486980388774711346">"Չհաջողվեց միանալ հեռարձակմանը"</string>
     <string name="bt_le_audio_scan_qr_code_scanner" msgid="7614569515419813053">"Լսելու համար տեսախցիկը պահեք QR կոդի վրա"</string>
     <string name="bt_le_audio_qr_code_is_not_valid_format" msgid="7821837654128137901">"QR կոդի ձևաչափն անվավեր է"</string>
-    <string name="convert_to_esim_title" msgid="71037864129009206">"Վերածել eSIM քարտի"</string>
+    <string name="convert_to_esim_title" msgid="71037864129009206">"Փոխարկել eSIM քարտի"</string>
     <string name="transfer_esim_to_another_device_title" msgid="5286117866086383192">"Տեղափոխել eSIM քարտը մեկ այլ սարք"</string>
     <string name="background_install_preference_summary" msgid="3065219346519340364">"{count,plural, =1{# հավելված}one{# հավելված}other{# հավելված}}"</string>
     <string name="background_install_title" msgid="607913515188276168">"Ֆոնում տեղադրված հավելվածներ"</string>
@@ -5112,7 +5111,7 @@
     <string name="about_phone_device_name_warning" msgid="3243226572404472381">"Ձեր սարքի անունը տեսանելի է ձեր տեղադրած հավելվածներին։ Այն կարող են տեսնել օգտատերերը, երբ միանում եք Bluetooth սարքերի, Wi-Fi ցանցի, կամ կարգավորում եք Wi-Fi թեժ կետ։"</string>
     <string name="grammatical_gender_title" msgid="8584242850477270828">"Քերականական սեռ"</string>
     <string name="grammatical_gender_dialog_title" msgid="8754048592099871587">"Ընտրեք քերականական սեռը"</string>
-    <string name="content_protection_preference_title" msgid="5069260032659193074">"Սկանավորել՝ խարդախություն պարունակող հավելվածներ գտնելու համար"</string>
+    <string name="content_protection_preference_title" msgid="5069260032659193074">"Մոլորեցնող հավելվածների առկայության ստուգում"</string>
     <string name="content_protection_preference_summary" msgid="2252393849408445391">"Ստուգել հավելվածի օգտագործման պատմությունը՝ ֆիշինգ հայտնաբերելու նպատակով"</string>
     <string name="content_protection_preference_user_consent_switch_title" msgid="1797782616799594426">"Սկանավորում՝ կեղծ տվյալներով հավելվածներ գտնելու համար"</string>
     <string name="content_protection_preference_user_consent_work_profile_switch_title" msgid="3004347470520916069">"Սկանավորում՝ կեղծ տվյալներով աշխատանքային հավելվածներ գտնելու համար"</string>

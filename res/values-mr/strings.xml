@@ -48,9 +48,9 @@
     <string name="selective_stay_awake_title" msgid="7887645333447645168">"फक्त गेम, व्हिडिओ आणि आणखी बरेच काही"</string>
     <string name="selective_stay_awake_summary" msgid="9055967322921984543">"अ‍ॅप्ससाठी पुढील डिस्प्ले सुरू होतो, जो तुमची स्क्रीन निष्क्रिय होण्यापासून थांबवतो"</string>
     <string name="stay_awake_on_lockscreen_title" msgid="8088456642083051068">"पुढे सुरू ठेवण्यासाठी वर स्‍वाइप करा"</string>
-    <string name="stay_awake_on_lockscreen_summary" msgid="2299351813382522952">"ॲप वापरणे पुढे सुरू ठेवण्यासाठी तुमचा फोन फोल्ड करा आणि पुढील डिस्प्लेवर स्वाइप करा किंवा स्क्रीन लॉक होण्यासाठी काही सेकंद प्रतीक्षा करा"</string>
+    <string name="stay_awake_on_lockscreen_summary" msgid="8825321939913726566">"ॲप वापरणे पुढे सुरू ठेवण्यासाठी तुमचा फोन फोल्ड करा आणि पुढील डिस्प्लेवर वरती स्वाइप करा किंवा स्क्रीन लॉक होण्यासाठी काही सेकंद प्रतीक्षा करा. गेम आणि व्हिडिओ ॲप्स आपोआप पुढे सुरू राहतील."</string>
     <string name="sleep_on_fold_title" msgid="7626123024330501411">"कधीही नाही"</string>
-    <string name="sleep_on_fold_summary" msgid="7737992842459588846">"तुम्ही तुमचे डिव्हाइस फोल्ड करता, तेव्हा पुढील डिस्प्ले लॉक होतो"</string>
+    <string name="sleep_on_fold_summary" msgid="4191753338303043456">"तुम्ही तुमचे डिव्हाइस फोल्ड करता, तेव्हा पुढील डिस्प्ले बंद होऊन लॉक होतो"</string>
     <string name="auto_rotate_settings_primary_switch_title" msgid="3440951924928594520">"ऑटो-रोटेट वापरा"</string>
     <string name="smart_rotate_text_headline" msgid="5878008933992951904">"ऑटो-रोटेट अचूकता सुधारण्यासाठी फेस डिटेक्शन हे समोरील बाजूचा कॅमेरा वापरते. इमेज स्टोअर केल्या जात नाहीत किंवा Google ला पाठवल्या जात नाहीत."</string>
     <string name="bluetooth" msgid="8898478620943459654">"ब्लूटूथ"</string>
@@ -59,7 +59,7 @@
     <string name="bluetooth_not_visible_to_other_devices" msgid="6181960579190879601">"अन्य ब्लूटूथ डीव्हाइसवर दृश्यमान नाही"</string>
     <string name="bluetooth_only_visible_to_paired_devices" msgid="3574936359739213455">"फक्त जोडलेल्या डिव्हाइसेसवर दृश्यमान"</string>
     <string name="bluetooth_devices" msgid="1063177983261608277">"ब्लूटूथ डिव्हाइस"</string>
-    <string name="bluetooth_device_name" msgid="1294669733490268384">"डिव्हाइस नाव"</string>
+    <string name="bluetooth_device_name" msgid="1294669733490268384">"डिव्हाइसचे नाव"</string>
     <string name="bluetooth_rename_device" msgid="4219655243836021443">"या डिव्हाइसचे नाव बदला"</string>
     <string name="bluetooth_rename_button" msgid="9162500408570289545">"नाव बदला"</string>
     <string name="bluetooth_disconnect_title" msgid="4581951246357823044">"डिव्हाइस डिस्‍कनेक्‍ट करायचे का?"</string>
@@ -84,7 +84,7 @@
     <string name="bluetooth_ringtone_title" msgid="3177308461256892085">"रिंगटोन आणि अलार्म"</string>
     <string name="bluetooth_call_title" msgid="6851464952021874072">"कॉलदरम्यान ऑडिओ"</string>
     <string name="bluetooth_media_title" msgid="2878373577382067290">"मीडिया आणि सिस्टीमचे आवाज"</string>
-    <string name="bluetooth_notification_title" msgid="8708962394926222039">"सूचना"</string>
+    <string name="bluetooth_notification_title" msgid="8708962394926222039">"नोटिफिकेशन"</string>
     <string name="bluetooth_audio_routing_footer_summary" msgid="410260713589309293">"बाय डीफॉल्ट, ऑडिओ आउटपुट हे स्वतंत्र अ‍ॅप्सद्वारे निर्धारित केले जाते"</string>
     <string name="bluetooth_device" msgid="2217973503732544291">"नाव नसलेले ब्लूटूथ डिव्हाइस"</string>
     <string name="progress_scanning" msgid="2564746192843011826">"शोधत आहे"</string>
@@ -409,7 +409,7 @@
     <string name="security_settings_remoteauth_preference_summary" msgid="1507004469316635196">"वॉच जोडले आहे"</string>
     <string name="security_settings_remoteauth_enroll_introduction_title" msgid="2151004795778999671">"तुमचे वॉच सेट करा"</string>
     <string name="security_settings_remoteauth_enroll_introduction_message" msgid="8737276885766036074">"हा फोन अनलॉक करण्यासाठी वॉच अनलॉक हा दुसरा सुलभ मार्ग आहे, उदाहरणार्थ, तुमची बोटे ओली असल्यास किंवा तुमचा चेहरा ओळखला जात नसल्यास.\n\nतुम्ही पुढील बाबतींमध्ये तुमचा फोन अनलॉक करण्यासाठी तुमचे वॉच वापरू शकता:"</string>
-    <string name="security_settings_remoteauth_enroll_introduction_disagree" msgid="7639258097401796028">"आता नको"</string>
+    <string name="security_settings_remoteauth_enroll_introduction_disagree" msgid="7639258097401796028">"आताच नको"</string>
     <string name="security_settings_remoteauth_enroll_introduction_agree" msgid="5271119227172049339">"पुढे सुरू ठेवा"</string>
     <string name="security_settings_remoteauth_enroll_introduction_more" msgid="1644105894631257595">"आणखी"</string>
     <string name="security_settings_remoteauth_enroll_introduction_how_title" msgid="6604152528267830349">"हे कसे काम करते"</string>
@@ -1421,7 +1421,7 @@
     <string name="battery_level_title" msgid="1371765298786083448">"बॅटरी पातळी"</string>
     <string name="communal_settings_title" msgid="2845678473945902115">"सामुदायिक"</string>
     <string name="communal_settings_summary" msgid="4923914136953940317">"सामुदायिक सेटिंग्ज"</string>
-    <string name="satellite_setting" msgid="706846910912477125">"उपग्रह मेसेजिंग"</string>
+    <string name="satellite_setting" msgid="4171265534842459910">"उपग्रह मेसेजिंग"</string>
     <string name="apn_settings" msgid="4295467389400441299">"APN"</string>
     <string name="apn_edit" msgid="2003683641840248741">"अ‍ॅक्सेस पॉइंट संपादित करा"</string>
     <string name="apn_add" msgid="9069613192201630934">"ॲक्सेस पॉइंट जोडा"</string>
@@ -1443,7 +1443,7 @@
     <string name="apn_type" msgid="1835573305077788773">"APN प्रकार"</string>
     <string name="apn_protocol" msgid="181529867160380010">"APN प्रोटोकॉल"</string>
     <string name="apn_roaming_protocol" msgid="1645131094105362513">"APN रोमिंग प्रोटोकॉल"</string>
-    <string name="carrier_enabled" msgid="664074151573150130">"APN सुरू करा/अक्षम करा"</string>
+    <string name="carrier_enabled" msgid="664074151573150130">"APN सुरू करा/बंद करा"</string>
     <string name="carrier_enabled_summaryOn" msgid="5212067975273903381">"APN सक्षम केले"</string>
     <string name="carrier_enabled_summaryOff" msgid="8541959867953738521">"APN अक्षम केले"</string>
     <string name="bearer" msgid="3231443241639159358">"वाहक"</string>
@@ -1791,7 +1791,7 @@
     <string name="move_error_device_admin" msgid="1561502976834303626">"डिव्हाइस प्रशासक अ‍ॅप बाह्य मीडियावर इंस्टॉल केले जाऊ शकत नाही"</string>
     <string name="force_stop_dlg_title" msgid="86745852555490146">"सक्तीने थांबवायचे?"</string>
     <string name="force_stop_dlg_text" msgid="1527286468544457368">"तुम्ही अ‍ॅप थांबविण्याची सक्ती केल्यास, ते गैरवर्तन करू शकते."</string>
-    <string name="app_disable_dlg_positive" msgid="1414218905322009505">"अ‍ॅप अक्षम करा"</string>
+    <string name="app_disable_dlg_positive" msgid="1414218905322009505">"अ‍ॅप बंद करा"</string>
     <string name="app_disable_dlg_text" msgid="2449382902751908916">"तुम्ही हे अ‍ॅप बंद केल्यास, Android आणि इतर अ‍ॅप्स कदाचित अपेक्षेप्रमाणे काम करणार नाहीत. लक्षात ठेवा, हे अ‍ॅप तुमच्या डिव्हाइसवर आधीच इंस्टॉल करून आलेले असल्यामुळे तुम्ही ते हटवू शकत नाही. बंद करून, तुम्ही हे अ‍ॅप बंद करता आणि ते तुमच्या डिव्हाइसवर लपवता."</string>
     <string name="app_install_details_group_title" msgid="1172114479073704677">"Store"</string>
     <string name="app_install_details_title" msgid="7783556181897142187">"अ‍ॅप तपशील"</string>
@@ -1875,7 +1875,7 @@
     <string name="bounce_keys" msgid="7419450970351743904">"बाउन्स की"</string>
     <string name="bounce_keys_summary" msgid="7347050868868080302">"कीबोर्ड <xliff:g id="BOUNCE_KEYS_THRESHOLD">%1$d</xliff:g> मिसेमध्ये एकच की वारंवार प्रेस करण्याकडे दुर्लक्ष करतो"</string>
     <string name="slow_keys" msgid="2891452895499690837">"स्लो की"</string>
-    <string name="slow_keys_summary" msgid="1784371292745423292">"<xliff:g id="SLOW_KEYS_THRESHOLD">%1$d</xliff:g> मिसेपर्यंत अ‍ॅक्टिव्हेट होण्यासाठी की प्रेसकरण्याकरिता लागणारा वेळ अ‍ॅडजस्ट करा"</string>
+    <string name="slow_keys_summary" msgid="1784371292745423292">"<xliff:g id="SLOW_KEYS_THRESHOLD">%1$d</xliff:g> मिसेपर्यंत अ‍ॅक्टिव्हेट होण्यासाठी की प्रेस करण्याकरिता लागणारा वेळ अ‍ॅडजस्ट करा"</string>
     <string name="sticky_keys" msgid="7317317044898161747">"स्टिकी की"</string>
     <string name="sticky_keys_summary" msgid="1844953803625480623">"की एकत्र धरून ठेवण्याऐवजी शॉर्टकटसाठी एकावेळी एक की प्रेस करा"</string>
     <string name="keyboard_shortcuts_helper" msgid="2553221039203165344">"कीबोर्ड शॉर्टकट"</string>
@@ -2180,7 +2180,7 @@
     <string name="accessibility_autoclick_preference_title" msgid="2703143361605555752">"ऑटोक्लिक (थांबल्याची वेळ)"</string>
     <string name="accessibility_autoclick_about_title" msgid="152923024405552594">"ऑटोक्लिकबद्दल (थांबल्याची वेळ)"</string>
     <string name="accessibility_autoclick_footer_learn_more_content_description" msgid="7056189627042350691">"ऑटोक्लिक (थांबल्याची वेळ) याबद्दल अधिक जाणून घ्या"</string>
-    <string name="accessibility_autoclick_intro_text" msgid="8959680635470639347">"कर्सर ठराविक वेळेसाठी हलणे थांबल्यास, तुम्ही कनेक्ट केलेला माउस आपोआप क्लिक करण्यासाठी सेट करू शकता"</string>
+    <string name="accessibility_autoclick_intro_text" msgid="8959680635470639347">"कर्सर ठरावीक वेळेसाठी हलणे थांबल्यास, तुम्ही कनेक्ट केलेला माउस आपोआप क्लिक करण्यासाठी सेट करू शकता"</string>
     <string name="accessibility_autoclick_description" msgid="6695732131412361101">"माउस क्लिक करणे कठीण असल्यास, ऑटोक्लिक उपयुक्त ठरेल"</string>
     <string name="accessibility_autoclick_default_title" msgid="2024730028293793490">"ऑटोक्लिक बंद"</string>
     <string name="accessibility_autoclick_short_title" msgid="7938302504358912984">"छोटे"</string>
@@ -3924,9 +3924,6 @@
     <string name="permit_manage_external_storage" msgid="6928847280689401761">"सर्व फाइल व्यवस्थापनासाठी अ‍ॅक्सेस द्या"</string>
     <string name="allow_manage_external_storage_description" msgid="5707948153603253225">"या ॲपला या डिव्हाइसवरील किंवा कनेक्ट केलेल्या स्टोरेज व्‍हॉल्‍यूममधील सर्व फाइल वाचण्याची, सुधारित करण्याची आणि हटवण्याची अनुमती द्या. अनुमती दिली असल्यास, ॲप कदाचित तुम्हाला न विचारता फाइलला अ‍ॅक्सेस करू शकते"</string>
     <string name="filter_manage_external_storage" msgid="6751640571715343804">"सर्व फाइल अ‍ॅक्सेस करू शकते"</string>
-    <string name="voice_activation_apps_title" msgid="7130045161611529825">"व्हॉइस ॲक्टिव्हेशनशी संबंधित अ‍ॅप्स"</string>
-    <string name="permit_voice_activation_apps" msgid="9152780172988949319">"व्हॉइस ॲक्टिव्हेशनला अनुमती द्या"</string>
-    <string name="allow_voice_activation_apps_description" msgid="6369745626995060656">"व्हॉइस ॲक्टिव्हेशन हे व्हॉइस कमांड वापरून मंजूर केलेली ॲप्स, हँड्स-फ्री सुरू करते. बिल्ट-इन संरक्षित अडॅप्टिव्ह सेन्सिंग हे डेटा फक्त तुमच्यासाठी खाजगी राहील याची खात्री करते.\n\n"<a href="">"संरक्षित अडॅप्टिव्ह सेन्सिंगविषयी आणखी"</a></string>
     <string name="full_screen_intent_title" msgid="747270185715224130">"फुल स्क्रीन नोटिफिकेशन"</string>
     <string name="permit_full_screen_intent" msgid="9035367640019960861">"या ॲपवरील फुल स्क्रीन सूचनांना अनुमती द्या"</string>
     <string name="footer_description_full_screen_intent" msgid="7716518411349225528">"डिव्‍हाइस लॉक असताना या ॲपला फुल स्क्रीन वापरणाऱ्या सूचना दाखवण्‍याची अनुमती द्या. ॲप्स यांचा वापर अलार्म, इनकमिंग कॉल किंवा इतर तातडीच्या सूचना हायलाइट करण्यासाठी करू शकतात."</string>
@@ -4169,7 +4166,7 @@
     <string name="managed_profile_contact_search_summary" msgid="4974727886709219105">"तुमचे शोध आणि इनकमिंग कॉल कदाचित तुमच्या आयटी ॲडमिनला दृश्यमान असू शकतात"</string>
     <string name="cross_profile_calendar_title" msgid="7570277841490216947">"क्रॉस-प्रोफाइल कॅलेंडर"</string>
     <string name="cross_profile_calendar_summary" msgid="8856185206722860069">"तुमच्या वैयक्तिक कॅलेंडरवर कार्य इव्हेंट दाखवा"</string>
-    <string name="managed_profile_settings_footer" msgid="996500759305118103">"work app बंद असतात तेव्हा ती थांबवलेली असतात आणि अ‍ॅक्सेस केली जाऊ शकत नाहीत किंवा तुम्हाला सूचना पाठवू शकत नाहीत"</string>
+    <string name="managed_profile_settings_footer" msgid="996500759305118103">"work app बंद असतात तेव्हा ती थांबवलेली असतात आणि अ‍ॅक्सेस केली जाऊ शकत नाहीत किंवा तुम्हाला नोटिफिकेशन पाठवू शकत नाहीत"</string>
     <string name="automatic_storage_manager_settings" msgid="519158151463974656">"स्टोरेज व्यवस्थापित करा"</string>
     <string name="automatic_storage_manager_text" msgid="6900593059927987273">"स्टोरेज स्थान मोकळे करण्यात मदत करण्यासाठी, स्टोरेज व्यवस्थापक तुमच्या डिव्हाइस वरून बॅक अप घेतलेले फोटो आणि व्हिडिओ काढतो."</string>
     <string name="automatic_storage_manager_days_title" msgid="5077286114860539367">"फोटो आणि व्हिडिओ काढा"</string>
@@ -4201,7 +4198,7 @@
     <string name="right_edge" msgid="1505309103265829121">"उजवी कडा"</string>
     <string name="back_sensitivity_dialog_message" msgid="6638367716784103306">"उच्च संवेदनशीलतेमुळे स्क्रीनच्या कडेला कोणत्याही अ‍ॅप जेश्चरमध्ये व्यत्यय येऊ शकतो."</string>
     <string name="back_sensitivity_dialog_title" msgid="6153608904168908264">"मागे जा बटणाची संवेदनशीलता"</string>
-    <string name="gesture_settings_activity_title" msgid="2025828425762595733">"जेश्चर नेव्हिगेशनशी संबंधित संवेदनशीलता"</string>
+    <string name="gesture_settings_activity_title" msgid="1882463161833981820">"जेश्चर नेव्हिगेशन"</string>
     <string name="button_navigation_settings_activity_title" msgid="7335636045504461813">"बटण नेव्हिगेशन"</string>
     <string name="keywords_gesture_navigation_settings" msgid="667561222717238931">"जेश्चर नेव्हिगेशन, मागे जा बटणाची संवेदनशीलता, बॅक जेश्चर"</string>
     <string name="keywords_button_navigation_settings" msgid="7888812253110553920">"नेव्हिगेशन, होम बटण"</string>
@@ -4360,7 +4357,7 @@
     <string name="credman_autofill_keywords" msgid="701180623776848914">"ऑटो, भरा, ऑटोफिल, डेटा, पासकी, पासवर्ड"</string>
     <string name="credman_button_change" msgid="4072629639218503790">"बदला"</string>
     <string name="credman_button_open" msgid="7519871964170816850">"उघडा"</string>
-    <string name="credman_app_list_preference_none" msgid="2509646651254971448">"कोणताही निवडलेला नाही"</string>
+    <string name="credman_app_list_preference_none" msgid="2509646651254971448">"काहीही निवडलेले नाही"</string>
     <string name="autofill_confirmation_message" msgid="4888767934273494272">"&lt;b&gt;तुमचा या ॲपवर विश्वास असल्याची खात्री करा&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; &lt;xliff:g id=app_name example=Google Autofill&gt;%1$s&lt;/xliff:g&gt; ऑटोफिल काय होऊ शकते हे ठरवण्यासाठी तुमच्या स्क्रीनवर काय आहे याचा वापर करते."</string>
     <string name="credman_autofill_confirmation_message" msgid="843829628024668466">"&lt;b&gt;&lt;xliff:g id=app_name example=Provider&gt;%1$s&lt;/xliff:g&gt;वापरायचे आहे का?&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; नवीन पासवर्ड, पासकी आणि इतर माहिती आता येथे सेव्ह केली जाईल. काय ऑटोफिल केले जाऊ शकते हे निर्धारित करण्यासाठी &lt;xliff:g id=app_name example=Provider&gt;%1$s&lt;/xliff:g&gt; हे तुमच्या स्क्रीनवर असलेल्या गोष्टी वापरू शकते."</string>
     <string name="credman_picker_title" msgid="8442086614222006564">"पासवर्ड, पासकी आणि ऑटोफिलसाठी प्राधान्य दिलेली सेवा"</string>
@@ -4580,8 +4577,10 @@
     <string name="summary_satellite_connection_guide" msgid="3496123195218418456">"तुमचा फोन उपग्रहाशी ऑटो-कनेक्ट होईल. सर्वोत्तम कनेक्शनसाठी, आकाश स्पष्ट दिसेल अशा ठिकाणी बाहेर उभे रहा."</string>
     <string name="title_supported_service" msgid="4275535165812691571">"तुमचा फोन उपग्रहाशी जोडल्यानंतर"</string>
     <string name="summary_supported_service" msgid="4320535903444834786">"आणीबाणी सेवांसह तुम्ही कोणालाही एसएमएस पाठवू शकता. उपलब्ध असेल, तेव्हा तुमचा फोन मोबाइल नेटवर्कशी पुन्हा कनेक्ट होईल."</string>
-    <string name="satellite_setting_summary_more_information" msgid="4008690241760925372">"उपग्रह मेसेजिंगला जास्त वेळ लागू शकतो आणि फक्त काही भागातच उपलब्ध आहे, हवामान आणि विशिष्ट संरचना तुमच्या उपग्रह कनेक्शनवर परिणाम करू शकतात. उपग्रहाद्वारे कॉल करणे उपलब्ध नाही.\n\nतुमच्या खात्यामधील बदल सेटिंग्जमध्ये दिसण्यासाठी काही वेळ लागू शकतो. तपशिलांसाठी <xliff:g id="CARRIER_NAME">%1$s</xliff:g> शी संपर्क साधा."</string>
+    <string name="satellite_setting_summary_more_information" msgid="7729454610548016356">"उपग्रह मेसेजिंगला जास्त वेळ लागू शकतो आणि ते फक्त काही भागांमध्येच उपलब्ध आहे. हवामान आणि विशिष्ट संरचना तुमच्या उपग्रह कनेक्शनवर परिणाम करू शकतात. उपग्रहाद्वारे कॉल करणे उपलब्ध नाही. आणीबाणी कॉल अजूनही कनेक्ट होऊ शकतात.\n\nखात्यामधील बदल सेटिंग्ज मध्ये दिसण्यासाठी काही वेळ लागू शकतो. तपशिलांसाठी तुमच्या वाहकाशी संपर्क साधा."</string>
     <string name="more_about_satellite_messaging" msgid="3385673133561348509">"उपग्रह मेसेजिंगबद्दल अधिक"</string>
+    <string name="satellite_warning_dialog_title" msgid="1610117852475376931">"<xliff:g id="FUNCTION">%1$s</xliff:g> सुरू करू शकत नाही"</string>
+    <string name="satellite_warning_dialog_content" msgid="936419945275934955">"<xliff:g id="FUNCTION">%1$s</xliff:g> सुरू करण्यासाठी, सर्वप्रथम उपग्रह कनेक्शन बंद करा"</string>
     <string name="mobile_network_apn_title" msgid="5582995550142073054">"अ‍ॅक्सेस पॉइंट"</string>
     <string name="keywords_access_point_names" msgid="8174967126858505945">"APN"</string>
     <string name="manual_mode_disallowed_summary" msgid="4243142645520152175">"<xliff:g id="CARRIER">%1$s</xliff:g>शी कनेक्ट केले असल्यास उपलब्ध नाही"</string>

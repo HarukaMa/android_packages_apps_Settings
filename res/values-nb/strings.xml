@@ -48,9 +48,9 @@
     <string name="selective_stay_awake_title" msgid="7887645333447645168">"Bare spill, videoer med mer"</string>
     <string name="selective_stay_awake_summary" msgid="9055967322921984543">"Den ytre skjermen slås på for apper som hindrer skjermen fra å bli inaktiv"</string>
     <string name="stay_awake_on_lockscreen_title" msgid="8088456642083051068">"Sveip opp for å fortsette"</string>
-    <string name="stay_awake_on_lockscreen_summary" msgid="2299351813382522952">"Legg sammen telefonen, og sveip opp på den ytre skjermen for å fortsette å bruke appen – eller vent i noen sekunder til skjermen låses"</string>
+    <string name="stay_awake_on_lockscreen_summary" msgid="8825321939913726566">"Legg sammen telefonen, og sveip opp på den ytre skjermen for å fortsette å bruke appen – eller vent i noen sekunder til skjermen låses. Spill og videoapper fortsetter automatisk."</string>
     <string name="sleep_on_fold_title" msgid="7626123024330501411">"Aldri"</string>
-    <string name="sleep_on_fold_summary" msgid="7737992842459588846">"Den ytre skjermen låses når du legger sammen enheten"</string>
+    <string name="sleep_on_fold_summary" msgid="4191753338303043456">"Den ytre skjermen slås av og låses når du legger sammen enheten"</string>
     <string name="auto_rotate_settings_primary_switch_title" msgid="3440951924928594520">"Bruk automatisk rotasjon"</string>
     <string name="smart_rotate_text_headline" msgid="5878008933992951904">"Ansiktsgjenkjenning bruker frontkameraet til å forbedre nøyaktigheten til automatisk rotasjon. Bilder blir aldri lagret eller sendt til Google."</string>
     <string name="bluetooth" msgid="8898478620943459654">"Bluetooth"</string>
@@ -1421,7 +1421,7 @@
     <string name="battery_level_title" msgid="1371765298786083448">"Batterinivå"</string>
     <string name="communal_settings_title" msgid="2845678473945902115">"Felles"</string>
     <string name="communal_settings_summary" msgid="4923914136953940317">"Fellesinnstillinger"</string>
-    <string name="satellite_setting" msgid="706846910912477125">"Satellittmeldinger"</string>
+    <string name="satellite_setting" msgid="4171265534842459910">"Satellittmeldinger"</string>
     <string name="apn_settings" msgid="4295467389400441299">"APN"</string>
     <string name="apn_edit" msgid="2003683641840248741">"Rediger tilgangspunkt"</string>
     <string name="apn_add" msgid="9069613192201630934">"Legg til tilgangspunkt"</string>
@@ -1874,7 +1874,7 @@
     <string name="show_ime_summary" msgid="7293345791727205975">"Ha det på skjermen når det fysiske tastaturet er aktivt"</string>
     <string name="bounce_keys" msgid="7419450970351743904">"Filtertaster"</string>
     <string name="bounce_keys_summary" msgid="7347050868868080302">"Tastaturet ignorerer raskt gjentatte trykk på samme tast innenfor <xliff:g id="BOUNCE_KEYS_THRESHOLD">%1$d</xliff:g> ms"</string>
-    <string name="slow_keys" msgid="2891452895499690837">"Trege taster"</string>
+    <string name="slow_keys" msgid="2891452895499690837">"Hengende taster"</string>
     <string name="slow_keys_summary" msgid="1784371292745423292">"Justerer aktiveringstiden for tastetrykk til <xliff:g id="SLOW_KEYS_THRESHOLD">%1$d</xliff:g> ms"</string>
     <string name="sticky_keys" msgid="7317317044898161747">"Trege taster"</string>
     <string name="sticky_keys_summary" msgid="1844953803625480623">"Aktiver hurtigtaster ved å trykke på én tast av gangen i stedet for å holde flere taster inne samtidig"</string>
@@ -2003,7 +2003,7 @@
     <string name="color_contrast_preview" msgid="6791430227535363883">"Forhåndsvisning"</string>
     <string name="color_contrast_preview_sender_name" msgid="8641943417589238147">"Helene, Adam"</string>
     <string name="color_contrast_preview_email_send_date" msgid="2108702726171600080">"2 dager siden"</string>
-    <string name="color_contrast_preview_email_badge" msgid="4845484039428505392">"Følg opp?"</string>
+    <string name="color_contrast_preview_email_badge" msgid="4845484039428505392">"Følge opp?"</string>
     <string name="color_contrast_preview_email_title" msgid="198712116139754823">"Rapport fra forretningsreise"</string>
     <string name="color_contrast_preview_email_body" msgid="4139331665325624199">"For å få mer hjelp kan du ta kontakt med \nmeg eller Helene. Denne rapporten blir"</string>
     <string name="color_contrast_preview_email_attachment_name" msgid="852407311884814746">"Klientutgifter"</string>
@@ -3218,12 +3218,12 @@
     <string name="notification_volume_content_description_vibrate_mode" msgid="6097212000507408288">"Varsellyden er slått av – varsler vibrerer"</string>
     <string name="volume_content_description_silent_mode" msgid="377680514551405754">"<xliff:g id="VOLUME_TYPE">%1$s</xliff:g> er slått av"</string>
     <string name="notification_volume_disabled_summary" msgid="8679988555852056079">"Ikke tilgjengelig fordi ringelyden er kuttet"</string>
-    <string name="ringtone_title" msgid="3271453110387368088">"Ringetone"</string>
+    <string name="ringtone_title" msgid="3271453110387368088">"Ringelyd"</string>
     <string name="notification_ringtone_title" msgid="6924501621312095512">"Standard varsellyd"</string>
     <string name="notification_unknown_sound_title" msgid="1319708450698738980">"Lyd fra app"</string>
     <string name="notification_sound_default" msgid="8630353701915294299">"Standard varsellyd"</string>
     <string name="alarm_ringtone_title" msgid="6680761007731764726">"Standard alarmlyd"</string>
-    <string name="vibrate_when_ringing_option_ramping_ringer" msgid="2798848945803840348">"Vibrer og ring så gradvis høyere"</string>
+    <string name="vibrate_when_ringing_option_ramping_ringer" msgid="2798848945803840348">"Vibrer, og ring så gradvis høyere"</string>
     <string name="spatial_audio_title" msgid="1775370104206884711">"Romlig lyd"</string>
     <string name="dial_pad_tones_title" msgid="3536945335367914892">"Tastaturlyd"</string>
     <string name="screen_locking_sounds_title" msgid="5695030983872787321">"Lyd for låsing av skjermen"</string>
@@ -3512,17 +3512,17 @@
     <string name="notif_listener_not_migrated" msgid="6265206376374278226">"Denne appen støtter ikke utvidete innstillinger"</string>
     <string name="notif_listener_more_settings" msgid="1348409392307208921">"Flere innstillinger"</string>
     <string name="notif_listener_more_settings_desc" msgid="7995492074281663658">"Flere innstillinger er tilgjengelige i denne appen"</string>
-    <string name="notification_polite_title" msgid="6121016426991791557">"Nedkjøling for varsler"</string>
+    <string name="notification_polite_title" msgid="6121016426991791557">"Varseldemping"</string>
     <string name="notification_polite_all_apps" msgid="1118651561594250059">"Bruk nedkjøling for alle varsler"</string>
     <string name="notification_polite_all_apps_summary" msgid="540268373207498126">"Reduserer varselsvolumet gradvis når du får for mange varsler etter hverandre fra samme app"</string>
     <string name="notification_polite_conversations" msgid="8197695136727245741">"Bruk nedkjøling for samtaler"</string>
     <string name="notification_polite_conversations_summary" msgid="2677141765664359994">"Reduserer varselsvolumet gradvis når du får for mange meldinger fra samme chat i løpet av en kort tidsperiode"</string>
-    <string name="notification_polite_disabled" msgid="1378078021594282842">"Ikke bruk nedkjøling for varsler"</string>
+    <string name="notification_polite_disabled" msgid="1378078021594282842">"Ikke bruk varseldemping"</string>
     <string name="notification_polite_disabled_summary" msgid="1145341260283746936">"Aldri reduser varselsvolumet – uavhengig av hvor mange varsler som kommer etter hverandre fra samme app"</string>
     <string name="notification_polite_vibrate_unlocked" msgid="6142573851761357903">"Vibrer når låst opp"</string>
     <string name="notification_polite_vibrate_unlocked_summary" msgid="1678472892282874459">"Bare vibrer når skjermen er låst opp"</string>
     <string name="notification_polite_work" msgid="8823596456640216391">"Bruk for jobbprofiler"</string>
-    <string name="notification_polite_work_summary" msgid="8260947839104352075">"Bruk innstillingene for nedkjøling av varsler fra den personlige profilen for jobbprofilen"</string>
+    <string name="notification_polite_work_summary" msgid="8260947839104352075">"Bruk innstillingene for varseldemping fra den personlige profilen i jobbprofilen"</string>
     <string name="vr_listeners_title" msgid="4960357292472540964">"Hjelpetjenester for VR"</string>
     <string name="no_vr_listeners" msgid="8442646085375949755">"Ingen av de installerte appene har bedt om å bli kjørt som hjelpetjeneste for VR."</string>
     <string name="vr_listener_security_warning_title" msgid="7026351795627615177">"Vil du tillate tjenestetilgang for VR for <xliff:g id="SERVICE">%1$s</xliff:g>?"</string>
@@ -3924,9 +3924,6 @@
     <string name="permit_manage_external_storage" msgid="6928847280689401761">"Kan administrere alle filer"</string>
     <string name="allow_manage_external_storage_description" msgid="5707948153603253225">"Gi denne appen tillatelse til å lese, endre og slette alle filer på denne enheten eller tilkoblede lagringsvolum. Hvis du gir appen denne tillatelsen, kan den få tilgang til filer uten at du er klar over det."</string>
     <string name="filter_manage_external_storage" msgid="6751640571715343804">"Har tilgang til alle filer"</string>
-    <string name="voice_activation_apps_title" msgid="7130045161611529825">"Apper som kan taleaktiveres"</string>
-    <string name="permit_voice_activation_apps" msgid="9152780172988949319">"Tillat taleaktivering"</string>
-    <string name="allow_voice_activation_apps_description" msgid="6369745626995060656">"Stemmeaktivering slår på godkjente apper med en stemmekommando. Innebygd adaptiv registrering sikrer at data holdes private bare for deg.\n\n"<a href="">"Mer om beskyttet adaptiv registrering"</a></string>
     <string name="full_screen_intent_title" msgid="747270185715224130">"Fullskjermvarsler"</string>
     <string name="permit_full_screen_intent" msgid="9035367640019960861">"Tillat fullskjermvarsler fra denne appen"</string>
     <string name="footer_description_full_screen_intent" msgid="7716518411349225528">"La denne appen vise varsler som fyller hele skjermen, når enheten er låst. Apper kan bruke disse til å fremheve alarmer, innkommende anrop eller andre viktige varsler."</string>
@@ -4201,7 +4198,7 @@
     <string name="right_edge" msgid="1505309103265829121">"Høyre kant"</string>
     <string name="back_sensitivity_dialog_message" msgid="6638367716784103306">"Høyere følsomhet kan komme i konflikt med eventuelle appbevegelser langs kantene av skjermen."</string>
     <string name="back_sensitivity_dialog_title" msgid="6153608904168908264">"Følsomhet for tilbakebevegelsen"</string>
-    <string name="gesture_settings_activity_title" msgid="2025828425762595733">"Sensitivitet for navigasjon med bevegelser"</string>
+    <string name="gesture_settings_activity_title" msgid="1882463161833981820">"Navigasjon med bevegelser"</string>
     <string name="button_navigation_settings_activity_title" msgid="7335636045504461813">"Navigasjon med knapper"</string>
     <string name="keywords_gesture_navigation_settings" msgid="667561222717238931">"navigasjon med bevegelser, følsomhet for tilbakebevegelsen, tilbakebevegelse"</string>
     <string name="keywords_button_navigation_settings" msgid="7888812253110553920">"navigasjon, hjemknapp"</string>
@@ -4580,8 +4577,10 @@
     <string name="summary_satellite_connection_guide" msgid="3496123195218418456">"Telefonen kobles automatisk til en satellitt. Du får best tilkobling på steder med åpen himmel."</string>
     <string name="title_supported_service" msgid="4275535165812691571">"Når telefonen kobles til en satellitt"</string>
     <string name="summary_supported_service" msgid="4320535903444834786">"Du kan sende melding til hvem som helst, inkludert nødtjenester. Telefonen kobles til et mobilnettverk igjen når det er tilgjengelig."</string>
-    <string name="satellite_setting_summary_more_information" msgid="4008690241760925372">"Satellittmeldinger kan ta lengre tid og er bare tilgjengelige i noen områder. Vær og visse bygninger kan påvirke satellittilkoblingen. Ringing via satellitt er ikke tilgjengelig.\n\nDet kan ta litt tid før endringer av kontoen din vises i innstillingene. Kontakt <xliff:g id="CARRIER_NAME">%1$s</xliff:g> for å finne ut mer."</string>
+    <string name="satellite_setting_summary_more_information" msgid="7729454610548016356">"Satellittmeldinger kan ta lengre tid og er bare tilgjengelige i noen områder. Været og visse bygninger kan påvirke satellittilkoblingen. Anrop via satellitt er ikke tilgjengelig. Nødanrop kan fortsatt kobles til.\n\nDet kan ta litt tid før kontoendringer vises i innstillingene. Kontakt operatøren din for å få vite mer."</string>
     <string name="more_about_satellite_messaging" msgid="3385673133561348509">"Mer om satellittmeldinger"</string>
+    <string name="satellite_warning_dialog_title" msgid="1610117852475376931">"Kan ikke slå på <xliff:g id="FUNCTION">%1$s</xliff:g>"</string>
+    <string name="satellite_warning_dialog_content" msgid="936419945275934955">"For å slå på <xliff:g id="FUNCTION">%1$s</xliff:g>, avslutt først satellittilkoblingen"</string>
     <string name="mobile_network_apn_title" msgid="5582995550142073054">"Navn på tilgangspunkt"</string>
     <string name="keywords_access_point_names" msgid="8174967126858505945">"apn"</string>
     <string name="manual_mode_disallowed_summary" msgid="4243142645520152175">"Utilgjengelig når du er koblet til <xliff:g id="CARRIER">%1$s</xliff:g>"</string>
@@ -4883,7 +4882,7 @@
     <string name="night_light_main_switch_title" msgid="3428298022467805219">"Bruk nattlys"</string>
     <string name="nfc_main_switch_title" msgid="6295839988954817432">"Bruk NFC"</string>
     <string name="adaptive_brightness_main_switch_title" msgid="2681666805191642737">"Bruk tilpasset lysstyrke"</string>
-    <string name="wifi_calling_main_switch_title" msgid="4070224008346815634">"Bruk Wi‑Fi-anrop"</string>
+    <string name="wifi_calling_main_switch_title" msgid="4070224008346815634">"Bruk wifi-anrop"</string>
     <string name="default_see_all_apps_title" msgid="7481113230662612178">"Se alle appene"</string>
     <string name="smart_forwarding_title" msgid="8368634861971949799">"Smart viderekobling"</string>
     <string name="smart_forwarding_summary_enabled" msgid="3341062878373185604">"Smart viderekobling er slått på"</string>

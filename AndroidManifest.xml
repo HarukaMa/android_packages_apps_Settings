@@ -143,6 +143,7 @@
     <uses-permission android:name="android.permission.MANAGE_GAME_MODE" />
     <uses-permission android:name="android.permission.RESTART_PHONE_PROCESS" />
     <uses-permission android:name="android.permission.MANAGE_ENHANCED_CONFIRMATION_STATES" />
+    <uses-permission android:name="android.permission.SATELLITE_COMMUNICATION" />
 
     <application
             android:name=".SettingsApplication"
@@ -153,6 +154,7 @@
             android:requiredForAllUsers="true"
             android:supportsRtl="true"
             android:backupAgent="com.android.settings.backup.SettingsBackupHelper"
+            android:restoreAnyVersion="true"
             android:usesCleartextTraffic="true"
             android:defaultToDeviceProtectedStorage="true"
             android:directBootAware="true"
@@ -2653,6 +2655,7 @@
 
         <activity android:name=".biometrics.face.FaceEnrollIntroduction"
                   android:exported="true"
+                  android:theme="@style/GlifV4Theme.DayNight"
                   android:screenOrientation="nosensor">
             <intent-filter>
                 <action android:name="android.settings.FACE_ENROLL"/>
@@ -2663,18 +2666,22 @@
         <activity android:name=".biometrics.face.FaceEnrollIntroductionInternal"
                   android:exported="false"
                   android:screenOrientation="nosensor"
+                  android:theme="@style/GlifV4Theme.DayNight"
                   android:taskAffinity="com.android.settings.root" />
 
         <activity android:name=".biometrics.face.FaceEnrollEducation"
             android:exported="false"
+            android:theme="@style/GlifV4Theme.DayNight"
             android:screenOrientation="nosensor"/>
 
         <activity android:name=".biometrics.face.FaceEnrollEnrolling"
             android:exported="false"
+            android:theme="@style/GlifV4Theme.DayNight"
             android:screenOrientation="portrait"/>
 
         <activity android:name=".biometrics.face.FaceEnrollFinish"
             android:exported="false"
+            android:theme="@style/GlifV4Theme.DayNight"
             android:screenOrientation="portrait"/>
 
         <activity android:name=".biometrics.BiometricHandoffActivity"
@@ -3967,6 +3974,9 @@
             </intent-filter>
         </receiver>
 
+        <service android:name=".sim.PrimarySubscriptionListChangedService"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
         <provider
             android:name="androidx.core.content.FileProvider"
             android:authorities="${applicationId}.files"
@@ -5157,6 +5167,15 @@
                 <data android:scheme="settings"
                       android:host="com.android.settings.backup.transport" />
             </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.android.settings.network.SatelliteWarningDialogActivity"
+            android:configChanges="orientation|keyboard|keyboardHidden|screenSize|screenLayout|smallestScreenSize"
+            android:excludeFromRecents="true"
+            android:exported="true"
+            android:permission="android.permission.NETWORK_SETTINGS"
+            android:theme="@style/Theme.SpaLib.Dialog">
         </activity>
 
         <!-- This is the longest AndroidManifest.xml ever. -->

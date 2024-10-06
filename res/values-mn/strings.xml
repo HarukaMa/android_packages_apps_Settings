@@ -48,9 +48,9 @@
     <string name="selective_stay_awake_title" msgid="7887645333447645168">"Зөвхөн тоглоом, видео болон бусад"</string>
     <string name="selective_stay_awake_summary" msgid="9055967322921984543">"Таны дэлгэцийг идэвхгүй болохыг зогсоодог аппуудад урд талын дэлгэц асдаг"</string>
     <string name="stay_awake_on_lockscreen_title" msgid="8088456642083051068">"Үргэлжлүүлэхийн тулд дээш шудрах"</string>
-    <string name="stay_awake_on_lockscreen_summary" msgid="2299351813382522952">"Аппыг үргэлжлүүлэн ашиглахын тулд утсаа эвхээд, урд талын дэлгэц дээр дээш шудрах эсвэл дэлгэцийг түгжигдэх хүртэл хэдэн секунд хүлээнэ үү"</string>
+    <string name="stay_awake_on_lockscreen_summary" msgid="8825321939913726566">"Аппыг үргэлжлүүлэн ашиглахын тулд утсаа эвхээд, урд талын дэлгэц дээр дээш шудрах эсвэл дэлгэцийг түгжигдэх хүртэл хэдэн секунд хүлээнэ үү. Тоглоом, видеоны апп автоматаар үргэлжилнэ."</string>
     <string name="sleep_on_fold_title" msgid="7626123024330501411">"Хэзээ ч үгүй"</string>
-    <string name="sleep_on_fold_summary" msgid="7737992842459588846">"Таныг төхөөрөмжөө эвхэх үед урд талын дэлгэц түгжигдэнэ"</string>
+    <string name="sleep_on_fold_summary" msgid="4191753338303043456">"Таныг төхөөрөмжөө эвхэх үед урд талын дэлгэц унтарч, түгжигдэнэ"</string>
     <string name="auto_rotate_settings_primary_switch_title" msgid="3440951924928594520">"Автоматаар эргүүлэх онцлогийг ашиглах"</string>
     <string name="smart_rotate_text_headline" msgid="5878008933992951904">"Царай илрүүлэх нь автоматаар эргүүлэх онцлогийн оновчлолыг сайжруулахын тулд урд талын камерыг ашиглана. Зургийг Google-д хадгалдаггүйгээс гадна илгээдэггүй."</string>
     <string name="bluetooth" msgid="8898478620943459654">"Bluetooth"</string>
@@ -418,7 +418,7 @@
     <string name="security_settings_remoteauth_enroll_introduction_youre_in_control_title" msgid="7974976673323638524">"Хяналт таны гарт"</string>
     <string name="security_settings_remoteauth_enroll_introduction_info_remove_watch" msgid="1888318677088986801">"Та цагаа Тохиргоо хэсэгт Утасны түгжээг цагаараа тайлах онцлогоос хүссэн үедээ хасах боломжтой"</string>
     <string name="security_settings_remoteauth_enroll_introduction_animation_tap_notification" msgid="1597397399097952974">"Мэдэгдлийг товшоорой"</string>
-    <string name="security_settings_remoteauth_enroll_introduction_animation_swipe_up" msgid="2129230804324634653">"Түгжээтэй дэлгэцэд дээш шудрах"</string>
+    <string name="security_settings_remoteauth_enroll_introduction_animation_swipe_up" msgid="2129230804324634653">"Түгжээтэй дэлгэц дээр дээш шудрах"</string>
     <string name="security_settings_remoteauth_enroll_enrolling_title" msgid="313016997943607675">"Цагаа сонгоно уу"</string>
     <string name="security_settings_remoteauth_enroll_enrolling_list_heading" msgid="8227585438932911013">"Боломжтой цагнууд"</string>
     <string name="security_settings_remoteauth_enroll_enrolling_disagree" msgid="1670201454188049863">"Цуцлах"</string>
@@ -613,7 +613,7 @@
     <string name="private_space_continue_login_label" msgid="7779965766333065391">"Үргэлжлүүлэх"</string>
     <string name="private_space_lock_setup_title" msgid="6541564212199510787">"Хаалттай орон зайдаа зориулж түгжээ сонгоно уу"</string>
     <string name="private_space_lock_setup_description" msgid="423405593476300918">"Та хурууны хээгээ ашиглан хаалттай орон зайнхаа түгжээг тайлах боломжтой. Аюулгүй байдлын үүднээс энэ сонголт нөөц түгжээ шаарддаг."</string>
-    <string name="private_space_choose_your_pin_header" msgid="4560802934975898265">"Хувийн орон зайдаа ПИН тохируулна уу"</string>
+    <string name="private_space_choose_your_pin_header" msgid="4560802934975898265">"Хаалттай орон зайдаа ПИН тохируулна уу"</string>
     <string name="private_space_choose_your_password_header" msgid="7660259341095044434">"Хувийн орон зайдаа нууц үг тохируулна уу"</string>
     <string name="private_space_choose_your_pattern_header" msgid="2165607102459936724">"Хувийн орон зайдаа хээ тохируулна уу"</string>
     <string name="private_space_apps_and_notifications_header" msgid="7493922100321972687">"Апп болон мэдэгдлүүд"</string>
@@ -1421,7 +1421,7 @@
     <string name="battery_level_title" msgid="1371765298786083448">"Зайны түвшин"</string>
     <string name="communal_settings_title" msgid="2845678473945902115">"Нийтийн"</string>
     <string name="communal_settings_summary" msgid="4923914136953940317">"Нийтийн тохиргоо"</string>
-    <string name="satellite_setting" msgid="706846910912477125">"Хиймэл дагуулаар мессеж бичих"</string>
+    <string name="satellite_setting" msgid="4171265534842459910">"Хиймэл дагуулаар мессеж бичих"</string>
     <string name="apn_settings" msgid="4295467389400441299">"APNs"</string>
     <string name="apn_edit" msgid="2003683641840248741">"Хандалтын цэгийг засах"</string>
     <string name="apn_add" msgid="9069613192201630934">"Хандалтын цэг нэмэх"</string>
@@ -1680,7 +1680,7 @@
     <string name="lockpattern_settings_enable_visible_pattern_title_profile" msgid="5138189101808127489">"Профайлын зурган түгжээг харагддаг болгох"</string>
     <string name="lockpattern_settings_enable_tactile_feedback_title" msgid="2273374883831956787">"Дарахад чичрэх"</string>
     <string name="lockpattern_settings_enable_power_button_instantly_locks" msgid="1638619728773344099">"Асаах товч шууд түгжигдэнэ"</string>
-    <string name="lockpattern_settings_power_button_instantly_locks_summary" msgid="2202430156268094229">"<xliff:g id="TRUST_AGENT_NAME">%1$s</xliff:g>-с түгжээгүй байлгаснаас бусад үед"</string>
+    <string name="lockpattern_settings_power_button_instantly_locks_summary" msgid="2202430156268094229">"<xliff:g id="TRUST_AGENT_NAME">%1$s</xliff:g>-р түгжээгүй байлгаснаас бусад үед"</string>
     <string name="lockpattern_settings_choose_lock_pattern" msgid="2193588309557281466">"Тайлах хээ тохируулах"</string>
     <string name="lockpattern_settings_change_lock_pattern" msgid="7614155083815661347">"Тайлах хээг өөрчлөх"</string>
     <string name="lockpattern_settings_help_how_to_record" msgid="2093801939046625774">"Тайлах загварыг хэрхэн зурах вэ"</string>
@@ -1790,8 +1790,8 @@
     <string name="system_package" msgid="7559476279008519360">"Системийн шинэчлэлтүүдийг гадаад медиа дээр суулгах боломжгүй."</string>
     <string name="move_error_device_admin" msgid="1561502976834303626">"Төхөөрөмжийн админы аппыг гадаад медиад суулгах боломжгүй"</string>
     <string name="force_stop_dlg_title" msgid="86745852555490146">"Хүчээр зогсоох"</string>
-    <string name="force_stop_dlg_text" msgid="1527286468544457368">"Хэрэв апп-г хүчээр зогсоовол буруу ажиллаж магадгүй."</string>
-    <string name="app_disable_dlg_positive" msgid="1414218905322009505">"Aпп-ийг идэвхгүй болгох"</string>
+    <string name="force_stop_dlg_text" msgid="1527286468544457368">"Хэрэв та аппыг хүчээр зогсоовол энэ нь буруу ажиллаж магадгүй."</string>
+    <string name="app_disable_dlg_positive" msgid="1414218905322009505">"Aппыг идэвхгүй болгох"</string>
     <string name="app_disable_dlg_text" msgid="2449382902751908916">"Та энэ аппыг идэвхгүй болгосон тохиолдолд Android болон бусад аппын хэвийн ажиллагаа тасалдаж болзошгүй. Энэ аппыг таны төхөөрөмжид урьдчилан суулгасан тул үүнийг устгах боломжгүйг анхаарна уу. Та үүнийг идэвхгүй болгосноор энэ аппыг унтрааж, төхөөрөмжөөсөө нууна."</string>
     <string name="app_install_details_group_title" msgid="1172114479073704677">"Дэлгүүр"</string>
     <string name="app_install_details_title" msgid="7783556181897142187">"Аппын дэлгэрэнгүй"</string>
@@ -1890,9 +1890,9 @@
     <string name="trackpad_touchpad_gesture_title" msgid="7568052847609914436">"Мэдрэгч самбарын зангаа"</string>
     <string name="trackpad_touchpad_gesture_summary" msgid="6256074591395359124">"Мэдрэгч самбарын навигацын бие даасан зангааг өөрчлөх"</string>
     <string name="trackpad_reverse_scrolling_title" msgid="422877284529360866">"Урвуу гүйлгэх"</string>
-    <string name="trackpad_reverse_scrolling_summary" msgid="6048648562887499036">"Таныг доош гүйлгэх үед контентыг дээш зөөнө"</string>
+    <string name="trackpad_reverse_scrolling_summary" msgid="6048648562887499036">"Таныг доош гүйлгэх үед контентыг дээш зөөх"</string>
     <string name="trackpad_bottom_right_tap_title" msgid="6275428879042702880">"Баруун доод буланг товших"</string>
-    <string name="trackpad_bottom_right_tap_summary" msgid="8734094086900680674">"Бусад сонголтыг авах бол мэдрэгч самбарын баруун доод буланг товшино уу"</string>
+    <string name="trackpad_bottom_right_tap_summary" msgid="8734094086900680674">"Бусад сонголтыг авах бол мэдрэгч самбарын баруун доод буланг товших"</string>
     <string name="trackpad_pointer_speed" msgid="7786579408631352625">"Заагчийн хурд"</string>
     <string name="trackpad_touch_gesture" msgid="8641725062131922497">"Мэдрэгч самбарын зангааг мэдэж авах"</string>
     <string name="keywords_touchpad" msgid="8159846254066666032">"мэдрэгч самбар, мэдрэгч самбар, хулгана, курсор, гүйлгэх, шудрах, баруун талыг товших, товших, заагч"</string>
@@ -3924,9 +3924,6 @@
     <string name="permit_manage_external_storage" msgid="6928847280689401761">"Бүх файлыг удирдахын тулд хандахыг зөвшөөрөх"</string>
     <string name="allow_manage_external_storage_description" msgid="5707948153603253225">"Энэ аппад энэ төхөөрөмж дээрх эсвэл холбогдсон дурын хадгалах сангийн бүх файлыг унших, өөрчлөх болон устгахыг зөвшөөрөх. Зөвшөөрөл олгогдсон бол апп нь танд тодорхойлон мэдэгдэлгүйгээр файлд хандаж болзошгүй."</string>
     <string name="filter_manage_external_storage" msgid="6751640571715343804">"Бүх файлд хандах боломжтой"</string>
-    <string name="voice_activation_apps_title" msgid="7130045161611529825">"Дуут идэвхжүүлэлтийн аппууд"</string>
-    <string name="permit_voice_activation_apps" msgid="9152780172988949319">"Дуут идэвхжүүлэлтийг зөвшөөрөх"</string>
-    <string name="allow_voice_activation_apps_description" msgid="6369745626995060656">"Дуут идэвхжүүлэлт дуут тушаалыг ашиглан гараас хамаарахгүйгээр зөвшөөрөгдсөн аппуудыг асаана. Бүрэлдэхүүн дасан зохицох мэдрэгч нь өгөгдөл зөвхөн танд хувийн байхыг баталгаажуулдаг.\n\n"<a href="">"Хамгаалалттай дасан зохицох мэдрэгчийн талаарх дэлгэрэнгүй"</a></string>
     <string name="full_screen_intent_title" msgid="747270185715224130">"Бүтэн дэлгэцийн мэдэгдэл"</string>
     <string name="permit_full_screen_intent" msgid="9035367640019960861">"Энэ аппаас бүтэн дэлгэцийн мэдэгдлийг зөвшөөрөх"</string>
     <string name="footer_description_full_screen_intent" msgid="7716518411349225528">"Төхөөрөмжийг түгжээтэй үед энэ аппад бүтэн дэлгэцийг эзлэх мэдэгдэл харуулахыг зөвшөөрнө үү. Сэрүүлэг, ирсэн дуудлага эсвэл бусад яаралтай мэдэгдлийг онцлоход аппууд эдгээрийг ашиглаж магадгүй."</string>
@@ -4165,7 +4162,7 @@
     <string name="adb_authorization_timeout_summary" msgid="409931540424019778">"Өгөгдмөлөөр (7 хоног) эсвэл хэрэглэгчийн тохируулсан (хамгийн багадаа 1 хоног) хугацаанд дахин холбогдоогүй системийн хувьд ADB-н зөвшөөрлийг автоматаар цуцлахыг идэвхгүй болгох."</string>
     <string name="sensors_off_quick_settings_title" msgid="8472151847125917167">"Мэдрэгчийг унтраах"</string>
     <string name="managed_profile_settings_title" msgid="3400923723423564217">"Ажлын профайлын тохиргоо"</string>
-    <string name="managed_profile_contact_search_title" msgid="6562061740814513737">"Хувийн аппуудаас ажлын харилцагчдын лавлах хайх"</string>
+    <string name="managed_profile_contact_search_title" msgid="6562061740814513737">"Хувийн аппуудаас ажлын лавлахын харилцагчдыг хайх"</string>
     <string name="managed_profile_contact_search_summary" msgid="4974727886709219105">"Таны хайлт болон ирсэн дуудлага IT админд тань харагдаж магадгүй"</string>
     <string name="cross_profile_calendar_title" msgid="7570277841490216947">"Профайл хоорондын календарь"</string>
     <string name="cross_profile_calendar_summary" msgid="8856185206722860069">"Ажлын арга хэмжээг хувийн календарь дээрээ харуулах"</string>
@@ -4201,7 +4198,7 @@
     <string name="right_edge" msgid="1505309103265829121">"Баруун талын зах"</string>
     <string name="back_sensitivity_dialog_message" msgid="6638367716784103306">"Илүү өндөр мэдрэгшил нь дэлгэцийн зах дагуух дурын аппын зангаатай зөрчилдөж болзошгүй."</string>
     <string name="back_sensitivity_dialog_title" msgid="6153608904168908264">"Арын мэдрэгшил"</string>
-    <string name="gesture_settings_activity_title" msgid="2025828425762595733">"Зангааны навигацын мэдрэгшил"</string>
+    <string name="gesture_settings_activity_title" msgid="1882463161833981820">"Зангааны навигац"</string>
     <string name="button_navigation_settings_activity_title" msgid="7335636045504461813">"Товчлуурт навигац"</string>
     <string name="keywords_gesture_navigation_settings" msgid="667561222717238931">"зангааны навигац, буцах мэдрэгшил, буцах зангаа"</string>
     <string name="keywords_button_navigation_settings" msgid="7888812253110553920">"навигац, нүүр хуудасны товчлуур"</string>
@@ -4438,7 +4435,7 @@
     <string name="my_device_info_basic_info_category_title" msgid="381963187269356548">"Үндсэн мэдээлэл"</string>
     <string name="my_device_info_legal_category_title" msgid="7732792841537995127">"Хууль, журам"</string>
     <string name="my_device_info_device_details_category_title" msgid="4848438695638348680">"Төхөөрөмжийн дэлгэрэнгүй"</string>
-    <string name="my_device_info_device_identifiers_category_title" msgid="2197063484127704153">"Төхөөрөмжийн таниулбар"</string>
+    <string name="my_device_info_device_identifiers_category_title" msgid="2197063484127704153">"Төхөөрөмжийн танигч"</string>
     <string name="change_wifi_state_title" msgid="5629648102837821525">"Wi-Fi хяналт"</string>
     <string name="change_wifi_state_app_detail_switch" msgid="1385358508267180745">"Wi-Fi-г хянах зөвшөөрлийг аппад олгох"</string>
     <string name="change_wifi_state_app_detail_summary" msgid="8230854855584217111">"Энэ аппад Wi-Fi-г асаах эсвэл унтраах, Wi-Fi сүлжээг хайх болон холбогдох, сүлжээ нэмэх эсвэл устгах болон зөвхөн дотоодод ашиглах сүлжээний цэгийг эхлүүлэхийг зөвшөөрнө үү"</string>
@@ -4580,8 +4577,10 @@
     <string name="summary_satellite_connection_guide" msgid="3496123195218418456">"Таны утас хиймэл дагуулд автоматаар холбогдоно. Шилдэг холболтыг авах бол тэнгэр тод харагдах газар байгаарай."</string>
     <string name="title_supported_service" msgid="4275535165812691571">"Таны утас хиймэл дагуулд холбогдсоны дараа"</string>
     <string name="summary_supported_service" msgid="4320535903444834786">"Та яаралтай тусламжийн үйлчилгээнүүдийг оруулаад дурын хүн рүү мессеж бичих боломжтой. Таны утас мобайл сүлжээг боломжтой үед үүнд дахин холбогдоно."</string>
-    <string name="satellite_setting_summary_more_information" msgid="4008690241760925372">"Хиймэл дагуулаар мессеж бичихэд илүү удаж болох ба энэ нь зөвхөн зарим бүсэд боломжтой. Цаг агаар болон тодорхой байгууламжууд таны хиймэл дагуулын холболтод нөлөөлж болно. Хиймэл дагуулаар дуудлага хийх боломжгүй.\n\nТаны бүртгэлийн өөрчлөлт Тохиргоонд харагдах хүртэл хэсэг хугацаа зарцуулагдаж болно. Дэлгэрэнгүй мэдээлэл авах бол <xliff:g id="CARRIER_NAME">%1$s</xliff:g>-тай холбогдоно уу."</string>
+    <string name="satellite_setting_summary_more_information" msgid="7729454610548016356">"Хиймэл дагуулаар мессеж бичихэд илүү удаж болох ба зөвхөн зарим бүсэд боломжтой. Цаг агаар болон тодорхой байгууламжууд таны хиймэл дагуулын холболтод нөлөөлж болно. Хиймэл дагуулаар дуудлага хийх боломжгүй. Яаралтай дуудлагад холбогдсон хэвээр байж магадгүй.\n\nТаны бүртгэлийн өөрчлөлтүүд Тохиргоонд харагдах хүртэл хэсэг хугацаа зарцуулагдаж болно. Дэлгэрэнгүй мэдээлэл авах бол оператор компанитайгаа холбогдоно уу."</string>
     <string name="more_about_satellite_messaging" msgid="3385673133561348509">"Хиймэл дагуулаар мессеж бичих талаарх нэмэлт мэдээлэл"</string>
+    <string name="satellite_warning_dialog_title" msgid="1610117852475376931">"<xliff:g id="FUNCTION">%1$s</xliff:g>-г асаах боломжгүй"</string>
+    <string name="satellite_warning_dialog_content" msgid="936419945275934955">"<xliff:g id="FUNCTION">%1$s</xliff:g>-г асаахын тулд эхлээд хиймэл дагуулын холболтыг тасална уу"</string>
     <string name="mobile_network_apn_title" msgid="5582995550142073054">"Хандах цэгийн нэрс (APN)"</string>
     <string name="keywords_access_point_names" msgid="8174967126858505945">"apn"</string>
     <string name="manual_mode_disallowed_summary" msgid="4243142645520152175">"<xliff:g id="CARRIER">%1$s</xliff:g>-д холбогдсон үед боломжгүй"</string>
@@ -4621,7 +4620,7 @@
     <string name="sim_onboarding_bottomsheets_title" msgid="143711121394213711">"SIM-ээ тохируулна уу"</string>
     <string name="sim_onboarding_bottomsheets_msg" msgid="7367245016476460849">"Энэ төхөөрөмжид олон SIM ашиглахын тулд мобайл сүлжээний сонголтуудаа тохируулна уу"</string>
     <string name="sim_onboarding_label_sim_title" msgid="273162565849288273">"SIM-үүдээ шошголох"</string>
-    <string name="sim_onboarding_label_sim_msg" msgid="5105859235219529056">"Та дуудлага хийх, мессеж илгээх болон дата ашиглах үедээ болон Тохиргоонд эдгээр шошгыг харна"</string>
+    <string name="sim_onboarding_label_sim_msg" msgid="5105859235219529056">"Та дуудлага хийх, мессеж илгээх, дата ашиглах үедээ болон Тохиргоонд эдгээр шошгыг харна"</string>
     <string name="sim_onboarding_label_sim_dialog_title" msgid="5839073125605286120">"SIM-н шошго"</string>
     <string name="sim_onboarding_label_sim_dialog_label" msgid="9020433985426525185">"Шошго"</string>
     <string name="sim_onboarding_select_sim_title" msgid="5895262188167744055">"Ашиглах SIM-үүдээ сонгох"</string>

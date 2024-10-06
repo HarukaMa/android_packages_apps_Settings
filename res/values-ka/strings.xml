@@ -48,9 +48,9 @@
     <string name="selective_stay_awake_title" msgid="7887645333447645168">"მხოლოდ თამაშები, ვიდეოები და მეტი"</string>
     <string name="selective_stay_awake_summary" msgid="9055967322921984543">"წინა ეკრანი ჩაირთვება იმ აპებისთვის, რომლებიც ხელს უშლიან თქვენს ეკრანს მოლოდინის რეჟიმში გადასვლას"</string>
     <string name="stay_awake_on_lockscreen_title" msgid="8088456642083051068">"გასაგრძელებლად გადაფურცლეთ ზემოთ"</string>
-    <string name="stay_awake_on_lockscreen_summary" msgid="2299351813382522952">"დაკეცეთ ტელეფონი და აპის გამოყენების გასაგრძელებლად წინა ეკრანზე გადაფურცლეთ ზემოთ, ან დაელოდეთ ეკრანის ჩაკეტვას რამდენიმე წამის განმავლობაში."</string>
+    <string name="stay_awake_on_lockscreen_summary" msgid="8825321939913726566">"დაკეცეთ ტელეფონი და აპის გამოყენების გასაგრძელებლად წინა ეკრანზე გადაფურცლეთ ზემოთ ან დაელოდეთ ეკრანის ჩაკეტვას რამდენიმე წამის განმავლობაში. თამაშები და ვიდეო აპები ავტომატურად გაგრძელდება."</string>
     <string name="sleep_on_fold_title" msgid="7626123024330501411">"არასოდეს"</string>
-    <string name="sleep_on_fold_summary" msgid="7737992842459588846">"თქვენი ეკრანი ჩაიკეტება როდესაც მოწყობილობას ჩაკეცავთ"</string>
+    <string name="sleep_on_fold_summary" msgid="4191753338303043456">"თქვენი მოწყობილობის დაკეცვისას გაითიშება და ჩაიკეტება წინა ეკრანი"</string>
     <string name="auto_rotate_settings_primary_switch_title" msgid="3440951924928594520">"ავტომატური შეტრიალების გამოყენება"</string>
     <string name="smart_rotate_text_headline" msgid="5878008933992951904">"სახის ამოცნობა იყენებს წინა კამერას ავტომატური შეტრიალების სიზუსტის გასაუმჯობესებლად. სურათები არასოდეს ინახება და არც Google-ს ეგზავნება."</string>
     <string name="bluetooth" msgid="8898478620943459654">"Bluetooth"</string>
@@ -536,14 +536,14 @@
     <string name="security_advanced_settings_no_work_profile_settings_summary" msgid="345336447137417638">"დაშიფვრა, ავტორიზაციის მონაცემები და სხვა"</string>
     <string name="security_advanced_settings_keywords" msgid="5294945170370974974">"უსაფრთხოება, უსაფრთხოების მეტი პარამეტრი, მეტი პარამეტრი, უსაფრთხოების გაფართოებული პარამეტრები"</string>
     <string name="privacy_advanced_settings" msgid="8828215456566937719">"კონფიდენციალურობის დამატებითი პარამეტრები"</string>
-    <string name="more_security_privacy_settings" msgid="123465614090328851">"მეტი უსაფრთხოება და კონფიდენციალურობა"</string>
+    <string name="more_security_privacy_settings" msgid="123465614090328851">"მეტი უსაფრთხოება/ კონფიდენციალურობა"</string>
     <string name="security_header" msgid="961514795852103424">"უსაფრთხოება"</string>
     <string name="privacy_header" msgid="5526002421324257007">"კონფიდენციალურობა"</string>
     <string name="work_profile_category_header" msgid="85707750968948517">"სამსახურის პროფილი"</string>
     <string name="private_space_title" msgid="1752064212078238723">"კერძო სივრცე"</string>
     <string name="private_space_summary" msgid="2274405892301976238">"ჩაკეტეთ და დამალეთ პირადი აპები"</string>
     <string name="private_space_description" msgid="4059594203775816136">"შეინახეთ პირადი აპები ცალკე სივრცეში, რომლის დამალვა ან ჩაკეტვა შეგიძლიათ"</string>
-    <string name="private_space_lock_title" msgid="7230836881433350526">"პირადი სივრცის ჩაკეტვა"</string>
+    <string name="private_space_lock_title" msgid="7230836881433350526">"კერძო სივრცის ჩაკეტვა"</string>
     <string name="private_space_one_lock_summary" msgid="2106513606571219068">"განბლოკეთ თქვენი კერძო სივრცე ისე, როგორც თქვენს მოწყობილობას განბლოკავთ, ან დააყენეთ განსხვავებული საკეტი"</string>
     <string name="private_space_screen_lock_title" msgid="8679383894967823163">"გამოიყენეთ მოწყობილობის ეკრანის დაბლოკვა"</string>
     <string name="private_space_biometric_title" msgid="3934339826674553174">"სახით და თითის ანაბეჭდით განბლოკვა"</string>
@@ -592,9 +592,9 @@
     <string name="private_space_separate_account_text" msgid="4492251315012955548"><b>"Google ანგარიშის არჩევა თქვენი სივრცისთვის"</b>\n"სპეციალური ანგარიშის გამოყენება სინქრონიზებული ფაილების, ფოტოებისა და ელფოსტის თქვენი სივრცის გარეთ გამოჩენას შეუშლის ხელს"</string>
     <string name="private_space_protected_lock_text" msgid="9123250938334372735"><b>"ჩაკეტვის დაყენება"</b>\n"ჩაკეტეთ თქვენი სივრცე, რათა სხვებმა არ გახსნან"</string>
     <string name="private_space_install_apps_text" msgid="5693139160766464498"><b>"აპების ინსტალაცია"</b>\n"თქვენს კერძო სივრცეს თავისი Play Store აქვს, შესაბამისად, აპების ინსტალაცია მარტივად შეგიძლიათ."</string>
-    <string name="private_space_apps_permission_text" msgid="7030946025253366172">"თქვენს პირად სივრცეში არსებული აპები არ გამოჩნდება ნებართვების მენეჯერში, კონფიდენციალურობის საინფორმაციო დაფაში და სხვა პარამეტრებში, როდესაც თქვენი პირადი სივრცე დაბლოკილია.\n\nთქვენი პირადი სივრცის ახალ მოწყობილობაში გადატანა შეუძლებელია. თქვენ უნდა დააყენოთ სხვა პირადი სივრცე, თუ გსურთ მისი სხვა მოწყობილობაზე გამოყენება.\n\nნებისმიერს, ვინც თქვენს მოწყობილობას აკავშირებს კომპიუტერთან ან დააინსტალირებს მავნე აპებს თქვენს მოწყობილობაზე, შეიძლება ჰქონდეს წვდომა თქვენს პირად სივრცეში."</string>
+    <string name="private_space_apps_permission_text" msgid="7030946025253366172">"თქვენს კერძო სივრცეში არსებული აპები არ გამოჩნდება ნებართვების მენეჯერში, კონფიდენციალურობის საინფორმაციო დაფაში და სხვა პარამეტრებში, როდესაც თქვენი კერძო სივრცე დაბლოკილია.\n\nთქვენი კერძო სივრცის ახალ მოწყობილობაში გადატანა შეუძლებელია. თქვენ უნდა დააყენოთ სხვა კერძო სივრცე, თუ გსურთ მისი სხვა მოწყობილობაზე გამოყენება.\n\nნებისმიერს, ვინც თქვენს მოწყობილობას აკავშირებს კომპიუტერთან ან დააინსტალირებს მავნე აპებს თქვენს მოწყობილობაზე, შეიძლება ჰქონდეს წვდომა თქვენს კერძო სივრცეში."</string>
     <string name="private_space_setting_up_text" msgid="8458035555212009528">"მიმდინარეობს პირადი სივრცის დაყენება…"</string>
-    <string name="private_space_notifications_hidden_title" msgid="2009112565217540581">"კერძო სივრცის აპების შეტყობინებები დამალულია, როცა ის ჩაკეტილია"</string>
+    <string name="private_space_notifications_hidden_title" msgid="2009112565217540581">"კერძო სივრცის აპების შეტყობინებები დამალულია ჩაკეტვისას"</string>
     <string name="private_space_explore_settings_title" msgid="1448128245941571654">"გაეცანით კერძო სივრცის პარამეტრებს ავტომატური ჩაკეტვის დასაყენებლად და კერძო სივრცის დასამალად"</string>
     <string name="private_space_apps_installed_title" msgid="4781838023423527730">"მოთხოვნილი აპები უკვე დაინსტალირებულია თქვენს კერძო სივრცეში"</string>
     <string name="private_space_error_screen_title" msgid="739381738044418346">"კერძო სივრცის დაყენება ვერ მოხერხდა"</string>
@@ -1421,7 +1421,7 @@
     <string name="battery_level_title" msgid="1371765298786083448">"ბატარეის დატენვის დონე"</string>
     <string name="communal_settings_title" msgid="2845678473945902115">"საერთო"</string>
     <string name="communal_settings_summary" msgid="4923914136953940317">"საერთო პარამეტრები"</string>
-    <string name="satellite_setting" msgid="706846910912477125">"შეტყობინებების სატელიტური მიმოცვლა"</string>
+    <string name="satellite_setting" msgid="4171265534842459910">"შეტყობინებების სატელიტური მიმოცვლა"</string>
     <string name="apn_settings" msgid="4295467389400441299">"APN-ები"</string>
     <string name="apn_edit" msgid="2003683641840248741">"წვდომის წერტილის რედაქტირება"</string>
     <string name="apn_add" msgid="9069613192201630934">"დაამატეთ წვდომის წერტილი"</string>
@@ -1707,7 +1707,7 @@
     <string name="forgot_password_text" msgid="2583194470767613163">"ისინი შეძლებენ PIN-კოდის, ნიმუშის ან პაროლის გადაყენებას"</string>
     <string name="advanced_settings" msgid="2368905204839169094">"დამატებითი პარამეტრები"</string>
     <string name="advanced_settings_summary" msgid="1823765348195530035">"მეტი პარამეტრების ვარიანტების ჩართვა"</string>
-    <string name="application_info_label" msgid="1015706497694165866">"აპების მონაცემები"</string>
+    <string name="application_info_label" msgid="1015706497694165866">"აპის მონაცემები"</string>
     <string name="storage_label" msgid="2522307545547515733">"საცავი"</string>
     <string name="auto_launch_label" msgid="4069860409309364872">"გახსნა ნაგულისხმევად"</string>
     <string name="auto_launch_label_generic" msgid="5033137408273064599">"ნაგულისხმევი"</string>
@@ -3924,9 +3924,6 @@
     <string name="permit_manage_external_storage" msgid="6928847280689401761">"წვდომის დაშვება ყველა ფაილის სამართავად"</string>
     <string name="allow_manage_external_storage_description" msgid="5707948153603253225">"აპს აძლევს უფლებას, წაიკითხოს, შეცვალოს და წაშალოს ყველა ფაილი ამ მოწყობილობაზე და ნებისმიერ დაკავშირებულ მეხსიერებაზე. ამ უფლების მინიჭების შემთხვევაში, აპს შეიძლება ფაილებზე წვდომა ჰქონდეს ისე, რომ ამის შესახებ არ იცოდეთ."</string>
     <string name="filter_manage_external_storage" msgid="6751640571715343804">"შეუძლია ჰქონდეს წვდომა ყველა ფაილზე"</string>
-    <string name="voice_activation_apps_title" msgid="7130045161611529825">"ხმოვანი აქტივაციის აპები"</string>
-    <string name="permit_voice_activation_apps" msgid="9152780172988949319">"ხმოვანი აქტივაციის დაშვება"</string>
-    <string name="allow_voice_activation_apps_description" msgid="6369745626995060656">"ხმოვანი აქტივაცია რთავს დამტკიცებულ აპებს, უკონტაქტოდ, ხმოვანი ბრძანების გამოყენებით. ჩაშენებული ადაპტური ზონდირება უზრუნველყოფს მონაცემების კონფიდენციალურობას მხოლოდ თქვენთვის..\n\n"<a href="">"მეტი დაცული ადაპტირებული სენსორების შესახებ"</a></string>
     <string name="full_screen_intent_title" msgid="747270185715224130">"სრული ეკრანის შეტყობინებები"</string>
     <string name="permit_full_screen_intent" msgid="9035367640019960861">"ნება დართეთ ამ აპიდან სრული ეკრანის შეტყობინებებს"</string>
     <string name="footer_description_full_screen_intent" msgid="7716518411349225528">"ნება დართეთ ამ აპს, აჩვენოს შეტყობინებები, რომლებიც სრულ ეკრანს იკავებს, როდესაც მოწყობილობა ჩაკეტილია. აპმა ისინი შეიძლება გამოიყენოს გამაფრთხილებელი სიგნალების და შემომავალი ზარების გამოყოფისთვის ან სხვა გადაუდებელი შეტყობინებებისთვის."</string>
@@ -4201,7 +4198,7 @@
     <string name="right_edge" msgid="1505309103265829121">"მარჯვენა კიდე"</string>
     <string name="back_sensitivity_dialog_message" msgid="6638367716784103306">"უფრო მაღალმა მგრძნობიარობამ შეიძლება კონფლიქტი შექმნას აპის რომელიმე ჟესტთან ეკრანის კიდეების გასწვრივ."</string>
     <string name="back_sensitivity_dialog_title" msgid="6153608904168908264">"უკან გადასვლის მგრძნობიარობა"</string>
-    <string name="gesture_settings_activity_title" msgid="2025828425762595733">"ჟესტებით ნავიგაციის მგრძნობიარობა"</string>
+    <string name="gesture_settings_activity_title" msgid="1882463161833981820">"ჟესტებით ნავიგაცია"</string>
     <string name="button_navigation_settings_activity_title" msgid="7335636045504461813">"ნავიგაცია ღილაკის მეშვეობით"</string>
     <string name="keywords_gesture_navigation_settings" msgid="667561222717238931">"ჟესტებით ნავიგაცია, უკან გადასვლის მგრძნობიარობა, უკან გადასვლის ჟესტი"</string>
     <string name="keywords_button_navigation_settings" msgid="7888812253110553920">"ნავიგაცია, მთავარი ეკრანის ღილაკი"</string>
@@ -4580,8 +4577,10 @@
     <string name="summary_satellite_connection_guide" msgid="3496123195218418456">"თქვენი ტელეფონი ავტომატურად დაუკავშირდება სატელიტს. საუკეთესო კავშირისთვის იყავთ ისეთ ადგილას, სადაც ცის ნათელი ხედია."</string>
     <string name="title_supported_service" msgid="4275535165812691571">"თქვენი ტელეფონის სატელიტთან დაკავშირების შემდეგ"</string>
     <string name="summary_supported_service" msgid="4320535903444834786">"შეტყობინების ყველგან გაგზავნა შეგიძლიათ, მათ შორის გადაუდებელი დახმარების სამსახურებში. თქვენი ტელეფონი დაუკავშირდება მობილური ქსელს, მისი ხელმისაწვდომობის შემთხვევაში."</string>
-    <string name="satellite_setting_summary_more_information" msgid="4008690241760925372">"შეტყობინებების სატელიტურ მიმოცვლას შეიძლება უფრო მეტი დრო დასჭირდეს და ხელმისაწვდომია მხოლოდ გარკვეულ ტერიტორიაზე. ამინდმა და გარკვეულმა კონსტრუქციებმა შეიძლება გავლენა მოახდინონ თქვენ კავშირზე სატელიტთან. სატელიტის საშუალებით დარეკვა არ არის ხელმისაწვდომი.\n\nთქვენს ანგარიშში განხორციელებული ცვლილებების პარამეტრებში ასახვას შესაძლოა გარკვეული დრო დასჭირდეს. დეტალებისთვის დაუკავშირდით: <xliff:g id="CARRIER_NAME">%1$s</xliff:g>"</string>
+    <string name="satellite_setting_summary_more_information" msgid="7729454610548016356">"შეტყობინებების სატელიტურ მიმოცვლას შეიძლება უფრო მეტი დრო დასჭირდეს და ხელმისაწვდომია მხოლოდ გარკვეულ ტერიტორიაზე. ამინდმა და გარკვეულმა კონსტრუქციებმა შეიძლება გავლენა მოახდინოს თქვენს კავშირზე სატელიტთან. სატელიტით დარეკვა მიუწვდომელია. გადაუდებელი ზარის განხორციელება მიანც შესაძლებელია.\n\nშესაძლოა გარკვეული დრო დასჭირდეს ანგარიშის პარამეტრების ცვლილებების ასახვას. დეტალური ინფორმაციისთვის მიმართეთ ოპერატორს."</string>
     <string name="more_about_satellite_messaging" msgid="3385673133561348509">"მეტი ინფორმაცია შეტყობინებების სატელიტური მიმოცვლის შესახებ"</string>
+    <string name="satellite_warning_dialog_title" msgid="1610117852475376931">"<xliff:g id="FUNCTION">%1$s</xliff:g>-ის ჩართვა ვერ ხერხდება"</string>
+    <string name="satellite_warning_dialog_content" msgid="936419945275934955">"<xliff:g id="FUNCTION">%1$s</xliff:g>-ის ჩასართავად ჯერ დაასრულეთ სატელიტური კავშირი"</string>
     <string name="mobile_network_apn_title" msgid="5582995550142073054">"წვდომის წერტილების სახელები"</string>
     <string name="keywords_access_point_names" msgid="8174967126858505945">"apn"</string>
     <string name="manual_mode_disallowed_summary" msgid="4243142645520152175">"მიუწვდომელია, როცა დაკავშირებულია <xliff:g id="CARRIER">%1$s</xliff:g>-თან"</string>

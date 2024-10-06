@@ -21,7 +21,7 @@
     <string name="bluetooth_disconnect_all_profiles" product="tablet" msgid="4247757468465328774">"הטאבלט שלך יתנתק מהמכשיר <xliff:g id="DEVICE_NAME">%1$s</xliff:g>."</string>
     <string name="bluetooth_disconnect_all_profiles" product="device" msgid="1632553419566947403">"המכשיר שלך יתנתק מהמכשיר <xliff:g id="DEVICE_NAME">%1$s</xliff:g>."</string>
     <string name="bluetooth_footer_mac_message" product="default" msgid="1640339352473051542">"‏כתובת הטלפון לחיבור דרך Bluetooth: <xliff:g id="BLUETOOTH_MAC_ADDRESS">%1$s</xliff:g>"</string>
-    <string name="bluetooth_footer_mac_message" product="tablet" msgid="7338607486971997745">"‏כתובת הטאבלט לחיבור דרך Bluetooth: <xliff:g id="BLUETOOTH_MAC_ADDRESS">%1$s</xliff:g>"</string>
+    <string name="bluetooth_footer_mac_message" product="tablet" msgid="7338607486971997745">"‏כתובת ה-Bluetooth של הטאבלט: <xliff:g id="BLUETOOTH_MAC_ADDRESS">%1$s</xliff:g>"</string>
     <string name="bluetooth_footer_mac_message" product="device" msgid="8944917742814573320">"‏כתובת המכשיר לחיבור דרך Bluetooth‏: <xliff:g id="BLUETOOTH_MAC_ADDRESS">%1$s</xliff:g>"</string>
     <string name="bluetooth_ask_discovery" product="tablet" msgid="7430581669309228387">"‏<xliff:g id="APP_NAME">%1$s</xliff:g> רוצה להפוך את הטאבלט שלך לגלוי בפני מכשירי Bluetooth אחרים למשך <xliff:g id="TIMEOUT">%2$d</xliff:g> שניות."</string>
     <string name="bluetooth_ask_discovery" product="default" msgid="3947027393224406367">"‏<xliff:g id="APP_NAME">%1$s</xliff:g> רוצה להפוך את הטלפון שלך לגלוי בפני מכשירי Bluetooth אחרים למשך <xliff:g id="TIMEOUT">%2$d</xliff:g> שניות."</string>
@@ -269,7 +269,7 @@
     <string name="about_settings" product="default" msgid="2621311564780208250">"מידע על הטלפון"</string>
     <string name="about_settings" product="device" msgid="7595574154492383452">"מידע על המכשיר"</string>
     <string name="about_settings" product="emulator" msgid="1099246296173401003">"מידע על מכשיר בגרסת האמולטור"</string>
-    <string name="install_all_warning" product="tablet" msgid="1732116924846572063">"הטאבלט והנתונים האישיים שלך פגיעים יותר להתקפות של אפליקציות לא מוכרות. על ידי התקנת אפליקציות ממקור זה, מקובל עליך שתחול עליך האחריות לכל נזק לטאבלט או לכל אובדן של נתונים שעשויים להיגרם כתוצאה מהשימוש באפליקציות אלה."</string>
+    <string name="install_all_warning" product="tablet" msgid="1732116924846572063">"הטאבלט והנתונים האישיים שלך פגיעים יותר להתקפות של אפליקציות לא מוכרות. על ידי התקנת אפליקציות מהמקור הזה, מקובל עליך שתחול עליך האחריות לכל נזק לטאבלט או לכל אובדן של נתונים שעשויים להיגרם כתוצאה מהשימוש באפליקציות אלה."</string>
     <string name="install_all_warning" product="default" msgid="4597256179485325694">"הטלפון והנתונים האישיים שלך פגיעים יותר להתקפות של אפליקציות לא מוכרות. התקנת אפליקציות מהמקור הזה מהווה את הסכמתך לכך שהאחריות היא שלך לכל נזק לטלפון או לכל אובדן של נתונים שעשויים להיגרם כתוצאה מהשימוש באפליקציות האלה."</string>
     <string name="install_all_warning" product="device" msgid="6293002353591632851">"המכשיר והנתונים האישיים שלך פגיעים יותר להתקפות של אפליקציות לא מוכרות. התקנת אפליקציות מהמקור הזה מבטאת את הסכמתך לכך שהאחריות לכל נזק למכשיר או לכל אובדן של נתונים שעשויים להיגרם כתוצאה מהשימוש באפליקציות אלה היא שלך בלבד."</string>
     <string name="runningservicedetails_stop_dlg_text" product="tablet" msgid="6321057186549848774">"אם תפסיק שירות זה, תכונות מסוימות של הטאבלט עלולות להפסיק לפעול כהלכה עד לכיבוי המכשיר והפעלתו מחדש."</string>

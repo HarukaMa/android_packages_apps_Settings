@@ -48,9 +48,9 @@
     <string name="selective_stay_awake_title" msgid="7887645333447645168">"Faqat oʻyinlar, videolar va boshqalar"</string>
     <string name="selective_stay_awake_summary" msgid="9055967322921984543">"Ekran oʻchganda toʻxtagan ilovalarni old ekranda yoqish"</string>
     <string name="stay_awake_on_lockscreen_title" msgid="8088456642083051068">"Tepaga surganda davom etish"</string>
-    <string name="stay_awake_on_lockscreen_summary" msgid="2299351813382522952">"Ilovadan foydalanishda davom etish uchun telefonni taxlab, oldingi ekrani ustida tepaga suring yoki ekran qulflanishi uchun bir necha soniya kuting"</string>
+    <string name="stay_awake_on_lockscreen_summary" msgid="8825321939913726566">"Ilovadan foydalanishda davom etish uchun telefonni buklab, oldingi ekrani ustida tepaga suring yoki ekran qulflanishi uchun bir necha soniya kuting. Oʻyinlar va video ilovalar avtomatik davom ettiriladi."</string>
     <string name="sleep_on_fold_title" msgid="7626123024330501411">"Hech qachon"</string>
-    <string name="sleep_on_fold_summary" msgid="7737992842459588846">"Qurilma buklanganda old ekranni qulflash"</string>
+    <string name="sleep_on_fold_summary" msgid="4191753338303043456">"Qurilma buklanganda old ekranni oʻchirish va qulflash"</string>
     <string name="auto_rotate_settings_primary_switch_title" msgid="3440951924928594520">"Avtomatik burilish"</string>
     <string name="smart_rotate_text_headline" msgid="5878008933992951904">"Yuzni aniqlash funksiyasi avto-burish sifatini oshirish uchun old kameradan foydalanadi. Rasmlar hech qachon saqlanmaydi va Googlega yuborilmaydi"</string>
     <string name="bluetooth" msgid="8898478620943459654">"Bluetooth"</string>
@@ -813,7 +813,7 @@
     <string name="bluetooth_empty_list_bluetooth_off" msgid="7326727272747345476">"Yaqin-atrofdagi Bluetooth qurilmalarga ulanish uchun Bluetooth aloqasini yoqing"</string>
     <string name="bluetooth_empty_list_bluetooth_off_auto_on_available" msgid="5833847615853525971">"Yaqin-atrofdagi Bluetooth qurilmalarga ulanish uchun Bluetooth aloqasini yoqing. Tezkor ulashuv, Qurilmamni top va qurilma geolokatsiyasi kabi funksiyalar Bluetooth ishlatadi."</string>
     <string name="bluetooth_scanning_on_info_message" msgid="786648535600075223">"Yaqin-atrofdagi Bluetooth qurilmalarga ulanish uchun Bluetooth aloqasini yoqing.\n\nQurilmadan foydalanishni yaxshilash uchun istalgan vaqt ilova va xizmatlar hatto Bluetooth oʻchiq boʻlsa ham Wi-Fi tarmoqlarni qidirishi mumkin. Bundan joylashuv axborotiga asoslangan funksiya va xizmatlarni yaxshilashda foydalanish mumkin. Bu funksiyani Bluetooth qidiruv sozlamalari orqali oʻzgartirish mumkin."</string>
-    <string name="bluetooth_scanning_on_info_message_auto_on_available" msgid="5047787966768730069">"Yaqin-atrofdagi Bluetooth qurilmalarga ulanish uchun Bluetooth aloqasini yoqing. Tezkor ulashuv, Qurilmamni top kabi funksiyalar va qurilma joylashuvi Bluetook ishlatadi.\n\nIlova va xizmatlar istalgan vaqtda, hatto Bluetooth oʻchiq boʻlsa ham, atrofdagi qurilmalarni qidirishi mumkin. Bu, masalan, joylashuvga asoslangan funksiyalar va xizmatlarni yaxshilash uchun ishlatilishi mumkin. Buni Bluetooth qidirish sozlamalari orqali oʻzgartirishingiz mumkin."</string>
+    <string name="bluetooth_scanning_on_info_message_auto_on_available" msgid="5047787966768730069">"Yaqin-atrofdagi Bluetooth qurilmalarga ulanish uchun Bluetooth aloqasini yoqing. Tezkor ulashuv, Qurilmamni top kabi funksiyalar va qurilma joylashuvi Bluetooth ishlatadi.\n\nIlova va xizmatlar istalgan vaqtda, hatto Bluetooth oʻchiq boʻlsa ham, atrofdagi qurilmalarni qidirishi mumkin. Bu, masalan, joylashuvga asoslangan funksiyalar va xizmatlarni yaxshilash uchun ishlatilishi mumkin. Buni Bluetooth qidirish sozlamalari orqali oʻzgartirishingiz mumkin."</string>
     <string name="bluetooth_scan_change" msgid="1744636222637390367">"Oʻzgartirish"</string>
     <string name="device_details_title" msgid="1155622417516195481">"Qurilma tafsilotlari"</string>
     <string name="bluetooth_device_keyboard_settings_preference_title" msgid="3411693160917620519">"Klaviatura sozlamalari"</string>
@@ -1421,7 +1421,7 @@
     <string name="battery_level_title" msgid="1371765298786083448">"Batareya quvvati darajasi"</string>
     <string name="communal_settings_title" msgid="2845678473945902115">"Umumiy"</string>
     <string name="communal_settings_summary" msgid="4923914136953940317">"Umumiy sozlamalar"</string>
-    <string name="satellite_setting" msgid="706846910912477125">"Sputnik orqali xabarlashuv"</string>
+    <string name="satellite_setting" msgid="4171265534842459910">"Sputnik orqali xabarlashuv"</string>
     <string name="apn_settings" msgid="4295467389400441299">"APN"</string>
     <string name="apn_edit" msgid="2003683641840248741">"Ulanish nuqtasini tahrirlash"</string>
     <string name="apn_add" msgid="9069613192201630934">"Ulanish nuqtasini kiritish"</string>
@@ -3924,9 +3924,6 @@
     <string name="permit_manage_external_storage" msgid="6928847280689401761">"Barcha fayllarni boshqarishga ruxsat"</string>
     <string name="allow_manage_external_storage_description" msgid="5707948153603253225">"Bu ilovaga mazkur qurilmadagi yoki ulangan xotira qurilmalaridagi barcha fayllarni oʻqish, tahrirlash va oʻchirib tashlash uchun ruxsat beriladi. Ruxsat berilgandan keyin ilova fayllardan sizning xabaringizsiz foydalana oladi."</string>
     <string name="filter_manage_external_storage" msgid="6751640571715343804">"Barcha fayllarga ruxsati bor ilova"</string>
-    <string name="voice_activation_apps_title" msgid="7130045161611529825">"Ovoz bilan ishga tushadigan ilovalar"</string>
-    <string name="permit_voice_activation_apps" msgid="9152780172988949319">"Ovoz bilan ishga tushirishga ruxsat"</string>
-    <string name="allow_voice_activation_apps_description" msgid="6369745626995060656">"Ovozli buyruqlar yordamida tanlangan ilovalarni ishga tushirishingiz mumkin. Ichki moslashuvchan sensor tufayli maʼlumotlaringizga faqat siz kirishingiz mumkin boʻladi.\n\n"<a href="">"Himoyali moslashuvchan sensor haqida batafsil"</a></string>
     <string name="full_screen_intent_title" msgid="747270185715224130">"Butun ekranda bildirishnomalar"</string>
     <string name="permit_full_screen_intent" msgid="9035367640019960861">"Bu ilova bildirishnomalarini butun ekranda chiqishiga ruxsat berish"</string>
     <string name="footer_description_full_screen_intent" msgid="7716518411349225528">"Bu ilovaga qurilma qulflanganida butun ekranni egallaydigan bildirishnoma chiqarishga ruxsat berish. Ilovalar uning yordamida signallar, kiruvchi chaqiruv yoki boshqa shoshilinch bildirishnomalarni ajratib koʻrsatishi mumkin."</string>
@@ -4201,7 +4198,7 @@
     <string name="right_edge" msgid="1505309103265829121">"Oʻng chet"</string>
     <string name="back_sensitivity_dialog_message" msgid="6638367716784103306">"Yuqori sezuvchanlik sozlansa, ekran chekkasidan tortiladigan ishoralar ilovalarnikiga zid kelishi mumkin."</string>
     <string name="back_sensitivity_dialog_title" msgid="6153608904168908264">"Ekran chetidagi sezuvchanlik"</string>
-    <string name="gesture_settings_activity_title" msgid="2025828425762595733">"Imo-ishorali navigatsiya sezuvchanligi"</string>
+    <string name="gesture_settings_activity_title" msgid="1882463161833981820">"Ishorali navigatsiya"</string>
     <string name="button_navigation_settings_activity_title" msgid="7335636045504461813">"Tugmali navigatsiya"</string>
     <string name="keywords_gesture_navigation_settings" msgid="667561222717238931">"ishorali navigatsiya, qaytarish sensori, qaytarish ishorasi"</string>
     <string name="keywords_button_navigation_settings" msgid="7888812253110553920">"navigatsiya, asosiy tugma"</string>
@@ -4580,8 +4577,10 @@
     <string name="summary_satellite_connection_guide" msgid="3496123195218418456">"Telefoningiz sputnikka avtomatik ulanadi. Yaxshiroq aloqa uchun ochiq osmon ostida turing."</string>
     <string name="title_supported_service" msgid="4275535165812691571">"Telefoningiz spurtnikka ulangandan keyin"</string>
     <string name="summary_supported_service" msgid="4320535903444834786">"Istalgan kishiga, shuningdek, favqulodda xizmatlarga ham xabar yubora olasiz. Telefoningiz mobil tarmoq ishlashi bilan unga ulanadi."</string>
-    <string name="satellite_setting_summary_more_information" msgid="4008690241760925372">"Sputnik orqali xabarlashuv uzoqroq vaqt olishi mumkin va faqat ayrim hududlarda ishlaydi, ob-havo va ayrim tuzilmalar sputnik ulanishiga taʼsir qilishi mumkin. Sputnik orqali chaqiruv ishlamaydi.\n\nHisobingizdagi oʻzgarishlar Sozlamalarda chiqishi uchun biroz vaqt ketishi mumkin. Tafsilotlar uchun <xliff:g id="CARRIER_NAME">%1$s</xliff:g> bilan bogʻlaning."</string>
+    <string name="satellite_setting_summary_more_information" msgid="7729454610548016356">"Sputnik orqali xabarlashuv uzoqroq vaqt olishi mumkin va faqat ayrim hududlarda ishlaydi. Ob-havo va ayrim tuzilmalar sputnik ulanishiga taʼsir qilishi mumkin. Sputnik orqali chaqiruv mavjud emas. Favqulodda chaqiruvlar hali ham ulanishi mumkin.\n\nHisob oʻzgarishlari Sozlamalarda chiqishi uchun biroz vaqt ketishi mumkin. Tafsilotlar uchun aloqa operatoringizga murojaat qiling."</string>
     <string name="more_about_satellite_messaging" msgid="3385673133561348509">"Sputnik orqali xabarlashuv haqida batafsil"</string>
+    <string name="satellite_warning_dialog_title" msgid="1610117852475376931">"<xliff:g id="FUNCTION">%1$s</xliff:g> yoqilmadi"</string>
+    <string name="satellite_warning_dialog_content" msgid="936419945275934955">"<xliff:g id="FUNCTION">%1$s</xliff:g> yoqish uchun avval sputnik aloqasini uzing"</string>
     <string name="mobile_network_apn_title" msgid="5582995550142073054">"Internetga ulanish nuqtalari (APN)"</string>
     <string name="keywords_access_point_names" msgid="8174967126858505945">"apn"</string>
     <string name="manual_mode_disallowed_summary" msgid="4243142645520152175">"<xliff:g id="CARRIER">%1$s</xliff:g> bilan ishlamaydi"</string>
@@ -5028,7 +5027,7 @@
     <string name="find_broadcast_join_broadcast_error" msgid="5486980388774711346">"Translatsiyaga ulanilmadi"</string>
     <string name="bt_le_audio_scan_qr_code_scanner" msgid="7614569515419813053">"Tinglashni boshlash uchun quyidagi QR kodni markazga joylang"</string>
     <string name="bt_le_audio_qr_code_is_not_valid_format" msgid="7821837654128137901">"QR xato formatda"</string>
-    <string name="convert_to_esim_title" msgid="71037864129009206">"eSIM kartaga oʻtkazish"</string>
+    <string name="convert_to_esim_title" msgid="71037864129009206">"eSIMga aylantirish"</string>
     <string name="transfer_esim_to_another_device_title" msgid="5286117866086383192">"eSIM kartani boshqa qurilmaga transfer qilish"</string>
     <string name="background_install_preference_summary" msgid="3065219346519340364">"{count,plural, =1{# ta ilova}other{# ta ilova}}"</string>
     <string name="background_install_title" msgid="607913515188276168">"Orqa fonda oʻrnatilgan ilovalar"</string>

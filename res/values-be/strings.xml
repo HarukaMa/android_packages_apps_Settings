@@ -48,9 +48,9 @@
     <string name="selective_stay_awake_title" msgid="7887645333447645168">"Толькі гульні, відэа і да т. п."</string>
     <string name="selective_stay_awake_summary" msgid="9055967322921984543">"Пярэдні дысплэй уключаецца для праграм, якія не даюць экрану перайсці ў рэжым чакання"</string>
     <string name="stay_awake_on_lockscreen_title" msgid="8088456642083051068">"Калі правесці па экране ўверх"</string>
-    <string name="stay_awake_on_lockscreen_summary" msgid="2299351813382522952">"Складзіце тэлефон і правядзіце пальцам уверх на пярэднім дысплэі, каб працягнуць выкарыстанне праграмы, або пачакайце некалькі секунд, пакуль экран заблакіруецца"</string>
+    <string name="stay_awake_on_lockscreen_summary" msgid="8825321939913726566">"Складзіце тэлефон і правядзіце пальцам уверх на пярэднім дысплэі, каб працягнуць выкарыстанне праграмы, або пачакайце некалькі секунд, пакуль экран заблакіруецца. Праграмы для гульняў і прайгравання відэа аўтаматычна працягнуць сваю працу."</string>
     <string name="sleep_on_fold_title" msgid="7626123024330501411">"Ніколі"</string>
-    <string name="sleep_on_fold_summary" msgid="7737992842459588846">"Пярэдні дысплэй блакіруецца пры складванні прылады"</string>
+    <string name="sleep_on_fold_summary" msgid="4191753338303043456">"Пярэдні дысплэй выключаецца і блакіруецца пры складванні прылады"</string>
     <string name="auto_rotate_settings_primary_switch_title" msgid="3440951924928594520">"Выкарыстоўваць аўтапаварот"</string>
     <string name="smart_rotate_text_headline" msgid="5878008933992951904">"Функцыя \"Выяўленне твару\" выкарыстоўвае франтальную камеру для паляпшэння дакладнасці аўтапавароту. Відарысы ніколі не захоўваюцца і не адпраўляюцца ў Google."</string>
     <string name="bluetooth" msgid="8898478620943459654">"Bluetooth"</string>
@@ -602,7 +602,7 @@
     <string name="private_space_lockscreen_title" msgid="6034864097861137509">"Выкарыстоўваць спосаб, выбраны для экрана?"</string>
     <string name="private_space_lockscreen_summary" msgid="430569465080645805">"Прыватную прастору можна разблакіраваць тым жа спосабам, які выкарыстоўваецца пры блакіроўцы прылады, або выбраць іншы спосаб"</string>
     <string name="private_space_use_screenlock_label" msgid="9182153443192032782">"Выкарыстоўваць спосаб, выбраны для экрана"</string>
-    <string name="private_space_set_lock_label" msgid="1790408277477408475">"Выбраць новы спосаб блакіроўкі"</string>
+    <string name="private_space_set_lock_label" msgid="1790408277477408475">"Выбраць новы спосаб разблакіроўкі"</string>
     <string name="private_space_success_title" msgid="4351904015352046118">"Гатова!"</string>
     <string name="private_space_access_text" msgid="4433988836344567888">"Каб знайсці прыватную прастору, перайдзіце да спіса праграм і прагартайце ўніз"</string>
     <string name="private_space_done_label" msgid="1020482651595246071">"Гатова"</string>
@@ -1421,7 +1421,7 @@
     <string name="battery_level_title" msgid="1371765298786083448">"Узровень батарэі"</string>
     <string name="communal_settings_title" msgid="2845678473945902115">"Супольныя"</string>
     <string name="communal_settings_summary" msgid="4923914136953940317">"Супольныя налады"</string>
-    <string name="satellite_setting" msgid="706846910912477125">"Абмен паведамленнямі па спадарожнікавай сувязі"</string>
+    <string name="satellite_setting" msgid="4171265534842459910">"Абмен паведамленнямі па спадарожнікавай сувязі"</string>
     <string name="apn_settings" msgid="4295467389400441299">"APN"</string>
     <string name="apn_edit" msgid="2003683641840248741">"Змяніць пункт доступу"</string>
     <string name="apn_add" msgid="9069613192201630934">"Дадаванне пункта доступу"</string>
@@ -1734,7 +1734,7 @@
     <string name="uninstall_all_users_text" msgid="5924715251087176474">"Выдалiць для ўсіх карыстальнікаў"</string>
     <string name="install_text" msgid="4558333621516996473">"Усталяваць"</string>
     <string name="disable_text" msgid="5146002260857428005">"Адключыць"</string>
-    <string name="enable_text" msgid="8570798764647110430">"Уключанае"</string>
+    <string name="enable_text" msgid="8570798764647110430">"Уключыць"</string>
     <string name="clear_user_data_text" msgid="6773186434260397947">"Ачысціць сховішча"</string>
     <string name="app_factory_reset" msgid="8974044931667015201">"Выдаліць абнаўленні"</string>
     <string name="app_restricted_settings_lockscreen_title" msgid="5993061278264872648">"Дазволіць абмежаваныя налады"</string>
@@ -3383,24 +3383,24 @@
     <string name="notification_history_open_notification" msgid="2655071846911258371">"адкрыць апавяшчэнне"</string>
     <string name="snooze_options_title" msgid="2109795569568344617">"Дазволіць адкладванне апавяшчэнняў"</string>
     <string name="notification_badging_title" msgid="5469616894819568917">"Значок апавяшчэнняў на значку праграмы"</string>
-    <string name="notification_bubbles_title" msgid="5681506665322329301">"Усплывальныя апавяшчэнні"</string>
-    <string name="bubbles_app_toggle_title" msgid="5319021259954576150">"Усплывальныя апавяшчэнні"</string>
+    <string name="notification_bubbles_title" msgid="5681506665322329301">"Усплывальныя чаты"</string>
+    <string name="bubbles_app_toggle_title" msgid="5319021259954576150">"Усплывальныя чаты"</string>
     <string name="bubbles_conversation_toggle_title" msgid="5225039214083311316">"Паказваць гэту размову ў выглядзе ўсплывальных апавяшчэнняў"</string>
     <string name="bubbles_conversation_toggle_summary" msgid="720229032254323578">"Паказ рухомага значка паверх праграм"</string>
-    <string name="bubbles_feature_disabled_dialog_title" msgid="1794193899792284007">"Уключыць усплывальныя апавяшчэнні для прылады?"</string>
-    <string name="bubbles_feature_disabled_dialog_text" msgid="5275666953364031055">"Уключыўшы ўсплывальныя апавяшчэнні для гэтай праграмы, вы ўключыце іх таксама для прылады.\n\nГэта паўплывае на іншыя праграмы ці размовы, якія падтрымліваюць усплывальныя апавяшчэнні."</string>
+    <string name="bubbles_feature_disabled_dialog_title" msgid="1794193899792284007">"Уключыць усплывальныя чаты для прылады?"</string>
+    <string name="bubbles_feature_disabled_dialog_text" msgid="5275666953364031055">"Уключыўшы ўсплывальныя чаты для гэтай праграмы, вы ўключыце іх таксама для прылады.\n\nГэта паўплывае на іншыя праграмы ці размовы, якія падтрымліваюць усплывальныя чаты."</string>
     <string name="bubbles_feature_disabled_button_approve" msgid="2042628067101419871">"Уключыць"</string>
     <string name="bubbles_feature_disabled_button_cancel" msgid="8963409459448350600">"Скасаваць"</string>
     <string name="notifications_bubble_setting_on_summary" msgid="4641572377430901196">"Уключана / Размовы могуць паказвацца ў выглядзе рухомых значкоў"</string>
-    <string name="notifications_bubble_setting_title" msgid="8287649393774855268">"Дазволіць праграмам паказваць усплывальныя апавяшчэнні"</string>
+    <string name="notifications_bubble_setting_title" msgid="8287649393774855268">"Дазволіць праграмам паказваць усплывальныя чаты"</string>
     <string name="notifications_bubble_setting_description" msgid="7336770088735025981">"Некаторыя размовы будуць паказвацца як рухомыя значкі паверх іншых праграм"</string>
     <string name="bubble_app_setting_all" msgid="312524752846978277">"Усе размовы могуць паказвацца як усплывальныя апавяшчэнні"</string>
     <string name="bubble_app_setting_selected" msgid="4324386074198040675">"Дазволіць усплывальныя апавяшчэнні для выбраных размоў"</string>
     <string name="bubble_app_setting_none" msgid="8643594711863996418">"Не паказваць усплывальныя апавяшчэнні"</string>
     <string name="bubble_app_setting_selected_conversation_title" msgid="3060958976857529933">"Размовы"</string>
     <string name="bubble_app_setting_excluded_conversation_title" msgid="324818960338773945">"Для гэтых размоў не будуць паказвацца ўсплывальныя апавяшчэнні"</string>
-    <string name="bubble_app_setting_unbubble_conversation" msgid="1769789500566080427">"Выключыць усплывальныя апавяшчэнні для гэтай размовы"</string>
-    <string name="bubble_app_setting_bubble_conversation" msgid="1461981680982964285">"Уключыць усплывальныя апавяшчэнні для гэтай размовы"</string>
+    <string name="bubble_app_setting_unbubble_conversation" msgid="1769789500566080427">"Выключыць усплывальныя чаты для гэтай размовы"</string>
+    <string name="bubble_app_setting_bubble_conversation" msgid="1461981680982964285">"Уключыць усплывальныя чаты для гэтай размовы"</string>
     <string name="swipe_direction_ltr" msgid="5137180130142633085">"Правядзіце пальцам управа, каб закрыць, улева – каб паказаць меню"</string>
     <string name="swipe_direction_rtl" msgid="1707391213940663992">"Правядзіце пальцам улева, каб закрыць, управа – каб паказаць меню"</string>
     <string name="silent_notifications_status_bar" msgid="6113307620588767516">"Хаваць апавяшчэнні без гуку на панэлі стану"</string>
@@ -3444,7 +3444,7 @@
     <string name="priority_conversation_count_zero" msgid="3862289535537564713">"Няма прыярытэтных размоў"</string>
     <string name="priority_conversation_count" msgid="7291234530844412077">"{count,plural, =1{# прыярытэтная размова}one{# прыярытэтная размова}few{# прыярытэтныя размовы}many{# прыярытэтных размоў}other{# прыярытэтнай размовы}}"</string>
     <string name="important_conversations" msgid="1233893707189659401">"Прыярытэтныя размомы"</string>
-    <string name="important_conversations_summary_bubbles" msgid="614327166808117644">"Паказваць уверсе раздзела размоў у выглядзе рухомых усплывальных апавяшчэнняў"</string>
+    <string name="important_conversations_summary_bubbles" msgid="614327166808117644">"Паказваць уверсе раздзела размоў у выглядзе рухомых усплывальных чатаў"</string>
     <string name="important_conversations_summary" msgid="3184022761562676418">"Паказваць уверсе раздзела размоў"</string>
     <string name="other_conversations" msgid="551178916855139870">"Непрыярытэтныя размовы"</string>
     <string name="other_conversations_summary" msgid="3487426787901236273">"Размовы, у якія вы ўнеслі змяненні"</string>
@@ -3464,7 +3464,7 @@
     <string name="allow_interruption_summary" msgid="9044131663518112543">"Дазволіць праграме выкарыстоўваць гук, вібрацыю і/або ўсплываючыя апавяшчэнні на экране"</string>
     <string name="notification_priority_title" msgid="5554834239080425229">"Прыярытэт"</string>
     <string name="notification_channel_summary_priority" msgid="7225362351439076913">"Паказваецца ўверсе раздзела размоў як усплывальнае апавяшчэнне, паказвае відарыс профілю на экране блакіроўкі"</string>
-    <string name="convo_not_supported_summary" msgid="4285471045268268048">"<xliff:g id="APP_NAME">%1$s</xliff:g> не падтрымлівае большую частку функцый размоў. Вы не зможаце зрабіць размову прыярытэтнай, і размовы не будуць паказвацца ў выглядзе ўсплывальных апавяшчэнняў."</string>
+    <string name="convo_not_supported_summary" msgid="4285471045268268048">"<xliff:g id="APP_NAME">%1$s</xliff:g> не падтрымлівае большую частку функцый размоў. Вы не зможаце зрабіць размову прыярытэтнай, і размовы не будуць паказвацца ў выглядзе ўсплывальных чатаў."</string>
     <string name="notification_channel_summary_min" msgid="8823399508450176842">"Згарнуць апавяшчэнні ў адзін радок на панэлі апавяшчэнняў"</string>
     <string name="notification_channel_summary_low" msgid="5549662596677692000">"Без гуку ці вібрацыі"</string>
     <string name="notification_conversation_summary_low" msgid="6352818857388412326">"Паказваецца без гуку ці вібрацыі ў раздзеле размоў"</string>
@@ -3924,9 +3924,6 @@
     <string name="permit_manage_external_storage" msgid="6928847280689401761">"Дазволіць доступ да кіравання ўсімі файламі"</string>
     <string name="allow_manage_external_storage_description" msgid="5707948153603253225">"Дазвольце гэтай праграме чытаць, змяняць і выдаляць усе файлы на гэтай прыладзе ці ў падключаных сховішчах. З такім дазволам праграма зможа атрымліваць доступ да файлаў без вашага ведама."</string>
     <string name="filter_manage_external_storage" msgid="6751640571715343804">"Магчымы доступ да ўсіх файлаў"</string>
-    <string name="voice_activation_apps_title" msgid="7130045161611529825">"Праграмы з галасавой актывацыяй"</string>
-    <string name="permit_voice_activation_apps" msgid="9152780172988949319">"Дазволіць галасавую актывацыю"</string>
-    <string name="allow_voice_activation_apps_description" msgid="6369745626995060656">"Дзякуючы функцыі галасавой актывацыі ўхваленыя праграмы можна ўключаць з дапамогай галасавога кіравання, выкарыстоўваючы каманды. Прымяненне ўбудаванай адаптыўнай сістэмы распазнавання дазваляе захаваць прыватнасць вашых даных.\n\n"<a href="">"Падрабязней пра абароненую адаптыўную сістэму распазнавання"</a></string>
     <string name="full_screen_intent_title" msgid="747270185715224130">"Поўнаэкранныя апавяшчэнні"</string>
     <string name="permit_full_screen_intent" msgid="9035367640019960861">"Дазволіць поўнаэкранныя апавяшчэнні ад гэтай праграмы"</string>
     <string name="footer_description_full_screen_intent" msgid="7716518411349225528">"Гэта праграма зможа паказваць поўнаэкранныя апавяшчэнні, калі прылада заблакіравана. Дзякуючы гэтаму дазволу праграмы могуць паказваць сігналы будзільнікаў, уваходныя выклікі і іншыя тэрміновыя апавяшчэнні."</string>
@@ -4201,7 +4198,7 @@
     <string name="right_edge" msgid="1505309103265829121">"Правы край"</string>
     <string name="back_sensitivity_dialog_message" msgid="6638367716784103306">"Павышаная адчувальнасць можа негатыўна паўплываць на ўспрыманне жэстаў па краях экрана."</string>
     <string name="back_sensitivity_dialog_title" msgid="6153608904168908264">"Адчувальнасць краёў экрана"</string>
-    <string name="gesture_settings_activity_title" msgid="2025828425762595733">"Адчувальнасць навігацыі жэстамі"</string>
+    <string name="gesture_settings_activity_title" msgid="1882463161833981820">"Навігацыя жэстамі"</string>
     <string name="button_navigation_settings_activity_title" msgid="7335636045504461813">"Кнопачная навігацыя"</string>
     <string name="keywords_gesture_navigation_settings" msgid="667561222717238931">"навігацыя жэстамі, адчувальнасць задняй часткі, жэст вяртання"</string>
     <string name="keywords_button_navigation_settings" msgid="7888812253110553920">"навігацыя, кнопка галоўнага экрана"</string>
@@ -4580,8 +4577,10 @@
     <string name="summary_satellite_connection_guide" msgid="3496123195218418456">"Ваш тэлефон аўтаматычна падключыцца да спадарожнікавай сувязі. Для аптымальнай якасці падключэння вам лепш знаходзіцца на вуліцы пад адкрытым небам"</string>
     <string name="title_supported_service" msgid="4275535165812691571">"Пасля падключэння тэлефона да спадарожнікавай сувязі"</string>
     <string name="summary_supported_service" msgid="4320535903444834786">"Вы можаце адпраўляць тэкставыя паведамленні каму хочаце, у тым ліку экстранным службам. Ваш тэлефон зноў падключыцца да мабільнай сеткі, калі яна стане даступнай."</string>
-    <string name="satellite_setting_summary_more_information" msgid="4008690241760925372">"Абмен паведамленнямі па спадарожнікавай сувязі можа займаць больш часу і быць даступным толькі ў некаторых рэгіёнах. На якасць спадарожнікавага падключэння могуць уплываць надвор\'е і некаторыя віды пабудоў. Выклікі праз спадарожнікавую сувязь недаступныя.\n\nМожа спатрэбіцца некаторы час, каб змяненні ў вашым уліковым запісе з\'явіліся ў наладах. Па падрабязныя звесткі звяртайцеся да аператара \"<xliff:g id="CARRIER_NAME">%1$s</xliff:g>\"."</string>
+    <string name="satellite_setting_summary_more_information" msgid="7729454610548016356">"Абмен паведамленнямі па спадарожнікавай сувязі можа займаць больш часу і быць даступным толькі ў некаторых рэгіёнах. На якасць спадарожнікавага падключэння могуць уплываць надвор’е і некаторыя віды пабудоў. Выклікі праз спадарожнікавую сувязь недаступныя. Пры гэтым дапускаецца магчымасць ажыццяўлення экстранных выклікаў.\n\nМожа спатрэбіцца некаторы час, каб змяненні ў вашым уліковым запісе з’явіліся ў наладах. Звяжыцеся з аператарам, каб даведацца больш."</string>
     <string name="more_about_satellite_messaging" msgid="3385673133561348509">"Падрабязней пра абмен паведамленнямі па спадарожнікавай сувязі"</string>
+    <string name="satellite_warning_dialog_title" msgid="1610117852475376931">"Не ўдалося ўключыць функцыю \"<xliff:g id="FUNCTION">%1$s</xliff:g>\""</string>
+    <string name="satellite_warning_dialog_content" msgid="936419945275934955">"Каб уключыць функцыю \"<xliff:g id="FUNCTION">%1$s</xliff:g>\", спачатку выканайце падключэнне да спадарожніка"</string>
     <string name="mobile_network_apn_title" msgid="5582995550142073054">"Назвы пунктаў доступу"</string>
     <string name="keywords_access_point_names" msgid="8174967126858505945">"APN"</string>
     <string name="manual_mode_disallowed_summary" msgid="4243142645520152175">"Недаступна праз аператара \"<xliff:g id="CARRIER">%1$s</xliff:g>\""</string>
